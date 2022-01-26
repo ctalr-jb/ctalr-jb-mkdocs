@@ -1,12 +1,12 @@
 <script language="javascript">
-	function set_language(language) {
-	  if (language == "en_US") {
-	    window.location.href = window.location.origin + window.location.pathname
-	  }
-	  else {
-		  window.location.href = window.location.origin + window.location.pathname + "?showLanguage=" + language;
-		}
-	}
+  function set_language(language) {
+    if (language == "en_US") {
+      window.location.href = window.location.origin + window.location.pathname
+    }
+    else {
+      window.location.href = window.location.origin + window.location.pathname + "?showLanguage=" + language;
+    }
+  }
   function detect_language() {
     let searchParams = new URLSearchParams(window.location.search);
 
