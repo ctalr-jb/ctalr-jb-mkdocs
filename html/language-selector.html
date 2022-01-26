@@ -1,0 +1,35 @@
+<script language="javascript">
+	function set_language(language) {
+	  if (language == "en_US") {
+	    window.location.href = window.location.origin + window.location.pathname
+	  }
+	  else {
+		  window.location.href = window.location.origin + window.location.pathname + "?showLanguage=" + language;
+		}
+	}
+  function detect_language() {
+    let searchParams = new URLSearchParams(window.location.search);
+
+    if (searchParams.has('showLanguage')) {
+      let languageText = 'Language';
+      switch(searchParams.get('showLanguage')) {
+        case: 'en_US':
+          languageText = "Language";
+          break;
+        case: 'pt_BR':
+          languageText = "Língua";
+          break;
+        case: 'es_ES':
+          languageText = "Idioma";
+          break;
+      }
+      document.getElementById('documentTextLanguage').innerText = languageText;
+    }
+  }
+</script>
+<p>
+<span id="documentTextLanguage">Language</span>:
+<button type="button" onclick="set_language('en_US')">🇺🇸 English</button>
+<button type="button" onclick="set_language('pt_BR')">🇧🇷 Portugu&#234;s (Brasil)</button>
+<button type="button" onclick="set_language('es_ES')">🇪🇸 Espa&#241;ol</button>
+</p>
