@@ -10,16 +10,16 @@
   function detect_language() {
     let searchParams = new URLSearchParams(window.location.search);
 
-    if (searchParams.has('showLanguage')) {
-      let languageText = 'Language';
-      switch(searchParams.get('showLanguage')) {
-        case: 'en_US':
+    if (searchParams.has("showLanguage")) {
+      let languageText = "Language";
+      switch(searchParams.get("showLanguage")) {
+        case: "en_US":
           languageText = "Language";
           break;
-        case: 'pt_BR':
+        case: "pt_BR":
           languageText = "Língua";
           break;
-        case: 'es_ES':
+        case: "es_ES":
           languageText = "Idioma";
           break;
       }
@@ -28,8 +28,8 @@
   }
 </script>
 <p>
-<span id="documentTextLanguage">Language</span>:
-<button type="button" onclick="set_language('en_US')">🇺🇸 English</button>
-<button type="button" onclick="set_language('pt_BR')">🇧🇷 Portugu&#234;s (Brasil)</button>
-<button type="button" onclick="set_language('es_ES')">🇪🇸 Espa&#241;ol</button>
+<span onload="detect_language()" id="documentTextLanguage">Language</span>:
+<button type="button" class="contentf-button aui-button" style="text-decoration: none" onclick="set_language('en_US')">🇺🇸 English</button>
+<button type="button" class="contentf-button aui-button" style="text-decoration: none" onclick="set_language('pt_BR')">🇧🇷 Portugu&#234;s (Brasil)</button>
+<button type="button" class="contentf-button aui-button" style="text-decoration: none" onclick="set_language('es_ES')">🇪🇸 Espa&#241;ol</button>
 </p>
