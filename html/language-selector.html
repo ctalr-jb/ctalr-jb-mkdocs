@@ -12,26 +12,35 @@
 
     if (searchParams.has("showLanguage")) {
       let languageText = "Language";
+      let languageSelected = "en_US";
       switch(searchParams.get("showLanguage")) {
-        case "en_US":
-          languageText = "Language";
-          break;
         case "pt_BR":
           languageText = "Língua";
+          languageSelected = searchParams.get("showLanguage");
           break;
         case "es_ES":
           languageText = "Idioma";
+          languageSelected = searchParams.get("showLanguage");
           break;
       }
-      document.getElementById('documentTextLanguage').innerText = languageText;
+      document.getElementById("documentTextLanguage").innerText = languageText;
+      document.getElementById("languageButton_"+languageSelected).classList.add("aui-button-primary");
+    }
+    else {
+      document.getElementById("languageButton_en_US").classList.add("aui-button-primary");
     }
   }
 </script>
+<style>
+  .aui-button.aui-button-primary, .aui-button.aui-button-primary:visited {
+    background-color: #65379b !important;
+  }
+</style>
 <p>
 <span id="documentTextLanguage">Language</span>:&nbsp;&nbsp;
-<button type="button" class="contentf-button aui-button" style="text-decoration: none" onclick="set_language('en_US')">🇺🇸 English</button>
-<button type="button" class="contentf-button aui-button" style="text-decoration: none" onclick="set_language('pt_BR')">🇧🇷 Portugu&#234;s (Brasil)</button>
-<button type="button" class="contentf-button aui-button" style="text-decoration: none" onclick="set_language('es_ES')">🇪🇸 Espa&#241;ol</button>
+<button id="languageButton_en_US" type="button" class="contentf-button aui-button" style="text-decoration: none" onclick="set_language('en_US')">🇺🇸 English</button>
+<button id="languageButton_pt_BR" type="button" class="contentf-button aui-button" style="text-decoration: none" onclick="set_language('pt_BR')">🇧🇷 Portugu&#234;s (Brasil)</button>
+<button id="languageButton_es_ES" type="button" class="contentf-button aui-button" style="text-decoration: none" onclick="set_language('es_ES')">🇪🇸 Espa&#241;ol</button>
 </p>
 <script>
   detect_language();
