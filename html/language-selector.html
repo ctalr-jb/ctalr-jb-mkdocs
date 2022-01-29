@@ -12,16 +12,16 @@
 
     if (searchParams.has("showLanguage")) {
       let languageText = "Language";
-      let languageSelected = "en_US";
-      switch(searchParams.get("showLanguage")) {
+      let languageSelected = searchParams.get("showLanguage");
+      switch(languageSelected) {
         case "pt_BR":
           languageText = "Língua";
-          languageSelected = searchParams.get("showLanguage");
           break;
         case "es_ES":
           languageText = "Idioma";
-          languageSelected = searchParams.get("showLanguage");
           break;
+				default:
+					languageSelected = "en_US";
       }
       document.getElementById("documentTextLanguage").innerText = languageText;
       document.getElementById("languageButton_"+languageSelected).classList.add("aui-button-primary");
