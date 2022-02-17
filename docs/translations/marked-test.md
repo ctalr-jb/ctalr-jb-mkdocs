@@ -5,7 +5,9 @@
 <div class="confluence-information-macro confluence-information-macro-information conf-macro output-block" data-hasbody="true" data-macro-name="info">
   <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
   <div class="confluence-information-macro-body">
-    <strong>NOTE:</strong> Before designing a project, you should have already registered for Jitterbit Harmony and set up an environment and Agent Group, as described in the&nbsp;<a href="/display/DOC/Jitterbit+Admin+Quick+Start+Tutorial">Jitterbit Admin Quick Start Tutorial</a>.
+
+    <strong>NOTE:</strong> Before designing a project, you should have already registered for Jitterbit Harmony and set up an environment and Agent Group, as described in the <a href="/display/DOC/Jitterbit+Admin+Quick+Start+Tutorial">Jitterbit Admin Quick Start Tutorial</a>.
+
   </div>
 </div>
 
