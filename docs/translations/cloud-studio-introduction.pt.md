@@ -1,6 +1,6 @@
-# Visão Geral
+[//]: # (This is a translation of Version 6, published on May 6, 2021.)
 
-*This is a translation of Version 6, published on May 6, 2021.*
+# Visão Geral
 
 O Jitterbit Harmony Cloud Studio é a aplicação de *design* de projetos
 baseada na Web da Jitterbit.
