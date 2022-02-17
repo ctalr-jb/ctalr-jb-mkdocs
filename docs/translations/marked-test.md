@@ -23,9 +23,9 @@ Tutorial](/display/DOC/Jitterbit+Admin+Quick+Start+Tutorial).
   <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
   <div class="confluence-information-macro-body">
 
-    **NOTE:** Before designing a project, you should have already registered for Jitterbit Harmony and set up an
-    environment and Agent Group, as described in the [Jitterbit Admin Quick Start
-    Tutorial](/display/DOC/Jitterbit+Admin+Quick+Start+Tutorial).
+**NOTE:** Before designing a project, you should have already registered for Jitterbit Harmony and set up an
+environment and Agent Group, as described in the [Jitterbit Admin Quick Start
+Tutorial](/display/DOC/Jitterbit+Admin+Quick+Start+Tutorial).
 
   </div>
 </div>
