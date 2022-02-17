@@ -33,7 +33,7 @@ style="border-width: 1px;" hasbody="true" macro-name="code">
 ## MD Code Block:
 
 ```
-<TAG>activity:ftp/My FTP Endpoint Name/ftp_read/My FTP Read Activity Name<TAG>
+&lt;TAG&gt;activity:ftp/My FTP Endpoint Name/ftp_read/My FTP Read Activity Name&lt;TAG&gt;
 ```
 
 End test.
