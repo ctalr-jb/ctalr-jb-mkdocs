@@ -25,12 +25,10 @@ Processo](https://success.jitterbit.com/display/DOC/Starting+a+Recipe+or+Templat
 <div class="confluence-information-macro confluence-information-macro-information conf-macro output-block" data-hasbody="true" data-macro-name="info">
   <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
   <div class="confluence-information-macro-body">
-
     <strong>NOTA:</strong> Antes de fazer o* design *de um projeto, você precisa já ter se cadastrado no Jitterbit
     Harmony e preparado um ambiente e um Agent Group, como descrito no <a
     href="/display/DOC/Jitterbit+Admin+Quick+Start+Tutorial?showLanguage=pt_BR">Tutorial de Início Rápido do
     Jitterbit Admin</a>.
-
   </div>
 </div>
 
