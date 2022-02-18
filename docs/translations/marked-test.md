@@ -55,4 +55,11 @@ style="border-width: 1px;" hasbody="true" macro-name="code">
 &lt;TAG&gt;activity:ftp/My FTP Endpoint Name/ftp_read/My FTP Read Activity Name&lt;TAG&gt;
 ```
 
+## MD Table:
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
+
 End test.
