@@ -2,21 +2,21 @@
 
 ## Introduction
 
-This guide is intended for new users of [Cloud Studio](/display/CS/Cloud+Studio), Jitterbit's web-based project
+This guide is intended for new users of [Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio), Jitterbit's web-based project
 design application. This guide covers the basics of getting started by creating a new project from scratch and
 provides an overview of project design concepts.
 
 For a comprehensive guide and step-by-step walkthrough, take the [Introduction to Jitterbit Harmony Cloud
-Studio](/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio) course on [Jitterbit
-University](/display/DOC/Getting+Training). As part of this course, you can also reference the supplemental [Lab
+Studio](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio) course on [Jitterbit
+University](https://success.jitterbit.com/display/DOC/Getting+Training). As part of this course, you can also reference the supplemental [Lab
 Training Manual for Hands-On
-Modules](/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio#IntroductiontotheJitterbitHarmonyCloudStudio-manual)
+Modules](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio#IntroductiontotheJitterbitHarmonyCloudStudio-manual)
 covering a variety of use cases to help get you started.
 
-[Jitterbit Marketplace](/display/DOC/Marketplace) also provides hundreds of pre-built projects by offering [Cloud
-Studio Integration Recipes](/display/CS/Cloud+Studio+Integration+Recipes) and [Cloud Studio Process
-Templates](/display/CS/Cloud+Studio+Process+Templates). To get started with an existing recipe or template, see
-[Starting a Recipe or Template Project](/display/DOC/Starting+a+Recipe+or+Template+Project).
+[Jitterbit Marketplace](https://success.jitterbit.com/display/DOC/Marketplace) also provides hundreds of pre-built projects by offering [Cloud
+Studio Integration Recipes](https://success.jitterbit.com/display/CS/Cloud+Studio+Integration+Recipes) and [Cloud Studio Process
+Templates](https://success.jitterbit.com/display/CS/Cloud+Studio+Process+Templates). To get started with an existing recipe or template, see
+[Starting a Recipe or Template Project](https://success.jitterbit.com/display/DOC/Starting+a+Recipe+or+Template+Project).
 
 <div class="confluence-information-macro confluence-information-macro-information conf-macro output-block" data-hasbody="true" data-macro-name="info">
   <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
@@ -32,7 +32,7 @@ Templates](/display/CS/Cloud+Studio+Process+Templates). To get started with an e
 
 ## <span id="CloudStudioQuickStartGuide-access-cloud-studio" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Accessing Cloud Studio
 
-Cloud Studio is accessed directly through the [Jitterbit Harmony Portal](/display/DOC/Jitterbit+Harmony+Portal).
+Cloud Studio is accessed directly through the [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal).
 
 From the Harmony Portal landing page, click the **Cloud Studio** application card:
 
@@ -79,7 +79,7 @@ The next sections walk through the basic design process:
 
 ### <span id="CloudStudioQuickStartGuide-establish-connectivity" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Establishing Connectivity
 
-The [design component palette](/display/CS/Design+Component+Palette) provides access to connectivity resources.
+The [design component palette](https://success.jitterbit.com/display/CS/Design+Component+Palette) provides access to connectivity resources.
 Here, *connectors* provide the interface entering user-provided input such as credentials to create a connection.
 Within the component palette, the **Connectors** filter shows the types of connectors that can be configured:
 
@@ -91,7 +91,7 @@ open a configuration screen to create a new connection for access to a particu
 ![](https://docs-source.jitterbit.com/cs/component-palette/connectivity/connectors_http_multiple.png)
 
 For detailed instructions on configuring a connection, see the specific connection under
-[Connectors](/display/CS/Connectors). Each time you create a new connection, you must do so from the connector
+[Connectors](https://success.jitterbit.com/display/CS/Connectors). Each time you create a new connection, you must do so from the connector
 folder icons accessible in the **Connectors** filter.
 
 Once you have created a connection, it is shown in the **Endpoints** filter. Click a connection to reveal the types
@@ -119,7 +119,7 @@ operation or component drop zone:
 ![](https://docs-source.jitterbit.com/cs/project/create-activity-instance.gif)
 
 Once an activity is created, you can double-click it to configure it as described for each specific activity under
-[Connectors](/display/CS/Connectors).
+[Connectors](https://success.jitterbit.com/display/CS/Connectors).
 
 To add additional activities, place them on another drop zone. Additional operation drop zones are shown by hovering
 above an existing operation. Component drop zones in existing operations are shown by hovering to the left or right
@@ -137,7 +137,7 @@ and select **New Script** or **New Transformation**:
 ![](https://docs-source.jitterbit.com/cs/design-canvas/drop-zone_component_actions-menu.png)
 
 When you add a script or transformation, its configuration screen opens automatically. For details on configuration,
-see [Transformations](/display/CS/Transformations) and [Scripts](/display/CS/Scripts), respectively.
+see [Transformations](https://success.jitterbit.com/display/CS/Transformations) and [Scripts](https://success.jitterbit.com/display/CS/Scripts), respectively.
 
 ### span id="CloudStudioQuickStartGuide-chain-operations" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Chaining Operations Together Using Operation Actions
 
@@ -152,7 +152,7 @@ To configure these actions, click the actions menu icon
 
 On the **Actions** tab of the settings, select the condition that should trigger the action, what action should be
 taken, and any additional parameters such as what other operation should be configured to run. For details, see
-[Operation Actions](/display/CS/Operation+Actions).
+[Operation Actions](https://success.jitterbit.com/display/CS/Operation+Actions).
 
 Once these actions are configured, lines appear on the design canvas to visually indicate any actions that are
 configured to run on success (green lines) or on failure (red lines) of the operation. An operation being kicked off
@@ -171,55 +171,55 @@ in the top right of an operation:
 Any operations that are downstream of the operation being deployed and executed are also included.
 
 Instead of manual execution, you can also configure operations to run on a schedule or an API trigger. For more
-information, see [Operation Deployment and Execution](/display/CS/Operation+Deployment+and+Execution).
+information, see [Operation Deployment and Execution](https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution).
 
 After the operations are executed, you can validate proper behavior by viewing logs. To view logs for a particular
 operation and downstream operations, click the actions menu icon
 ![](https://docs-source.jitterbit.com/common/icons/actions-menu_21.png) in the top right of an operation and select
-**View Logs**. For more information see [Operation Logs](/display/CS/Operation+Logs).
+**View Logs**. For more information see [Operation Logs](https://success.jitterbit.com/display/CS/Operation+Logs).
 
 
 ## Additional Resources
 
 While you design a project, refer to the in-depth information organized by topic under [Cloud
-Studio](/display/CS/Cloud+Studio):
+Studio](https://success.jitterbit.com/display/CS/Cloud+Studio):
 
--   **[Projects](/display/CS/Projects):** Learn basics about project permissions, collaboration, and saving, and
+-   **[Projects](https://success.jitterbit.com/display/CS/Projects):** Learn basics about project permissions, collaboration, and saving, and
     about how to create, configure, deploy, migrate, export, import, and delete projects.
 
--   **[Project Components](/display/CS/Project+Components):** Browse information about what project components exist
+-   **[Project Components](https://success.jitterbit.com/display/CS/Project+Components):** Browse information about what project components exist
     and what shared actions you can take with each component.
 
--   **[Workflows](/display/CS/Workflows):** Find information about creating, deploying, and deleting workflows,
+-   **[Workflows](https://success.jitterbit.com/display/CS/Workflows):** Find information about creating, deploying, and deleting workflows,
     dependencies, and what makes a workflow valid.
 
--   **[Operations](/display/CS/Operations):** Reference details on creating operations; configuring operation
+-   **[Operations](https://success.jitterbit.com/display/CS/Operations):** Reference details on creating operations; configuring operation
     settings such as actions, options, and schedules; viewing operation logs; deploying and executing operations;
     viewing dependencies and deleting operations; and what makes an operation valid.
 
--   **[Connectors](/display/CS/Connectors):** Refer to endpoint-specific documentation on configuring connections
+-   **[Connectors](https://success.jitterbit.com/display/CS/Connectors):** Refer to endpoint-specific documentation on configuring connections
     and activities to connect to and interact with a specific endpoint.
 
--   **[Transformations](/display/CS/Transformations):** Read up on the basics and learn the intricacies of mapping
+-   **[Transformations](https://success.jitterbit.com/display/CS/Transformations):** Read up on the basics and learn the intricacies of mapping
     data inputs to the desired target output.
 
--   **[Schemas](/display/CS/Schemas):** Get introduced to the various types of schemas and learn how to tell when to
+-   **[Schemas](https://success.jitterbit.com/display/CS/Schemas):** Get introduced to the various types of schemas and learn how to tell when to
     use them.
 
--   **[Scripts](/display/CS/Scripts):** Discover the flexibility and power of scripts to transform data, perform
+-   **[Scripts](https://success.jitterbit.com/display/CS/Scripts):** Discover the flexibility and power of scripts to transform data, perform
     calculations, or perform logic validation within operations or transformations.
 
--   **[Functions](/display/CS/Functions):** Look up descriptions and examples of functions that are able to be used
+-   **[Functions](https://success.jitterbit.com/display/CS/Functions):** Look up descriptions and examples of functions that are able to be used
     in scripts to enhance and refine data processes.
 
--   **[Variables](/display/CS/Variables):** Check out the different types of variables and how they can help you be
+-   **[Variables](https://success.jitterbit.com/display/CS/Variables):** Check out the different types of variables and how they can help you be
     more efficient in designing a project.
 
--   **[Notifications](/display/CS/Notifications):** See how to customize email messages that can be triggered on
+-   **[Notifications](https://success.jitterbit.com/display/CS/Notifications):** See how to customize email messages that can be triggered on
     success or failure of an operation or called from a script.
 
--   **[Plugins](/display/CS/Plugins):** Educate yourself on how you can extend Harmony's native capabilities using
+-   **[Plugins](https://success.jitterbit.com/display/CS/Plugins):** Educate yourself on how you can extend Harmony's native capabilities using
     Jitterbit- or user-provided plugins.
 
 Advanced users may also be interested in creating their own connectors for Cloud Studio using Jitterbit's [Connector
-Builder](/display/CS/Connector+Builder) or [Connector SDK](https://developer.jitterbit.com/connector-sdk/)
+Builder](https://success.jitterbit.com/display/CS/Connector+Builder) or [Connector SDK](https://developer.jitterbit.com/connector-sdk/)

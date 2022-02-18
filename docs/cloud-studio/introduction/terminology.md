@@ -2,12 +2,12 @@
 
 ## Introduction
 
-This page defines important technical terms and concepts used in [Cloud Studio](/display/CS/Cloud+Studio).
+This page defines important technical terms and concepts used in [Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio).
 
 
 ## <span id="CloudStudioTerminology-project" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Project
 
-A [project](/display/CS/Projects) is a collection of one or more [workflows](#CloudStudioTerminology-workflow) that
+A [project](https://success.jitterbit.com/display/CS/Projects) is a collection of one or more [workflows](#CloudStudioTerminology-workflow) that
 comprise and execute an integration use case. A project contains [operations](#CloudStudioTerminology-operation) as
 well as other [project components](#CloudStudioTerminology-project-component) that may be part of an operation or
 used to support operations. A project can be shared, archived, or redistributed by exporting and importing the
@@ -16,13 +16,13 @@ project as a JSON file.
 
 ## <span id="CloudStudioTerminology-project-component" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Project Component
 
-[Project components](/display/CS/Project+Components) are the discrete building blocks of a project. Some components,
+[Project components](https://success.jitterbit.com/display/CS/Project+Components) are the discrete building blocks of a project. Some components,
 including [activities](#CloudStudioTerminology-activities),
 [transformations](#CloudStudioTerminology-transformation), and [scripts](#CloudStudioTerminology-scripts), can be
 added to [operations](#CloudStudioTerminology-operation) and executed as a sequence of steps. Other components can
-be used in support of those operations, such as [variables](/display/CS/Variables),
-[schedules](/display/CS/Operation+Schedules), [file schemas](/display/CS/Schemas),
-[notifications](/display/CS/Notifications), and [plugins](/display/CS/Plugins). Operations themselves are also
+be used in support of those operations, such as [variables](https://success.jitterbit.com/display/CS/Variables),
+[schedules](https://success.jitterbit.com/display/CS/Operation+Schedules), [file schemas](https://success.jitterbit.com/display/CS/Schemas),
+[notifications](https://success.jitterbit.com/display/CS/Notifications), and [plugins](https://success.jitterbit.com/display/CS/Plugins). Operations themselves are also
 project components.
 
 
@@ -52,7 +52,7 @@ discuss dependencies: *dependent on* and *dependency of*. In the following examp
 A workflow is a collection of [operations](#CloudStudioTerminology-operation) used as tool to help segregate
 different parts of the project for the convenience of the user.
 
-Workflows are created from along the top of the [design canvas](/display/CS/Design+Canvas):
+Workflows are created from along the top of the [design canvas](https://success.jitterbit.com/display/CS/Design+Canvas):
 
 ![](https://docs-source.jitterbit.com/cs/design-canvas/workflow-tab_new.png)
 
@@ -81,7 +81,7 @@ and are visually represented within an operation on the design canvas:
 
 ![](https://docs-source.jitterbit.com/cs/design-canvas/operation.png)
 
-Operations must follow a [valid operation pattern](/display/CS/Operation+Validity). Combinations that are not
+Operations must follow a [valid operation pattern](https://success.jitterbit.com/display/CS/Operation+Validity). Combinations that are not
 allowed in a single operation may be functionally possible by chaining together multiple operations using operation
 actions. Once they are created, operations can be executed manually, triggered by an API, or scheduled.
 
@@ -89,7 +89,7 @@ actions. Once they are created, operations can be executed manually, triggered
 ## <span id="CloudStudioTerminology-connectivity" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span><span id="CloudStudioTerminology-connectors" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span><span id="CloudStudioTerminology-connections" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span><span id="CloudStudioTerminology-activities" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span><span id="CloudStudioTerminology-endpoints" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Connectivity
 
 Connectivity resources are accessed within the **Connectivity** tab of the [design component
-palette](/display/CS/Design+Component+Palette). Within this tab, [connectors](/display/CS/Connectors) are first
+palette](https://success.jitterbit.com/display/CS/Design+Component+Palette). Within this tab, [connectors](https://success.jitterbit.com/display/CS/Connectors) are first
 configured to create connections. Activities associated with those connections can then be instantiated using the
 activity types and configured as sources or targets in a project. An endpoint refers to a specific connection and
 its activities.
@@ -98,7 +98,7 @@ its activities.
     user-provided input such as credentials to create a connection. The
 
     **Connectors** filter shows the available connectors. You can also
-    create [custom connectors](/display/CS/Custom+Connector).
+    create [custom connectors](https://success.jitterbit.com/display/CS/Custom+Connector).
 
 -   **Connections:** A connection is a component that is created from a
     connector and provides access to a data resource.
@@ -119,17 +119,17 @@ its activities.
 
 ## <span id="CloudStudioTerminology-scripts" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Scripts
 
-[Scripts](/display/CS/Scripts), written in either Jitterbit Script or JavaScript, provide the flexibility and
+[Scripts](https://success.jitterbit.com/display/CS/Scripts), written in either Jitterbit Script or JavaScript, provide the flexibility and
 power to transform data, perform calculations, or perform logic validation beyond simple field mapping.
 
-Scripts can be used in multiple places, both within the [design canvas](/display/CS/Design+Canvas) as steps of an
+Scripts can be used in multiple places, both within the [design canvas](https://success.jitterbit.com/display/CS/Design+Canvas) as steps of an
 [operation](#CloudStudioTerminology-operation), as well as within transformations to apply specified logic or
 conditions to the data.
 
 
 ## <span id="CloudStudioTerminology-variables" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Variables
 
-[Variables](/display/CS/Variables) are used throughout a project to make integrations more flexible and dynamic.
+[Variables](https://success.jitterbit.com/display/CS/Variables) are used throughout a project to make integrations more flexible and dynamic.
 They allow for the dynamic configuration of endpoints, support passing of data between
 [operations](#CloudStudioTerminology-operation), and are used in transformation scripts to drive detailed
 integration logic.
@@ -156,7 +156,7 @@ risk of changing variable values across multiple components in the project.
 
 ## <span id="CloudStudioTerminology-transformation" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Transformation
 
-A [transformation](/display/CS/Transformations) is a project component that is used as a step in an operation to map
+A [transformation](https://success.jitterbit.com/display/CS/Transformations) is a project component that is used as a step in an operation to map
 or *transform* inputs to a resulting output by moving data, cleaning data, or applying business logic.
 
 A transformation consists of source and target schemas that have been defined in the transformation and the
@@ -197,16 +197,16 @@ In addition, while configuring a transformation, you should also be familiar wit
 
 ## <span id="CloudStudioTerminology-recipes" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Integration Recipe
 
-A [Cloud Studio integration recipe](/display/CS/Cloud+Studio+Integration+Recipes), available through [Jitterbit
-Marketplace](/display/DOC/Marketplace), is a single, pre-built integration project that moves data in one direction
+A [Cloud Studio integration recipe](https://success.jitterbit.com/display/CS/Cloud+Studio+Integration+Recipes), available through [Jitterbit
+Marketplace](https://success.jitterbit.com/display/DOC/Marketplace), is a single, pre-built integration project that moves data in one direction
 between objects across two applications or systems. Integration recipes are available to all Jitterbit Harmony
 subscribers.
 
 
 ## <span id="CloudStudioTerminology-templates" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Process Template
 
-A [Cloud Studio process template](/display/CS/Cloud+Studio+Process+Templates), available through [Jitterbit
-Marketplace](/display/DOC/Marketplace), is a group of pre-built integration use cases that accelerates the execution
+A [Cloud Studio process template](https://success.jitterbit.com/display/CS/Cloud+Studio+Process+Templates), available through [Jitterbit
+Marketplace](https://success.jitterbit.com/display/DOC/Marketplace), is a group of pre-built integration use cases that accelerates the execution
 of a specific business process using numerous objects across multiple applications or systems.
 
 Process templates are designed to reduce the time to deployment by 50 to 80 percent and can be either

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This page covers frequently asked questions about [Jitterbit Harmony Cloud Studio](/display/CS/Cloud+Studio), the
+This page covers frequently asked questions about [Jitterbit Harmony Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio), the
 web-based version of Jitterbit's project design application.
 
 
@@ -10,7 +10,7 @@ web-based version of Jitterbit's project design application.
 
 All Jitterbit Harmony subscribers have access to Cloud Studio.
 
-When you log in to the [Jitterbit Harmony Portal](/display/DOC/Jitterbit+Harmony+Portal), click the Cloud Studio app
+When you log in to the [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal), click the Cloud Studio app
 card on the left to begin designing projects directly in your browser:
 
 ![](https://docs-source.jitterbit.com/hp/landing/cards_cloud-studio_with-header.png)
@@ -18,32 +18,32 @@ card on the left to begin designing projects directly in your browser:
 
 ## As a new Cloud Studio user, where should I start?
 
-Sign up for the [introductory course](/display/DOC/Getting+Training#GettingTraining-cloud-studio) offered through
+Sign up for the [introductory course](https://success.jitterbit.com/display/DOC/Getting+Training#GettingTraining-cloud-studio) offered through
 Jitterbit University, our online learning management platform. Information about signing up is available at [Getting
-Training](/display/DOC/Getting+Training).
+Training](https://success.jitterbit.com/display/DOC/Getting+Training).
 
-We also have a [Cloud Studio Quick Start Guide](/display/CS/Cloud+Studio+Quick+Start+Guide) to get you up and
-running quickly, and a dedicated section of [Cloud Studio](/display/CS/Cloud+Studio) documentation for detailed
+We also have a [Cloud Studio Quick Start Guide](https://success.jitterbit.com/display/CS/Cloud+Studio+Quick+Start+Guide) to get you up and
+running quickly, and a dedicated section of [Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio) documentation for detailed
 reference.
 
-In addition, [Jitterbit Marketplace](/display/DOC/Marketplace) provides hundreds of pre-built projects by offering
-[Cloud Studio Integration Recipes](/display/CS/Cloud+Studio+Integration+Recipes) and [Cloud Studio Process
-Templates](/display/CS/Cloud+Studio+Process+Templates), with more continually being added. To get started with an
+In addition, [Jitterbit Marketplace](https://success.jitterbit.com/display/DOC/Marketplace) provides hundreds of pre-built projects by offering
+[Cloud Studio Integration Recipes](https://success.jitterbit.com/display/CS/Cloud+Studio+Integration+Recipes) and [Cloud Studio Process
+Templates](https://success.jitterbit.com/display/CS/Cloud+Studio+Process+Templates), with more continually being added. To get started with an
 existing recipe or template, see [Starting a Recipe or Template
-Project](/display/DOC/Starting+a+Recipe+or+Template+Project).
+Project](https://success.jitterbit.com/display/DOC/Starting+a+Recipe+or+Template+Project).
 
 
 ## Where can I get help?
 
 We provide the same level of support for Cloud Studio as we do for our other Harmony products. Learn more at
-[Getting Support](/display/DOC/Getting+Support).
+[Getting Support](https://success.jitterbit.com/display/DOC/Getting+Support).
 
 
 ## How can I build my own connector?
 
 Cloud Studio offers two ways to build custom connectors:
 
--   [Connector Builder](/display/CS/Connector+Builder) is a no-code, UI-based tool to build connectors from REST
+-   [Connector Builder](https://success.jitterbit.com/display/CS/Connector+Builder) is a no-code, UI-based tool to build connectors from REST
     APIs. Connector Builder connectors can be used immediately after creating them using either Cloud or Private
     Agents.
 
@@ -56,17 +56,17 @@ Cloud Studio offers two ways to build custom connectors:
 
 As a Harmony cloud application, you are always using the latest available version of Cloud Studio. If you want to
 correlate the version with release notes, see [Finding My Jitterbit
-Version](/display/DOC/Finding+My+Jitterbit+Version).
+Version](https://success.jitterbit.com/display/DOC/Finding+My+Jitterbit+Version).
 
-Like our desktop Design Studio application, Cloud Studio requires the use of [Harmony Agents](/display/DOC/Agent)
+Like our desktop Design Studio application, Cloud Studio requires the use of [Harmony Agents](https://success.jitterbit.com/display/DOC/Agent)
 for running your projects. The minimum agent version supported with Cloud Studio is [version
-9.4.2](/display/DOC/9.4).
+9.4.2](https://success.jitterbit.com/display/DOC/9.4).
 
 Certain Cloud Studio features may require a higher agent version, including building custom connectors using the
-[Connector Builder](/display/CS/Connector+Builder) or [Connector
-SDK](https://developer.jitterbit.com/connector-sdk/) ([version 10.0](/display/DOC/10.0)) and using certain
-application-specific connectors ([version 10.0](/display/DOC/10.0) or [10.1](/display/DOC/10.1)) as documented under
-[Connectors](/display/CS/Connectors).
+[Connector Builder](https://success.jitterbit.com/display/CS/Connector+Builder) or [Connector
+SDK](https://developer.jitterbit.com/connector-sdk/) ([version 10.0](https://success.jitterbit.com/display/DOC/10.0)) and using certain
+application-specific connectors ([version 10.0](https://success.jitterbit.com/display/DOC/10.0) or [10.1](https://success.jitterbit.com/display/DOC/10.1)) as documented under
+[Connectors](https://success.jitterbit.com/display/CS/Connectors).
 
 <div class="confluence-information-macro confluence-information-macro-information conf-macro output-block" data-hasbody="true" data-macro-name="info">
   <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
@@ -83,8 +83,8 @@ application-specific connectors ([version 10.0](/display/DOC/10.0) or [10.1](/d
 
 ## How is Cloud Studio different from Design Studio?
 
-When moving from [Design Studio](/display/DOC/Design+Studio) to Cloud Studio, you can review the main differences in
-our [Cloud Studio Overview for Design Studio Users](/display/CS/Cloud+Studio+Overview+for+Design+Studio+Users).
+When moving from [Design Studio](https://success.jitterbit.com/display/DOC/Design+Studio) to Cloud Studio, you can review the main differences in
+our [Cloud Studio Overview for Design Studio Users](https://success.jitterbit.com/display/CS/Cloud+Studio+Overview+for+Design+Studio+Users).
 
 
 ## Can I migrate projects from Design Studio to Cloud Studio?
@@ -98,7 +98,7 @@ You can also rebuild projects from scratch in Cloud Studio.
 
 ## What is the future of Design Studio?
 
-We do not currently have plans to end-of-life or eliminate support for [Design Studio](/display/DOC/Design+Studio),
+We do not currently have plans to end-of-life or eliminate support for [Design Studio](https://success.jitterbit.com/display/DOC/Design+Studio),
 our existing desktop application for project design.
 
 

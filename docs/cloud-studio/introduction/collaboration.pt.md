@@ -11,10 +11,10 @@ mesmo tempo que outros usuários e também o processo de salvamento.
 ## Permissões de Projeto
 
 O acesso aos projetos é restrito baseado na combinação de permissões de papel organizacional e níveis de acesso
-ambiental conforme definidos através do [Management Console](/display/DOC/Management+Console?showLanguage=pt_BR)
+ambiental conforme definidos através do [Management Console](https://success.jitterbit.com/display/DOC/Management+Console?showLanguage=pt_BR)
 (Console de Gerenciamento). As permissões de papel organizacional são dadas na página
-[Organizações](/display/DOC/Organizations?showLanguage=pt_BR), enquanto os níveis de acesso ambiental são definidos
-na página [Ambientes](/display/DOC/Environments?showLanguage=pt_BR).
+[Organizações](https://success.jitterbit.com/display/DOC/Organizations?showLanguage=pt_BR), enquanto os níveis de acesso ambiental são definidos
+na página [Ambientes](https://success.jitterbit.com/display/DOC/Environments?showLanguage=pt_BR).
 
 Um usuário deve ser membro de um papel organizacional com permissão do tipo *Read* (Ler) ou *Admin*
 (Administrador\[a\]) para poder acessar o Cloud Studio. Tanto a permissão *Read* quanto a *Admin* oferecem os mesmos
@@ -28,7 +28,7 @@ A tabela abaixo detalha a combinação de permissões de papel organizacional e 
 necessárias para poder acessar, editar e fazer ações no Cloud Studio e páginas relacionadas. Note que as diferenças
 concedidas pelas permissões *Read* e *Admin* são a possibilidade de acessar e editar outras páginas do Portal
 Harmony e aplicações (veja [Permissões e Acesso ao Jitterbit
-Harmony](/display/DOC/Jitterbit+Harmony+Permissions+and+Access?showLanguage=pt_BR)).
+Harmony](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Permissions+and+Access?showLanguage=pt_BR)).
 
 Além disso, o nível de acesso *View Logs* (Ver Registros) não provê acesso ao Cloud Studio. Em vez disso, dá acesso
 aos registros de operação do Cloud Studio dentro do Management Console.
@@ -118,7 +118,7 @@ aquela ação.
 Se você receber uma mensagem de erro como uma das mostradas abaixo, entre em contato com um administrador da
 organização Jitterbit Harmony para garantir que você é membro do papel organizacional adequado e que o seu papel
 recebeu o nível de acesso apropriado no ambiente (veja [Permissões e Acesso ao Jitterbit
-Harmony](/display/DOC/Jitterbit+Harmony+Permissions+and+Access?showLanguage=pt_BR)).
+Harmony](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Permissions+and+Access?showLanguage=pt_BR)).
 
 ![](https://docs-source.jitterbit.com/cs/dialog/unable-to-import-project.png)
 
@@ -135,14 +135,14 @@ usuários.
 ### Avatares de Usuário
 
 Quando vários usuários estão com o mesmo projeto aberto no *designer* de projetos, os avatares dos outros usuários
-são mostrados na [barra de ferramentas de projeto](/display/CS/Project+Toolbar?showLanguage=pt_BR).
+são mostrados na [barra de ferramentas de projeto](https://success.jitterbit.com/display/CS/Project+Toolbar?showLanguage=pt_BR).
 
 ### Sincronização Automática
 
 Se um workflow estiver sendo editado por outro usuário, essas mudanças são refletidas em tempo real no design
 canvas. Você também pode fazer mudanças no workflow simultaneamente, com as suas mudanças sendo sempre refletidas em
 tempo real para os outros usuários. Um registro de auditoria das mudanças feitas por todos os usuários está
-disponível no [histórico do projeto](/display/CS/Project+History?showLanguage=pt_BR).
+disponível no [histórico do projeto](https://success.jitterbit.com/display/CS/Project+History?showLanguage=pt_BR).
 
 ### Edições Simultâneas
 
@@ -179,8 +179,8 @@ dessas ações:
 Isso inclui quando o projeto ou componente é fechado porque a sessão do Harmony atingiu o limite de tempo ou porque
 a pessoa navegou para outra página.
 
-Além disso, algumas telas, como as telas de configuração de *[scripts](/display/CS/Scripts?showLanguage=pt_BR)* e
-*[transformations](/display/CS/Transformations?showLanguage=pt_BR)*, têm um componente de salvamento automático que
+Além disso, algumas telas, como as telas de configuração de *[scripts](https://success.jitterbit.com/display/CS/Scripts?showLanguage=pt_BR)* e
+*[transformations](https://success.jitterbit.com/display/CS/Transformations?showLanguage=pt_BR)*, têm um componente de salvamento automático que
 só se aplica enquanto aquela tela está aberta.
 
 ### Salvamento Manual

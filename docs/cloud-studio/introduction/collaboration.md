@@ -9,9 +9,9 @@ permissions, how collaboration works when editing projects simultaneously with o
 ## Project Permissions
 
 Access to projects is restricted based on the combination of organization role permissions and environment access
-levels as defined through the [Management Console](/display/DOC/Management+Console). Organization role permissions
-are set through the [Organizations](/display/DOC/Organizations) page, while environment access levels are set
-through the [Environments](/display/DOC/Environments) page.
+levels as defined through the [Management Console](https://success.jitterbit.com/display/DOC/Management+Console). Organization role permissions
+are set through the [Organizations](https://success.jitterbit.com/display/DOC/Organizations) page, while environment access levels are set
+through the [Environments](https://success.jitterbit.com/display/DOC/Environments) page.
 
 A user must be a member of an organization role with either *Read* or *Admin* permission in order to access Cloud
 Studio. Both the *Read* and *Admin* permissions provide the same privileges within the Cloud Studio application. As
@@ -24,7 +24,7 @@ The table below details the combination of organization role permissions and env
 needed in order to access, edit, and perform actions in Cloud Studio and related pages. Note that the differences
 afforded by the *Read* and *Admin* permissions are the ability to access and edit other Harmony Portal pages and
 applications (see [Jitterbit Harmony Permissions and
-Access](/display/DOC/Jitterbit+Harmony+Permissions+and+Access)).
+Access](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Permissions+and+Access)).
 
 In addition, the *View Logs* access level does not provide access to Cloud Studio but instead provides access to
 Cloud Studio operation logs within the Management Console.
@@ -115,7 +115,7 @@ occurs, with text indicating the user is not permitted to perform the action.
 If you receive an error message such as one of those shown below, contact an administrator of the Jitterbit Harmony
 organization to ensure you are a member of the appropriate organization role and that your role has been granted the
 appropriate access level in the environment (see [Jitterbit Harmony Permissions and
-Access](/display/DOC/Jitterbit+Harmony+Permissions+and+Access)).
+Access](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Permissions+and+Access)).
 
 ![](https://docs-source.jitterbit.com/cs/dialog/unable-to-import-project.png)
 
@@ -131,13 +131,13 @@ Studio automatically synchronizes workflows and components across multiple users
 ### User Avatars
 
 When multiple users have the same project open in the project designer, avatars of the other users are shown in the
-[project toolbar](/display/CS/Project+Toolbar).
+[project toolbar](https://success.jitterbit.com/display/CS/Project+Toolbar).
 
 ### Automatic Synchronization
 
 If a workflow is being edited by another user, those changes are reflected in real time on the design canvas. You
 can also make workflow changes simultaneously, with your changes reflected in real time for other users. An audit
-log of changes made by all users is provided in the [project history](/display/CS/Project+History).
+log of changes made by all users is provided in the [project history](https://success.jitterbit.com/display/CS/Project+History).
 
 ### Concurrent Editing
 
@@ -172,8 +172,8 @@ While editing a project or project component, your changes are autosaved when yo
 These include when the project or component is closed due to Harmony session timeout or navigating away from the
 project.
 
-In addition, some screens, such as the configuration screens for [scripts](/display/CS/Scripts) and
-[transformations](/display/CS/Transformations), have an autosave component that applies only while that screen is
+In addition, some screens, such as the configuration screens for [scripts](https://success.jitterbit.com/display/CS/Scripts) and
+[transformations](https://success.jitterbit.com/display/CS/Transformations), have an autosave component that applies only while that screen is
 open.
 
 ### Manual Saving

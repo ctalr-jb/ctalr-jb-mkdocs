@@ -2,7 +2,7 @@
 
 ## Introduction
 
-If you use [Jitterbit Harmony Design Studio](/display/DOC/Design+Studio) (also called Jitterbit Studio), you already
+If you use [Jitterbit Harmony Design Studio](https://success.jitterbit.com/display/DOC/Design+Studio) (also called Jitterbit Studio), you already
 know there are many moving pieces and parts to integrations. Design Studio offers the flexibility of designing
 projects in numerous ways, creating powerful solutions for a broad range of integration problems. Since its first
 release over 10 years ago, our design application has been enhanced countless times to add to its capabilities in
@@ -10,9 +10,9 @@ delivering best-in-class functionality for evolving integration challenges.
 
 Today, we've reimagined the user experience of designing integrations from the ground up. Built on the solid
 foundation of the [Jitterbit Harmony Cloud
-Platform](/display/DOC/Jitterbit+Security+and+Architecture+White+Paper#JitterbitSecurityandArchitectureWhitePaper-MajorComponents),
-which includes the [Jitterbit Harmony Agents](/display/DOC/Agent) that run the processes that support integrations,
-[Jitterbit Harmony Cloud Studio](/display/CS/Cloud+Studio) accelerates integration design to the next level. Cloud
+Platform](https://success.jitterbit.com/display/DOC/Jitterbit+Security+and+Architecture+White+Paper#JitterbitSecurityandArchitectureWhitePaper-MajorComponents),
+which includes the [Jitterbit Harmony Agents](https://success.jitterbit.com/display/DOC/Agent) that run the processes that support integrations,
+[Jitterbit Harmony Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio) accelerates integration design to the next level. Cloud
 Studio offers a modern, web-based experience, optimized for ease of use and ease of access by integration designers.
 
 The purpose of this document is to help existing Design Studio users transition to Cloud Studio and includes a
@@ -23,14 +23,14 @@ comparison of major features.
 
 Design Studio is a client application that must be downloaded and installed on a supported operating system (Windows
 or macOS) with the specific hardware requirements listed in [System Requirements for Design
-Studio](/display/DOC/System+Requirements+for+Design+Studio).
+Studio](https://success.jitterbit.com/display/DOC/System+Requirements+for+Design+Studio).
 
 With Cloud Studio, you no longer need to install the design application on a machine. Instead, [Cloud
-Studio](/display/CS/Cloud+Studio) offers platform- and location-independent access from anywhere with an Internet
-connection through the [Harmony Portal](/display/DOC/Jitterbit+Harmony+Portal). Supported browsers include Chrome,
+Studio](https://success.jitterbit.com/display/CS/Cloud+Studio) offers platform- and location-independent access from anywhere with an Internet
+connection through the [Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal). Supported browsers include Chrome,
 Firefox, and Safari (macOS only). In addition, you can seamlessly navigate to and from the other Harmony apps such
-as [API Manager](/display/DOC/API+Manager), [Marketplace](/display/DOC/Marketplace), and [Management
-Console](/display/DOC/Management+Console) while designing a project.
+as [API Manager](https://success.jitterbit.com/display/DOC/API+Manager), [Marketplace](https://success.jitterbit.com/display/DOC/Marketplace), and [Management
+Console](https://success.jitterbit.com/display/DOC/Management+Console) while designing a project.
 
 ![](https://docs-source.jitterbit.com/hp/landing/cards_cloud-studio_without-header.png)
 
@@ -46,7 +46,7 @@ When you open Design Studio, you are presented with a Getting Started screen whe
 open an existing project, or import a Design Studio project. After opening a project, the same actions can be taken
 from the File menu in the menu bar.
 
-In Cloud Studio, these actions are taken from the [project index](/display/CS/Project+Index), which shows a
+In Cloud Studio, these actions are taken from the [project index](https://success.jitterbit.com/display/CS/Project+Index), which shows a
 repository of all your Cloud Studio projects in project card view or list view. The import functionality allows you
 to import projects that have been exported from Cloud Studio.
 
@@ -60,17 +60,17 @@ to import Design Studio projects into Cloud Studio in the future.
 **Q:** *Can I export a Cloud Studio project and import it into Design Studio?*
 
 **A:** Cloud Studio projects are not backwards-compatible with Design Studio. You can, however, [export Cloud Studio
-projects and import them into Cloud Studio](/display/CS/Project+Exports+and+Imports). Cloud Studio projects are in
+projects and import them into Cloud Studio](https://success.jitterbit.com/display/CS/Project+Exports+and+Imports). Cloud Studio projects are in
 the format of a JSON file.
 
 **Q:** *Are there any templates so I don't have to build projects from scratch?*
 
-**A:** [Jitterbit Marketplace](/display/DOC/Marketplace) provides hundreds of pre-built projects by offering [Cloud
-Studio Integration Recipes](/display/CS/Cloud+Studio+Integration+Recipes) and [Cloud Studio Process
-Templates](/display/CS/Cloud+Studio+Process+Templates), with more continually being developed. To get started with
+**A:** [Jitterbit Marketplace](https://success.jitterbit.com/display/DOC/Marketplace) provides hundreds of pre-built projects by offering [Cloud
+Studio Integration Recipes](https://success.jitterbit.com/display/CS/Cloud+Studio+Integration+Recipes) and [Cloud Studio Process
+Templates](https://success.jitterbit.com/display/CS/Cloud+Studio+Process+Templates), with more continually being developed. To get started with
 an existing recipe or template, see [Starting a Recipe or Template
-Project](/display/DOC/Starting+a+Recipe+or+Template+Project). A limited number of [Citizen
-Integrator](/display/DOC/Citizen+Integrator) recipes, which are exclusively for Design Studio, are also available.
+Project](https://success.jitterbit.com/display/DOC/Starting+a+Recipe+or+Template+Project). A limited number of [Citizen
+Integrator](https://success.jitterbit.com/display/DOC/Citizen+Integrator) recipes, which are exclusively for Design Studio, are also available.
 
 
 ## Design Interface
@@ -83,28 +83,28 @@ additional options.
 Cloud Studio offers an intuitive, modern workflow design using its project designer. On opening a project, these
 parts of the project designer are displayed:
 
--   **Project Toolbar:** The [project toolbar](/display/CS/Project+Toolbar) along the top allows you to access
+-   **Project Toolbar:** The [project toolbar](https://success.jitterbit.com/display/CS/Project+Toolbar) along the top allows you to access
     project actions and navigate to recent projects.
 
--   **Project Pane:** The [project pane](/display/CS/Project+Pane) on the left provides navigation throughout your
+-   **Project Pane:** The [project pane](https://success.jitterbit.com/display/CS/Project+Pane) on the left provides navigation throughout your
     project.
 
--   **Design Canvas:** The [design canvas](/display/CS/Design+Canvas) is the primary workspace where you design
+-   **Design Canvas:** The [design canvas](https://success.jitterbit.com/display/CS/Design+Canvas) is the primary workspace where you design
     workflows.
 
--   **Component Palette:** On the right, the [design component palette](/display/CS/Design+Component+Palette)
+-   **Component Palette:** On the right, the [design component palette](https://success.jitterbit.com/display/CS/Design+Component+Palette)
     provides access to connectivity resources.
 
 ![](https://docs-source.jitterbit.com/cs/project/project-designer_annotated_pp.png)
 
-Instead of folders, operations are organized into [workflows](/display/CS/Workflows) to help segregate different
+Instead of folders, operations are organized into [workflows](https://success.jitterbit.com/display/CS/Workflows) to help segregate different
 parts of the project. You can navigate your project using the project pane within two different views:
 
 -   **Workflows:** This tab shows the operations within each workflow, and the discrete steps that make up each
     operation, consisting of activities, transformations, or scripts.
 
 -   **Components:** This tab shows all components that exist within the project. Like using folders, you can also
-    organize components into [custom groups](/display/CS/Component+Groups).
+    organize components into [custom groups](https://success.jitterbit.com/display/CS/Component+Groups).
 
 Within the **Workflows** tab, each workflow's structure is dynamically depicted with each operation auto-numbered
 based on its location in the workflow's hierarchy.
@@ -124,12 +124,12 @@ faster and easier for anyone to develop new connectors.
 
 The [Connector SDK](https://developer.jitterbit.com/connector-sdk/) that Jitterbit uses to develop new platform
 connectivity is now offered to developers to create new connectors for their organization. This has also allowed us
-to create [Connector Builder](/display/CS/Connector+Builder), a point-and-click interface for non-developers to
+to create [Connector Builder](https://success.jitterbit.com/display/CS/Connector+Builder), a point-and-click interface for non-developers to
 quickly stand up new, branded connectivity to REST-based interfaces.
 
 Connectors that you create as well as the standard Jitterbit-provided connectors are now consistent, with all
 connections being configured using connectors that are accessed from the [design component
-palette](/display/CS/Design+Component+Palette). See [Connectors](/display/CS/Connectors) for all connectors that are
+palette](https://success.jitterbit.com/display/CS/Design+Component+Palette). See [Connectors](https://success.jitterbit.com/display/CS/Connectors) for all connectors that are
 available in Cloud Studio.
 
 ![](https://docs-source.jitterbit.com/cs/component-palette/connectivity/endpoints_design-studio_annotated_pp.png)
@@ -172,7 +172,7 @@ menus guide you to add components in the correct order.
 ![](https://docs-source.jitterbit.com/cs/design-canvas/design-studio_annotated_pp.png)
 
 In both Design Studio and Cloud Studio, you can chain operations together through success and failure conditions. In
-Cloud Studio, these are known as [operation actions](/display/CS/Operation+Actions). Operations can be chained
+Cloud Studio, these are known as [operation actions](https://success.jitterbit.com/display/CS/Operation+Actions). Operations can be chained
 across workflows.
 
 
@@ -189,10 +189,10 @@ indicates the number of mapped target fields, and provides direct access to thos
 ![](https://docs-source.jitterbit.com/cs/transformation/mapping-mode/design-studio_annotated_pp.png)
 
 In addition, you still have access to the same types of robust features provided by Design Studio, including
-[previewing a transformation](/display/CS/Preview+Mode) and [creating conditional
-mappings](/display/CS/Conditional+Mapping). Additional features that are available only in Cloud Studio include
-[mirroring a schema](/display/CS/Mirrored+Schemas) from one side of the transformation to the other, and the
-[exporting and importing of mappings](/display/CS/Transformation+Mapping+Exports+and+Imports) with the ability to
+[previewing a transformation](https://success.jitterbit.com/display/CS/Preview+Mode) and [creating conditional
+mappings](https://success.jitterbit.com/display/CS/Conditional+Mapping). Additional features that are available only in Cloud Studio include
+[mirroring a schema](https://success.jitterbit.com/display/CS/Mirrored+Schemas) from one side of the transformation to the other, and the
+[exporting and importing of mappings](https://success.jitterbit.com/display/CS/Transformation+Mapping+Exports+and+Imports) with the ability to
 select which mappings to use if there are conflicts.
 
 
@@ -203,7 +203,7 @@ script is used as a step within an operation, as logic within a mapped target fi
 node to filter which records are processed.
 
 Cloud Studio has the same use of script types and continues to use the [Jitterbit
-Script](/display/CS/Jitterbit+Script) language, with the same support for [JavaScript](/display/CS/JavaScript) as
+Script](https://success.jitterbit.com/display/CS/Jitterbit+Script) language, with the same support for [JavaScript](https://success.jitterbit.com/display/CS/JavaScript) as
 Design Studio. Overall, scripts are treated largely the same, with a few minor differences.
 
 The biggest difference is the syntax for how project components are referenced in a script. For example, in Design
@@ -221,8 +221,8 @@ In Cloud Studio, the corresponding component would be an FTP Read activity with 
 
 This difference is important if you're manually copying a script from a Design Studio project into Cloud Studio, as
 these references would need to be replaced (for details, see
-[Endpoints](/display/CS/Jitterbit+Script#JitterbitScript-connectors) under [Jitterbit
-Script](/display/CS/Jitterbit+Script)).
+[Endpoints](https://success.jitterbit.com/display/CS/Jitterbit+Script#JitterbitScript-connectors) under [Jitterbit
+Script](https://success.jitterbit.com/display/CS/Jitterbit+Script)).
 
 ![](https://docs-source.jitterbit.com/cs/script/transformation-script_design-studio_annotated_pp.png)
 
@@ -233,8 +233,8 @@ While you design a project in Design Studio, you can deploy selected project ite
 projects from one environment to another.
 
 These concepts are the same in Cloud Studio: you can select certain project components to deploy or deploy the
-entire project (see [Project Deployment](/display/CS/Project+Deployment)). Projects can also be migrated between
-environments (see [Project Migration](/display/CS/Project+Migration)).
+entire project (see [Project Deployment](https://success.jitterbit.com/display/CS/Project+Deployment)). Projects can also be migrated between
+environments (see [Project Migration](https://success.jitterbit.com/display/CS/Project+Migration)).
 
 (The term "migration" refers to moving a project from one environment to another. If instead you want to *import* an
 exported Cloud Studio project into Cloud Studio, see [Creating and Importing
@@ -247,7 +247,7 @@ Projects](#CloudStudioOverviewforDesignStudioUsers-importing) earlier on this p
 
 We've put together an introductory training course on Cloud Studio, offered through our online learning system at
 Jitterbit University. Over time, we'll develop advanced course material on Cloud Studio, just as we have for Design
-Studio. Learn more at [Getting Training](/display/DOC/Getting+Training).
+Studio. Learn more at [Getting Training](https://success.jitterbit.com/display/DOC/Getting+Training).
 
 
 ## Future Enhancements

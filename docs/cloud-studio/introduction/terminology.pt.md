@@ -4,12 +4,12 @@
 ## Introdução
 
 Esta página define conceitos e termos técnicos importantes usados no
-[Cloud Studio](/display/CS/Cloud+Studio?showLanguage=pt_BR).
+[Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio?showLanguage=pt_BR).
 
 
 ## <span id="CloudStudioTerminology-project" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Projeto
 
-Um [projeto](/display/CS/Projects?showLanguage=pt_BR) é uma coleção de um ou mais
+Um [projeto](https://success.jitterbit.com/display/CS/Projects?showLanguage=pt_BR) é uma coleção de um ou mais
 [workflows](#CloudStudioTerminology-workflow) que compõem e executam um caso de uso de integração. Um projeto contém
 [operações](#CloudStudioTerminology-operation) bem como outros [componentes de
 projeto](#CloudStudioTerminology-project-component) que podem ser parte de uma operação ou usados para apoiar
@@ -19,14 +19,14 @@ como um arquivo JSON.
 
 ## <span id="CloudStudioTerminology-project-component" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Componente de Projeto
 
-[Componentes de projeto](/display/CS/Project+Components?showLanguage=pt_BR) são as peças individuais de um projeto.
+[Componentes de projeto](https://success.jitterbit.com/display/CS/Project+Components?showLanguage=pt_BR) são as peças individuais de um projeto.
 Alguns componentes, incluindo [atividades](#CloudStudioTerminology-activities),
 *[transformations](#CloudStudioTerminology-transformation)* e *[scripts](#CloudStudioTerminology-scripts)*, podem
 ser adicionados a [operações](#CloudStudioTerminology-operation) e executados como uma sequência de etapas. Outros
-componentes podem ser usados em apoio a tais operações, como [variáveis](/display/CS/Variables?showLanguage=pt_BR),
-[agendas](/display/CS/Operation+Schedules?showLanguage=pt_BR), [*schemas* de
-arquivo](/display/CS/Schemas?showLanguage=pt_BR), [notificações](/display/CS/Notifications?showLanguage=pt_BR) e
-[plugins](/display/CS/Plugins?showLanguage=pt_BR). As próprias operações também são componentes de projeto.
+componentes podem ser usados em apoio a tais operações, como [variáveis](https://success.jitterbit.com/display/CS/Variables?showLanguage=pt_BR),
+[agendas](https://success.jitterbit.com/display/CS/Operation+Schedules?showLanguage=pt_BR), [*schemas* de
+arquivo](https://success.jitterbit.com/display/CS/Schemas?showLanguage=pt_BR), [notificações](https://success.jitterbit.com/display/CS/Notifications?showLanguage=pt_BR) e
+[plugins](https://success.jitterbit.com/display/CS/Plugins?showLanguage=pt_BR). As próprias operações também são componentes de projeto.
 
 
 ## <span id="CloudStudioTerminology-dependencies" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Dependências
@@ -55,7 +55,7 @@ Componente A é ***dependente do*** Componente B. Portanto, o Componente B é **
 Um workflow é uma coleção de [operações](#CloudStudioTerminology-operation) usada como ferramenta para ajudar a
 segregar diferentes partes do projeto para a conveniência do usuário.
 
-Os workflows são criados no topo do [design canvas](/display/CS/Design+Canvas?showLanguage=pt_BR):
+Os workflows são criados no topo do [design canvas](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR):
 
 ![](https://docs-source.jitterbit.com/cs/design-canvas/workflow-tab_new.png)
 
@@ -85,7 +85,7 @@ operação e são representadas visualmente dentro de uma operação no design c
 
 ![](https://docs-source.jitterbit.com/cs/design-canvas/operation.png)
 
-As operações devem seguir um [padrão de operação válido](/display/CS/Operation+Validity?showLanguage=pt_BR).
+As operações devem seguir um [padrão de operação válido](https://success.jitterbit.com/display/CS/Operation+Validity?showLanguage=pt_BR).
 Combinações que não são permitidas em uma única operação podem ser funcionalmente possíveis se você encadear várias
 operações usando ações de operação. Quando estão criadas, as operações podem ser executadas manualmente, acionadas
 por uma API, ou agendadas.
@@ -94,8 +94,8 @@ por uma API, ou agendadas.
 ## <span id="CloudStudioTerminology-connectivity" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span><span id="CloudStudioTerminology-connectors" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span><span id="CloudStudioTerminology-connections" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span><span id="CloudStudioTerminology-activities" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span><span id="CloudStudioTerminology-endpoints" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Conectividade
 
 Recursos de conectividade são acessados dentro da aba **Connectivity** (Conectividade) da [paleta de componentes de
-design](/display/CS/Design+Component+Palette?showLanguage=pt_BR). Dentro desta aba, os
-[conectores](/display/CS/Connectors?showLanguage=pt_BR) recebem as primeiras configurações para criar conexões.
+design](https://success.jitterbit.com/display/CS/Design+Component+Palette?showLanguage=pt_BR). Dentro desta aba, os
+[conectores](https://success.jitterbit.com/display/CS/Connectors?showLanguage=pt_BR) recebem as primeiras configurações para criar conexões.
 Atividades associadas a essas conexões podem então ser instanciadas usando os tipos de atividade e configuradas como
 fontes ou alvos em um projeto. Um *endpoint* refere-se a uma conexão específica e às suas atividades.
 
@@ -103,7 +103,7 @@ fontes ou alvos em um projeto. Um *endpoint* refere-se a uma conexão específic
     entradas vindas do usuário, como credenciais, para criar uma
     conexão. O filtro **Connectors** (Conectores) mostra os conectores
     disponíveis. Você também pode criar [conectores
-    customizados](/display/CS/Custom+Connector?showLanguage=pt_BR).
+    customizados](https://success.jitterbit.com/display/CS/Custom+Connector?showLanguage=pt_BR).
 
 -   **Conexões**: Uma conexão é um componente que é criado a partir de
     um conector e provê acesso a um recurso de dados. O filtro
@@ -125,19 +125,19 @@ fontes ou alvos em um projeto. Um *endpoint* refere-se a uma conexão específic
 
 ## <span id="CloudStudioTerminology-scripts" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Scripts
 
-Os *[scripts](/display/CS/Scripts?showLanguage=pt_BR)*, escritos em Jitterbit Script ou em JavaScript, trazem
+Os *[scripts](https://success.jitterbit.com/display/CS/Scripts?showLanguage=pt_BR)*, escritos em Jitterbit Script ou em JavaScript, trazem
 flexibilidade e o poder de transformar dados, executar cálculos ou realizar validações lógicas além de um simples
 mapeamento de campos.
 
 Os *scripts* podem ser usados em vários lugares, tanto dentro do [design
-canvas](/display/CS/Design+Canvas?showLanguage=pt_BR) como etapas de uma
+canvas](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR) como etapas de uma
 [operação](#CloudStudioTerminology-operation), quanto dentro de *transformations* para aplicar aos dados uma lógica
 especificada ou certas condições.
 
 
 ## <span id="CloudStudioTerminology-variables" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Variáveis
 
-[Variáveis](/display/CS/Variables?showLanguage=pt_BR) são usadas ao longo de todo um projeto para tornar as
+[Variáveis](https://success.jitterbit.com/display/CS/Variables?showLanguage=pt_BR) são usadas ao longo de todo um projeto para tornar as
 integrações mais flexíveis e dinâmicas. Elas permitem a configuração dinâmica de *endpoints*, apoiam a passagem de
 dados entre [operações](#CloudStudioTerminology-operation), e são usadas em *scripts* de *transformations* para
 guiar lógica de integração detalhada.
@@ -165,7 +165,7 @@ risco de que os valores mudem ao longo de vários componentes do projeto.
 
 ## <span id="CloudStudioTerminology-transformation" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Transformations
 
-Uma *[transformation](/display/CS/Transformations?showLanguage=pt_BR)* é um componente de projeto que é usado como
+Uma *[transformation](https://success.jitterbit.com/display/CS/Transformations?showLanguage=pt_BR)* é um componente de projeto que é usado como
 etapa numa operação para mapear ou *transformar* entradas em saídas através da movimentação ou limpeza de dados, ou
 da aplicação de uma lógica de negócio.
 
@@ -211,7 +211,7 @@ Ademais, ao configurar uma *transformation*, você também precisa estar familia
 
 ## <span id="CloudStudioTerminology-recipes" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Protótipo de Integração
 
-Um [Protótipo de Integração do Cloud Studio](/display/CS/Cloud+Studio+Integration+Recipes?showLanguage=pt_BR),
+Um [Protótipo de Integração do Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+Integration+Recipes?showLanguage=pt_BR),
 disponível através do Jitterbit Marketplace, é um projeto de integração distinto e pré-construído que move dados em
 uma direção entre objetos ao longo de duas aplicações ou sistemas. Protótipos de integração estão disponíveis para
 todos os usuários do Jitterbit Harmony.
