@@ -13,7 +13,9 @@ All Jitterbit Harmony subscribers have access to Cloud Studio.
 When you log in to the [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal), click the Cloud Studio app
 card on the left to begin designing projects directly in your browser:
 
-![](https://docs-source.jitterbit.com/hp/landing/cards_cloud-studio_with-header.png)
+<span class="confluence-embedded-file-wrapper"><img
+src="https://docs-source.jitterbit.com/hp/landing/cards_cloud-studio_with-header.png"
+class="confluence-embedded-image confluence-external-resource"></span>
 
 
 ## As a new Cloud Studio user, where should I start?

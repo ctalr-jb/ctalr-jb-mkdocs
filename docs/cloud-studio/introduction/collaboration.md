@@ -117,9 +117,13 @@ organization to ensure you are a member of the appropriate organization role and
 appropriate access level in the environment (see [Jitterbit Harmony Permissions and
 Access](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Permissions+and+Access)).
 
-![](https://docs-source.jitterbit.com/cs/dialog/unable-to-import-project.png)
+<span class="confluence-embedded-file-wrapper"><img
+src="https://docs-source.jitterbit.com/cs/dialog/unable-to-import-project.png"
+class="confluence-embedded-image confluence-external-resource"></span>
 
-![](https://docs-source.jitterbit.com/cs/dialog/error-failed-to-authorize.png)
+<span class="confluence-embedded-file-wrapper"><img
+src="https://docs-source.jitterbit.com/cs/dialog/error-failed-to-authorize.png"
+class="confluence-embedded-image confluence-external-resource"></span>
 
 
 ## <span id="CloudStudioPermissions,Collaboration,andSaving-collaboration" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Collaboration
@@ -193,20 +197,28 @@ The save status on autosave screens is displayed along the top of each screen.
 
 The save status of a project is reflected within each workflow, on the far left of the design canvas header:
 
-![](https://docs-source.jitterbit.com/cs/design-canvas/header.png)
+<span class="confluence-embedded-file-wrapper"><img
+src="https://docs-source.jitterbit.com/cs/design-canvas/header.png"
+class="confluence-embedded-image confluence-external-resource"></span>
 
 #### Script
 
 The save status for the script editor is displayed below the script name:
 
-![](https://docs-source.jitterbit.com/cs/script/header.png)
+<span class="confluence-embedded-file-wrapper"><img
+src="https://docs-source.jitterbit.com/cs/script/header.png"
+class="confluence-embedded-image confluence-external-resource"></span>
 
 #### Transformation
 
 The save status for the transformation configuration screen is displayed to the right of the transformation name:
 
-![](https://docs-source.jitterbit.com/cs/transformation/save-status_name_saved.png)
+<span class="confluence-embedded-file-wrapper"><img
+src="https://docs-source.jitterbit.com/cs/transformation/save-status_name_saved.png"
+class="confluence-embedded-image confluence-external-resource"></span>
 
 The presence of a red asterisk following the time indicates that the transformation has unsaved changes:
 
-![](https://docs-source.jitterbit.com/cs/transformation/save-status_name_unsaved_annotated.png)
+<span class="confluence-embedded-file-wrapper"><img
+src="https://docs-source.jitterbit.com/cs/transformation/save-status_name_unsaved_annotated.png"
+class="confluence-embedded-image confluence-external-resource"></span>

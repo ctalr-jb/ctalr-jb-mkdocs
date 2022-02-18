@@ -16,7 +16,9 @@ Quando você fizer login no [Jitterbit Harmony Portal](https://success.jitterbit
 clique no cartão do aplicativo Cloud Studio à esquerda para começar a fazer o *design* de projetos diretamente no
 seu navegador:
 
-![](https://docs-source.jitterbit.com/hp/landing/cards_cloud-studio_with-header.png)
+<span class="confluence-embedded-file-wrapper"><img
+src="https://docs-source.jitterbit.com/hp/landing/cards_cloud-studio_with-header.png"
+class="confluence-embedded-image confluence-external-resource"></span>
 
 
 ## Sendo um novo usuário do Cloud Studio, por onde eu começo?
