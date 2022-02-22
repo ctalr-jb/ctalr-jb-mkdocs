@@ -77,16 +77,19 @@ uso de certos conectores específicos a certas aplicações ([versão 10.0](http
 [Conectores](https://success.jitterbit.com/display/CS/Connectors?showLanguage=pt_BR).
 
 <div class="confluence-information-macro confluence-information-macro-information conf-macro output-block" data-hasbody="true" data-macro-name="info">
-  <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
-  <div class="confluence-information-macro-body">
 
-    <strong>NOTA:</strong> Para usar certos recursos, você pode precisar usar um <a
-    href="https://success.jitterbit.com/display/DOC/Private+Agents?showLanguage=pt_BR">Private Agent</a> ou o Cloud Agent Group do Jitterbit
-    Sandbox, já que o Cloud Agent Group do Jitterbit Production está num ciclo de lançamento posterior e pode não
-    incluir os recursos disponibilizados há menos tempo (veja <a
-    href="https://success.jitterbit.com/display/DOC/Cloud+Agent+Groups?showLanguage=pt_BR">Cloud Agent Groups</a>).
+<span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
 
-  </div>
+<div class="confluence-information-macro-body">
+
+<strong>NOTA:</strong> Para usar certos recursos, você pode precisar usar um <a
+href="https://success.jitterbit.com/display/DOC/Private+Agents?showLanguage=pt_BR">Private Agent</a> ou o Cloud Agent Group do Jitterbit
+Sandbox, já que o Cloud Agent Group do Jitterbit Production está num ciclo de lançamento posterior e pode não
+incluir os recursos disponibilizados há menos tempo (veja <a
+href="https://success.jitterbit.com/display/DOC/Cloud+Agent+Groups?showLanguage=pt_BR">Cloud Agent Groups</a>).
+
+</div>
+
 </div>
 
 

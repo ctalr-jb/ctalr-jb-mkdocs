@@ -69,15 +69,18 @@ application-specific connectors ([version 10.0](https://success.jitterbit.com/d
 [Connectors](https://success.jitterbit.com/display/CS/Connectors).
 
 <div class="confluence-information-macro confluence-information-macro-information conf-macro output-block" data-hasbody="true" data-macro-name="info">
-  <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
-  <div class="confluence-information-macro-body">
 
-    <strong>NOTE:</strong> To use certain features, you may need to use a <a
-    href="https://success.jitterbit.com/display/DOC/Private+Agents">Private Agent</a> or the Jitterbit Sandbox Cloud Agent Group, as the
-    Jitterbit Production Cloud Agent Group is on a later release cycle and may not include the latest available
-    features (see <a href="https://success.jitterbit.com/display/DOC/Cloud+Agent+Groups">Cloud Agent Groups</a>).
+<span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
 
-  </div>
+<div class="confluence-information-macro-body">
+
+<strong>NOTE:</strong> To use certain features, you may need to use a <a
+href="https://success.jitterbit.com/display/DOC/Private+Agents">Private Agent</a> or the Jitterbit Sandbox Cloud Agent Group, as the
+Jitterbit Production Cloud Agent Group is on a later release cycle and may not include the latest available
+features (see <a href="https://success.jitterbit.com/display/DOC/Cloud+Agent+Groups">Cloud Agent Groups</a>).
+
+</div>
+
 </div>
 
 
