@@ -35,12 +35,12 @@ To get started using Cloud Studio, refer to this introductory material:
 
     -   **[Component Palette](https://success.jitterbit.com/display/CS/Component+Palette)**
 
--   **[Cloud Studio Terminology](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology)**
+-   **[Cloud Studio Terminology](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology)**\
     This page may be useful to familiarize yourself with commonly used terminology and concepts. As you work with
     Cloud Studio and use its documentation, you may also want to refer back to this list for reference.
 
 -   **[Cloud Studio Permissions, Collaboration, and
-    Saving](https://success.jitterbit.com/display/CS/Cloud+Studio+Permissions%2C+Collaboration%2C+and+Saving)**
+    Saving](https://success.jitterbit.com/display/CS/Cloud+Studio+Permissions%2C+Collaboration%2C+and+Saving)**\
     This page provides basic information about working with Cloud Studio, including what access is granted by
     various permissions, how collaboration works when editing projects simultaneously with other users, and how
     saving works.
