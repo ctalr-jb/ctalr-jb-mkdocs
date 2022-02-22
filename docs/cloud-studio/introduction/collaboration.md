@@ -50,7 +50,7 @@ data-highlight-colour="blue"><strong>View Logs</strong></td>
 <td class="confluenceTd"><p>Access to:</p>
 <ul>
 <li>Management Console <a
-href="/display/DOC/Activities">Activities</a> page to view logs for
+href="https://success.jitterbit.com/display/DOC/Activities">Activities</a> page to view logs for
 Cloud Studio operations that have been deployed and executed within the
 environment.</li>
 </ul></td>
@@ -76,12 +76,12 @@ data-highlight-colour="blue"><strong>Execute</strong></td>
 <ul>
 <li>Execute Cloud Studio operations that have already been deployed (see
 <a
-href="/display/CS/Operation+Deployment+and+Execution#OperationDeploymentandExecution-manually">Executing
+href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution#OperationDeploymentandExecution-manually">Executing
 Manually</a> under <a
-href="/display/CS/Operation+Deployment+and+Execution">Operation
+href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution">Operation
 Deployment and Execution</a>).</li>
 <li>Actions in Design Studio (see <a
-href="/display/DOC/Jitterbit+Harmony+Permissions+and+Access">Jitterbit
+href="https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Permissions+and+Access">Jitterbit
 Harmony Permissions and Access</a>).</li>
 </ul>
 <p>Access to:</p>
@@ -117,13 +117,9 @@ organization to ensure you are a member of the appropriate organization role and
 appropriate access level in the environment (see [Jitterbit Harmony Permissions and
 Access](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Permissions+and+Access)).
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/dialog/unable-to-import-project.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/dialog/unable-to-import-project.png)
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/dialog/error-failed-to-authorize.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/dialog/error-failed-to-authorize.png)
 
 
 ## <span id="CloudStudioPermissions,Collaboration,andSaving-collaboration" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Collaboration
@@ -197,28 +193,20 @@ The save status on autosave screens is displayed along the top of each screen.
 
 The save status of a project is reflected within each workflow, on the far left of the design canvas header:
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/design-canvas/header.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/design-canvas/header.png)
 
 #### Script
 
 The save status for the script editor is displayed below the script name:
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/script/header.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/script/header.png)
 
 #### Transformation
 
 The save status for the transformation configuration screen is displayed to the right of the transformation name:
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/transformation/save-status_name_saved.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/transformation/save-status_name_saved.png)
 
 The presence of a red asterisk following the time indicates that the transformation has unsaved changes:
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/transformation/save-status_name_unsaved_annotated.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/transformation/save-status_name_unsaved_annotated.png)

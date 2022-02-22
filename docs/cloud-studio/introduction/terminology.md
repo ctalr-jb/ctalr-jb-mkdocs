@@ -54,9 +54,7 @@ different parts of the project for the convenience of the user.
 
 Workflows are created from along the top of the [design canvas](https://success.jitterbit.com/display/CS/Design+Canvas):
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/design-canvas/workflow-tab_new.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/design-canvas/workflow-tab_new.png)
 
 When you create a new workflow, a blank canvas opens, ready for you to design the workflow by creating operations.
 
@@ -81,9 +79,7 @@ An operation consists of at least one operation step, and often contains multipl
 [scripts](#CloudStudioTerminology-scripts). Operation steps are the discrete components that make up an operation
 and are visually represented within an operation on the design canvas:
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/design-canvas/operation.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/design-canvas/operation.png)
 
 Operations must follow a [valid operation pattern](https://success.jitterbit.com/display/CS/Operation+Validity). Combinations that are not
 allowed in a single operation may be functionally possible by chaining together multiple operations using operation
@@ -118,9 +114,7 @@ its activities.
 -   **Endpoints:** An endpoint refers to a specific connection and its
     activities.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project/connectivity-terms_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project/connectivity-terms_annotated_pp.png)
 
 
 ## <span id="CloudStudioTerminology-scripts" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Scripts
@@ -189,9 +183,7 @@ In addition, while configuring a transformation, you should also be familiar wit
     true, then the record is output. If the script result evaluates to
     false, then the record is skipped.
 
-    <span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/transformation/script-mode/condition_if.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+    ![](https://docs-source.jitterbit.com/cs/transformation/script-mode/condition_if.png)
 
 -   **Loop Node:** A loop node is a source or target node with repeating
     data values, such as line items in an invoice or a set of customer
@@ -200,9 +192,7 @@ class="confluence-embedded-image confluence-external-resource"></span>
     transformation process will loop through the source data set. A
     transformation can have zero or more iterator lines.
 
-    <span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/transformation/mapping-mode/loop-node.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+    ![](https://docs-source.jitterbit.com/cs/transformation/mapping-mode/loop-node.png)
 
 
 ## <span id="CloudStudioTerminology-recipes" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Integration Recipe

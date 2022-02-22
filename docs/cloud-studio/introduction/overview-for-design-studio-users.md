@@ -32,9 +32,7 @@ Firefox, and Safari (macOS only). In addition, you can seamlessly navigate to an
 as [API Manager](https://success.jitterbit.com/display/DOC/API+Manager), [Marketplace](https://success.jitterbit.com/display/DOC/Marketplace), and [Management
 Console](https://success.jitterbit.com/display/DOC/Management+Console) while designing a project.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/hp/landing/cards_cloud-studio_without-header.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/hp/landing/cards_cloud-studio_without-header.png)
 
 **Q:** *Can I use both design applications at the same time?*
 
@@ -52,9 +50,7 @@ In Cloud Studio, these actions are taken from the [project index](https://succes
 repository of all your Cloud Studio projects in project card view or list view. The import functionality allows you
 to import projects that have been exported from Cloud Studio.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project-index/card-view.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project-index/card-view.png)
 
 **Q:** *an I export a Design Studio project and import it into Cloud Studio?*
 
@@ -99,9 +95,7 @@ parts of the project designer are displayed:
 -   **Component Palette:** On the right, the [design component palette](https://success.jitterbit.com/display/CS/Design+Component+Palette)
     provides access to connectivity resources.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project/project-designer_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project/project-designer_annotated_pp.png)
 
 Instead of folders, operations are organized into [workflows](https://success.jitterbit.com/display/CS/Workflows) to help segregate different
 parts of the project. You can navigate your project using the project pane within two different views:
@@ -115,9 +109,7 @@ parts of the project. You can navigate your project using the project pane withi
 Within the **Workflows** tab, each workflow's structure is dynamically depicted with each operation auto-numbered
 based on its location in the workflow's hierarchy.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project-pane/workflows/design-studio_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project-pane/workflows/design-studio_annotated_pp.png)
 
 
 ## Establishing Connectivity
@@ -140,18 +132,14 @@ connections being configured using connectors that are accessed from the [design
 palette](https://success.jitterbit.com/display/CS/Design+Component+Palette). See [Connectors](https://success.jitterbit.com/display/CS/Connectors) for all connectors that are
 available in Cloud Studio.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/component-palette/connectivity/endpoints_design-studio_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/component-palette/connectivity/endpoints_design-studio_annotated_pp.png)
 
 To establish connectivity, you start by using a connector to create a connection to the resource. Once a connection
 is configured, activity types associated with those connections can then be placed into operations on the design
 canvas and configured as sources or targets in a project. An endpoint refers to a specific connection and its
 activities.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project/connectivity-terms_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project/connectivity-terms_annotated_pp.png)
 
 
 ## Defining Schemas
@@ -162,9 +150,7 @@ source or target itself (except in the case of application connectors and SOAP w
 With Cloud Studio, you now have the option to define a schema either in an activity, which will be automatically
 inherited by the transformation, or within the transformation itself.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/connector/ftp_write_design-studio_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/connector/ftp_write_design-studio_annotated_pp.png)
 
 It's important to recognize that although sources and targets in Design Studio are referred to as activities in
 Cloud Studio, the concept of whether an activity is used as a source or a target still exists. That is, a source
@@ -183,9 +169,7 @@ With Cloud Studio, you can now populate each operation directly with appropriate
 transformations. This provides for more flexibility to create operations to meet the business use case. Contextual
 menus guide you to add components in the correct order.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/design-canvas/design-studio_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/design-canvas/design-studio_annotated_pp.png)
 
 In both Design Studio and Cloud Studio, you can chain operations together through success and failure conditions. In
 Cloud Studio, these are known as [operation actions](https://success.jitterbit.com/display/CS/Operation+Actions). Operations can be chained
@@ -202,9 +186,7 @@ Cloud Studio introduces easier browsing of mappings, allowing you to easily see 
 at a glance, including source fields, variables, and script logic, without additional clicks. Each source field
 indicates the number of mapped target fields, and provides direct access to those fields.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/transformation/mapping-mode/design-studio_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/transformation/mapping-mode/design-studio_annotated_pp.png)
 
 In addition, you still have access to the same types of robust features provided by Design Studio, including
 [previewing a transformation](https://success.jitterbit.com/display/CS/Preview+Mode) and [creating conditional
@@ -242,9 +224,7 @@ these references would need to be replaced (for details, see
 [Endpoints](https://success.jitterbit.com/display/CS/Jitterbit+Script#JitterbitScript-connectors) under [Jitterbit
 Script](https://success.jitterbit.com/display/CS/Jitterbit+Script)).
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/script/transformation-script_design-studio_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/script/transformation-script_design-studio_annotated_pp.png)
 
 
 ## Deploying and Migrating
@@ -260,9 +240,7 @@ environments (see [Project Migration](https://success.jitterbit.com/display/CS/
 exported Cloud Studio project into Cloud Studio, see [Creating and Importing
 Projects](#CloudStudioOverviewforDesignStudioUsers-importing) earlier on this page.)
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project/deploy_design-studio_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project/deploy_design-studio_annotated_pp.png)
 
 
 ## Hands-on Training

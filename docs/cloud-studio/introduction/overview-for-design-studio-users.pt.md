@@ -37,9 +37,7 @@ Harmony, tais como o [API Manager](https://success.jitterbit.com/display/DOC/API
 [Marketplace](https://success.jitterbit.com/display/DOC/Marketplace?showLanguage=pt_BR) e o [Management
 Console](https://success.jitterbit.com/display/DOC/Management+Console?showLanguage=pt_BR) enquanto faz o *design* do seu projeto.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/hp/landing/cards_cloud-studio_without-header.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/hp/landing/cards_cloud-studio_without-header.png)
 
 **Pergunta:** *Posso usar as duas aplicações de* design *ao mesmo tempo?*
 
@@ -58,9 +56,7 @@ projetos](https://success.jitterbit.com/display/CS/Project+Index?showLanguage=pt
 Cloud Studio em visualização de cartões ou de uma lista. A funcionalidade **Import** (Importar) permite que você
 importe projetos que foram exportados do Cloud Studio.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project-index/card-view.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project-index/card-view.png)
 
 **Pergunta:** *Posso exportar um projeto do Design Studio e importá-lo no Cloud Studio?*
 
@@ -110,9 +106,7 @@ estas partes do *designer* de projetos aparecem:
 -   **Paleta de componentes:** À direita, a [paleta de componentes de
     design](https://success.jitterbit.com/display/CS/Design+Component+Palette?showLanguage=pt_BR) dá acesso a recursos de conectividade.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project/project-designer_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project/project-designer_annotated_pp.png)
 
 Em vez de pastas, as operações são organizadas dentro de [workflows](https://success.jitterbit.com/display/CS/Workflows?showLanguage=pt_BR) para
 ajudar a segregar diferentes partes do projeto. Você pode navegar pelo seu projeto usando o painel de projeto em
@@ -128,9 +122,7 @@ duas visões diferentes:
 Dentro da aba **Workflows**, a estrutura de cada workflow é retratada dinamicamente com cada uma das operações sendo
 numerada automaticamente com base em sua localização na hierarquia do workflow.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project-pane/workflows/design-studio_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project-pane/workflows/design-studio_annotated_pp.png)
 
 
 ## Estabelecendo Conectividade
@@ -155,18 +147,14 @@ conexões sendo configuradas usando conectores que são acessíveis da [paleta d
 [Conectores](https://success.jitterbit.com/display/CS/Connectors?showLanguage=pt_BR) para conhecer todos os conectores disponíveis no Cloud
 Studio.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/component-palette/connectivity/endpoints_design-studio_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/component-palette/connectivity/endpoints_design-studio_annotated_pp.png)
 
 Para estabelecer conectividade, comece usando um conector para criar uma conexão com o recurso. Quando uma conexão
 estiver configurada, os tipos de atividade associados àquelas conexões podem então ser colocados em operações no
 quadro de *design* e configurados como fontes ou alvos num projeto. Um *endpoint* refere-se a uma conexão específica
 e às suas atividades.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project/connectivity-terms_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project/connectivity-terms_annotated_pp.png)
 
 
 ## Definindo *Schemas*
@@ -177,9 +165,7 @@ da fonte ou do alvo em si (exceto no caso de conectores de aplicação e método
 Com o Cloud Studio, você agora tem a opção de definir um *schema* numa atividade, e ele será automaticamente herdado
 pela *transformation*, ou então dentro da *transformation* em si.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/connector/ftp_write_design-studio_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/connector/ftp_write_design-studio_annotated_pp.png)
 
 É importante reconhecer que embora as fontes e os alvos do Design Studio sejam chamados de atividades no Cloud
 Studio, o conceito de atividades que são usadas como fontes ou alvos ainda existe. Isto é, uma atividade fonte é
@@ -198,9 +184,7 @@ Com o Cloud Studio, você agora pode popular cada operação diretamente com as 
 *transformations* apropriadas. Isto proporciona maior flexibilidade para criar operações que atendam ao caso de uso
 de negócio. Menus contextuais ajudam você a adicionar os componentes na ordem correta.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/design-canvas/design-studio_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/design-canvas/design-studio_annotated_pp.png)
 
 Tanto no Design Studio quanto no Cloud Studio, você pode encadear operações mediante condições de sucesso ou falha.
 No Cloud Studio, elas são chamadas de [ações de operação](https://success.jitterbit.com/display/CS/Operation+Actions?showLanguage=pt_BR).
@@ -217,9 +201,7 @@ O Cloud Studio introduz uma navegação mais fácil pelos mapeamentos, permitind
 de mapeamento de todos os campos de uma vez, incluindo os campos fonte, as variáveis e a lógica de *script*, sem
 cliques adicionais. Cada campo fonte indica o número de campos alvo mapeados, e provê acesso direto a tais campos.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/transformation/mapping-mode/design-studio_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/transformation/mapping-mode/design-studio_annotated_pp.png)
 
 Além disso, você ainda tem acesso aos mesmos tipos de recursos robustos oferecidos pelo Design Studio, incluindo
 [ver uma prévia de uma *transformation*](https://success.jitterbit.com/display/CS/Preview+Mode?showLanguage=pt_BR) e [criar mapeamentos
@@ -259,9 +241,7 @@ Cloud Studio, já que essas referências teriam que ser substituídas (para mais
 [Endpoints](https://success.jitterbit.com/display/CS/Jitterbit+Script?showLanguage=pt_BR#JitterbitScript-connectors) no artigo [Jitterbit
 Script](https://success.jitterbit.com/display/CS/Jitterbit+Script?showLanguage=pt_BR)).
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/script/transformation-script_design-studio_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/script/transformation-script_design-studio_annotated_pp.png)
 
 
 ## Implantando e Migrando
@@ -278,9 +258,7 @@ Projetos](https://success.jitterbit.com/display/CS/Project+Migration?showLanguag
 *importar* um projeto exportado pelo Cloud Studio para o Cloud Studio, veja [Criando e Importando
 Projetos](#CloudStudioOverviewforDesignStudioUsers-importing) acima nesta mesma página).
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project/deploy_design-studio_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project/deploy_design-studio_annotated_pp.png)
 
 
 ## Treinamento Prático

@@ -53,7 +53,7 @@ data-highlight-colour="blue"><strong>View Logs</strong> (<em>Ver Registros</em>)
 <td class="confluenceTd"><p>Acesso ao(à):</p>
 <ul>
 <li>Página <a
-href="/display/DOC/Activities?showLanguage=pt_BR">Atividades</a> do Console de Gerenciamento para ver os registros
+href="https://success.jitterbit.com/display/DOC/Activities?showLanguage=pt_BR">Atividades</a> do Console de Gerenciamento para ver os registros
 das operações do Cloud Studio que foram implantadas e executadas dentro daquele ambiente.</li>
 </ul></td>
 </tr>
@@ -78,12 +78,12 @@ data-highlight-colour="blue"><strong>Execute</strong> (<em>Executar</em>)</td>
 <ul>
 <li>Executar operações do Cloud Studio que já foram implantadas (veja
 <a
-href="/display/CS/Operation+Deployment+and+Execution#OperationDeploymentandExecution-manually?showLanguage=pt_BR">Executando
+href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution#OperationDeploymentandExecution-manually?showLanguage=pt_BR">Executando
 Manualmente</a> em <a
-href="/display/CS/Operation+Deployment+and+Execution?showLanguage=pt_BR">Implantação
+href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution?showLanguage=pt_BR">Implantação
 e Execução de Operações</a>).</li>
 <li>Ações no Design Studio (veja <a
-href="/display/DOC/Jitterbit+Harmony+Permissions+and+Access?showLanguage=pt_BR">Permissões
+href="https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Permissions+and+Access?showLanguage=pt_BR">Permissões
 e Acesso ao Jitterbit Harmony</a>).</li>
 </ul>
 <p>Acesso ao(à):</p>
@@ -120,13 +120,9 @@ organização Jitterbit Harmony para garantir que você é membro do papel organ
 recebeu o nível de acesso apropriado no ambiente (veja [Permissões e Acesso ao Jitterbit
 Harmony](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Permissions+and+Access?showLanguage=pt_BR)).
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/dialog/unable-to-import-project.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/dialog/unable-to-import-project.png)
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/dialog/error-failed-to-authorize.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/dialog/error-failed-to-authorize.png)
 
 
 ## <span id="CloudStudioPermissions,Collaboration,andSaving-collaboration" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Colaboração
@@ -205,29 +201,21 @@ O *status* de salvamento em telas de salvamento automático é mostrado ao longo
 O *status* de salvamento de um projeto é refletido dentro de cada workflow, bem na ponta esquerda do cabeçalho do
 design canvas:
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/design-canvas/header.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/design-canvas/header.png)
 
 #### Script
 
 O *status* de salvamento do editor de *script* é exibido abaixo do nome do *script*:
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/script/header.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/script/header.png)
 
 #### Transformation
 
 O *status* de salvamento da tela de configuração de *transformation* é exibido à direita do nome da
 *transformation*:
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/transformation/save-status_name_saved.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/transformation/save-status_name_saved.png)
 
 A presença de um asterisco vermelho ao lado da hora indica que o *transformation* possui mudanças não-salvas:
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/transformation/save-status_name_unsaved_annotated.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/transformation/save-status_name_unsaved_annotated.png)

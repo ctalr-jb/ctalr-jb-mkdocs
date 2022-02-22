@@ -57,9 +57,7 @@ segregar diferentes partes do projeto para a conveniência do usuário.
 
 Os workflows são criados no topo do [design canvas](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR):
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/design-canvas/workflow-tab_new.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/design-canvas/workflow-tab_new.png)
 
 Quando você cria um novo workflow, um quadro em branco aparece, pronto para você desenhar o workflow criando
 operações.
@@ -85,9 +83,7 @@ de [atividades](#CloudStudioTerminology-activities), *[transformations](#CloudSt
 *[scripts](#CloudStudioTerminology-scripts)*. Etapas de operação são os elementos individuais que compõem uma
 operação e são representadas visualmente dentro de uma operação no design canvas:
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/design-canvas/operation.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/design-canvas/operation.png)
 
 As operações devem seguir um [padrão de operação válido](https://success.jitterbit.com/display/CS/Operation+Validity?showLanguage=pt_BR).
 Combinações que não são permitidas em uma única operação podem ser funcionalmente possíveis se você encadear várias
@@ -124,9 +120,7 @@ fontes ou alvos em um projeto. Um *endpoint* refere-se a uma conexão específic
 -   **Endpoints**: Um *endpoint* refere-se a uma conexão específica e às
     suas atividades.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project/connectivity-terms_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project/connectivity-terms_annotated_pp.png)
 
 
 ## <span id="CloudStudioTerminology-scripts" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Scripts
@@ -202,9 +196,7 @@ Ademais, ao configurar uma *transformation*, você também precisa estar familia
     registro será colocado na saída. Se ele retornar o resultado
     "falso", aquele registro será pulado.
 
-    <span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/transformation/script-mode/condition_if.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+    ![](https://docs-source.jitterbit.com/cs/transformation/script-mode/condition_if.png)
 
 -   **Loop Node**: Um *loop node*, ou nó de tipo loop, é um nó fonte ou
     alvo com valores de dado que se repetem, tais como itens de linha
@@ -214,9 +206,7 @@ class="confluence-embedded-image confluence-external-resource"></span>
     *transformation* vai iterar sobre o conjunto de dados fonte. Uma
     *transformation* pode ter zero ou mais linhas iteradoras.
 
-    <span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/transformation/mapping-mode/loop-node.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+    ![](https://docs-source.jitterbit.com/cs/transformation/mapping-mode/loop-node.png)
 
 
 ## <span id="CloudStudioTerminology-recipes" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Protótipo de Integração

@@ -13,9 +13,7 @@ All Jitterbit Harmony subscribers have access to Cloud Studio.
 When you log in to the [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal), click the Cloud Studio app
 card on the left to begin designing projects directly in your browser:
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/hp/landing/cards_cloud-studio_with-header.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/hp/landing/cards_cloud-studio_with-header.png)
 
 
 ## As a new Cloud Studio user, where should I start?
@@ -73,10 +71,12 @@ application-specific connectors ([version 10.0](https://success.jitterbit.com/d
 <div class="confluence-information-macro confluence-information-macro-information conf-macro output-block" data-hasbody="true" data-macro-name="info">
   <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
   <div class="confluence-information-macro-body">
+
     <strong>NOTE:</strong> To use certain features, you may need to use a <a
-    href="/display/DOC/Private+Agents">Private Agent</a> or the Jitterbit Sandbox Cloud Agent Group, as the
+    href="https://success.jitterbit.com/display/DOC/Private+Agents">Private Agent</a> or the Jitterbit Sandbox Cloud Agent Group, as the
     Jitterbit Production Cloud Agent Group is on a later release cycle and may not include the latest available
-    features (see <a href="/display/DOC/Cloud+Agent+Groups">Cloud Agent Groups</a>).
+    features (see <a href="https://success.jitterbit.com/display/DOC/Cloud+Agent+Groups">Cloud Agent Groups</a>).
+
   </div>
 </div>
 

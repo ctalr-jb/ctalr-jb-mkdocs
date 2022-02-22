@@ -25,10 +25,12 @@ Processo](https://success.jitterbit.com/display/DOC/Starting+a+Recipe+or+Templat
 <div class="confluence-information-macro confluence-information-macro-information conf-macro output-block" data-hasbody="true" data-macro-name="info">
   <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
   <div class="confluence-information-macro-body">
+
     <strong>NOTA:</strong> Antes de fazer o* design *de um projeto, você precisa já ter se cadastrado no Jitterbit
     Harmony e preparado um ambiente e um Agent Group, como descrito no <a
-    href="/display/DOC/Jitterbit+Admin+Quick+Start+Tutorial?showLanguage=pt_BR">Tutorial de Início Rápido do
+    href="https://success.jitterbit.com/display/DOC/Jitterbit+Admin+Quick+Start+Tutorial?showLanguage=pt_BR">Tutorial de Início Rápido do
     Jitterbit Admin</a>.
+
   </div>
 </div>
 
@@ -40,9 +42,7 @@ Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal?showL
 
 Na página inicial do Harmony Portal, clique no cartão da aplicação **Cloud Studio**:
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/hp/landing/card_cloud-studio.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/hp/landing/card_cloud-studio.png)
 
 O Cloud Studio abre no índice de projetos, onde você poderá criar o seu primeiro projeto.
 
@@ -52,16 +52,12 @@ O Cloud Studio abre no índice de projetos, onde você poderá criar o seu prime
 O índice de projetos mostra um repositório contendo todos os seus projetos no Cloud Studio. Na primeira vez em que
 você acessar o Cloud Studio, esta tela estará vazia. Clique em **New Project** (Novo Projeto) para começar:
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project-index/no-projects.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project-index/no-projects.png)
 
 Preencha as informações básicas sobre o seu projeto e depois clique em **Start Designing** (Começar o *Design*) para
 abrir o *designer* de projetos.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project/project_new_start.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project/project_new_start.png)
 
 
 ## <span id="CloudStudioQuickStartGuide-design-your-project" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Fazendo o *Design* de um Projeto
@@ -74,9 +70,7 @@ atividades.
 Ao abrir um projeto, estas partes do *designer* de projetos são exibidas, como mostrado no exemplo abaixo, que é de
 um projeto cujo *design* já está feito.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project/project-designer_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project/project-designer_annotated_pp.png)
 
 Geralmente, fazemos o *design* de workflows - ou seja, coleções de operações agrupadas para a conveniência do
 usuário - dentro do design canvas usando as ferramentas oferecidas na paleta de componentes, no painel do projeto e
@@ -99,17 +93,13 @@ de conectividade. Aqui, *conectores* oferecem a interface para a inserção de e
 credenciais, para criar uma conexão. Dentro da paleta de componentes, o filtro **Connectors** (Conectores) mostra os
 tipos de conectores que podem ser configurados:
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project/connectors_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project/connectors_annotated_pp.png)
 
 Cada conector é representado por um ícone de pasta de conectores, e abaixo do ícone fica o nome do conector. Clique
 em qualquer conector para abrir uma tela de configuração e criar uma nova conexão para acessar um recurso de dados
 em específico:
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/component-palette/connectivity/connectors_http_multiple.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/component-palette/connectivity/connectors_http_multiple.png)
 
 Para ver instruções detalhadas sobre como configurar uma conexão, veja a conexão específica em
 [Conectores](https://success.jitterbit.com/display/CS/Connectors?showLanguage=pt_BR). Cada vez que você criar uma nova conexão, deverá fazer isso
@@ -118,17 +108,13 @@ nos ícones de pasta de conectores, acessíveis no filtro **Connectors**.
 Quando você tiver criado uma conexão, ela aparecerá no filtro **Endpoints**. Clique em uma conexão para revelar os
 tipos de atividades - interações com um *endpoint* - que podem ser configurados para aquela conexão.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/component-palette/connectivity/endpoints_http_activities.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/component-palette/connectivity/endpoints_http_activities.png)
 
 Um *endpoint* refere-se a uma conexão específica e às suas atividades, que são configuradas como fontes (provendo
 dados) ou como alvos (recebendo dados) em um projeto. Como referência, o diagrama abaixo mostra a relação entre os
 conectores, as conexões, as atividades e os *endpoints*:
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project/connectivity-terms_annotated_pp.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project/connectivity-terms_annotated_pp.png)
 
 ### <span id="CloudStudioQuickStartGuide-create-operation-steps" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Criando Etapas de Operação {#CloudStudioQuickStartGuide-create-operation-steps}
 
@@ -141,9 +127,7 @@ uma conexão e ver os seus tipos de atividade.
 Para criar uma instância de uma atividade, coloque um tipo de atividade no design canvas. Você pode fazer isso ao
 arrastá-la e soltá-la, ou ao copiá-la para dentro de uma operação ou de uma área de inserção de componentes.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/project/create-activity-instance.gif"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/project/create-activity-instance.gif)
 
 Quando uma atividade estiver criada, você pode dar um duplo clique sobre ela para configurá-la, de acordo com a
 descrição de cada atividade específica encontrada em [Conectores](https://success.jitterbit.com/display/CS/Connectors?showLanguage=pt_BR).
@@ -158,9 +142,7 @@ Para adicionar uma nova *transformation* ou *script* diretamente a uma operaçã
 clique no menu de ações sobre uma área de inserção de componentes e selecione **New Script** (Novo *Script*) ou
 **New Transformation** (Nova *Transformation*):
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/design-canvas/drop-zone_component_actions-menu.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/design-canvas/drop-zone_component_actions-menu.png)
 
 Quando você adiciona um *script* ou uma *transformation*, a tela de configuração dele abre automaticamente. Para
 mais detalhes sobre estas configurações, leia [Scripts](https://success.jitterbit.com/display/CS/Scripts?showLanguage=pt_BR) e
@@ -173,14 +155,10 @@ execução de outras operações, enviem e-mails, ou escrevam mensagens no regis
 operação.
 
 Para configurar estas ações, clique no menu de ações, no ícone
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/common/icons/actions-menu_21.png"
-class="confluence-embedded-image confluence-external-resource"></span> na parte superior direita de uma operação e
+![](https://docs-source.jitterbit.com/common/icons/actions-menu_21.png) na parte superior direita de uma operação e
 selecione **Settings** (Configurações):
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/design-canvas/operation_settings.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/design-canvas/operation_settings.png)
 
 Na aba **Actions** (Ações) das configurações, selecione a condição que deverá dar início à ação, qual ação deverá
 ser tomada, bem como quaisquer parâmetros adicionais que forem necessários, como qual outra operação deve ser
@@ -191,21 +169,15 @@ Quando estas ações estiverem configuradas, vão aparecer linhas no design canv
 ações que estão configuradas para executar em caso de sucesso (linha verde) ou falha (linha vermelha) da operação.
 Quando uma operação é iniciada com base em ações de operação, dizemos que ela está abaixo da outra na cadeia.
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/design-canvas/operation_chain_script.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/design-canvas/operation_chain_script.png)
 
 ### <span id="CloudStudioQuickStartGuide-deploy-and-run" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Implantando e Executando Operações
 
 Depois que você desenvolve uma cadeia de operações, você a implanta em um Harmony Agent e a executa. Para implantar
 e executar uma operação, clique no ícone implantar-e-executar
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/common/icons/deploy-and-run.png"
-class="confluence-embedded-image confluence-external-resource"></span> na parte superior direita da operação:
+![](https://docs-source.jitterbit.com/common/icons/deploy-and-run.png) na parte superior direita da operação:
 
-<span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/cs/design-canvas/operation_deploy-and-run.png"
-class="confluence-embedded-image confluence-external-resource"></span>
+![](https://docs-source.jitterbit.com/cs/design-canvas/operation_deploy-and-run.png)
 
 Quaisquer operações que estiverem abaixo na cadeia que está sendo implantada e executada também serão incluídas.
 
@@ -215,9 +187,7 @@ Operações](https://success.jitterbit.com/display/CS/Operation+Deployment+and+E
 
 Depois que as operações são executadas, você pode confirmar se o comportamento delas está correto verificando os
 registros. Para ver os registros de uma operação em particular e todas as que estão abaixo dela na cadeia, clique no
-ícone do menu de ações <span class="confluence-embedded-file-wrapper"><img
-src="https://docs-source.jitterbit.com/common/icons/actions-menu_21.png"
-class="confluence-embedded-image confluence-external-resource"></span>, na parte superior
+ícone do menu de ações ![](https://docs-source.jitterbit.com/common/icons/actions-menu_21.png), na parte superior
 direita de uma operação, e selecione **View Logs** (Ver Registros). Para mais informações, veja [Registros de
 Operação](https://success.jitterbit.com/display/CS/Operation+Logs?showLanguage=pt_BR).
 
