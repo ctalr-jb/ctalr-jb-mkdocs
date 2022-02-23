@@ -187,7 +187,7 @@ Preencha estes campos para configurar o seu primeiro ambiente:
     no formato exemplo abaixo:
 
     ```
-    https: //&lt;OrgName&ID&gt;.jitterbit.org/&lt;API-URL-Prefix&gt;/API-Version/API-Public-Name
+    https://&lt;OrgName&ID&gt;.jitterbit.org/&lt;API-URL-Prefix&gt;/API-Version/API-Public-Name
     ```
 
 -   **Cloud Agent Group** (Grupo de Agentes em Nuvem): Presente apenas
