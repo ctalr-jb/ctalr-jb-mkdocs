@@ -59,7 +59,7 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 
 <div class="confluence-information-macro-body">
 
-**NOTA:** Você precisa ter feito* login *na sua conta da <a href="https://community.jitterbit.com/s/" class="external-link"
+**NOTA:** Você precisa ter feito *login* na sua conta da <a href="https://community.jitterbit.com/s/" class="external-link"
 rel="nofollow">Jitterbit
 Community</a> para poder acessar a seção <a href="https://community.jitterbit.com/s/support"
 class="external-link" rel="nofollow">Support</a> da comunidade.
