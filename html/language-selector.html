@@ -13,16 +13,25 @@
         case "pt_BR":
           languageText = "Língua";
           break;
-        case "es_ES":
-          languageText = "Idioma";
-          break;
+        //case "es_ES":
+        //  languageText = "Idioma";
+        //  break;
         default:
           languageSelected = "en_US";
       }
       document.getElementById("languageButton_"+languageSelected).classList.add("aui-button-primary");
     }
     else if (browserLanguage) {
-      document.getElementById("languageButton_"+browserLanguage).classList.add("aui-button-primary");
+      let browserLanguageSelected = browserLanguage;
+      switch(browserLanguageSelected) {
+        case "pt_BR":
+          break;
+        //case "es_ES":
+        //  break;
+        default:
+          browserLanguageSelected = "en_US";
+      }
+      document.getElementById("languageButton_"+browserLanguageSelected).classList.add("aui-button-primary");
     }
     else {
       document.getElementById("languageButton_en_US").classList.add("aui-button-primary");
