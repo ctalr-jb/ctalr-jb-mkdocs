@@ -41,9 +41,9 @@ Na ponta direita de cada linha da tabela de organizações ficam as
 meio de um clique no menu *dropdown* **Action** (Ação):
 
 <span class="confluence-embedded-file-wrapper"><img
-src="https://success.jitterbit.com//download/attachments/56198389/image2017-6-2_9-50-19.png?version=1&amp;modificationDate=1599683280927&amp;api=v2"
+src="https://success.jitterbit.com/download/attachments/56198389/image2017-6-2_9-50-19.png?version=1&amp;modificationDate=1599683280927&amp;api=v2"
 class="confluence-embedded-image"
-data-image-src="https://success.jitterbit.com//download/attachments/56198389/image2017-6-2_9-50-19.png?version=1&amp;modificationDate=1599683280927&amp;api=v2"
+data-image-src="https://success.jitterbit.com/download/attachments/56198389/image2017-6-2_9-50-19.png?version=1&amp;modificationDate=1599683280927&amp;api=v2"
 data-unresolved-comment-count="0" data-linked-resource-id="113921285"
 data-linked-resource-version="1" data-linked-resource-type="attachment"
 data-linked-resource-default-alias="image2017-6-2_9-50-19.png"
