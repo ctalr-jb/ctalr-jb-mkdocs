@@ -183,11 +183,11 @@ Preencha estes campos para configurar o seu primeiro ambiente:
 
 -   **API URL Prefix** (Prefixo da URL da API): Coloque um prefixo que
     se tornará parte da URL da sua API (administrada pelo [API
-    Manager](https://success.jitterbit.com/display/DOC/API+Manager?showLanguage=pt_BR)). O **API URL Prefix** substituirá `&lt;API-URL-Prefix&gt;`
+    Manager](https://success.jitterbit.com/display/DOC/API+Manager?showLanguage=pt_BR)). O **API URL Prefix** substituirá `<API-URL-Prefix>`
     no formato exemplo abaixo:
 
     ```
-    https://&lt;OrgName&ID&gt;.jitterbit.org/&lt;API-URL-Prefix&gt;/API-Version/API-Public-Name
+    https: //&lt;OrgName&ID&gt;.jitterbit.org/&lt;API-URL-Prefix&gt;/API-Version/API-Public-Name
     ```
 
 -   **Cloud Agent Group** (Grupo de Agentes em Nuvem): Presente apenas
