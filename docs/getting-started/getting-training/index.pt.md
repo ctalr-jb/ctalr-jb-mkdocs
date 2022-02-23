@@ -1,4 +1,4 @@
-# COMO RECEBER TREINAMENTO
+# Como Receber Treinamento
 
 [//]: # (This is a translation of Version 42, published on January 27, 2022.)
 
