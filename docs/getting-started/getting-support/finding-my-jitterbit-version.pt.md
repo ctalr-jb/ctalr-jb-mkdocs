@@ -8,8 +8,8 @@ Jitterbit.
 
 As aplicações em nuvem do Harmony que são acessadas diretamente pelo
 [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal) sempre usam a versão mais recente
-disponível. Quando você [entrar em contato com o suporte](https://success.jitterbit.com/display/DOC/Using+the+Jitterbit+Support+Portal) a
-respeito de problemas com esses produtos, informe a URL, a data e a hora
+disponível. Quando você [entrar em contato com o suporte](https://success.jitterbit.com/display/DOC/Using+the+Jitterbit+Support+Portal)
+a respeito de problemas com esses produtos, informe a URL, a data e a hora
 em que eles foram acessados.
 
 Aplicações da Jitterbit que são instaladas, localmente ou na nuvem, têm
