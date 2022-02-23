@@ -18,7 +18,7 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 
 <div class="confluence-information-macro-body">
 
-**NOTA**: Para ver os requisitos de sistema de outros produtos
+**NOTA:** Para ver os requisitos de sistema de outros produtos
 Jitterbit não incluídos com o Harmony, veja [Data Loader](https://success.jitterbit.com/display/DOC/Data+Loader?showLanguage=pt_BR) e
 [Legacy Version 5.x](https://success.jitterbit.com/display/DOC/Legacy+Version+5.x?showLanguage=pt_BR).
 
@@ -82,7 +82,7 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 
 <div class="confluence-information-macro-body">
 
-**NOTA**: Uma outra opção para o* design *de projetos é usar o [Cloud
+**NOTA:** Uma outra opção para o* design *de projetos é usar o [Cloud
 Studio](https://success.jitterbit.com/display/CS/Cloud+Studio?showLanguage=pt_BR), nossa próxima geração de* designer *de projetos com uma
 experiência de usuário moderna e colaborativa baseado na nuvem.
 
@@ -176,7 +176,7 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 
 <div class="confluence-information-macro-body">
 
-**NOTA**: A Jitterbit não testa nem suporta versões de* software *que
+**NOTA:** A Jitterbit não testa nem suporta versões de* software *que
 não são mais suportadas pela Microsoft.
 
 </div>

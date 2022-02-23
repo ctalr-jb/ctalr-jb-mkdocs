@@ -7,14 +7,14 @@ Esta página mostra como encontrar o número da versão dos produtos
 Jitterbit.
 
 As aplicações em nuvem do Harmony que são acessadas diretamente pelo
-[Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal) sempre usam a versão mais recente
-disponível. Quando você [entrar em contato com o suporte](https://success.jitterbit.com/display/DOC/Using+the+Jitterbit+Support+Portal)
+[Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal?showLanguage=pt_BR) sempre usam a versão mais recente
+disponível. Quando você [entrar em contato com o suporte](https://success.jitterbit.com/display/DOC/Using+the+Jitterbit+Support+Portal?showLanguage=pt_BR)
 a respeito de problemas com esses produtos, informe a URL, a data e a hora
 em que eles foram acessados.
 
 Aplicações da Jitterbit que são instaladas, localmente ou na nuvem, têm
 uma versão associada que nós recomendamos que você informe ao [entrar
-em contato com o suporte](https://success.jitterbit.com/display/DOC/Using+the+Jitterbit+Support+Portal). Isto inclui os Cloud Agents e Private
+em contato com o suporte](https://success.jitterbit.com/display/DOC/Using+the+Jitterbit+Support+Portal?showLanguage=pt_BR). Isto inclui os Cloud Agents e Private
 Agents , o Data Loader, o Design Studio (a partir do 7.x), e o Jitterbit
 Studio (5.x).
 
@@ -22,7 +22,7 @@ Studio (5.x).
 ## Aplicações em Nuvem do Harmony
 
 As aplicações em nuvem do Harmony são aquelas que são acessadas
-diretamente pelo [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal). Estas aplicações
+diretamente pelo [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal?showLanguage=pt_BR). Estas aplicações
 sempre usam a versão mais recente disponível.
 
 
@@ -30,7 +30,7 @@ sempre usam a versão mais recente disponível.
 
 ### Cloud Agents
 
-Faça *login* no [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal), daí clique no menu do
+Faça *login* no [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal?showLanguage=pt_BR), daí clique no menu do
 Harmony Portal no canto superior esquerdo:
 
 <span class="confluence-embedded-file-wrapper"><img
@@ -48,10 +48,10 @@ data-linked-resource-container-version="26" /></span>
 A partir do menu, paire o mouse sobre **Management Console** \>
 **Agents** e selecione **Agent Groups** (Grupos de Agentes). O número da
 versão está incluído na **Description** (Descrição) do Agent Group
-dentro da tabela. Existem dois [Cloud Agent Groups](https://success.jitterbit.com/display/DOC/Cloud+Agent+Groups) diferentes
+dentro da tabela. Existem dois [Cloud Agent Groups](https://success.jitterbit.com/display/DOC/Cloud+Agent+Groups?showLanguage=pt_BR) diferentes
 disponíveis: um da **Jitterbit Production** e um da **Jitterbit
 Sandbox**. Visto que eles estão em [agendas de lançamento
-diferentes](https://success.jitterbit.com/display/DOC/Cloud+Agent+Groups), suas versões podem variar:
+diferentes](https://success.jitterbit.com/display/DOC/Cloud+Agent+Groups?showLanguage=pt_BR), suas versões podem variar:
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://success.jitterbit.com/download/attachments/57803016/Screen%20Shot%202018-09-07%20at%2011.25.20%20AM.png?version=1&amp;modificationDate=1536345136310&amp;api=v2"
@@ -85,7 +85,7 @@ data-linked-resource-container-version="26" /></span>
 
 A partir do menu, paire o mouse sobre **Management Console** \>
 **Agents** e selecione **Agents** (Agentes). O número da versão do
-[Private Agent](https://success.jitterbit.com/display/DOC/Private+Agents) está incluído dentro da tabela:
+[Private Agent](https://success.jitterbit.com/display/DOC/Private+Agents?showLanguage=pt_BR) está incluído dentro da tabela:
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://success.jitterbit.com/download/attachments/57803016/Screen%20Shot%202018-09-07%20at%2011.28.35%20AM.png?version=3&amp;modificationDate=1536345409899&amp;api=v2"

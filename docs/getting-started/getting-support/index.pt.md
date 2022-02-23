@@ -7,27 +7,27 @@
 Existem algumas formas diferentes de receber ajuda, dependendo da sua
 situação e das suas exigências:
 
--   Se você for cliente BMC, veja a [Central de Suporte BMC](https://success.jitterbit.com/download/DOC/BMC+Customer+Support).
+-   Se você for cliente BMC, veja a [Central de Suporte BMC](https://success.jitterbit.com/display/DOC/BMC+Customer+Support?showLanguage=pt_BR).
 
 -   Se você for cliente Jitterbit, você pode:
 
     -   [Enviar uma solicitação de suporte usando o Jitterbit Support
-        Portal (Portal de Suporte Jitterbit)](#GettingSupport-SubmittingaSupportCaseusingtheJitterbitSupportPortal).
+        Portal (Portal de Suporte Jitterbit)](https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR#GettingSupport-SubmittingaSupportCaseusingtheJitterbitSupportPortal).
 
-    -   [Enviar uma solicitação de suporte usando e-mail](#GettingSupport-submitting-a-support-case-using-email).
+    -   [Enviar uma solicitação de suporte usando e-mail](https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR#GettingSupport-submitting-a-support-case-using-email).
 
     -   [Pedir ajuda na Jitterbit Community (Comunidade
-        Jitterbit)](#GettingSupport-AskingJitterbitCommunityforAssistance).
+        Jitterbit)](https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR#GettingSupport-AskingJitterbitCommunityforAssistance).
 
-    -   [Sugerir uma ideia usando a Jitterbit Community](#GettingSupport-SuggestinganIdeaUsingJitterbitCommunity).
+    -   [Sugerir uma ideia usando a Jitterbit Community](https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR#GettingSupport-SuggestinganIdeaUsingJitterbitCommunity).
 
 -   Se você tiver uma situação urgente em que a produção parou, veja
-    [Situações de Interrupção da Produção](#GettingSupport-ProductionDownSituations).
+    [Situações de Interrupção da Produção](https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR#GettingSupport-ProductionDownSituations).
 
 -   Se você for usuário(a) do nosso produto gratuito Data Loader, você
-    pode [solicitar ajuda do Data Loader](#GettingSupport-GetSupportforDataLoader).
+    pode [solicitar ajuda do Data Loader](https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR#GettingSupport-GetSupportforDataLoader).
 
--   O [*status* do sistema da Jitterbit](#GettingSupport-JitterbitSystemStatus) está disponível no
+-   O [*status* do sistema da Jitterbit](https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR#GettingSupport-JitterbitSystemStatus) está disponível no
     Jitterbit Trust Site.
 
 <div
@@ -41,7 +41,7 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 <div class="confluence-information-macro-body">
 
 **NOTA:** Se você for cliente BMC, veja a [Central de Suporte
-BMC](https://success.jitterbit.com/download/DOC/BMC+Customer+Support).
+BMC](https://success.jitterbit.com/display/DOC/BMC+Customer+Support?showLanguage=pt_BR).
 
 </div>
 
@@ -58,7 +58,7 @@ class="aui-icon aui-icon-small aui-iconfont-error confluence-information-macro-i
 <div class="confluence-information-macro-body">
 
 **ALERTA:** Se você tiver uma situação urgente em que a produção parou,
-veja a seção [Situações de Interrupção da Produção](#GettingSupport-Production-downSituations) mais abaixo
+veja a seção [Situações de Interrupção da Produção](https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR#GettingSupport-Production-downSituations) mais abaixo
 nesta mesma página.
 
 </div>
@@ -104,7 +104,7 @@ href="https://community.jitterbit.com/s/login/?startURL=%2Fs%2Fsupport"
 class="external-link" rel="nofollow">Support Portal</a> ficará disponível. No Support Portal, você pode
 criar novas solicitações e visualizar o seu histórico de solicitações.
 
-Veja o artigo [Como Usar o Jitterbit Support Portal](https://success.jitterbit.com/download/DOC/Using+the+Jitterbit+Support+Portal) para saber
+Veja o artigo [Como Usar o Jitterbit Support Portal](https://success.jitterbit.com/display/DOC/Using+the+Jitterbit+Support+Portal?showLanguage=pt_BR) para saber
 mais detalhes.
 
 
@@ -214,7 +214,7 @@ width="180" /></span></a>
 
 ## Como Receber Ajuda com o Data Loader
 
-Para aqueles que usam o [Data Loader](https://success.jitterbit.com/download/DOC/Data+Loader), nossa ferramenta de migração
+Para aqueles que usam o [Data Loader](https://success.jitterbit.com/display/DOC/Data+Loader?showLanguage=pt_BR), nossa ferramenta de migração
 gratuita para a Salesforce, acesse a <a href="https://dataloader.jitterbit.com" class="external-link"
 rel="nofollow">Data Loader Community</a>
 (Comunidade do Data Loader) para ver postagens e comentários ou para
@@ -239,4 +239,4 @@ Verifique em tempo real o *status* do sistema da Jitterbit no nosso
 rel="nofollow">Jitterbit Trust Site</a>. Você pode se inscrever para receber
 atualizações no Trust Site para que você seja avisado(a) sobre mudanças
 no *status* do sistema, manutenções ou quedas. Para informações
-adicionais, veja [Notificações do Status do Sistema](https://success.jitterbit.com/download/DOC/System+Status+Notifications).
+adicionais, veja [Notificações do Status do Sistema](https://success.jitterbit.com/display/DOC/System+Status+Notifications?showLanguage=pt_BR).

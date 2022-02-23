@@ -5,7 +5,7 @@
 
 Toda organização Harmony tem um ID de organização associado a ela. Nós
 recomendamos que você forneça o ID da sua organização quando [entrar
-em contato com o suporte](https://success.jitterbit.com/display/DOC/Using+the+Jitterbit+Support+Portal).
+em contato com o suporte](https://success.jitterbit.com/display/DOC/Using+the+Jitterbit+Support+Portal?showLanguage=pt_BR).
 
 
 ## Organização Selecionada

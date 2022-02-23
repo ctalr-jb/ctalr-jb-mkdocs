@@ -58,10 +58,10 @@ Para se registrar e acessar o Jitterbit Harmony, siga estes passos:
 
 3.  Uma vez registrado(a), você consegue fazer o seu *login* no
     [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal?showLanguage=pt_BR) em
-    [https://login.jitterbit.com](https://login.jitterbit.com./).
+    [https://login.jitterbit.com](https://login.jitterbit.com/).
 
 4.  Para ver os passos seguintes, complete o assistente [Harmony Quick
-    Start](#JitterbitAdminQuickStartTutorial-harmony-quick-start) e [convide membros do time](#JitterbitAdminQuickStartTutorial-invite-team-members).
+    Start](https://success.jitterbit.com/display/DOC/Jitterbit+Admin+Quick+Start+Tutorial?showLanguage=pt_BR#JitterbitAdminQuickStartTutorial-harmony-quick-start) e [convide membros do time](https://success.jitterbit.com/display/DOC/Jitterbit+Admin+Quick+Start+Tutorial?showLanguage=pt_BR#JitterbitAdminQuickStartTutorial-invite-team-members).
 
 
 ## <span id="JitterbitAdminQuickStartTutorial-harmony-quick-start" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Harmony Quick Start

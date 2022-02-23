@@ -18,7 +18,7 @@ class="aui-icon aui-icon-small aui-iconfont-approve confluence-information-macro
 
 <div class="confluence-information-macro-body">
 
-**NOTA**: A equipe da Jitterbit está constantemente construindo novas
+**NOTA:** A equipe da Jitterbit está constantemente construindo novas
 conexões com novas aplicações; se você não encontrar a sua aplicação,
 <a href="https://www.jitterbit.com/contact/" class="external-link"
 rel="nofollow">fale conosco</a>.

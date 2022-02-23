@@ -8,14 +8,14 @@ Esta página oferece uma visão geral das oportunidades de treinamento
 disponíveis na Jitterbit. Nossos treinamentos podem ser divididos nos
 seguintes tipos:
 
--   [Jitterbit University](#GettingTraining-jitterbit-university) (Universidade Jitterbit)
+-   [Jitterbit University](https://success.jitterbit.com/display/DOC/Getting+Training?showLanguage=pt_BR#GettingTraining-jitterbit-university) (Universidade Jitterbit)
 
--   [Jitterbit Tech Talks](#GettingTraining-jitterbit-tech-talks)
+-   [Jitterbit Tech Talks](https://success.jitterbit.com/display/DOC/Getting+Training?showLanguage=pt_BR#GettingTraining-jitterbit-tech-talks)
 
--   [Jitterbit Microlearning Tutorials](#GettingTraining-jitterbit-microlearning-tutorials) (Tutoriais de Micro
+-   [Jitterbit Microlearning Tutorials](https://success.jitterbit.com/display/DOC/Getting+Training?showLanguage=pt_BR#GettingTraining-jitterbit-microlearning-tutorials) (Tutoriais de Micro
     Aprendizagem Jitterbit)
 
--   [Jitterbit Process Template Tutorials](#GettingTraining-jitterbit-process-template-tutorials) (Tutoriais de
+-   [Jitterbit Process Template Tutorials](https://success.jitterbit.com/display/DOC/Getting+Training?showLanguage=pt_BR#GettingTraining-jitterbit-process-template-tutorials) (Tutoriais de
     *Templates* de Processo Jitterbit)
 
 Por oferecer uma variedade de oportunidades de treinamento em vários
@@ -37,7 +37,7 @@ A Jitterbit University é auto-guiada, então você pode completar os
 cursos de treinamento no seu próprio ritmo. Quando você tiver completado
 esses cursos de treinamento, você talvez se interesse pela nossa série
 Tech Talk, cujas sessões gravadas estão disponíveis em
-[Jitterbit Tech Talks](https://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks).
+[Jitterbit Tech Talks](https://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks?showLanguage=pt_BR).
 
 O vídeo abaixo dá uma visão geral da Jitterbit University:
 
@@ -110,29 +110,29 @@ data-linked-resource-container-version="42" /></span>
 
 Cursos focados no Jitterbit Harmony Cloud Studio:
 
--   [Introdução ao Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio)
+-   [Introdução ao Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio?showLanguage=pt_BR)
 
--   [Introdução ao Uso de *Scripts* no Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+Scripting+in+Cloud+Studio)
+-   [Introdução ao Uso de *Scripts* no Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+Scripting+in+Cloud+Studio?showLanguage=pt_BR)
 
--   [Mapeamento Avançado de *Transformations* no Cloud Studio](https://success.jitterbit.com/display/DOC/Advanced+Transformation+Mappings+in+Cloud+Studio)
+-   [Mapeamento Avançado de *Transformations* no Cloud Studio](https://success.jitterbit.com/display/DOC/Advanced+Transformation+Mappings+in+Cloud+Studio?showLanguage=pt_BR)
 
 Cursos focados no Jitterbit Harmony Cloud Studio:
 
--   [Introdução ao Design Studio](https://success.jitterbit.com/display/DOC/Introduction+to+Design+Studio)
+-   [Introdução ao Design Studio](https://success.jitterbit.com/display/DOC/Introduction+to+Design+Studio?showLanguage=pt_BR)
 
--   [Introdução ao Uso de *Scripts* no Design Studio](https://success.jitterbit.com/display/DOC/Introduction+to+Scripting+in+Design+Studio)
+-   [Introdução ao Uso de *Scripts* no Design Studio](https://success.jitterbit.com/display/DOC/Introduction+to+Scripting+in+Design+Studio?showLanguage=pt_BR)
 
--   [Mapeamento Avançado de *Transformations* no Design Studio](https://success.jitterbit.com/display/DOC/Advanced+Transformation+Mappings+in+Design+Studio)
+-   [Mapeamento Avançado de *Transformations* no Design Studio](https://success.jitterbit.com/display/DOC/Advanced+Transformation+Mappings+in+Design+Studio?showLanguage=pt_BR)
 
--   [Criação e Gerenciamento de APIs](https://success.jitterbit.com/display/DOC/API+Creation+and+Management+Training+Course)
+-   [Criação e Gerenciamento de APIs](https://success.jitterbit.com/display/DOC/API+Creation+and+Management+Training+Course?showLanguage=pt_BR)
 
--   [Como se Conectar com a Salesforce](https://success.jitterbit.com/display/DOC/Connecting+to+Salesforce)
+-   [Como se Conectar com a Salesforce](https://success.jitterbit.com/display/DOC/Connecting+to+Salesforce?showLanguage=pt_BR)
 
 Cursos focados no Jitterbit Harmony:
 
--   [Administração Organizacional Jitterbit](https://success.jitterbit.com/display/DOC/Jitterbit+Organizational+Administration)
+-   [Administração Organizacional Jitterbit](https://success.jitterbit.com/display/DOC/Jitterbit+Organizational+Administration?showLanguage=pt_BR)
 
--   [Criação de *Plugins* Jitterbit](https://success.jitterbit.com/display/DOC/Jitterbit+Plugin+Creation)
+-   [Criação de *Plugins* Jitterbit](https://success.jitterbit.com/display/DOC/Jitterbit+Plugin+Creation?showLanguage=pt_BR)
 
 
 ## <span id="GettingTraining-jitterbit-tech-talks" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Jitterbit Tech Talks
@@ -144,7 +144,7 @@ Erros” até “API Proxy” e muito mais, os Jitterbit Tech Talks são uma
 ótima ferramenta para analisar mais profundamente a plataforma
 Jitterbit. Como estão organizados por tópico, eles são uma forma
 eficiente de encontrar respostas para uma pergunta específica. As
-sessões gravadas estão disponíveis na página <a href="https://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks"
+sessões gravadas estão disponíveis na página <a href="https://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks?showLanguage=pt_BR"
 rel="nofollow">Jitterbit Tech
 Talks</a>.
 
@@ -155,7 +155,7 @@ treinamento com vídeos curtos que permitem que você configure a conexão
 de uma operação simples. Simples e direto ao ponto, assista a estes
 vídeos caso tenha apenas alguns minutos ou se tiver uma pergunta
 relacionada a um conector específico. Estes tutoriais estão disponíveis
-na página dos [Tutoriais de Micro Aprendizagem Jitterbit](https://success.jitterbit.com/display/DOC/Jitterbit+Microlearning+Tutorials).
+na página dos [Tutoriais de Micro Aprendizagem Jitterbit](https://success.jitterbit.com/display/DOC/Jitterbit+Microlearning+Tutorials?showLanguage=pt_BR).
 
 ### <span style="color: rgb(85,46,155);"> <span id="GettingTraining-jitterbit-process-template-tutorials" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Tutoriais de *Templates* de Processo Jitterbit
 
@@ -164,7 +164,7 @@ tutoriais para configurar e usar os *Templates* de Processo Jitterbit.
 Com instruções detalhadas sobre *templates* de processo específicos,
 estes tutoriais são detalhados e podem ajudar você a criar *templates*
 de processo de forma efetiva. Estes tutoriais estão disponíveis na
-página [*Templates* de Processo do Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+Process+Templates).
+página [*Templates* de Processo do Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+Process+Templates?showLanguage=pt_BR).
 
 
 ## Informação Adicional
@@ -172,5 +172,5 @@ página [*Templates* de Processo do Cloud Studio](https://success.jitterbit.com/
 Se você tiver perguntas relacionadas ao material de curso da Jitterbit
 University, a um Tech Talk ou a um vídeo de treinamento, envie um e-mail
 para [training@jitterbit.com](mailto:training@jitterbit.com).
-Para mais suporte, visite a página <a href="https://success.jitterbit.com/display/DOC/Getting+Support"
+Para mais suporte, visite a página <a href="https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR"
 rel="nofollow">Como Receber Ajuda</a>.

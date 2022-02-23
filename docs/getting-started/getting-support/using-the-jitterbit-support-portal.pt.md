@@ -80,8 +80,8 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 
 **NOTA:** Para a sua conveniência, você também pode enviar uma
 solicitação por e-mail. Consulte a seção sobre como [enviar uma
-solicitação de suporte usando e-mail](https://success.jitterbit.com/display/DOC/Getting+Support) no artigo [Como Receber
-Ajuda](https://success.jitterbit.com/display/DOC/Getting+Support).
+solicitação de suporte usando e-mail](https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR) no artigo [Como Receber
+Ajuda](https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR).
 
 </div>
 
@@ -146,7 +146,7 @@ aparece com as informações pedidas:
 
 -   **Jitterbit Version** (Versão da Jitterbit): Coloque a versão que
     você está usando no campo **Jitterbit Version**. Visite a página
-    [Descobrindo a Minha Versão Jitterbit](https://success.jitterbit.com/display/DOC/Finding+My+Jitterbit+Version) para receber
+    [Descobrindo a Minha Versão Jitterbit](https://success.jitterbit.com/display/DOC/Finding+My+Jitterbit+Version?showLanguage=pt_BR) para receber
     instruções sobre como identificar qual versão da Jitterbit você
     está usando no momento.
 

@@ -5,7 +5,7 @@
 
 A Jitterbit usa servidores em regiões separadas para NA (América do
 Norte), EMEA (Europa, Oriente Médio e África/Ásia/Austrália) e APAC
-(Ásia-Pacífico). A região é atrelada a uma [organização](https://success.jitterbit.com/display/DOC/Organizations) Harmony e
+(Ásia-Pacífico). A região é atrelada a uma [organização](https://success.jitterbit.com/display/DOC/Organizations?showLanguage=pt_BR) Harmony e
 não a um usuário específico. Um usuário pode fazer parte de várias
 organizações, desde que todas as organizações sejam na mesma região.
 

@@ -15,34 +15,34 @@ todas elas.
 
 As seguintes páginas estão incluídas neste tópico:
 
--   **[*Whitepaper* da Segurança e Arquitetura Jitterbit](https://success.jitterbit.com/display/DOC/Jitterbit+Security+and+Architecture+White+Paper)**<br>
+-   **[*Whitepaper* da Segurança e Arquitetura Jitterbit](https://success.jitterbit.com/display/DOC/Jitterbit+Security+and+Architecture+White+Paper?showLanguage=pt_BR)**<br>
     Reveja os detalhes da segurança lógica, física e organizacional da
     Jitterbit.
 
--   **[Recursos de Segurança Jitterbit](https://success.jitterbit.com/display/DOC/Jitterbit+Security+Features)**<br>
+-   **[Recursos de Segurança Jitterbit](https://success.jitterbit.com/display/DOC/Jitterbit+Security+Features?showLanguage=pt_BR)**<br>
     Veja um resumo dos recursos de segurança da nuvem, dos *datacenters* e
     da rede do Jitterbit Harmony.
 
--   **[Controles de Senha Jitterbit](https://success.jitterbit.com/display/DOC/Jitterbit+Password+Controls)**<br>
+-   **[Controles de Senha Jitterbit](https://success.jitterbit.com/display/DOC/Jitterbit+Password+Controls?showLanguage=pt_BR)**<br>
     Descubra como a Jitterbit controla o acesso à sua organização via
     administração por meio do Management Console.
 
--   **[Permissões e Acesso do Jitterbit Harmony](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Permissions+and+Access)**<br>
+-   **[Permissões e Acesso do Jitterbit Harmony](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Permissions+and+Access?showLanguage=pt_BR)**<br>
     Use uma matriz de permissões de funções organizacionais e níveis de
     acesso ambientais para determinar quais áreas do Jitterbit Harmony um
     membro pode acessar.
 
--   **[Informações sobre *Whitelists*](https://success.jitterbit.com/display/DOC/Whitelist+Information)**<br>
+-   **[Informações sobre *Whitelists*](https://success.jitterbit.com/display/DOC/Whitelist+Information?showLanguage=pt_BR)**<br>
     Descubra como utilizar uma *whitelist* (lista de permissões) com os
-    [Agents](https://success.jitterbit.com/display/DOC/Agents) e com o [Design Studio](https://success.jitterbit.com/display/DOC/Design+Studio).
+    [Agents](https://success.jitterbit.com/display/DOC/Agents?showLanguage=pt_BR) e com o [Design Studio](https://success.jitterbit.com/display/DOC/Design+Studio?showLanguage=pt_BR).
 
--   **[Certificação ISO 27001 e ISO 27017](https://success.jitterbit.com/display/DOC/ISO+27001+and+ISO+27017+Certification)**<br>
+-   **[Certificação ISO 27001 e ISO 27017](https://success.jitterbit.com/display/DOC/ISO+27001+and+ISO+27017+Certification?showLanguage=pt_BR)**<br>
     Leia mais sobre as certificações ISO do Information Security
     Management System (Sistema de Gerenciamento de Segurança da
     Informação) da Jitterbit.
 
 -   **[Melhores Práticas para Administradores, Construtores de Projeto
-    e Especialistas de Integração](https://success.jitterbit.com/display/DOC/Security+Best+Practices+for+Administrators%2C+Project+Builders%2C+and+Integration+Specialists)**<br>
+    e Especialistas de Integração](https://success.jitterbit.com/display/DOC/Security+Best+Practices+for+Administrators%2C+Project+Builders%2C+and+Integration+Specialists?showLanguage=pt_BR)**<br>
     Veja as recomendações e as melhores práticas para segurança.
 
 Os seguintes recursos adicionais relacionados à segurança também estão
@@ -58,10 +58,10 @@ disponíveis:
     Verifique informações em tempo real sobre a performance dos sistemas
     da Jitterbit por meio do nosso <a href="https://trust.jitterbit.com/" class="external-link"
     rel="nofollow">Trust site</a>. Você também pode se
-    [inscrever para receber notificações](https://success.jitterbit.com/display/DOC/System+Status+Notifications) por e-mail, mensagem de
+    [inscrever para receber notificações](https://success.jitterbit.com/display/DOC/System+Status+Notifications?showLanguage=pt_BR) por e-mail, mensagem de
     texto ou por *webhook*.
 
--   **[Segurança de APIs da Jitterbit](https://success.jitterbit.com/display/DOC/Harmony+API+Security)**<br>
+-   **[Segurança de APIs da Jitterbit](https://success.jitterbit.com/display/DOC/Harmony+API+Security?showLanguage=pt_BR)**<br>
     Aprenda a aplicar vários níveis de segurança para usar com a
     plataforma de APIs do Jitterbit Harmony.
 
@@ -116,7 +116,7 @@ página **Organizations** (Organizações) do Management Console. Os
 recursos de controle de senha são configurados para cada organização
 separadamente. Apenas um(a) Administrador(a) da organização tem acesso
 para revisar os controles de senha. Consulte a página
-[Organizações](https://success.jitterbit.com/display/DOC/Organizations) para ver detalhes específicos sobre os controles de
+[Organizações](https://success.jitterbit.com/display/DOC/Organizations?showLanguage=pt_BR) para ver detalhes específicos sobre os controles de
 senha.
 
 <div
@@ -129,8 +129,8 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 
 <div class="confluence-information-macro-body">
 
-**NOTA**: Controles de senha para organizações usando [*single
-sign-on (SSO)*](https://success.jitterbit.com/display/DOC/Single+Sign-On) são controlados por meio do Identity Provider.
+**NOTA:** Controles de senha para organizações usando [*single
+sign-on (SSO)*](https://success.jitterbit.com/display/DOC/Single+Sign-On?showLanguage=pt_BR) são controlados por meio do Identity Provider.
 
 </div>
 

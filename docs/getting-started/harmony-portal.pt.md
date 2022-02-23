@@ -5,12 +5,12 @@
 
 O *Jitterbit Harmony Portal* (ou, simplesmente Harmony Portal) é a
 interface baseada na web por onde você acessa as [aplicações
-Harmony](https://success.jitterbit.com/display/DOC/Getting+Started#GettingStarted-harmony-applications) baseadas na nuvem, incluindo o [Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio), o [API
-Manager](https://success.jitterbit.com/display/DOC/API+Manager), o [Marketplace](https://success.jitterbit.com/display/DOC/Marketplace), o [Management Console](https://success.jitterbit.com/display/DOC/Management+Console) e o
-[Citizen Integrator](https://success.jitterbit.com/display/DOC/Citizen+Integrator). Você também pode usar o Harmony Portal para
+Harmony](https://success.jitterbit.com/display/DOC/Getting+Started?showLanguage=pt_BR#GettingStarted-harmony-applications) baseadas na nuvem, incluindo o [Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio?showLanguage=pt_BR), o [API
+Manager](https://success.jitterbit.com/display/DOC/API+Manager?showLanguage=pt_BR), o [Marketplace](https://success.jitterbit.com/display/DOC/Marketplace?showLanguage=pt_BR), o [Management Console](https://success.jitterbit.com/display/DOC/Management+Console?showLanguage=pt_BR) e o
+[Citizen Integrator](https://success.jitterbit.com/display/DOC/Citizen+Integrator?showLanguage=pt_BR). Você também pode usar o Harmony Portal para
 baixar outras aplicações Harmony que precisam ser instaladas localmente,
-incluindo os [Private Agents](https://success.jitterbit.com/display/DOC/Private+Agents), o [Design Studio](https://success.jitterbit.com/display/DOC/Design+Studio) e o [Data
-Loader](https://success.jitterbit.com/display/DOC/Data+Loader).
+incluindo os [Private Agents](https://success.jitterbit.com/display/DOC/Private+Agents?showLanguage=pt_BR), o [Design Studio](https://success.jitterbit.com/display/DOC/Design+Studio?showLanguage=pt_BR) e o [Data
+Loader](https://success.jitterbit.com/display/DOC/Data+Loader?showLanguage=pt_BR).
 
 O Harmony Portal é acessível em
 [https://login.jitterbit.com](https://login.jitterbit.com/).
@@ -33,7 +33,7 @@ class="aui-icon aui-icon-small aui-iconfont-approve confluence-information-macro
 
 **NOTA**: Para mais informações sobre como se registrar no Harmony e
 como dar início ao seu primeiro projeto, consulte o [Manual Rápido
-para Administradores Jitterbit](https://success.jitterbit.com/display/DOC/Jitterbit+Admin+Quick+Start+Tutorial).
+para Administradores Jitterbit](https://success.jitterbit.com/display/DOC/Jitterbit+Admin+Quick+Start+Tutorial?showLanguage=pt_BR).
 
 </div>
 
@@ -62,7 +62,7 @@ data-linked-resource-container-version="30" /></span>
 A partir daqui, você pode acessar outras aplicações Harmony baseadas na
 nuvem e as páginas dentro delas. O *link* **Home** (Página Inicial) leva
 você de volta para a página inicial do Harmony. O *link* **Downloads**
-leva você até a página [Downloads](https://success.jitterbit.com/display/DOC/Downloads) que é comum a todas as
+leva você até a página [Downloads](https://success.jitterbit.com/display/DOC/Downloads?showLanguage=pt_BR) que é comum a todas as
 aplicações, e é onde você pode baixar outras aplicações Harmony.
 
 <span class="confluence-embedded-file-wrapper"><img
@@ -148,7 +148,7 @@ para registrar a sua conta Harmony não pode ser mudado. Este campo é
 usado quando você faz *login* no Harmony Portal, bem como para que
 outros convidem você para outras organizações Harmony. Se você quiser
 atualizar o seu endereço de e-mail, por favor [entre em contato com o
-suporte](https://success.jitterbit.com/display/DOC/Getting+Support).
+suporte](https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR).
 
 ### <span id="JitterbitHarmonyPortal-default-organization" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Organização Padrão
 
@@ -230,7 +230,7 @@ menu *dropdown* ao lado do seu nome e selecione **What’s New** (O Que Há
 de Novo). Fazer isto abrirá uma aba separada na Success Central
 resumindo os recursos, melhorias e mudanças dos novos lançamentos. Notas
 de lançamento detalhadas estão disponíveis em [Notas de
-Lançamento](https://success.jitterbit.com/display/DOC/Release+Notes).
+Lançamento](https://success.jitterbit.com/display/DOC/Release+Notes?showLanguage=pt_BR).
 
 <span class="confluence-embedded-file-wrapper"><img
 src="/download/attachments/81073027/image2021-7-6_16-35-24.png?version=1&amp;modificationDate=1625681986553&amp;api=v2"
