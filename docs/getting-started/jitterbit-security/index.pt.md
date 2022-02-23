@@ -1,4 +1,5 @@
-[//]: # (Segurança Jitterbit)
+# Segurança Jitterbit
+
 [//]: # (This is a translation of Version 17, published on September 20, 2021.)
 
 ## Visão Geral
