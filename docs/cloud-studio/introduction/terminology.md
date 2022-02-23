@@ -29,8 +29,8 @@ project components.
 ## <span id="CloudStudioTerminology-dependencies" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Dependencies
 
 Some project components may depend on other components to function properly. Two distinct phrases are used to
-discuss dependencies: *dependent on* and *dependency of*. In the following examples, Component A is ***dependent on*
-**Component B. Component B is ***a dependency of*** Component A:
+discuss dependencies: *dependent on* and *dependency of*. In the following examples, Component A is ***dependent on***
+Component B. Component B is ***a dependency of*** Component A:
 
 -   **Dependent on:** If a component is dependent on another component,
     it needs that component in order to function properly. A component

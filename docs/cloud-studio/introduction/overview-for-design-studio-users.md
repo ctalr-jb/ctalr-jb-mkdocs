@@ -39,7 +39,7 @@ data-image-src="https://docs-source.jitterbit.com/hp/landing/cards_cloud-studio_
 
 **Q:** *Can I use both design applications at the same time?*
 
-**A:** You can use Cloud Studio and Design Studio at the same time for *different*** projects. However, using them
+**A:** You can use Cloud Studio and Design Studio at the same time for *different* projects. However, using them
 for the same project is not possible.
 
 

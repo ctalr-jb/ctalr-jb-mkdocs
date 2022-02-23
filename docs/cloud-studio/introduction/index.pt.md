@@ -6,23 +6,19 @@ O Jitterbit Harmony Cloud Studio é a aplicação de *design* de projetos basead
 
 Para começar a usar o Cloud Studio, use este material introdutório como referência:
 
--   **[Guia de Início Rápido com o Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+Quick+Start+Guide?showLanguage=pt_BR)**
-
+-   **[Guia de Início Rápido com o Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+Quick+Start+Guide?showLanguage=pt_BR)**<br>
     Direcionado a novos usuários do Cloud Studio, este guia inclui os passos para começar e dá uma visão geral dos
     conceitos de *design* de projeto.
 
--   **[Perguntas Frequentes sobre o Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+FAQ?showLanguage=pt_BR)**
-
+-   **[Perguntas Frequentes sobre o Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+FAQ?showLanguage=pt_BR)**<br>
     Esta página responde a perguntas frequentes sobre o Cloud Studio.
 
 -   **[Visão Geral do Cloud Studio para Usuários do Design
-    Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+Overview+for+Design+Studio+Users?showLanguage=pt_BR)**
-
+    Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+Overview+for+Design+Studio+Users?showLanguage=pt_BR)**<br>
     Este documento tem por objetivo ajudar usuários existentes do Design Studio a fazer a transição para o Cloud
     Studio e inclui uma comparação das características principais.
 
--   **[Interface de Usuário do Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+User+Interface?showLanguage=pt_BR)**
-
+-   **[Interface de Usuário do Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+User+Interface?showLanguage=pt_BR)**<br>
     Quando você acessa o Cloud Studio, você chega ao índice de projetos, que contém um repositório de todos os seus
     projetos. Depois de abrir um projeto, você faz o *design* dele usando as ferramentas disponibilizadas pelo
     *designer* de projetos, incluindo a barra de ferramentas de projeto, painel de projeto, design canvas, e paleta
@@ -39,15 +35,13 @@ Para começar a usar o Cloud Studio, use este material introdutório como refer�
 
     -   **[Paleta de Componentes](https://success.jitterbit.com/display/CS/Component+Palette?showLanguage=pt_BR)**
 
--   **[Terminologia do Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology?showLanguage=pt_BR)**
-
+-   **[Terminologia do Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology?showLanguage=pt_BR)**<br>
     Esta página pode ajudar você a se familiarizar com a terminologia e os conceitos frequentemente usados. À medida
     que você for trabalhando com o Cloud Studio e usando a documentação, você pode achar útil voltar a esta página
     para usá-la como referência.
 
 -   **[Permissões, Colaboração e Salvamentos no Cloud
-    Studio](/cloud-studio/cloud-studio-permissions%2c-collaboration%2c-and-saving?showLanguage=pt_BR)**
-
+    Studio](/cloud-studio/cloud-studio-permissions%2c-collaboration%2c-and-saving?showLanguage=pt_BR)**<br>
     Esta página provê informações básicas sobre como trabalhar com o Cloud Studio, incluindo qual nível de acesso é
     dado por várias permissões, como funciona o processo de colaboração ao editar projetos simultaneamente com
     outros usuários, e como acontece o salvamento.
