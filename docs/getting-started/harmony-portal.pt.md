@@ -31,7 +31,7 @@ class="aui-icon aui-icon-small aui-iconfont-approve confluence-information-macro
 
 <div class="confluence-information-macro-body">
 
-**NOTA**: Para mais informações sobre como se registrar no Harmony e
+**DICA:** Para mais informações sobre como se registrar no Harmony e
 como dar início ao seu primeiro projeto, consulte o [Manual Rápido
 para Administradores Jitterbit](https://success.jitterbit.com/display/DOC/Jitterbit+Admin+Quick+Start+Tutorial?showLanguage=pt_BR).
 
