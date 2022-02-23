@@ -144,7 +144,7 @@ everything in between, Jitterbit Tech Talks are a great tool for looking
 deeper into the Jitterbit platform. As they are organized by topic, they
 are an effective way of finding answers to a specific question. The
 recorded sessions are available on
-the <a href="https://success.jitterbit.comhttps://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks"
+the <a href="https://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks"
 rel="nofollow">Jitterbit Tech Talks</a> page.
 
 ### <span style="color: rgb(85,46,155);"> <span id="GettingTraining-jitterbit-microlearning-tutorials" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Jitterbit Microlearning Tutorials</span>
@@ -178,5 +178,5 @@ email to</span></span>
 rel="nofollow">training@jitterbit.com</a>.<span
 style="color: rgb(76,76,76);"> <span style="color: rgb(23,43,77);">For
 additional support, visit</span>
-<a href="https://success.jitterbit.comhttps://success.jitterbit.com/display/DOC/Getting+Support"
+<a href="https://success.jitterbit.com/display/DOC/Getting+Support"
 rel="nofollow">Getting Support</a>.</span></span>

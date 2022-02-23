@@ -9,10 +9,10 @@ integrações visualmente. Esta página cobre elementos da interface de
 usuário que estão presentes no design canvas, assim como conceitos chave
 que devem ser entendidos ao trabalhar no design canvas.
 
-Para acessar o design canvas, primeiro [abra um projeto](https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration). Em um
+Para acessar o design canvas, primeiro [abra um projeto](https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration?showLanguage=pt_BR). Em um
 projeto aberto, o design canvas é a área central localizada à direita do
-[painel de projeto](https://success.jitterbit.com/display/CS/Project+Pane) e à esquerda da [paleta de componentes](https://success.jitterbit.com/display/CS/Component+Palette),
-abaixo da [barra de ferramentas de projeto](https://success.jitterbit.com/display/CS/Project+Toolbar):
+[painel de projeto](https://success.jitterbit.com/display/CS/Project+Pane?showLanguage=pt_BR) e à esquerda da [paleta de componentes](https://success.jitterbit.com/display/CS/Component+Palette?showLanguage=pt_BR),
+abaixo da [barra de ferramentas de projeto](https://success.jitterbit.com/display/CS/Project+Toolbar?showLanguage=pt_BR):
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://docs-source.jitterbit.com/cs/project/project-designer_design-canvas_annotated_pp.png"
@@ -41,8 +41,8 @@ data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/header.png" /
     workflows são numerados sequencialmente na ordem em que são
     criados, como 1.0, 2.0, 3.0, etc. Se você reordenar os workflows,
     esta sequência numérica se ajusta automaticamente (veja
-    [Reordenando Workflows](https://success.jitterbit.com/display/CS/Workflow+Creation+and+Design#WorkflowCreationandDesign-reordering-workflows) em [Criação e Design de
-    Workflows](https://success.jitterbit.com/display/CS/Workflow+Creation+and+Design)).
+    [Reordenando Workflows](https://success.jitterbit.com/display/CS/Workflow+Creation+and+Design?showLanguage=pt_BR#WorkflowCreationandDesign-reordering-workflows) em [Criação e Design de
+    Workflows](https://success.jitterbit.com/display/CS/Workflow+Creation+and+Design?showLanguage=pt_BR)).
 
 -   ***Status* de Salvamento**: O *status* do salvamento automático é
     mostrado no lado superior esquerdo do design canvas. Os seguintes
@@ -64,12 +64,12 @@ data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/header.png" /
     Expand All Operations** (Expandir Todas as Operações): Alterna a
     exibição de todas as operações dentro do workflow atual entre uma
     visualização condensada ou expandida (veja [Expandindo ou
-    Escondendo Operações](https://success.jitterbit.com/display/CS/Operation+Creation+and+Configuration#OperationCreationandConfiguration-expanding-or-collapsing) em [Criação e Configuração de
-    Operações](https://success.jitterbit.com/display/CS/Operation+Creation+and+Configuration)).
+    Escondendo Operações](https://success.jitterbit.com/display/CS/Operation+Creation+and+Configuration?showLanguage=pt_BR#OperationCreationandConfiguration-expanding-or-collapsing) em [Criação e Configuração de
+    Operações](https://success.jitterbit.com/display/CS/Operation+Creation+and+Configuration?showLanguage=pt_BR)).
 
 -   **Highlight Invalid Items** (Destacar Itens Inválidos): Alterna a
-    exibição de itens inválidos (veja [Validade de Workflows](https://success.jitterbit.com/display/CS/Workflow+Validity),
-    [Validade de Operações](https://success.jitterbit.com/display/CS/Operation+Validity) ou [Validade de Componentes](https://success.jitterbit.com/display/CS/Component+Validity),
+    exibição de itens inválidos (veja [Validade de Workflows](https://success.jitterbit.com/display/CS/Workflow+Validity?showLanguage=pt_BR),
+    [Validade de Operações](https://success.jitterbit.com/display/CS/Operation+Validity?showLanguage=pt_BR) ou [Validade de Componentes](https://success.jitterbit.com/display/CS/Component+Validity?showLanguage=pt_BR),
     respectivamente).
 
 -   **Actions** (Ações): Clique no ícone do menu de ações
@@ -110,7 +110,7 @@ workflow, incluindo os seguintes:
 
 Cada um destes elementos do design canvas é descrito abaixo. Para
 informações adicionais sobre como fazer o *design* de workflows, veja
-[Criação e Design de Workflows](https://success.jitterbit.com/display/CS/Workflow+Creation+and+Design).
+[Criação e Design de Workflows](https://success.jitterbit.com/display/CS/Workflow+Creation+and+Design?showLanguage=pt_BR).
 
 ### <span id="DesignCanvas-drop-zones" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Áreas de Inserção
 
@@ -177,7 +177,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/operation_mag
         automaticamente um número decimal, começando com `.0` e
         aumentando em intervalos de `.1` para cada operação que se
         segue. Para ver exemplos, consulte [Fazendo o *Design* de um
-        Workflow](https://success.jitterbit.com/display/CS/Workflow+Creation+and+Design#WorkflowCreationandDesign-designing-a-workflow) em [Criação e *Design* de Workflows](https://success.jitterbit.com/display/CS/Workflow+Creation+and+Design).
+        Workflow](https://success.jitterbit.com/display/CS/Workflow+Creation+and+Design?showLanguage=pt_BR#WorkflowCreationandDesign-designing-a-workflow) em [Criação e *Design* de Workflows](https://success.jitterbit.com/display/CS/Workflow+Creation+and+Design?showLanguage=pt_BR).
 
     -   **Nome da Operação**: O nome da operação, escolhido pelo
         usuário. Quando você cria uma nova operação, o nome padrão é
@@ -321,13 +321,13 @@ nesta mesma página.</th>
         height="24" /></span>
         no canto superior direito da etapa de operação. Para mais
         informações, veja [*Plugins* Adicionados a uma
-        Atividade](https://success.jitterbit.com/display/CS/Plugins+Added+to+an+Activity).
+        Atividade](https://success.jitterbit.com/display/CS/Plugins+Added+to+an+Activity?showLanguage=pt_BR).
 
 -   ***Status* da Operação**: Depois que uma operação foi submetida com
     sucesso à fila de operações, o *status* da operação em tempo real
     é informado no canto inferior esquerdo de uma operação. Para mais
-    detalhes, veja [*Status* da Operação](https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution#OperationDeploymentandExecution-operation-status) em [Implantação e
-    Execução de Operações](https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution).
+    detalhes, veja [*Status* da Operação](https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution?showLanguage=pt_BR#OperationDeploymentandExecution-operation-status) em [Implantação e
+    Execução de Operações](https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution?showLanguage=pt_BR).
 
 #### Selecionando Operações e Passos de Operação
 
@@ -354,7 +354,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/operation-ste
 
 Uma representação visual de uma notificação aparece automaticamente no
 design canvas quando você liga uma notificação de e-mail usando a
-[ação de operação](https://success.jitterbit.com/display/CS/Operation+Actions) **Enviar Notificação por E-mail**. Informação
+[ação de operação](https://success.jitterbit.com/display/CS/Operation+Actions?showLanguage=pt_BR) **Enviar Notificação por E-mail**. Informação
 adicional sobre a exibição visual de links é dada mais à frente, debaixo
 do subtítulo [Linhas](#DesignCanvas-lines).
 
@@ -406,7 +406,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/operation_ref
 
 Linhas que conectam operações, scripts e notificações interligadas
 aparecem automaticamente no design canvas. As ligações podem ser criadas
-usando [ações de operação](https://success.jitterbit.com/display/CS/Operation+Actions) ou usando a função `RunOperation`.
+usando [ações de operação](https://success.jitterbit.com/display/CS/Operation+Actions?showLanguage=pt_BR) ou usando a função `RunOperation`.
 
 A cor e a posição das linhas indicam o significado delas. Exemplos
 dessas linhas são dados abaixo das seguintes descrições:

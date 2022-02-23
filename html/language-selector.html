@@ -23,7 +23,6 @@
         default:
           languageSelected = "en_US";
       }
-      document.getElementById("documentTextLanguage").innerText = languageText;
       document.getElementById("languageButton_"+languageSelected).classList.add("aui-button-primary");
     }
     else {
@@ -42,7 +41,6 @@
   }
 </style>
 <p>
-<span id="documentTextLanguage">Language</span>:&nbsp;&nbsp;
 <button id="languageButton_en_US" type="button" class="contentf-button aui-button" style="text-decoration: none" onclick="set_language('en_US')"><img class="button-language-flag" src="https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/a51a7674-8d5d-4495-a2d2-a67c090f5c3b/32x32/1f1fa-1f1f8.png"/>&nbsp;&nbsp;English</button>
 <button id="languageButton_pt_BR" type="button" class="contentf-button aui-button" style="text-decoration: none" onclick="set_language('pt_BR')"><img class="button-language-flag" src="https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/a51a7674-8d5d-4495-a2d2-a67c090f5c3b/32x32/1f1e7-1f1f7.png"/>&nbsp;&nbsp;Portugu&#234;s (Brasil)</button>
 <button id="languageButton_es_ES" type="button" class="contentf-button aui-button" style="text-decoration: none" onclick="set_language('es_ES')"><img class="button-language-flag" src="https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/a51a7674-8d5d-4495-a2d2-a67c090f5c3b/32x32/1f1ea-1f1f8.png"/>&nbsp;&nbsp;Espa&#241;ol</button>

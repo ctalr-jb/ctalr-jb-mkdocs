@@ -5,7 +5,7 @@
 
 A paleta de componentes de *design* é um dos dois tipos de paletas de
 componentes. (O outro tipo é a [paleta de componentes de
-*script*](https://success.jitterbit.com/display/CS/Script+Component+Palette)).
+*script*](https://success.jitterbit.com/display/CS/Script+Component+Palette?showLanguage=pt_BR)).
 
 A paleta de componentes de *design* é mostrada ao lado do design canvas
 e provê acesso à criação de conexões e atividades usando conectores na
@@ -17,8 +17,8 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/component-palette/connectivity/all_amazon-s3_activities.png" /></span>
 
 Para consultar definições, bem como um diagrama detalhado identificando
-os recursos de conectividade, veja [Conectividade](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology#CloudStudioTerminology-connectivity) em
-[Terminologia do Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology).
+os recursos de conectividade, veja [Conectividade](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology#CloudStudioTerminology-connectivity?showLanguage=pt_BR) em
+[Terminologia do Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology?showLanguage=pt_BR).
 
 ## Expandindo e Escondendo
 
@@ -98,7 +98,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/component-palette/connectivity/connectors_amazon-s3.png" /></span>
 
 Para os detalhes de configuração, veja a documentação da conexão do
-*endpoint* em [Conectores](https://success.jitterbit.com/display/CS/Connectors).
+*endpoint* em [Conectores](https://success.jitterbit.com/display/CS/Connectors?showLanguage=pt_BR).
 
 ## Endpoints
 
@@ -127,9 +127,9 @@ da conexão ou clique numa conexão já selecionada.
 Para criar uma instância de uma atividade que pode ser configurada,
 arraste um tipo de atividade para o design canvas ou copie o tipo de
 atividade e cole-o no design canvas (veja [Criando uma Instância de
-Atividade](https://success.jitterbit.com/display/CS/Component+Reuse#ComponentReuse-creating-an-activity-instance) em [Reuso de Componentes](https://success.jitterbit.com/display/CS/Component+Reuse)). Para ver mais detalhes de
+Atividade](https://success.jitterbit.com/display/CS/Component+Reuse?showLanguage=pt_BR#ComponentReuse-creating-an-activity-instance) em [Reuso de Componentes](https://success.jitterbit.com/display/CS/Component+Reuse?showLanguage=pt_BR)). Para ver mais detalhes de
 configuração, veja a documentação da atividade do *endpoint* em
-[Conectores](https://success.jitterbit.com/display/CS/Connectors).
+[Conectores](https://success.jitterbit.com/display/CS/Connectors?showLanguage=pt_BR).
 
 O menu de ações das conexões é descrito na próxima seção, [Menus de
 Ações](#DesignComponentPalette-actions-menus).

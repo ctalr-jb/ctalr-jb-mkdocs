@@ -159,7 +159,7 @@ organization:
     that must then be downloaded, installed, and configured.
 
 For considerations about using Cloud Agents vs. Private Agents, see <a
-href="https://success.jitterbit.comhttps://success.jitterbit.com/display/doc/Jitterbit+Security+and+Architecture+White+Paper#JitterbitSecurityandArchitectureWhitePaper-HarmonySecurityTopologiesHarmonySecurityTopologies"
+href="https://success.jitterbit.com/display/doc/Jitterbit+Security+and+Architecture+White+Paper#JitterbitSecurityandArchitectureWhitePaper-HarmonySecurityTopologiesHarmonySecurityTopologies"
 rel="nofollow">Harmony Security Topologies</a> within the [Jitterbit
 Security and Architecture White
 Paper](https://success.jitterbit.com/display/DOC/Jitterbit+Security+and+Architecture+White+Paper).
@@ -344,7 +344,7 @@ using these steps:
 
 3.  The invited user will then receive an email with further
     instructions (see <a
-    href="https://success.jitterbit.comhttps://success.jitterbit.com/display/DOC/Jitterbit+Quick+Start+Tutorial#JitterbitQuickStartTutorial-register-for-jitterbit-harmony"
+    href="https://success.jitterbit.com/display/DOC/Jitterbit+Quick+Start+Tutorial#JitterbitQuickStartTutorial-register-for-jitterbit-harmony"
     style="text-decoration: none;" rel="nofollow">Register for Jitterbit
     Harmony</a>). You can check the status of all the members of your
     organization at any time under the **Members** tab.

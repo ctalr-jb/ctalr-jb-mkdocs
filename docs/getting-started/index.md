@@ -116,10 +116,10 @@ an environment, agents and Agent Groups, and invite team members to your
 organization.
 
 To learn the basics of getting started with Cloud Studio, see the <a
-href="https://success.jitterbit.comhttps://success.jitterbit.com/display/CS/Cloud+Studio+Quick+Start+Guide"
+href="https://success.jitterbit.com/display/CS/Cloud+Studio+Quick+Start+Guide"
 rel="nofollow">Cloud Studio Quick Start Guide</a>. If you are using
 Design Studio, see the <a
-href="https://success.jitterbit.comhttps://success.jitterbit.com/display/DOC/Design+Studio+Quick+Start+Guide"
+href="https://success.jitterbit.com/display/DOC/Design+Studio+Quick+Start+Guide"
 rel="nofollow">Design Studio Quick Start Guide</a> to design your first
 project.
 

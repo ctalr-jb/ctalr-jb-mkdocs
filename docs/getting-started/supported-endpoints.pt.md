@@ -45,13 +45,13 @@ macro-name="multiexcerpt">
 -   ADP
 -   Advancement (Ellucian)
 -   Amazon Elastic Compute Cloud (EC2)
--   [Amazon Redshift](https://success.jitterbit.com/display/CS/Amazon+Redshift)
--   [Amazon S3](https://success.jitterbit.com/display/CS/Amazon+S3)
--   [Amazon SQS](https://success.jitterbit.com/display/CS/Amazon+SQS)
+-   [Amazon Redshift](https://success.jitterbit.com/display/CS/Amazon+Redshift?showLanguage=pt_BR)
+-   [Amazon S3](https://success.jitterbit.com/display/CS/Amazon+S3?showLanguage=pt_BR)
+-   [Amazon SQS](https://success.jitterbit.com/display/CS/Amazon+SQS?showLanguage=pt_BR)
 -   Amazon Web Services (AWS)
 -   Apache Derby
 -   Apache Ignite
--   [Apache Kafka](https://success.jitterbit.com/display/CS/Apache+Kafka)
+-   [Apache Kafka](https://success.jitterbit.com/display/CS/Apache+Kafka?showLanguage=pt_BR)
 -   Apttus
 -   ArcGIS
 -   Aria Systems
@@ -63,19 +63,19 @@ macro-name="multiexcerpt">
 -   Baan (Infor)
 -   Banner (Ellucian)
 -   BAI
--   [BigCommerce](https://success.jitterbit.com/display/CS/BigCommerce)
+-   [BigCommerce](https://success.jitterbit.com/display/CS/BigCommerce?showLanguage=pt_BR)
 -   Birst
 -   Blackbaud
--   [BMC Helix Business Workflows](https://success.jitterbit.com/display/CS/BMC+Helix+Business+Workflows)
--   [BMC Helix ITSM](https://success.jitterbit.com/display/CS/BMC+Helix+ITSM)
--   [BMC Helix Operations Management](https://success.jitterbit.com/display/CS/BMC+Helix+Operations+Management)
--   [Box](https://success.jitterbit.com/display/CS/Box)
+-   [BMC Helix Business Workflows](https://success.jitterbit.com/display/CS/BMC+Helix+Business+Workflows?showLanguage=pt_BR)
+-   [BMC Helix ITSM](https://success.jitterbit.com/display/CS/BMC+Helix+ITSM?showLanguage=pt_BR)
+-   [BMC Helix Operations Management](https://success.jitterbit.com/display/CS/BMC+Helix+Operations+Management?showLanguage=pt_BR)
+-   [Box](https://success.jitterbit.com/display/CS/Box?showLanguage=pt_BR)
 -   CAMS Enterprise
 -   CCH SureTax
 -   Changemakers
 -   Channel Online (CNET)
 -   Chatter (Salesforce)
--   [Cherwell](https://success.jitterbit.com/display/CS/Cherwell)
+-   [Cherwell](https://success.jitterbit.com/display/CS/Cherwell?showLanguage=pt_BR)
 -   ChikPea
 -   Clarizen
 -   Cognos (IBM)
@@ -85,12 +85,12 @@ macro-name="multiexcerpt">
 -   CompuWeight
 -   Concur
 -   Confluence (Atlassian)
--   [Constant Contact](https://success.jitterbit.com/display/CS/Constant+Contact)
+-   [Constant Contact](https://success.jitterbit.com/display/CS/Constant+Contact?showLanguage=pt_BR)
 -   Constructware
--   [Coupa](https://success.jitterbit.com/display/CS/Coupa)
+-   [Coupa](https://success.jitterbit.com/display/CS/Coupa?showLanguage=pt_BR)
 -   Cybersource
 -   Demandware
--   [DocuSign](https://success.jitterbit.com/display/CS/DocuSign)
+-   [DocuSign](https://success.jitterbit.com/display/CS/DocuSign?showLanguage=pt_BR)
 -   Docuware
 -   dotMailer
 -   Dropbox
@@ -99,16 +99,16 @@ macro-name="multiexcerpt">
 -   eBay
 -   Echosign
 -   [EDI](https://www.jitterbit.com/solutions/edi-integration/)
--   [EDI for Cloud](https://success.jitterbit.com/display/CS/EDI+for+Cloud)
--   [Elasticsearch](https://success.jitterbit.com/display/CS/Elasticsearch)
+-   [EDI for Cloud](https://success.jitterbit.com/display/CS/EDI+for+Cloud?showLanguage=pt_BR)
+-   [Elasticsearch](https://success.jitterbit.com/display/CS/Elasticsearch?showLanguage=pt_BR)
 -   Eloqua (Oracle)
 -   Email2DB (ThinkAutomation)
 -   EPIC
--   [Epicor ERP](https://success.jitterbit.com/display/CS/Epicor+ERP)
+-   [Epicor ERP](https://success.jitterbit.com/display/CS/Epicor+ERP?showLanguage=pt_BR)
 -   eScreen
 -   eTaylor Systems
 -   EventPro
--   [Evernote](https://success.jitterbit.com/display/CS/Evernote)
+-   [Evernote](https://success.jitterbit.com/display/CS/Evernote?showLanguage=pt_BR)
 -   eVerify
 -   Facebook
 -   FedEx
@@ -129,16 +129,16 @@ macro-name="multiexcerpt">
 -   FourthShift
 -   Frontier
 -   FundAmerica
--   [GitHub](https://success.jitterbit.com/display/CS/GitHub)
+-   [GitHub](https://success.jitterbit.com/display/CS/GitHub?showLanguage=pt_BR)
 -   Gmail
 -   Google+
 -   Google Analytics
 -   Google BigQuery
--   [Google Docs](https://success.jitterbit.com/display/CS/Google+Docs)
--   [Google Drive](https://success.jitterbit.com/display/CS/Google+Drive)
--   [Google Sheets](https://success.jitterbit.com/display/CS/Google+Sheets)
+-   [Google Docs](https://success.jitterbit.com/display/CS/Google+Docs?showLanguage=pt_BR)
+-   [Google Drive](https://success.jitterbit.com/display/CS/Google+Drive?showLanguage=pt_BR)
+-   [Google Sheets](https://success.jitterbit.com/display/CS/Google+Sheets?showLanguage=pt_BR)
 -   Hadoop
--   [HubSpot](https://success.jitterbit.com/display/CS/HubSpot)
+-   [HubSpot](https://success.jitterbit.com/display/CS/HubSpot?showLanguage=pt_BR)
 -   IBM AS/400 / DB2
 -   IFS
 -   Infor
@@ -149,24 +149,24 @@ macro-name="multiexcerpt">
 -   Jaspersoft
 -   JD Edwards EnterpriseOne (Oracle)
 -   JD Edwards World (Oracle)
--   [Jira](https://success.jitterbit.com/display/CS/Jira)
--   [JMS](https://success.jitterbit.com/display/CS/JMS)
+-   [Jira](https://success.jitterbit.com/display/CS/Jira?showLanguage=pt_BR)
+-   [JMS](https://success.jitterbit.com/display/CS/JMS?showLanguage=pt_BR)
 -   Joomla
 -   Kenandy
 -   Kronos
 -   LinkedIn
 -   LiquidFrameworks – Field FX
 -   Lotus Notes
--   [Magento](https://success.jitterbit.com/display/CS/Magento)
+-   [Magento](https://success.jitterbit.com/display/CS/Magento?showLanguage=pt_BR)
 -   ManageEngine Service Desk Plus
 -   MAPICS
 -   Marketo
 -   Metavante
 -   Microsoft Access
 -   Microsoft BI
--   [Microsoft Dynamics 365](https://success.jitterbit.com/display/CS/Microsoft+Dynamics+CRM)
+-   [Microsoft Dynamics 365](https://success.jitterbit.com/display/CS/Microsoft+Dynamics+CRM?showLanguage=pt_BR)
 -   Microsoft Dynamics AX
--   [Microsoft Dynamics CRM](https://success.jitterbit.com/display/CS/Microsoft+Dynamics+CRM)
+-   [Microsoft Dynamics CRM](https://success.jitterbit.com/display/CS/Microsoft+Dynamics+CRM?showLanguage=pt_BR)
 -   Microsoft Dynamics GP
 -   Microsoft Dynamics NAV
 -   Microsoft Dynamics SL
@@ -175,16 +175,16 @@ macro-name="multiexcerpt">
 -   Microsoft Office 365
 -   Microsoft SQL Server
 -   Microsoft SharePoint
--   [Microsoft Teams](https://success.jitterbit.com/display/CS/Microsoft+Teams)
+-   [Microsoft Teams](https://success.jitterbit.com/display/CS/Microsoft+Teams?showLanguage=pt_BR)
 -   Microstrategy
 -   MIMICS
--   [MongoDB](https://success.jitterbit.com/display/CS/MongoDB)
+-   [MongoDB](https://success.jitterbit.com/display/CS/MongoDB?showLanguage=pt_BR)
 -   Mployee
 -   MySQL
--   [NetSuite](https://success.jitterbit.com/display/CS/NetSuite) (ERP / CRM)
+-   [NetSuite](https://success.jitterbit.com/display/CS/NetSuite?showLanguage=pt_BR) (ERP / CRM)
 -   NetSuite OpenAir
 -   NiteVision
--   [OData](https://success.jitterbit.com/display/CS/OData)
+-   [OData](https://success.jitterbit.com/display/CS/OData?showLanguage=pt_BR)
 -   OneDrive
 -   Open Dental
 -   OpenAir
@@ -194,7 +194,7 @@ macro-name="multiexcerpt">
 -   Oracle E-Business Suite
 -   Oracle Fusion
 -   OSCAR
--   [PagerDuty](https://success.jitterbit.com/display/CS/PagerDuty)
+-   [PagerDuty](https://success.jitterbit.com/display/CS/PagerDuty?showLanguage=pt_BR)
 -   Parature
 -   Pardot (Salesforce)
 -   Peachtree
@@ -216,7 +216,7 @@ macro-name="multiexcerpt">
 -   QRM
 -   Quantum
 -   QuickBooks Online
--   [RabbitMQ](https://success.jitterbit.com/display/CS/RabbitMQ)
+-   [RabbitMQ](https://success.jitterbit.com/display/CS/RabbitMQ?showLanguage=pt_BR)
 -   Raiser’s Edge
 -   RamQuest
 -   Red Carpet
@@ -224,13 +224,13 @@ macro-name="multiexcerpt">
 -   Reg Online
 -   Sage MAS 200
 -   Sage MAS 90 ERP
--   [Salesforce](https://success.jitterbit.com/display/CS/Salesforce)
+-   [Salesforce](https://success.jitterbit.com/display/CS/Salesforce?showLanguage=pt_BR)
 -   Salesforce Einstein Analytics (Salesforce Wave Analytics)
 -   Salesforce Marketing Cloud (ExactTarget)
 -   Salesforce Sales Cloud
--   [Salesforce Service Cloud](https://success.jitterbit.com/display/CS/Salesforce+Service+Cloud)
+-   [Salesforce Service Cloud](https://success.jitterbit.com/display/CS/Salesforce+Service+Cloud?showLanguage=pt_BR)
 -   Saleslogix
--   [SAP](https://success.jitterbit.com/display/CS/SAP)
+-   [SAP](https://success.jitterbit.com/display/CS/SAP?showLanguage=pt_BR)
 -   SAP Business ByDesign
 -   SAP Business Objects
 -   SAP Business One
@@ -239,25 +239,25 @@ macro-name="multiexcerpt">
 -   SAP HANA
 -   SAP NetWeaver
 -   SAP ECC
--   [ServiceMax](https://success.jitterbit.com/display/CS/ServiceMax)
--   [ServiceNow](https://success.jitterbit.com/display/CS/ServiceNow)
+-   [ServiceMax](https://success.jitterbit.com/display/CS/ServiceMax?showLanguage=pt_BR)
+-   [ServiceNow](https://success.jitterbit.com/display/CS/ServiceNow?showLanguage=pt_BR)
 -   Sharepoint Online
--   [Shopify](https://success.jitterbit.com/display/CS/Shopify)
+-   [Shopify](https://success.jitterbit.com/display/CS/Shopify?showLanguage=pt_BR)
 -   Siebel CRM (Oracle)
 -   SilkRoad
--   [Slack](https://success.jitterbit.com/display/CS/Slack)
+-   [Slack](https://success.jitterbit.com/display/CS/Slack?showLanguage=pt_BR)
 -   SMART
--   [Smartsheet](https://success.jitterbit.com/display/CS/Smartsheet)
--   [Snowflake](https://success.jitterbit.com/display/CS/Snowflake)
+-   [Smartsheet](https://success.jitterbit.com/display/CS/Smartsheet?showLanguage=pt_BR)
+-   [Snowflake](https://success.jitterbit.com/display/CS/Snowflake?showLanguage=pt_BR)
 -   Soft Trac
 -   Splunk
 -   SPS Commerce
--   [Square](https://success.jitterbit.com/display/CS/Square)
+-   [Square](https://success.jitterbit.com/display/CS/Square?showLanguage=pt_BR)
 -   SteelBrick (Salesforce)
 -   SteelBridge
 -   Student Search
 -   SuccessFactors
--   [SugarCRM](https://success.jitterbit.com/display/CS/SugarCRM)
+-   [SugarCRM](https://success.jitterbit.com/display/CS/SugarCRM?showLanguage=pt_BR)
 -   Sybase
 -   SYSPRO
 -   Talentsoft
@@ -273,10 +273,10 @@ macro-name="multiexcerpt">
 -   Visual Dispatch
 -   Vowpal Wabbit (VW) Web Service
 -   Workbench
--   [Workday](https://success.jitterbit.com/display/CS/Workday)
--   [Workday Prism Analytics](https://success.jitterbit.com/display/CS/Workday+Prism+Analytics)
+-   [Workday](https://success.jitterbit.com/display/CS/Workday?showLanguage=pt_BR)
+-   [Workday Prism Analytics](https://success.jitterbit.com/display/CS/Workday+Prism+Analytics?showLanguage=pt_BR)
 -   Xactly
--   [Zendesk](https://success.jitterbit.com/display/CS/Zendesk)
+-   [Zendesk](https://success.jitterbit.com/display/CS/Zendesk?showLanguage=pt_BR)
 -   Zoho
 -   Zuora
 

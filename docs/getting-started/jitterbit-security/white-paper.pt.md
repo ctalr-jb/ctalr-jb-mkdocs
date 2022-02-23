@@ -335,7 +335,7 @@ O Jitterbit Harmony Studio expõe o maior conjunto de funcionalidades
 para criar, configurar e testar projetos de integração Jitterbit. O
 Jitterbit Harmony Studio está disponível em duas versões:
 
--   **Design Studio**: O <a href="https://success.jitterbit.comhttps://success.jitterbit.com/display/DOC/Design+Studio"
+-   **Design Studio**: O <a href="https://success.jitterbit.com/display/DOC/Design+Studio"
     rel="nofollow">Design Studio</a> é um *thick client*
     individual que pode ser instalado num aparelho Windows ou Mac. Ele
     requer acesso à internet no computador ou *laptop* em que estiver
@@ -344,7 +344,7 @@ Jitterbit Harmony Studio está disponível em duas versões:
     *whitelists* de IPs para garantir aderência a VPNs corporativas se
     ou quando isso for requerido.
 
--   **Cloud Studio**: O <a href="https://success.jitterbit.comhttps://success.jitterbit.com/display/CS/Cloud+Studio"
+-   **Cloud Studio**: O <a href="https://success.jitterbit.com/display/CS/Cloud+Studio"
     rel="nofollow">Cloud Studio</a> oferece uma experiência de
     *design* baseada no navegador independente de plataforma e de
     localização. Suportando as versões atuais dos navegadores Chrome,

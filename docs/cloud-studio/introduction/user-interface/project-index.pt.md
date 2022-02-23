@@ -12,7 +12,7 @@ projeto existente, ou selecionar um projeto existente para fazer o
 ## Acessando o Índice de Projetos
 
 **My Projects** (Meus Projetos) é a página inicial do Cloud Studio, que
-é acessada diretamente pelo [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal) e por outras
+é acessada diretamente pelo [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal?showLanguage=pt_BR) e por outras
 páginas dentro do Harmony Portal:
 
 -   A partir de qualquer página dentro do Harmony Portal, use o menu no
@@ -32,7 +32,7 @@ páginas dentro do Harmony Portal:
     class="confluence-embedded-image confluence-external-resource"
     data-image-src="https://docs-source.jitterbit.com/hp/header/cloud-studio.png" /></span>
 
--   Na página do [Connector Builder](https://success.jitterbit.com/display/CS/Connector+Builder+Index), use o menu *dropdown* para
+-   Na página do [Connector Builder](https://success.jitterbit.com/display/CS/Connector+Builder+Index?showLanguage=pt_BR), use o menu *dropdown* para
     selecionar **My Projects** (Meus Projetos):
 
     <span class="confluence-embedded-file-wrapper"><img
@@ -64,11 +64,11 @@ data-image-src="https://docs-source.jitterbit.com/cs/project-index/header.png" /
     projetos acessíveis para a organização selecionada usando
     quaisquer filtros aplicados e critérios de busca. A organização
     selecionada pode ser mudada na barra de navegação no topo (veja
-    [Mudando a Organização Selecionada](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal#JitterbitHarmonyPortal-org) em [Jitterbit Harmony
-    Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal)).
+    [Mudando a Organização Selecionada](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal?showLanguage=pt_BR#JitterbitHarmonyPortal-org) em [Jitterbit Harmony
+    Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal?showLanguage=pt_BR)).
 
 -   **Navegação**: Use o menu *dropdown* para navegar até a página do
-    [Connector Builder](https://success.jitterbit.com/display/CS/Connector+Builder+Index), também chamada de *Índice do Connector
+    [Connector Builder](https://success.jitterbit.com/display/CS/Connector+Builder+Index?showLanguage=pt_BR), também chamada de *Índice do Connector
     Builder*.
 
 -   **Visualização**: Clique no ícone de [card view](#ProjectIndex-card-view) (visualização
@@ -91,11 +91,11 @@ data-image-src="https://docs-source.jitterbit.com/cs/project-index/header.png" /
 
 -   **Import**: Clique para abrir a tela de importação de projeto, onde
     você pode importar projetos do Cloud Studio em formato JSON (veja
-    [Exportação e Importação de Projetos](https://success.jitterbit.com/display/CS/Project+Exports+and+Imports)).
+    [Exportação e Importação de Projetos](https://success.jitterbit.com/display/CS/Project+Exports+and+Imports?showLanguage=pt_BR)).
 
 -   **New Project**: Clique para abrir a tela de configuração de
     projeto, onde você pode criar um novo projeto (veja [Criando um
-    Novo Projeto](https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration#ProjectCreationandConfiguration-new-project) em [Criação e Configuração de Projetos](https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration)).
+    Novo Projeto](https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration?showLanguage=pt_BR#ProjectCreationandConfiguration-new-project) em [Criação e Configuração de Projetos](https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration?showLanguage=pt_BR)).
 
 
 ## <span id="ProjectIndex-card-view" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Visualização de Cartões

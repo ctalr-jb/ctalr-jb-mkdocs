@@ -144,7 +144,7 @@ Erros” até “API Proxy” e muito mais, os Jitterbit Tech Talks são uma
 ótima ferramenta para analisar mais profundamente a plataforma
 Jitterbit. Como estão organizados por tópico, eles são uma forma
 eficiente de encontrar respostas para uma pergunta específica. As
-sessões gravadas estão disponíveis na página <a href="https://success.jitterbit.comhttps://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks"
+sessões gravadas estão disponíveis na página <a href="https://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks"
 rel="nofollow">Jitterbit Tech
 Talks</a>.
 
@@ -172,5 +172,5 @@ página [*Templates* de Processo do Cloud Studio](https://success.jitterbit.com/
 Se você tiver perguntas relacionadas ao material de curso da Jitterbit
 University, a um Tech Talk ou a um vídeo de treinamento, envie um e-mail
 para [training@jitterbit.com](mailto:training@jitterbit.com).
-Para mais suporte, visite a página <a href="https://success.jitterbit.comhttps://success.jitterbit.com/display/DOC/Getting+Support"
+Para mais suporte, visite a página <a href="https://success.jitterbit.com/display/DOC/Getting+Support"
 rel="nofollow">Como Receber Ajuda</a>.

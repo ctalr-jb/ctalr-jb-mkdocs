@@ -4,7 +4,7 @@
 ## Introdução
 
 A aba **Components** do painel de projeto é uma das duas abas acessíveis
-no [painel de projeto](https://success.jitterbit.com/display/CS/Project+Pane). (A outra é a [aba **Workflows**](https://success.jitterbit.com/display/CS/Project+Pane+Workflows+Tab)).
+no [painel de projeto](https://success.jitterbit.com/display/CS/Project+Pane?showLanguage=pt_BR). (A outra é a [aba **Workflows**](https://success.jitterbit.com/display/CS/Project+Pane+Workflows+Tab?showLanguage=pt_BR)).
 
 A aba **Components** exibe todos os componentes no projeto aberto
 agrupados por categoria de componente.
@@ -21,18 +21,18 @@ data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/cat
 
 -   **Custom Groups** (Grupos Customizados): Grupos customizados são uma
     ferramenta organizacional para ajudar a organizar componentes de
-    projeto (veja [Grupos de Componentes](https://success.jitterbit.com/display/CS/Component+Groups)). Depois de criar um
+    projeto (veja [Grupos de Componentes](https://success.jitterbit.com/display/CS/Component+Groups?showLanguage=pt_BR)). Depois de criar um
     grupo customizado, o nome dele, definido pelo usuário, é mostrado
     como subcategoria embaixo de **Custom Groups**. Embaixo de cada
     grupo customizado, quaisquer componentes contidos dentro do grupo
     são listados.
 
 -   **Files** (Arquivos): Todos os schemas de arquivos são listados
-    (veja [Schemas](https://success.jitterbit.com/display/CS/Schemas)).
+    (veja [Schemas](https://success.jitterbit.com/display/CS/Schemas?showLanguage=pt_BR)).
 
 -   **Endpoints**: Um *endpoint* refere-se a uma conexão específica e às
     suas atividades, criadas usando conectores (veja
-    [Conectores](https://success.jitterbit.com/display/CS/Connectors)).
+    [Conectores](https://success.jitterbit.com/display/CS/Connectors?showLanguage=pt_BR)).
 
     Depois de criar uma instância de atividade associada a uma conexão, o
     tipo de terminal é exibido como subcategoria embaixo de **Endpoints**,
@@ -58,27 +58,27 @@ data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/cat
     data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/endpoints.png" /></span>
 
 -   **Operations** (Operações): Todas as operações são listadas (veja
-    [Operações](https://success.jitterbit.com/display/CS/Operations)).
+    [Operações](https://success.jitterbit.com/display/CS/Operations?showLanguage=pt_BR)).
 
 -   **Scripts**: Todos os *scripts* dos componentes do projeto são
-    listados (veja [Scripts](https://success.jitterbit.com/display/CS/Scripts)). *Scripts* criados em campos alvo
+    listados (veja [Scripts](https://success.jitterbit.com/display/CS/Scripts?showLanguage=pt_BR)). *Scripts* criados em campos alvo
     ou em nós de uma transformação não são componentes de projeto, já
     que são considerados parte do componente da *transformation*.
 
 -   **Transformations**: Todas as *transformations* são listadas (veja
-    [Transformations](https://success.jitterbit.com/display/CS/Transformations)).
+    [Transformations](https://success.jitterbit.com/display/CS/Transformations?showLanguage=pt_BR)).
 
 -   **Project Variables** (Variáveis de Projeto): Todas as variáveis de
-    projeto são listadas (veja [Variáveis de Projeto](https://success.jitterbit.com/display/CS/Project+Variables)).
+    projeto são listadas (veja [Variáveis de Projeto](https://success.jitterbit.com/display/CS/Project+Variables?showLanguage=pt_BR)).
 
 -   **Global Variables** (Variáveis Globais): Todas as variáveis globais
-    são listadas (veja [Variáveis Globais](https://success.jitterbit.com/display/CS/Global+Variables)).
+    são listadas (veja [Variáveis Globais](https://success.jitterbit.com/display/CS/Global+Variables?showLanguage=pt_BR)).
 
 -   **E-mails**: Todas as notificações de e-mail são listadas (veja
-    [Notificações de E-mail](https://success.jitterbit.com/display/CS/Email+Notifications)).
+    [Notificações de E-mail](https://success.jitterbit.com/display/CS/Email+Notifications?showLanguage=pt_BR)).
 
 -   **Schedules** (Agendas): Todas as agendas de operação são listadas
-    (veja [Agendas de Operação](https://success.jitterbit.com/display/CS/Operation+Schedules)).
+    (veja [Agendas de Operação](https://success.jitterbit.com/display/CS/Operation+Schedules?showLanguage=pt_BR)).
 
 
 ## Buscando e Filtrando
@@ -163,7 +163,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/fil
 -   **Invalid** (Inválidos): Mostra apenas os componentes no projeto
     atual que são inválidos. Componentes inválidos não podem ser
     implantados. Os critérios de validação são descritos em
-    [Validade de Componentes](https://success.jitterbit.com/display/CS/Component+Validity). Este filtro pode ser útil para
+    [Validade de Componentes](https://success.jitterbit.com/display/CS/Component+Validity?showLanguage=pt_BR). Este filtro pode ser útil para
     identificar componentes inválidos que também estão órfãos caso
     você queira deletar os componentes não-referenciados em vez de
     resolver os erros.

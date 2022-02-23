@@ -7,7 +7,7 @@ A barra de ferramentas de projeto é a barra abaixo do cabeçalho do
 Harmony Portal onde você pode acessar ações de projeto, ver as
 informações, e navegar para projetos recentes.
 
-Para acessar a barra de ferramentas, primeiro [abra um projeto](https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration). Em
+Para acessar a barra de ferramentas, primeiro [abra um projeto](https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration?showLanguage=pt_BR). Em
 um projeto aberto, a barra de ferramentas é exibida abaixo do cabeçalho
 do Harmony Portal:
 

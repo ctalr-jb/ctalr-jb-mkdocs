@@ -3,8 +3,8 @@
 
 ## Introdução
 
-O [Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio) é a aplicação de *design* de projetos baseada na
-Web da Jitterbit, acessível através do [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal).
+O [Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio?showLanguage=pt_BR) é a aplicação de *design* de projetos baseada na
+Web da Jitterbit, acessível através do [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal?showLanguage=pt_BR).
 
 Quando você acessa o Cloud Studio, você chega no índice de projetos, que
 contém um repositório de todos os seus projetos, ou você pode trocar
@@ -24,7 +24,7 @@ vez em que você o abrir.
 
 ## <span id="CloudStudioUserInterface-project-index" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Índice de Projetos
 
-O [índice de projetos](https://success.jitterbit.com/display/CS/Project+Index), exibido usando o menu *dropdown* **My
+O [índice de projetos](https://success.jitterbit.com/display/CS/Project+Index?showLanguage=pt_BR), exibido usando o menu *dropdown* **My
 Projects** (Meus Projetos), exibe uma lista de todos os seus projetos do
 Cloud Studio, e é onde você cria um novo projeto ou importa um projeto
 existente. Projetos existentes podem ser mostrados como cartões que
@@ -45,9 +45,9 @@ projeto (**Import** \[Importar\]), ou ver/editar um projeto existente
 
 ## <span id="CloudStudioUserInterface-connector-builder-index" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Índice do Connector Builder
 
-O [índice do Connector Builder](https://success.jitterbit.com/display/CS/Connector+Builder+Index), exibido usando o menu *dropdown*
+O [índice do Connector Builder](https://success.jitterbit.com/display/CS/Connector+Builder+Index?showLanguage=pt_BR), exibido usando o menu *dropdown*
 **Connector Builder**, oferece uma lista de conectores customizados
-criados com o [Connector Builder](https://success.jitterbit.com/display/CS/Connector+Builder). Os conectores existentes podem ser
+criados com o [Connector Builder](https://success.jitterbit.com/display/CS/Connector+Builder?showLanguage=pt_BR). Os conectores existentes podem ser
 mostrados como cartões ou em forma de lista, da mesma forma que os
 projetos. Em qualquer uma das visualizações, você pode criar um novo
 conector, importar um conector, ou editar, deletar ou exportar um
@@ -59,7 +59,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/connector-builder/index_card-view_flip.png" /></span>
 
 A interface de usuário do Connector Builder é discutida numa outra seção
-da documentação, no artigo [Connector Builder](https://success.jitterbit.com/display/CS/Connector+Builder).
+da documentação, no artigo [Connector Builder](https://success.jitterbit.com/display/CS/Connector+Builder?showLanguage=pt_BR).
 
 ## <span id="CloudStudioUserInterface-project-designer" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>*Designer* de Projetos
 
@@ -79,7 +79,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/project/project-designer_an
 
 ### <span id="CloudStudioUserInterface-project-toolbar" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Barra de Ferramentas de Projeto
 
-A [barra de ferramentas de projeto](https://success.jitterbit.com/display/CS/Project+Toolbar) é a barra abaixo do cabeçalho
+A [barra de ferramentas de projeto](https://success.jitterbit.com/display/CS/Project+Toolbar?showLanguage=pt_BR) é a barra abaixo do cabeçalho
 do Harmony Portal onde você pode acessar as ações de projeto, ver
 informações do projeto, e navegar para os projetos recentes:
 
@@ -93,18 +93,18 @@ que você usa o Cloud Studio para acessar um projeto individual.
 
 ### <span id="CloudStudioUserInterface-project-menu" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Painel de Projeto
 
-O [painel de projeto](https://success.jitterbit.com/display/CS/Project+Pane) é o painel à esquerda quando você abre um
+O [painel de projeto](https://success.jitterbit.com/display/CS/Project+Pane?showLanguage=pt_BR) é o painel à esquerda quando você abre um
 projeto onde você pode ver e gerenciar workflows e componentes de
 projeto. O painel de projeto tem duas visualizações, acessadas por abas
 distribuídas no topo:
 
 -   **Workflows**: Esta aba é focada em workflows individuais, suas
     operações, e os passos usados para executar estas operações (veja
-    [Aba Workflows do Painel de Projeto](https://success.jitterbit.com/display/CS/Project+Pane+Workflows+Tab)).
+    [Aba Workflows do Painel de Projeto](https://success.jitterbit.com/display/CS/Project+Pane+Workflows+Tab?showLanguage=pt_BR)).
 
 -   **Componentes**: Esta aba mostra todos os componentes do projeto e
     aponta se eles são usados em apoio a uma operação (veja [Aba
-    Components do Painel de Projeto](https://success.jitterbit.com/display/CS/Project+Pane+Components+Tab)).
+    Components do Painel de Projeto](https://success.jitterbit.com/display/CS/Project+Pane+Components+Tab?showLanguage=pt_BR)).
 
 #### Workflows
 
@@ -122,7 +122,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/ove
 
 ### <span id="CloudStudioUserInterface-design-canvas" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Design Canvas
 
-O [design canvas](https://success.jitterbit.com/display/CS/Design+Canvas) é a área central quando você abre um projeto que
+O [design canvas](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR) é a área central quando você abre um projeto que
 serve como o espaço de trabalho primário onde você faz o *design* das
 integrações visualmente. Dentro do design canvas, você pode criar
 múltiplos workflows, acessados por meio de abas ao longo do topo do
@@ -138,10 +138,10 @@ data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/operation_cha
 
 ### <span id="CloudStudioUserInterface-component-palette" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Paleta de Componentes
 
-Os dois tipos de [paletas de componentes](https://success.jitterbit.com/display/CS/Component+Palette) oferecem acesso a
+Os dois tipos de [paletas de componentes](https://success.jitterbit.com/display/CS/Component+Palette?showLanguage=pt_BR) oferecem acesso a
 componentes que podem ser usados dentro do projeto:
 
--   **[Paleta de componentes de *design*](https://success.jitterbit.com/display/CS/Design+Component+Palette)**: A paleta de
+-   **[Paleta de componentes de *design*](https://success.jitterbit.com/display/CS/Design+Component+Palette?showLanguage=pt_BR)**: A paleta de
     componentes de *design* é o painel expansível à direita quando
     você abre um projeto que oferece acesso a componentes de projeto
     que podem ser usados no design canvas. Dentro da aba
@@ -150,7 +150,7 @@ componentes que podem ser usados dentro do projeto:
     associados com essas conexões ficam então disponíveis para criar
     instâncias de uma atividade num projeto.
 
--   **[Paleta de componentes de *script*](https://success.jitterbit.com/display/CS/Script+Component+Palette)**: A paleta de
+-   **[Paleta de componentes de *script*](https://success.jitterbit.com/display/CS/Script+Component+Palette?showLanguage=pt_BR)**: A paleta de
     componentes de *script* é o painel expansível à direita das telas
     de *script* e de configuração de *transformations* modo *script*
     que oferece acesso a componentes de projeto que podem ser usados
@@ -203,8 +203,8 @@ Nesta seção, a atividade File Share Read (Ler Arquivo Compartilhado) é
 usada como exemplo para ilustrar uma típica tela de configuração de
 atividade. A tela de configuração de *transformation* é única no sentido
 de que pode ser acessada em vários modos de exibição: [Modo de
-Mapeamento](https://success.jitterbit.com/display/CS/Mapping+Mode), [Modo de Script](https://success.jitterbit.com/display/CS/Script+Mode), ou [Modo de
-Pré-Visualização](https://success.jitterbit.com/display/CS/Preview+Mode), conforme explicado abaixo.
+Mapeamento](https://success.jitterbit.com/display/CS/Mapping+Mode?showLanguage=pt_BR), [Modo de Script](https://success.jitterbit.com/display/CS/Script+Mode), ou [Modo de
+Pré-Visualização](https://success.jitterbit.com/display/CS/Preview+Mode?showLanguage=pt_BR), conforme explicado abaixo.
 
 #### Exemplo de Tela de Configuração de Atividade
 
@@ -315,8 +315,8 @@ de atividade. Outros tipos de telas de configuração, como aqueles usados
 para *scripts* e *transformations*, usam salvamento automático, conforme
 indicado pelo *status* de salvamento ao aparecer no alto da tela. Para
 mais informações sobre salvamento manual e salvamento automático, veja
-[Salvando](https://success.jitterbit.com/display/CS/Cloud+Studio+Permissions%2C+Collaboration%2C+and+Saving#CloudStudioPermissions,Collaboration,andSaving-save-changes) em [Permissões, Colaboração e Salvamentos no Cloud
-Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+Permissions%2C+Collaboration%2C+and+Saving).
+[Salvando](https://success.jitterbit.com/display/CS/Cloud+Studio+Permissions%2C+Collaboration%2C+and+Saving?showLanguage=pt_BR#CloudStudioPermissions,Collaboration,andSaving-save-changes) em [Permissões, Colaboração e Salvamentos no Cloud
+Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+Permissions%2C+Collaboration%2C+and+Saving?showLanguage=pt_BR).
 
 Depois de fechar um componente configurado que usa passos, quando você
 reabre o componente você é levado ao último passo da configuração. O
@@ -345,8 +345,8 @@ class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img sr
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/common/icons/variable.png"
 height="16" /></span>
-suportam o uso de [variáveis globais](https://success.jitterbit.com/display/CS/Global+Variables), [variáveis de projeto](https://success.jitterbit.com/display/CS/Project+Variables)
-ou [variáveis Jitterbit](https://success.jitterbit.com/display/CS/Jitterbit+Variables). Comece digitando um colchete esquerdo `[`
+suportam o uso de [variáveis globais](https://success.jitterbit.com/display/CS/Global+Variables?showLanguage=pt_BR), [variáveis de projeto](https://success.jitterbit.com/display/CS/Project+Variables?showLanguage=pt_BR)
+ou [variáveis Jitterbit](https://success.jitterbit.com/display/CS/Jitterbit+Variables?showLanguage=pt_BR). Comece digitando um colchete esquerdo `[`
 no campo ou clique no ícone de variável
 <span
 class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/variable.png"
@@ -364,7 +364,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/connector/file-share_read_v
 
 #### <span id="CloudStudioUserInterface-mapping-mode" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Modo de Mapeamento
 
-O [modo de mapeamento](https://success.jitterbit.com/display/CS/Mapping+Mode) oferece uma visão geral do mapeamento e das
+O [modo de mapeamento](https://success.jitterbit.com/display/CS/Mapping+Mode?showLanguage=pt_BR) oferece uma visão geral do mapeamento e das
 ferramentas básicas para fazer o mapeamento:
 
 <span class="confluence-embedded-file-wrapper"><img
@@ -374,7 +374,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/transformation/mapping-mode
 
 #### <span id="CloudStudioUserInterface-script-mode" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Modo de Script
 
-O [modo de *script*](https://success.jitterbit.com/display/CS/Script+Mode) oferece visões detalhadas dos campos e ferramentas
+O [modo de *script*](https://success.jitterbit.com/display/CS/Script+Mode?showLanguage=pt_BR) oferece visões detalhadas dos campos e ferramentas
 avançadas para adicionar *scripts* ao mapeamento:
 
 <span class="confluence-embedded-file-wrapper"><img
@@ -384,7 +384,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/transformation/script-mode/
 
 #### <span id="CloudStudioUserInterface-preview-mode" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Modo de Pré-Visualização
 
-O [modo de pré-visualização](https://success.jitterbit.com/display/CS/Preview+Mode) permite que você use dados de amostra para
+O [modo de pré-visualização](https://success.jitterbit.com/display/CS/Preview+Mode?showLanguage=pt_BR) permite que você use dados de amostra para
 testar como a *transformation* vai processar os dados:
 
 <span class="confluence-embedded-file-wrapper"><img

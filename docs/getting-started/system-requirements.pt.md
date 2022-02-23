@@ -19,8 +19,8 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 <div class="confluence-information-macro-body">
 
 **NOTA**: Para ver os requisitos de sistema de outros produtos
-Jitterbit não incluídos com o Harmony, veja [Data Loader](https://success.jitterbit.com/display/DOC/Data+Loader) e
-[Legacy Version 5.x](https://success.jitterbit.com/display/DOC/Legacy+Version+5.x).
+Jitterbit não incluídos com o Harmony, veja [Data Loader](https://success.jitterbit.com/display/DOC/Data+Loader?showLanguage=pt_BR) e
+[Legacy Version 5.x](https://success.jitterbit.com/display/DOC/Legacy+Version+5.x?showLanguage=pt_BR).
 
 </div>
 
@@ -29,25 +29,25 @@ Jitterbit não incluídos com o Harmony, veja [Data Loader](https://success.jitt
 
 ## Jitterbit Harmony Portal
 
-O [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal) é acessível em
+O [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal?showLanguage=pt_BR) é acessível em
 [https://login.jitterbit.com](https://login.jitterbit.com/) e não requer
 a instalação de nenhum *software* ou *hardware* adicional. O Harmony
 Portal oferece acesso baseado na Web aos seguintes produtos Jitterbit
 Harmony:
 
--   **[Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio)**: Faça o *design*, os testes e a implantação
+-   **[Cloud Studio](https://success.jitterbit.com/display/CS/Cloud+Studio?showLanguage=pt_BR)**: Faça o *design*, os testes e a implantação
     dos seus projetos de integração.
 
--   **[API Manager](https://success.jitterbit.com/display/DOC/API+Manager)**: Crie, publique e gerencie APIs feitas para
+-   **[API Manager](https://success.jitterbit.com/display/DOC/API+Manager?showLanguage=pt_BR)**: Crie, publique e gerencie APIs feitas para
     desenvolvedores.
 
--   **[Marketplace](https://success.jitterbit.com/display/DOC/Marketplace)**: Use protótipos de integração e *templates*
+-   **[Marketplace](https://success.jitterbit.com/display/DOC/Marketplace?showLanguage=pt_BR)**: Use protótipos de integração e *templates*
     de processo para criar novos projetos rapidamente.
 
--   **[Management Console](https://success.jitterbit.com/display/DOC/Management+Console)**: Administre e monitore os seus
+-   **[Management Console](https://success.jitterbit.com/display/DOC/Management+Console?showLanguage=pt_BR)**: Administre e monitore os seus
     projetos de integração.
 
--   **[Citizen Integrator](https://success.jitterbit.com/display/DOC/Citizen+Integrator)**: Configure e gerencie protótipos
+-   **[Citizen Integrator](https://success.jitterbit.com/display/DOC/Citizen+Integrator?showLanguage=pt_BR)**: Configure e gerencie protótipos
     pré-construídos do Citizen Integrator para conectar aplicações
     rapidamente.
 
@@ -65,12 +65,12 @@ Harmony Portal, o JavaScript precisa estar habilitado e a porta de saída
 
 ## <span id="SystemRequirements-design-studio" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Jitterbit Harmony Design Studio
 
-O [Jitterbit Harmony Design Studio](https://success.jitterbit.com/display/DOC/Design+Studio) é a aplicação de *design* de
+O [Jitterbit Harmony Design Studio](https://success.jitterbit.com/display/DOC/Design+Studio?showLanguage=pt_BR) é a aplicação de *design* de
 projetos para *desktop* do Jitterbit Harmony onde você pode fazer o
 *design*, testar e implantar os seus projetos de integração. Os
 requisitos de sistema e as instruções de instalação dados abaixo
 aplicam-se ao Design Studio versões de 7.x a 10.x. Veja também
-[Requisitos de Sistema para o Design Studio](https://success.jitterbit.com/display/DOC/System+Requirements+for+Design+Studio).
+[Requisitos de Sistema para o Design Studio](https://success.jitterbit.com/display/DOC/System+Requirements+for+Design+Studio?showLanguage=pt_BR).
 
 <div
 class="confluence-information-macro confluence-information-macro-information conf-macro output-block"
@@ -83,7 +83,7 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 <div class="confluence-information-macro-body">
 
 **NOTA**: Uma outra opção para o* design *de projetos é usar o [Cloud
-Studio](https://success.jitterbit.com/display/CS/Cloud+Studio), nossa próxima geração de* designer *de projetos com uma
+Studio](https://success.jitterbit.com/display/CS/Cloud+Studio?showLanguage=pt_BR), nossa próxima geração de* designer *de projetos com uma
 experiência de usuário moderna e colaborativa baseado na nuvem.
 
 </div>
@@ -103,7 +103,7 @@ versões do sistema operacional Windows:
 -   Windows Server 2019
 -   Windows Server 2022
 
-Veja [Como Instalar o Jitterbit Design Studio no Windows](https://success.jitterbit.com/display/DOC/Installing+Jitterbit+Design+Studio+on+Windows).
+Veja [Como Instalar o Jitterbit Design Studio no Windows](https://success.jitterbit.com/display/DOC/Installing+Jitterbit+Design+Studio+on+Windows?showLanguage=pt_BR).
 
 ### macOS
 
@@ -116,18 +116,18 @@ Design Studio é suportada nas seguintes versões do macOS:
 
 O Design Studio atualmente não é certificado no macOS 10.15 (Catalina).
 
-Veja [Como Instalar o Jitterbit Design Studio no macOS](https://success.jitterbit.com/display/DOC/Installing+Jitterbit+Design+Studio+on+macOS).
+Veja [Como Instalar o Jitterbit Design Studio no macOS](https://success.jitterbit.com/display/DOC/Installing+Jitterbit+Design+Studio+on+macOS?showLanguage=pt_BR).
 
 
 ## Jitterbit Harmony Private Agents
 
-Os [Jitterbit Harmony Private Agents](https://success.jitterbit.com/display/DOC/Private+Agents) usam um servidor local
+Os [Jitterbit Harmony Private Agents](https://success.jitterbit.com/display/DOC/Private+Agents?showLanguage=pt_BR) usam um servidor local
 (*on-premises*) ou uma nuvem privada para habilitar a conectividade aos
 seus dados. Os Private Agents permitem que você escolha onde a sua
 integração executa e controle em qual rede seus dados transitam e
 residem. Estes requisitos de sistema e instruções de instalação
 aplicam-se aos Jitterbit Private Agents até as versões 10.x. Veja também
-[Requisitos de Sistema para Private Agents](https://success.jitterbit.com/display/DOC/System+Requirements+for+Private+Agents).
+[Requisitos de Sistema para Private Agents](https://success.jitterbit.com/display/DOC/System+Requirements+for+Private+Agents?showLanguage=pt_BR).
 
 ### Linux
 
@@ -186,16 +186,16 @@ não são mais suportadas pela Microsoft.
 ### Instruções de Instalação
 
 Antes de instalar Private Agent(s), consulte a página [Alta
-Disponibilidade e Balanceamento de Cargas de Agent Groups](https://success.jitterbit.com/display/DOC/Agent+Groups+High+Availability+and+Load+Balancing) para ver
+Disponibilidade e Balanceamento de Cargas de Agent Groups](https://success.jitterbit.com/display/DOC/Agent+Groups+High+Availability+and+Load+Balancing?showLanguage=pt_BR) para ver
 recomendações sobre a alta disponibilidade (ativa/ativa) e balanceamento
 de cargas.
 
 #### Windows
 
 A instalação num sistema Windows é descrita em [Instalando um
-Jitterbit Harmony Agent no Windows](https://success.jitterbit.com/display/DOC/Installing+a+Jitterbit+Harmony+Windows+Agent).
+Jitterbit Harmony Agent no Windows](https://success.jitterbit.com/display/DOC/Installing+a+Jitterbit+Harmony+Windows+Agent?showLanguage=pt_BR).
 
 #### Linux
 
 A instalação num sistema Linux é descrita em [Instalando um Jitterbit
-Harmony Agent no Linux](https://success.jitterbit.com/display/DOC/Installing+a+Jitterbit+Harmony+Linux+Agent).
+Harmony Agent no Linux](https://success.jitterbit.com/display/DOC/Installing+a+Jitterbit+Harmony+Linux+Agent?showLanguage=pt_BR).

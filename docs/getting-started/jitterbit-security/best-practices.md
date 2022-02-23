@@ -433,7 +433,7 @@ features:
     variables for private information such as login or user IDs,
     passwords, access keys, and other information that must be kept
     secure. See <a
-    href="https://success.jitterbit.comhttps://success.jitterbit.com/display/CS/Project+Variables#ProjectVariables-use-project-variablesUsingProjectVariablesinScriptsorTransformations"
+    href="https://success.jitterbit.com/display/CS/Project+Variables#ProjectVariables-use-project-variablesUsingProjectVariablesinScriptsorTransformations"
     rel="nofollow">Using Project Variables in Scripts or Transformations</a>
     for information and procedures. 
 
@@ -457,7 +457,7 @@ features:
     communicate with Jitterbit Harmony and use a whitelist to allow this
     communication. Jitterbit provides whitelisted IP addresses for each
     region. See <a
-    href="https://success.jitterbit.comhttps://success.jitterbit.com/display/DOC/Whitelist+Information"
+    href="https://success.jitterbit.com/display/DOC/Whitelist+Information"
     style="letter-spacing: 0.0px;" rel="nofollow">Whitelist Information</a><span
     style="letter-spacing: 0.0px;"> for more information. </span>
 

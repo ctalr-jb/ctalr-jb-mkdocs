@@ -404,7 +404,7 @@ segurança de conector:
     de projeto para as informações privadas, como *logins* ou IDs de
     usuários, senhas, chaves de acesso e outras informações que
     precisam ser mantidas seguras. Veja <a
-    href="https://success.jitterbit.comhttps://success.jitterbit.com/display/CS/Project+Variables#ProjectVariables-use-project-variablesUsingProjectVariablesinScriptsorTransformations"
+    href="https://success.jitterbit.com/display/CS/Project+Variables#ProjectVariables-use-project-variablesUsingProjectVariablesinScriptsorTransformations"
     rel="nofollow">Usando Variáveis de Projeto
     em *Scripts* ou *Transformations*</a> para mais informações e
     procedimentos.
@@ -429,7 +429,7 @@ segurança de conector:
     Harmony e use uma *whitelist* (lista de permissões) para permitir
     esta comunicação. A Jitterbit oferece endereços de IP integrantes
     de *whitelists* para cada região. Veja <a
-    href="https://success.jitterbit.comhttps://success.jitterbit.com/display/DOC/Whitelist+Information"
+    href="https://success.jitterbit.com/display/DOC/Whitelist+Information"
     style="letter-spacing: 0.0px;" rel="nofollow">Informações sobre
     *Whitelists*</a> para mais informações.
 

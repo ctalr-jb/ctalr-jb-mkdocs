@@ -5,10 +5,10 @@
 
 A paleta de componentes de *script* é um dos dois tipos de paletas de
 componentes. (O outro tipo é a [paleta de componentes de
-*design*](https://success.jitterbit.com/display/CS/Design+Component+Palette)).
+*design*](https://success.jitterbit.com/display/CS/Design+Component+Palette?showLanguage=pt_BR)).
 
 Para acessar a paleta de componentes de *script*, abra um
-*[script](https://success.jitterbit.com/display/CS/Script+Types+and+Creation)* ou transformation em [modo de *script*](https://success.jitterbit.com/display/CS/Script+Mode). A paleta
+*[script](https://success.jitterbit.com/display/CS/Script+Types+and+Creation?showLanguage=pt_BR)* ou transformation em [modo de *script*](https://success.jitterbit.com/display/CS/Script+Mode?showLanguage=pt_BR). A paleta
 de componentes de *script* é exibida à direita do editor de *script*.
 Ela provê acesso a objetos fonte, funções, variáveis, plugins,
 operações, notificações, *scripts* e *endpoints* que podem ser usados em
@@ -51,8 +51,8 @@ Cada aba de componente (**Source Objects** \[Objetos Fonte\],
 está ativa.
 
 Para um resumo de cada aba, consulte [Adicionando Componentes da
-Paleta](https://success.jitterbit.com/display/CS/Script+Editor#ScriptEditor-adding-components) no [Editor de *Script*](https://success.jitterbit.com/display/CS/Script+Editor).
+Paleta](https://success.jitterbit.com/display/CS/Script+Editor?showLanguage=pt_BR#ScriptEditor-adding-components) no [Editor de *Script*](https://success.jitterbit.com/display/CS/Script+Editor?showLanguage=pt_BR).
 
 Para mais detalhes específicos da linguagem do *script*, veja [Paleta
-de Componentes](https://success.jitterbit.com/display/CS/Jitterbit+Script#JitterbitScript-component-palette) em [Jitterbit Script](https://success.jitterbit.com/display/CS/Jitterbit+Script) ou [Paleta de
-Componentes](https://success.jitterbit.com/display/CS/JavaScript#JavaScript-component-palette) em [JavaScript](https://success.jitterbit.com/display/CS/JavaScript).
+de Componentes](https://success.jitterbit.com/display/CS/Jitterbit+Script?showLanguage=pt_BR#JitterbitScript-component-palette) em [Jitterbit Script](https://success.jitterbit.com/display/CS/Jitterbit+Script?showLanguage=pt_BR) ou [Paleta de
+Componentes](https://success.jitterbit.com/display/CS/JavaScript?showLanguage=pt_BR#JavaScript-component-palette) em [JavaScript](https://success.jitterbit.com/display/CS/JavaScript?showLanguage=pt_BR).

@@ -4,7 +4,7 @@
 ## Introdução
 
 A aba **Workflows** do painel de projeto é uma das duas abas acessíveis
-no [painel de projeto](https://success.jitterbit.com/display/CS/Project+Pane). (A outra é a [aba **Components**](https://success.jitterbit.com/display/CS/Project+Pane+Components+Tab)).
+no [painel de projeto](https://success.jitterbit.com/display/CS/Project+Pane?showLanguage=pt_BR). (A outra é a [aba **Components**](https://success.jitterbit.com/display/CS/Project+Pane+Components+Tab?showLanguage=pt_BR)).
 
 A aba **Workflows** mostra uma visão em árvore hierarquicamente
 organizada de todos os workflows de um projeto aberto, suas operações, e
@@ -81,7 +81,7 @@ estados de exibição que um dado usuário usou pela última vez em um dado
 projeto, incluindo se os itens no painel de projeto estavam expandidos
 ou reduzidos.
 
-Clique num workflow para selecioná-lo e abri-lo no [design canvas](https://success.jitterbit.com/display/CS/Design+Canvas).
+Clique num workflow para selecioná-lo e abri-lo no [design canvas](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR).
 Um workflow selecionado é exibido com o nome roxo e o fundo cinza:
 
 <span class="confluence-embedded-file-wrapper"><img
@@ -91,7 +91,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/project-pane/workflows/work
 
 Quando um workflow for expandido, clique numa operação dentro do
 workflow para selecioná-lo e rolar automaticamente até ele no [design
-canvas](https://success.jitterbit.com/display/CS/Design+Canvas). Uma operação selecionada é exibida com fundo cinza:
+canvas](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR). Uma operação selecionada é exibida com fundo cinza:
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://docs-source.jitterbit.com/cs/project-pane/workflows/workflow_expanded.png"
@@ -100,7 +100,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/project-pane/workflows/work
 
 Quando uma operação é expandida, clique numa etapa de operação dentro da
 operação para selecioná-la e rolar automaticamente até ela no [design
-canvas](https://success.jitterbit.com/display/CS/Design+Canvas). Uma operação selecionada é exibida com fundo cinza:
+canvas](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR). Uma operação selecionada é exibida com fundo cinza:
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://docs-source.jitterbit.com/cs/project-pane/workflows/workflow_expanded_operation-step.png"
@@ -131,8 +131,8 @@ data-image-src="https://docs-source.jitterbit.com/cs/project-pane/workflows/inva
 
 Você pode ver os erros de validação associados com workflows e
 componentes inválidos conforme descritos em [Validade de
-Workflows](https://success.jitterbit.com/display/CS/Workflow+Validity), [Validade de Operações](https://success.jitterbit.com/display/CS/Operation+Validity), e [Validade de
-Componentes](https://success.jitterbit.com/display/CS/Component+Validity).
+Workflows](https://success.jitterbit.com/display/CS/Workflow+Validity?showLanguage=pt_BR), [Validade de Operações](https://success.jitterbit.com/display/CS/Operation+Validity?showLanguage=pt_BR), e [Validade de
+Componentes](https://success.jitterbit.com/display/CS/Component+Validity?showLanguage=pt_BR).
 
 
 ## Menus de Ações
