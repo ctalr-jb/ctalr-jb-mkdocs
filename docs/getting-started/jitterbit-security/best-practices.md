@@ -19,7 +19,7 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 
 <div class="confluence-information-macro-body">
 
-**NOTE: **[Integration Project
+**NOTE:** [Integration Project
 Methodology](https://success.jitterbit.com/display/DOC/Integration+Project+Methodology) contains
 useful information for an integration project PM. 
 
