@@ -129,8 +129,8 @@ project.
 For more information for new users, refer to the pages within this
 topic:
 
--   **[Getting Support](https://success.jitterbit.com/display/DOC/Getting+Support)  
-    **<br>Running into a unique problem, or need help understanding what to
+-   **[Getting Support](https://success.jitterbit.com/display/DOC/Getting+Support)**<br>
+    Running into a unique problem, or need help understanding what to
     do? Ask the Jitterbit community or submit a support case through
     the <a href="https://community.jitterbit.com/s/" class="external-link"
     rel="nofollow">Jitterbit Community</a> portal.
@@ -158,8 +158,8 @@ topic:
     staff to learn more about how we keep your data safe and secure at
     Jitterbit.
 -   **[Supported Endpoints and
-    Protocols](https://success.jitterbit.com/display/DOC/Supported+Endpoints+and+Protocols)  
-    **<br>Jitterbit has connected with hundreds of applications and data
+    Protocols](https://success.jitterbit.com/display/DOC/Supported+Endpoints+and+Protocols)**<br>
+    Jitterbit has connected with hundreds of applications and data
     sources. We're constantly building connections to new applications,
     so if you don't see your application listed,
     just <a href="https://www.jitterbit.com/contact/" class="external-link"
