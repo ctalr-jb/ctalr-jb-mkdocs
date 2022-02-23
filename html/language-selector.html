@@ -1,14 +1,10 @@
 <script language="javascript">
   function set_language(language) {
-    if (language == "en_US") {
-      window.location.href = window.location.origin + window.location.pathname
-    }
-    else {
-      window.location.href = window.location.origin + window.location.pathname + "?showLanguage=" + language;
-    }
+    window.location.href = window.location.origin + window.location.pathname + "?showLanguage=" + language;
   }
   function detect_language() {
     let searchParams = new URLSearchParams(window.location.search);
+    let userLanguage = window.navigator.language;
 
     if (searchParams.has("showLanguage")) {
       let languageText = "Language";
@@ -24,6 +20,9 @@
           languageSelected = "en_US";
       }
       document.getElementById("languageButton_"+languageSelected).classList.add("aui-button-primary");
+    }
+    else if (userLanguage) {
+      document.getElementById("languageButton_"+userLanguage).classList.add("aui-button-primary");
     }
     else {
       document.getElementById("languageButton_en_US").classList.add("aui-button-primary");
