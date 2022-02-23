@@ -298,7 +298,7 @@ Manager](https://success.jitterbit.com/display/DOC/API+Manager). A 2FA é discut
 Mantenha contas de desenvolvimento e testagem separadas da produção.
 Isto inclui IDs e senhas separados. Remova estes IDs e senhas de
 desenvolvimento e testagem antes de migrar o código para a produção. Em
-vez disso, use [variáveis de projeto](https://success.jitterbit.com/display/CS/Project+Variables) para armazenar informações
+vez disso, use [vari&aacute;veis de projeto](https://success.jitterbit.com/display/CS/Project+Variables) para armazenar informações
 como IDs e senhas. Como melhor prática, mantenha ambientes separados de
 desenvolvimento, testagem e produção. Você também deve se certificar de
 que informações pessoais identificáveis (PII, sigla em inglês) não sejam
@@ -399,13 +399,13 @@ compartilhar informações privadas. Comece com os seguintes recursos de
 segurança de conector:
 
 -   **Variáveis de Projeto**: Ao trabalhar com Conectores, as
-    [variáveis de projeto](https://success.jitterbit.com/display/CS/Project+Variables podem proporcionar maior segurança. Se
+    [vari&aacute;veis de projeto](https://success.jitterbit.com/display/CS/Project+Variables podem proporcionar maior segurança. Se
     você estiver criando *scripts* ou *transformations*, use variáveis
     de projeto para as informações privadas, como *logins* ou IDs de
     usuários, senhas, chaves de acesso e outras informações que
     precisam ser mantidas seguras. Veja <a
     href="https://success.jitterbit.com/display/CS/Project+Variables#ProjectVariables-use-project-variablesUsingProjectVariablesinScriptsorTransformations"
-    rel="nofollow">Usando Variáveis de Projeto
+    rel="nofollow">Usando Vari&aacute;veis de Projeto
     em *Scripts* ou *Transformations*</a> para mais informações e
     procedimentos.
 
