@@ -298,7 +298,7 @@ Manager](https://success.jitterbit.com/display/DOC/API+Manager). A 2FA é discut
 Mantenha contas de desenvolvimento e testagem separadas da produção.
 Isto inclui IDs e senhas separados. Remova estes IDs e senhas de
 desenvolvimento e testagem antes de migrar o código para a produção. Em
-vez disso, use [vari&aacute;veis de projeto](https://success.jitterbit.com/display/CS/Project+Variables) para armazenar informações
+vez disso, use [variáveis de projeto](https://success.jitterbit.com/display/CS/Project+Variables) para armazenar informações
 como IDs e senhas. Como melhor prática, mantenha ambientes separados de
 desenvolvimento, testagem e produção. Você também deve se certificar de
 que informações pessoais identificáveis (PII, sigla em inglês) não sejam
