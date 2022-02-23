@@ -15,7 +15,7 @@ em que eles foram acessados.
 Aplicações da Jitterbit que são instaladas, localmente ou na nuvem, têm
 uma versão associada que nós recomendamos que você informe ao [entrar
 em contato com o suporte](https://success.jitterbit.com/display/DOC/Using+the+Jitterbit+Support+Portal?showLanguage=pt_BR). Isto inclui os Cloud Agents e Private
-Agents , o Data Loader, o Design Studio (a partir do 7.x), e o Jitterbit
+Agents, o Data Loader, o Design Studio (a partir do 7.x), e o Jitterbit
 Studio (5.x).
 
 

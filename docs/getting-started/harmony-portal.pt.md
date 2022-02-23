@@ -118,6 +118,7 @@ data-linked-resource-container-version="30" /></span>
 
 Depois de fazer qualquer atualização nesta página, você precisa clicar
 no botão **Save** (Salvar) para que as mudanças sejam salvas.
+
 <span
 class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
 src="/download/thumbnails/81073027/image2018-8-7_13-41-39.png?version=1&amp;modificationDate=1533673385304&amp;api=v2"
