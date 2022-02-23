@@ -291,6 +291,18 @@ macro-name="multiexcerpt">
 
 ## Protocolos Padronizados Conectados
 
+<div class="sectionColumnWrapper conf-macro output-block" hasbody="true"
+macro-name="section">
+
+<div class="sectionMacro">
+
+<div class="sectionMacroRow">
+
+<div
+class="columnMacro conf-macro output-block conf-macro output-inline"
+style="width:33%;min-width:33%;max-width:33%;" hasbody="true"
+macro-name="multiexcerpt">
+
 ### Diretório Ativo
 
 ### Bases de Dados
@@ -302,6 +314,13 @@ macro-name="multiexcerpt">
 -   Arquivos CSV
 -   Arquivos de texto
 
+</div>
+
+<div
+class="columnMacro conf-macro output-block conf-macro output-inline"
+style="width:33%;min-width:33%;max-width:33%;" hasbody="true"
+macro-name="multiexcerpt">
+
 ### Protocolos de Transporte
 
 -   FTP / FTPS / SFTP
@@ -312,6 +331,13 @@ macro-name="multiexcerpt">
 -   Web Services: SOAP (WSDL, XSD, DTD), REST
 -   Windows File Share (SMB)
 
+</div>
+
+<div
+class="columnMacro conf-macro output-block conf-macro output-inline"
+style="width:33%;min-width:33%;max-width:33%;" hasbody="true"
+macro-name="multiexcerpt">
+
 ### Formatos de Arquivos
 
 -   XML – Schema (`.xsd`), Document Type Definition (`.dtd`)
@@ -321,6 +347,14 @@ macro-name="multiexcerpt">
 -   Flat Files Hierárquicos
 -   Arquivos Excel (`.csv`, `.xls`)
 -   Documentos EDI
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 
 ## Outras Aplicações
