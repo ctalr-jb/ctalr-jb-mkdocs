@@ -19,6 +19,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/project-toolbar/project-too
 A barra de ferramentas de projeto persiste em todas as telas enquanto
 você usa o Cloud Studio para acessar um projeto individual.
 
+
 ## <span id="ProjectToolbar-project-actions-menu" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Menu de Ações de Projeto
 
 Clique no ícone do menu de ações
@@ -39,134 +40,129 @@ data-image-src="https://docs-source.jitterbit.com/cs/project-toolbar/actions-men
 <div class="table-wrap">
 
 <table class="confluenceTable">
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
+<tbody>
 <tr class="header header">
-<th><strong>Item do Menu</strong></th>
-<th><strong>Descrição</strong></th>
+<td><strong>Item do Menu</strong></td>
+<td><strong>Descrição</strong></td>
 </tr>
 <tr class="odd odd">
-<th class="confluenceTd"><div class="content-wrapper">
+<td class="confluenceTd"><div class="content-wrapper">
 <p><span
 class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
 src="https://docs-source.jitterbit.com/cs/menu-items/settings_2.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/settings_2.png"
 height="33" /></span></p>
-</div></th>
-<th><strong>Settings</strong> abre a tela de configuração de projeto,
+</div></td>
+<td><strong>Settings</strong> abre a tela de configuração de projeto,
 onde você pode editar o nome e a descrição, ou exportar ou deletar o
 projeto (veja <a
-href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration">Criação e Configuração de Projetos</a>).</th>
+href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration">Criação e Configuração de Projetos</a>).</td>
 </tr>
 <tr class="header header">
-<th class="confluenceTd"><div class="content-wrapper">
+<td class="confluenceTd"><div class="content-wrapper">
 <p><span
 class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
 src="https://docs-source.jitterbit.com/cs/menu-items/view-logs_2.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/view-logs_2.png"
 height="33" /></span></p>
-</div></th>
-<th><strong>View Logs</strong> abre a tela de registros de operação, que
+</div></td>
+<td><strong>View Logs</strong> abre a tela de registros de operação, que
 inclui os registros de quaisquer operações que tenham sido implantadas e
 executadas dentro do projeto (veja <a
-href="https://success.jitterbit.com/display/CS/Operation+Logs">Registros de Operação</a>).</th>
+href="https://success.jitterbit.com/display/CS/Operation+Logs">Registros de Operação</a>).</td>
 </tr>
 <tr class="odd odd">
-<th class="confluenceTd"><div class="content-wrapper">
+<td class="confluenceTd"><div class="content-wrapper">
 <p><span
 class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
 src="https://docs-source.jitterbit.com/cs/menu-items/export-project.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/export-project.png"
 height="33" /></span></p>
-</div></th>
-<th><strong>Export Project</strong> abre a tela de exportação de
+</div></td>
+<td><strong>Export Project</strong> abre a tela de exportação de
 projeto, onde você pode exportar o projeto como arquivo JSON (veja
   <a
-  href="https://success.jitterbit.com/display/CS/Project+Exports+and+Imports">Exportação e Importação de Projetos</a>).</th>
+  href="https://success.jitterbit.com/display/CS/Project+Exports+and+Imports">Exportação e Importação de Projetos</a>).</td>
 </tr>
 <tr class="header header">
-<th class="confluenceTd"><div class="content-wrapper">
+<td class="confluenceTd"><div class="content-wrapper">
 <p><span
 class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
 src="https://docs-source.jitterbit.com/cs/menu-items/deploy-project.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/deploy-project.png"
 height="33" /></span></p>
-</div></th>
-<th><strong>Deploy Project</strong> implanta o projeto inteiro (veja
+</div></td>
+<td><strong>Deploy Project</strong> implanta o projeto inteiro (veja
 <a href="https://success.jitterbit.com/display/CS/Project+Deployment">Implantação de Projeto</a>). Esta opção é desabilitada quando se está
-numa tela de configuração de um componente individual.</th>
+numa tela de configuração de um componente individual.</td>
 </tr>
 <tr class="odd odd">
-<th class="confluenceTd"><div class="content-wrapper">
+<td class="confluenceTd"><div class="content-wrapper">
 <p><span
 class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
 src="https://docs-source.jitterbit.com/cs/menu-items/configurable-deploy_2.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/configurable-deploy_2.png"
 height="33" /></span></p>
-</div></th>
-<th><strong>Configurable Deploy</strong> abre a tela de implantação do
+</div></td>
+<td><strong>Configurable Deploy</strong> abre a tela de implantação do
 projeto, onde você pode selecionar componentes do projeto para implantar
 (veja <a href="https://success.jitterbit.com/display/CS/Project+Deployment">Implantação de Projeto</a>). Esta opção é desabilitada quando
-se está numa tela de configuração de um componente individual.</th>
+se está numa tela de configuração de um componente individual.</td>
 </tr>
 <tr class="header header">
-<th class="confluenceTd"><div class="content-wrapper">
+<td class="confluenceTd"><div class="content-wrapper">
 <p><span
 class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
 src="https://docs-source.jitterbit.com/cs/menu-items/migrate_2.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/migrate_2.png"
 height="33" /></span></p>
-</div></th>
-<th><strong>Migrate</strong> abre a tela de migração de projeto, onde
+</div></td>
+<td><strong>Migrate</strong> abre a tela de migração de projeto, onde
 você pode escolher o ambiente alvo e especificar os valores de variável
 de projeto individuais a serem migrados (veja <a
 href="https://success.jitterbit.com/display/CS/Project+Migration">Migração de
-Projeto</a>).</th>
+Projeto</a>).</td>
 </tr>
 <tr class="odd odd">
-<th class="confluenceTd"><div class="content-wrapper">
+<td class="confluenceTd"><div class="content-wrapper">
 <p><span
 class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
 src="https://docs-source.jitterbit.com/cs/menu-items/project-variables.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/project-variables.png"
 height="33" /></span></p>
-</div></th>
-<th><strong>Project Variables</strong> abre a tela de variáveis de
+</div></td>
+<td><strong>Project Variables</strong> abre a tela de variáveis de
 projeto, onde você pode ver, editar, e adicionar novas variáveis de
-projeto (veja <a href="https://success.jitterbit.com/display/CS/Project+Variables">Variáveis de Projeto</a>).</th>
+projeto (veja <a href="https://success.jitterbit.com/display/CS/Project+Variables">Variáveis de Projeto</a>).</td>
 </tr>
 <tr class="header header">
-<th class="confluenceTd"><div class="content-wrapper">
+<td class="confluenceTd"><div class="content-wrapper">
 <p><span
 class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
 src="https://docs-source.jitterbit.com/cs/menu-items/project-history_2.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/project-history_2.png"
 height="33" /></span></p>
-</div></th>
-<th><strong>Project History</strong> abre um painel no lado direito do
+</div></td>
+<td><strong>Project History</strong> abre um painel no lado direito do
 <em>designer</em> de projeto onde você pode ver eventos da história do
 projeto, etiquetar eventos e restaurar projetos (veja <a
 href="https://success.jitterbit.com/display/CS/Project+History">Histórico do
 Projeto</a>). Esta opção é desabilitada quando se está numa tela de
-configuração de um componente individual.</th>
+configuração de um componente individual.</td>
 </tr>
-</thead>
-<tbody>
 </tbody>
 </table>
 
 </div>
+
 
 ## Informação do Projeto
 
@@ -177,6 +173,7 @@ no qual está inserido:
 src="https://docs-source.jitterbit.com/cs/project-toolbar/project-toolbar.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/project-toolbar/project-toolbar.png" /></span>
+
 
 ## Colaboradores do Projeto
 
@@ -199,6 +196,7 @@ src="https://docs-source.jitterbit.com/cs/project-toolbar/project-toolbar_avatar
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/project-toolbar/project-toolbar_avatar_hover.png"
 height="72" /></span>
+
 
 ## Projetos Recentes
 

@@ -165,71 +165,69 @@ data-image-src="https://docs-source.jitterbit.com/cs/component-palette/connectiv
 
 <table class="relative-table confluenceTable" style="width: 87.7076%;">
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col style="width: 15%" />
+<col style="width: 84%" />
 </colgroup>
-<thead>
+<tbody>
 <tr class="header header">
-<th><strong>Item do Menu</strong></th>
-<th><strong>Descrição</strong></th>
+<td><strong>Item do Menu</strong></td>
+<td><strong>Descrição</strong></td>
 </tr>
 <tr class="odd odd">
-<th class="confluenceTd"><div class="content-wrapper">
+<td class="confluenceTd"><div class="content-wrapper">
 <p><span
 class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
 src="https://docs-source.jitterbit.com/cs/menu-items/view-edit.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/view-edit.png"
 height="33" /></span></p>
-</div></th>
-<th><strong>View/Edit</strong> abre a tela de configuração da conexão
+</div></td>
+<td><strong>View/Edit</strong> abre a tela de configuração da conexão
 (veja a documentação da conexão do <em>endpoint</em> específico em
   <a
-  href="https://success.jitterbit.com/display/CS/Connectors">Conectores</a>).</th>
+  href="https://success.jitterbit.com/display/CS/Connectors">Conectores</a>).</td>
 </tr>
 <tr class="header header">
-<th class="confluenceTd"><div class="content-wrapper">
+<td class="confluenceTd"><div class="content-wrapper">
 <p><span
 class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
 src="https://docs-source.jitterbit.com/cs/menu-items/test.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/test.png"
 height="33" /></span></p>
-</div></th>
-<th><strong>Test</strong> testa a conexão. Esta ação é o mesmo que
+</div></td>
+<td><strong>Test</strong> testa a conexão. Esta ação é o mesmo que
 clicar no botão <strong>Test</strong> disponível numa tela de
 configuração de conexão (veja a documentação da conexão do
 <em>endpoint</em> específico em <a
-href="https://success.jitterbit.com/display/CS/Connectors">Conectores</a>).</th>
+href="https://success.jitterbit.com/display/CS/Connectors">Conectores</a>).</td>
 </tr>
 <tr class="odd odd">
-<th class="confluenceTd"><div class="content-wrapper">
+<td class="confluenceTd"><div class="content-wrapper">
 <p><span
 class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
 src="https://docs-source.jitterbit.com/cs/menu-items/duplicate.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/duplicate.png"
 height="33" /></span></p>
-</div></th>
-<th><strong>Duplicate</strong> cria uma conexão nova e não-referenciada
+</div></td>
+<td><strong>Duplicate</strong> cria uma conexão nova e não-referenciada
 usando as mesmas configurações que a conexão original (veja <a href="https://success.jitterbit.com/display/CS/Component+Reuse">Reuso de
-Componentes</a>).</th>
+Componentes</a>).</td>
 </tr>
 <tr class="header header">
-<th class="confluenceTd"><div class="content-wrapper">
+<td class="confluenceTd"><div class="content-wrapper">
 <p><span
 class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
 src="https://docs-source.jitterbit.com/cs/menu-items/delete.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/delete.png"
 height="33" /></span></p>
-</div></th>
-<th><strong>Delete</strong> exclui permanentemente a conexão (veja
+</div></td>
+<td><strong>Delete</strong> exclui permanentemente a conexão (veja
   <a
-  href="https://success.jitterbit.com/display/CS/Component+Dependencies%2C+Deletion%2C+and+Removal">Dependências, Exclusão e Remoção de Componentes</a>).</th>
+  href="https://success.jitterbit.com/display/CS/Component+Dependencies%2C+Deletion%2C+and+Removal">Dependências, Exclusão e Remoção de Componentes</a>).</td>
 </tr>
-</thead>
-<tbody>
 </tbody>
 </table>
 
@@ -248,29 +246,27 @@ data-image-src="https://docs-source.jitterbit.com/cs/component-palette/connectiv
 
 <table class="relative-table confluenceTable">
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col style="width: 15%" />
+<col style="width: 84%" />
 </colgroup>
-<thead>
+<tbody>
 <tr class="header header">
-<th><strong>Item do Menu</strong></th>
-<th><strong>Descrição</strong></th>
+<td><strong>Item do Menu</strong></td>
+<td><strong>Descrição</strong></td>
 </tr>
 <tr class="odd odd">
-<th class="confluenceTd"><div class="content-wrapper">
+<td class="confluenceTd"><div class="content-wrapper">
 <p><span
 class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
 src="https://docs-source.jitterbit.com/cs/menu-items/copy.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/copy.png"
 height="33" /></span></p>
-</div></th>
-<th><strong>Copy</strong> coloca uma cópia do tipo de atividade na sua
+</div></td>
+<td><strong>Copy</strong> coloca uma cópia do tipo de atividade na sua
 área de transferência para ser usada para criar uma instância de
-atividade (veja <a href="https://success.jitterbit.com/display/CS/Component+Reuse">Reuso de Componentes</a>).</th>
+atividade (veja <a href="https://success.jitterbit.com/display/CS/Component+Reuse">Reuso de Componentes</a>).</td>
 </tr>
-</thead>
-<tbody>
 </tbody>
 </table>
 
