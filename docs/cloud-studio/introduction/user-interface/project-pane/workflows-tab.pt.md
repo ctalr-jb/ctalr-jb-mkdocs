@@ -184,6 +184,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/deploy.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/deploy.png"
 height="33" /></span></p>
+<p><em>Implantar</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Deploy</strong> faz a implantação do workflow e de quaisquer
 componentes dos quais ele dependa (veja <a
@@ -198,6 +199,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/configurable-deploy.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/configurable-deploy.png"
 height="33" /></span></p>
+<p><em>Implantação Configurável</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Configurable Deploy</strong> abre a tela de implantação,
 onde você pode selecionar componentes do projeto para implantar (veja
@@ -211,6 +213,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/rename.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/rename.png"
 height="33" /></span></p>
+<p><em>Renomear</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Rename</strong> posiciona o cursor sobre o nome do workflow
 para que você faça quantas edições forem necessárias.</td>
@@ -223,6 +226,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/view-dependencies.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/view-dependencies.png"
 height="33" /></span></p>
+<p><em>Ver Dependências</em></p>
 </div></td>
 <td class="confluenceTd"><strong>View Dependencies</strong> muda a visualização no painel de
 projeto para exibir quaisquer outras partes do projeto das quais aquele
@@ -238,6 +242,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/view-logs.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/view-logs.png"
 height="33" /></span></p>
+<p><em>Ver Registros</em></p>
 </div></td>
 <td class="confluenceTd"><strong>View Logs</strong> abre a tela de registros de operação, que
 inclui os registros de quaisquer operações contidas no workflow que
@@ -254,6 +259,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/delete.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/delete.png"
 height="33" /></span></p>
+<p><em>Deletar</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Delete</strong> exclui permanentemente o workflow (veja
   <a
@@ -322,6 +328,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/settings.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/settings.png"
 height="33" /></span></strong></p>
+<p><em>Configurações</em></p>
 </div></td>
 <td class="confluenceTd"><p><strong>Settings</strong> abre as configurações de operação,
 contendo três abas:</p>
@@ -356,6 +363,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/cut.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/cut.png"
 height="33" /></span></strong></p>
+<p><em>Recortar</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Cut</strong> coloca uma cópia da operação na sua área de
 transferência e exclui a operação original do projeto (veja <a href="https://success.jitterbit.com/display/CS/Operation+Reuse">Reuso de
@@ -369,6 +377,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/copy.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/copy.png"
 height="33" /></span></p>
+<p><em>Copiar</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Copy</strong> coloca uma cópia da operação na sua área de
 transferência (veja <a
@@ -382,12 +391,16 @@ src="https://docs-source.jitterbit.com/cs/menu-items/deploy_menu.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/deploy_menu.png"
 height="33" /></span></p>
+<p><em>Implantar</em></p>
 <p><span
 class="confluence-embedded-file-wrapper image-right-wrapper confluence-embedded-manual-size"><img
 src="https://docs-source.jitterbit.com/cs/menu-items/deploy_menu_deploy_deploy-and-run_configurable-deploy.png"
 class="confluence-embedded-image confluence-external-resource image-right"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/deploy_menu_deploy_deploy-and-run_configurable-deploy.png"
 height="101" /></span></p>
+<p><em>Implantar</em></p>
+<p><em>Implantar e Executar</em></p>
+<p><em>Implantação Configurável</em></p>
 </div></td>
 <td class="confluenceTd"><p><strong>Deploy</strong> mostra as seguintes ações de menu:</p>
 <ul>
@@ -419,6 +432,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/run.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/run.png"
 height="33" /></span></p>
+<p><em>Executar</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Run</strong> executa uma operação já implantada e quaisquer
 operações (ligadas) abaixo dela na cadeia (veja <a href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution">Implantação e
@@ -432,6 +446,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/view-logs.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/view-logs.png"
 height="33" /></span></p>
+<p><em>Ver Registros</em></p>
 </div></td>
 <td class="confluenceTd"><strong>View Logs</strong> abre a tela de registro de operações, que
 inclui os registros desta operação e também de quaisquer operações-filha
@@ -447,6 +462,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/rename.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/rename.png"
 height="33" /></span></p>
+<p><em>Renomear</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Rename</strong> coloca o cursor sobre o nome da operação
 para que você faça quantas edições forem necessárias.</td>
@@ -459,6 +475,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/view-dependencies.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/view-dependencies.png"
 height="33" /></span></p>
+<p><em>Ver Dependências</em></p>
 </div></td>
 <td class="confluenceTd"><strong>View Dependencies</strong> muda a visualização do painel de
 projeto para exibir quaisquer outras partes do projeto das quais aquela
@@ -474,6 +491,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/delete.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/delete.png"
 height="33" /></span></p>
+<p><em>Deletar</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Delete</strong> exclui permanentemente o componente (veja
   <a
@@ -487,6 +505,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/remove.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/remove.png"
 height="33" /></span></p>
+<p><em>Remover</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Remove</strong> tira todas as referências ao componente do
 design canvas. Esta ação só é funcional quando usada numa operação que
@@ -525,6 +544,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/view-edit.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/view-edit.png"
 height="33" /></span></p>
+<p><em>Ver/Editar</em></p>
 </div></td>
 <td class="confluenceTd"><strong>View/Edit</strong> abre a tela de configuração do
 componente. Para detalhes sobre configuração, consulte o componente
@@ -542,6 +562,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/cut.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/cut.png"
 height="33" /></span></p>
+<p><em>Recortar</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Cut</strong> coloca uma cópia do componente na sua área de
 transferência e exclui o componente original do projeto (veja <a href="https://success.jitterbit.com/display/CS/Component+Reuse">Reuso
@@ -555,6 +576,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/copy.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/copy.png"
 height="33" /></span></p>
+<p><em>Copiar</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Copy</strong> coloca uma cópia do componente na sua área de
 transferência (veja <a
@@ -568,12 +590,15 @@ src="https://docs-source.jitterbit.com/cs/menu-items/deploy_menu.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/deploy_menu.png"
 height="33" /></span></p>
+<p><em>Implantar</em></p>
 <p><span
 class="confluence-embedded-file-wrapper image-right-wrapper confluence-embedded-manual-size"><img
 src="https://docs-source.jitterbit.com/cs/menu-items/deploy_menu_deploy_configurable-deploy.png"
 class="confluence-embedded-image confluence-external-resource image-right"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/deploy_menu_deploy_configurable-deploy.png"
 height="67" /></span></p>
+<p><em>Implantar</em></p>
+<p><em>Implantação Configurável</em></p>
 </div></td>
 <td class="confluenceTd"><p><strong>Deploy</strong> mostra as seguintes ações:</p>
 <ul>
@@ -599,6 +624,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/rename.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/rename.png"
 height="33" /></span></p>
+<p><em>Renomear</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Rename</strong> coloca o cursor sobre o nome do componente
 para que você faça quantas edições forem necessárias. Você também pode
@@ -613,6 +639,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/view-dependencies.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/view-dependencies.png"
 height="33" /></span></p>
+<p><em>Ver dependências</em></p>
 </div></td>
 <td class="confluenceTd"><strong>View Dependencies</strong> muda a visualização do painel de
 projeto para mostrar quaisquer outras partes do projeto das quais aquele
@@ -628,6 +655,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/delete.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/delete.png"
 height="33" /></span></p>
+<p><em>Deletar</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Delete</strong> exclui permanentemente o componente (veja
   <a
@@ -641,6 +669,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/remove.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/remove.png"
 height="33" /></span></p>
+<p><em>Remover</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Remove</strong> apaga referências ao componente do design
 canvas (veja <a
