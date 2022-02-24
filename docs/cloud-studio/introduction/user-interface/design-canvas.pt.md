@@ -192,103 +192,103 @@ data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/operation_mag
     operação aparece no lado superior direito de uma operação e
     consiste da seguinte lista de itens:
 
-<div class="table-wrap">
+    <div class="table-wrap">
 
-<table class="wrapped confluenceTable">
-<tbody>
-<tr class="header header">
-<td class="highlight-grey confluenceTd"
-data-highlight-colour="grey"><strong>Ícone</strong></td>
-<td class="highlight-grey confluenceTd"
-data-highlight-colour="grey"><strong>Descrição</strong></td>
-</tr>
-<tr class="odd odd">
-<td class="confluenceTd"><div class="content-wrapper">
-<p><span
-class="confluence-embedded-file-wrapper image-center-wrapper"><img
-src="https://docs-source.jitterbit.com/common/icons/schedules.png"
-class="confluence-embedded-image confluence-external-resource image-center"
-data-image-src="https://docs-source.jitterbit.com/common/icons/schedules.png" /></span></p>
-</div></td>
-<td class="confluenceTd"><p>Abre a aba <strong>Schedules</strong> (Agendas) das configurações
-de operação (veja <a
-href="https://success.jitterbit.com/display/CS/Operation+Schedules">Agendas de Operação</a>).</p>
-<p>Este ícone é mostrado apenas quando uma operação já tem uma agenda
-atribuída.</p></td>
-</tr>
-<tr class="header header">
-<td class="confluenceTd"><div class="content-wrapper">
-<p><span
-class="confluence-embedded-file-wrapper image-center-wrapper"><img
-src="https://docs-source.jitterbit.com/common/icons/deploy.png"
-class="confluence-embedded-image confluence-external-resource image-center"
-data-image-src="https://docs-source.jitterbit.com/common/icons/deploy.png" /></span></p>
-</div></td>
-<td class="confluenceTd">Implanta a operação e quaisquer componentes dos quais ela dependa
-(veja <a
-href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution#OperationDeploymentandExecution-deploy">Implantando</a> em <a href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution">Implantação e Execução de
-Operações</a>).</td>
-</tr>
-<tr class="odd odd">
-<td class="confluenceTd"><div class="content-wrapper">
-<p><span
-class="confluence-embedded-file-wrapper image-center-wrapper"><img
-src="https://docs-source.jitterbit.com/common/icons/deploy-and-run.png"
-class="confluence-embedded-image confluence-external-resource image-center"
-data-image-src="https://docs-source.jitterbit.com/common/icons/deploy-and-run.png" /></span></p>
-</div></td>
-<td class="confluenceTd">Abre a tela de implantação, onde você pode selecionar componentes de
-projeto para implantar (veja <a
-href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution#OperationDeploymentandExecution-deploy">Implantando</a> em <a href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution">Implantação e
-Execução de Operações</a>).</td>
-</tr>
-<tr class="header header">
-<td class="confluenceTd"><div class="content-wrapper">
-<p><span
-class="confluence-embedded-file-wrapper image-center-wrapper"><img
-src="https://docs-source.jitterbit.com/common/icons/collapse.png"
-class="confluence-embedded-image confluence-external-resource image-center"
-data-image-src="https://docs-source.jitterbit.com/common/icons/collapse.png" /></span></p>
-</div></td>
-<td class="confluenceTd"><p>Esconde a operação em uma visualização menor, mais condensada
-(veja <a
-href="https://success.jitterbit.com/display/CS/Operation+Creation+and+Configuration#OperationCreationandConfiguration-expanding-or-collapsing">Expandindo ou Escondendo Operações</a> em <a
-href="https://success.jitterbit.com/display/CS/Operation+Creation+and+Configuration">Criação e
-Configuração de Operações</a>).</p>
-<p>Este ícone só aparece quando a operação está expandida.</p></td>
-</tr>
-<tr class="odd odd">
-<td class="confluenceTd"><div class="content-wrapper">
-<p><span
-class="confluence-embedded-file-wrapper image-center-wrapper"><img
-src="https://docs-source.jitterbit.com/common/icons/expand.png"
-class="confluence-embedded-image confluence-external-resource image-center"
-data-image-src="https://docs-source.jitterbit.com/common/icons/expand.png" /></span></p>
-</div></td>
-<td class="confluenceTd"><p>Expande a operação para que ela fique com o tamanho padrão (veja
-  <a
-  href="https://success.jitterbit.com/display/CS/Operation+Creation+and+Configuration#OperationCreationandConfiguration-expanding-or-collapsing">Expandindo ou Escondendo Operações</a> em <a
-  href="https://success.jitterbit.com/display/CS/Operation+Creation+and+Configuration">Criação e Configuração
-de Operações</a>).</p>
-<p>Este ícone só aparece quando a operação está escondida.</p></td>
-</tr>
-<tr class="header header">
-<td class="confluenceTd"><div class="content-wrapper">
-<p><span
-class="confluence-embedded-file-wrapper image-center-wrapper confluence-embedded-manual-size"><img
-src="https://docs-source.jitterbit.com/common/icons/actions-menu_22.png"
-class="confluence-embedded-image confluence-external-resource image-center"
-data-image-src="https://docs-source.jitterbit.com/common/icons/actions-menu_22.png"
-height="6" /></span></p>
-</div></td>
-<td class="confluenceTd">Abre o <a
-href="https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-operation-actions-menu">menu de ações de operação</a>, descrito mais à frente
-nesta mesma página.</td>
-</tr>
-</tbody>
-</table>
+    <table class="wrapped confluenceTable">
+    <tbody>
+    <tr class="header header">
+    <td class="highlight-grey confluenceTd"
+    data-highlight-colour="grey"><strong>Ícone</strong></td>
+    <td class="highlight-grey confluenceTd"
+    data-highlight-colour="grey"><strong>Descrição</strong></td>
+    </tr>
+    <tr class="odd odd">
+    <td class="confluenceTd"><div class="content-wrapper">
+    <p><span
+    class="confluence-embedded-file-wrapper image-center-wrapper"><img
+    src="https://docs-source.jitterbit.com/common/icons/schedules.png"
+    class="confluence-embedded-image confluence-external-resource image-center"
+    data-image-src="https://docs-source.jitterbit.com/common/icons/schedules.png" /></span></p>
+    </div></td>
+    <td class="confluenceTd"><p>Abre a aba <strong>Schedules</strong> (Agendas) das configurações
+    de operação (veja <a
+    href="https://success.jitterbit.com/display/CS/Operation+Schedules">Agendas de Operação</a>).</p>
+    <p>Este ícone é mostrado apenas quando uma operação já tem uma agenda
+    atribuída.</p></td>
+    </tr>
+    <tr class="header header">
+    <td class="confluenceTd"><div class="content-wrapper">
+    <p><span
+    class="confluence-embedded-file-wrapper image-center-wrapper"><img
+    src="https://docs-source.jitterbit.com/common/icons/deploy.png"
+    class="confluence-embedded-image confluence-external-resource image-center"
+    data-image-src="https://docs-source.jitterbit.com/common/icons/deploy.png" /></span></p>
+    </div></td>
+    <td class="confluenceTd">Implanta a operação e quaisquer componentes dos quais ela dependa
+    (veja <a
+    href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution#OperationDeploymentandExecution-deploy">Implantando</a> em <a href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution">Implantação e Execução de
+    Operações</a>).</td>
+    </tr>
+    <tr class="odd odd">
+    <td class="confluenceTd"><div class="content-wrapper">
+    <p><span
+    class="confluence-embedded-file-wrapper image-center-wrapper"><img
+    src="https://docs-source.jitterbit.com/common/icons/deploy-and-run.png"
+    class="confluence-embedded-image confluence-external-resource image-center"
+    data-image-src="https://docs-source.jitterbit.com/common/icons/deploy-and-run.png" /></span></p>
+    </div></td>
+    <td class="confluenceTd">Abre a tela de implantação, onde você pode selecionar componentes de
+    projeto para implantar (veja <a
+    href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution#OperationDeploymentandExecution-deploy">Implantando</a> em <a href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution">Implantação e
+    Execução de Operações</a>).</td>
+    </tr>
+    <tr class="header header">
+    <td class="confluenceTd"><div class="content-wrapper">
+    <p><span
+    class="confluence-embedded-file-wrapper image-center-wrapper"><img
+    src="https://docs-source.jitterbit.com/common/icons/collapse.png"
+    class="confluence-embedded-image confluence-external-resource image-center"
+    data-image-src="https://docs-source.jitterbit.com/common/icons/collapse.png" /></span></p>
+    </div></td>
+    <td class="confluenceTd"><p>Esconde a operação em uma visualização menor, mais condensada
+    (veja <a
+    href="https://success.jitterbit.com/display/CS/Operation+Creation+and+Configuration#OperationCreationandConfiguration-expanding-or-collapsing">Expandindo ou Escondendo Operações</a> em <a
+    href="https://success.jitterbit.com/display/CS/Operation+Creation+and+Configuration">Criação e
+    Configuração de Operações</a>).</p>
+    <p>Este ícone só aparece quando a operação está expandida.</p></td>
+    </tr>
+    <tr class="odd odd">
+    <td class="confluenceTd"><div class="content-wrapper">
+    <p><span
+    class="confluence-embedded-file-wrapper image-center-wrapper"><img
+    src="https://docs-source.jitterbit.com/common/icons/expand.png"
+    class="confluence-embedded-image confluence-external-resource image-center"
+    data-image-src="https://docs-source.jitterbit.com/common/icons/expand.png" /></span></p>
+    </div></td>
+    <td class="confluenceTd"><p>Expande a operação para que ela fique com o tamanho padrão (veja
+      <a
+      href="https://success.jitterbit.com/display/CS/Operation+Creation+and+Configuration#OperationCreationandConfiguration-expanding-or-collapsing">Expandindo ou Escondendo Operações</a> em <a
+      href="https://success.jitterbit.com/display/CS/Operation+Creation+and+Configuration">Criação e Configuração
+    de Operações</a>).</p>
+    <p>Este ícone só aparece quando a operação está escondida.</p></td>
+    </tr>
+    <tr class="header header">
+    <td class="confluenceTd"><div class="content-wrapper">
+    <p><span
+    class="confluence-embedded-file-wrapper image-center-wrapper confluence-embedded-manual-size"><img
+    src="https://docs-source.jitterbit.com/common/icons/actions-menu_22.png"
+    class="confluence-embedded-image confluence-external-resource image-center"
+    data-image-src="https://docs-source.jitterbit.com/common/icons/actions-menu_22.png"
+    height="6" /></span></p>
+    </div></td>
+    <td class="confluenceTd">Abre o <a
+    href="https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-operation-actions-menu">menu de ações de operação</a>, descrito mais à frente
+    nesta mesma página.</td>
+    </tr>
+    </tbody>
+    </table>
 
-</div>
+    </div>
 
 -   **Etapas de Operação**: Toda operação que já foi configurada com
     etapas de operação inclui uma representação visual dessas etapas.
@@ -624,19 +624,50 @@ como detalhado nas subseções abaixo:
     (Implantar) e **Remove** (Remover) mostrados num menu de ações de
     atividade na segunda imagem.
 
-*Menu de Ações de Operação*
+<div class="sectionColumnWrapper conf-macro output-block" hasbody="true"
+macro-name="section">
+
+<div class="sectionMacro">
+
+<div class="sectionMacroRow">
+
+<div class="columnMacro conf-macro output-block"
+style="width:45%;min-width:45%;max-width:45%;" hasbody="true"
+macro-name="column">
+
+**Menu de Ações de Operação**
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://docs-source.jitterbit.com/cs/design-canvas/operation_actions-menu.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/operation_actions-menu.png" /></span>
 
-*Menu de Ações de Atividade*
+</div>
+
+<div class="columnMacro conf-macro output-block"
+style="width:45%;min-width:45%;max-width:45%;" hasbody="true"
+macro-name="column">
+
+**Menu de Ações de Atividade**
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://docs-source.jitterbit.com/cs/design-canvas/operation-step_actions-menu.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/operation-step_actions-menu.png" /></span>
+
+</div>
+
+<div class="columnMacro conf-macro output-block"
+style="width:5%;min-width:5%;max-width:5%;" hasbody="true"
+macro-name="column">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 #### <span id="DesignCanvas-operations" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Operations
 

@@ -45,7 +45,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/component-palette/transform
 ## Abas de Componente
 
 Cada aba de componente (**Source Objects** \[Objetos Fonte\],
-**Functions** \[Funções**\]**, **Variables** \[Variáveis\], **Plugins**,
+**Functions** \[Funções\], **Variables** \[Variáveis\], **Plugins**,
 **Operations** \[Operações\], **Notifications** \[Notificações\],
 **Scripts** ou **Endpoints**) exibe informações específicas à aba que
 está ativa.

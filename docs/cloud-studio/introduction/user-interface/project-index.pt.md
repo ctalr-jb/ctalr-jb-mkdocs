@@ -138,92 +138,92 @@ data-image-src="https://docs-source.jitterbit.com/cs/project-index/card-view_fli
         height="20" /></span>
         para abrir um menu com ações adicionais:
 
-<div class="table-wrap">
+        <div class="table-wrap">
 
-<table class="confluenceTable">
-<tbody>
-<tr class="header header">
-<td class="highlight-grey confluenceTd"
-data-highlight-colour="grey"><strong>Item do Menu</strong></td>
-<td class="highlight-grey confluenceTd"
-data-highlight-colour="grey"><strong>Descrição</strong></td>
-</tr>
-<tr class="odd odd">
-<td class="confluenceTd"><div class="content-wrapper">
-<p><span
-class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
-src="https://docs-source.jitterbit.com/cs/menu-items/project-settings.png"
-class="confluence-embedded-image confluence-external-resource"
-data-image-src="https://docs-source.jitterbit.com/cs/menu-items/project-settings.png"
-height="33" /></span></p>
-</div></td>
-<td class="confluenceTd"><strong>Project Settings</strong> abre a tela de configuração do
-projeto, onde você pode editar o nome e a descrição, ou exportar ou
-deletar o projeto (veja <a
-href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration#ProjectCreationandConfiguration-editing-the-configuration">Editando as Configurações do Projeto</a> em
-<a
-href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration">Criação e Configuração de Projetos</a>).</td>
-</tr>
-<tr class="header header">
-<td class="confluenceTd"><div class="content-wrapper">
-<p><span
-class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
-src="https://docs-source.jitterbit.com/cs/menu-items/logs.png"
-class="confluence-embedded-image confluence-external-resource"
-data-image-src="https://docs-source.jitterbit.com/cs/menu-items/logs.png"
-height="33" /></span></p>
-</div></td>
-<td class="confluenceTd"><strong>Logs</strong> abre a tela de registros de operação, que
-inclui os registros de quaisquer operações que tenham sido implantadas e
-executadas dentro do projeto (veja <a
-href="https://success.jitterbit.com/display/CS/Operation+Logs">Registros de Operação</a>).</td>
-</tr>
-<tr class="odd odd">
-<td class="confluenceTd"><div class="content-wrapper">
-<p><span
-class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
-src="https://docs-source.jitterbit.com/cs/menu-items/project-variables.png"
-class="confluence-embedded-image confluence-external-resource"
-data-image-src="https://docs-source.jitterbit.com/cs/menu-items/project-variables.png"
-height="33" /></span></p>
-</div></td>
-<td class="confluenceTd"><strong>Project Variables</strong> abre a tela de variáveis de
-projeto, onde você pode ver, editar, e adicionar novas variáveis de
-projeto (veja <a href="https://success.jitterbit.com/display/CS/Project+Variables">Variáveis de Projeto</a>).</td>
-</tr>
-<tr class="header header">
-<td class="confluenceTd"><div class="content-wrapper">
-<p><span
-class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
-src="https://docs-source.jitterbit.com/cs/menu-items/export.png"
-class="confluence-embedded-image confluence-external-resource"
-data-image-src="https://docs-source.jitterbit.com/cs/menu-items/export.png"
-height="33" /></span></p>
-</div></td>
-<td class="confluenceTd"><strong>Export</strong> abre a tela de exportação de projeto, onde
-você pode exportar o projeto como um arquivo JSON (veja <a href="https://success.jitterbit.com/display/CS/Project+Exports+and+Imports">Exportação e
-Importação de Projetos</a>).</td>
-</tr>
-<tr class="odd odd">
-<td class="confluenceTd"><div class="content-wrapper">
-<p><span
-class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
-src="https://docs-source.jitterbit.com/cs/menu-items/delete_2.png"
-class="confluence-embedded-image confluence-external-resource"
-data-image-src="https://docs-source.jitterbit.com/cs/menu-items/delete_2.png"
-height="33" /></span></p>
-</div></td>
-<td class="confluenceTd"><strong>Delete</strong> exclui permanentemente o projeto do ambiente
-do Cloud Studio e da nuvem do Harmony, incluindo quaisquer projetos
-implantados (veja <a
-href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration#ProjectCreationandConfiguration-deleting-a-project">Deletando um Projeto</a> em <a
-href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration">Criação e
-Configuração de Projetos</a>).</td>
-</tr>
-</tbody>
-</table>
+        <table class="confluenceTable">
+        <tbody>
+        <tr class="header header">
+        <td class="highlight-grey confluenceTd"
+        data-highlight-colour="grey"><strong>Item do Menu</strong></td>
+        <td class="highlight-grey confluenceTd"
+        data-highlight-colour="grey"><strong>Descrição</strong></td>
+        </tr>
+        <tr class="odd odd">
+        <td class="confluenceTd"><div class="content-wrapper">
+        <p><span
+        class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
+        src="https://docs-source.jitterbit.com/cs/menu-items/project-settings.png"
+        class="confluence-embedded-image confluence-external-resource"
+        data-image-src="https://docs-source.jitterbit.com/cs/menu-items/project-settings.png"
+        height="33" /></span></p>
+        </div></td>
+        <td class="confluenceTd"><strong>Project Settings</strong> abre a tela de configuração do
+        projeto, onde você pode editar o nome e a descrição, ou exportar ou
+        deletar o projeto (veja <a
+        href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration#ProjectCreationandConfiguration-editing-the-configuration">Editando as Configurações do Projeto</a> em
+        <a
+        href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration">Criação e Configuração de Projetos</a>).</td>
+        </tr>
+        <tr class="header header">
+        <td class="confluenceTd"><div class="content-wrapper">
+        <p><span
+        class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
+        src="https://docs-source.jitterbit.com/cs/menu-items/logs.png"
+        class="confluence-embedded-image confluence-external-resource"
+        data-image-src="https://docs-source.jitterbit.com/cs/menu-items/logs.png"
+        height="33" /></span></p>
+        </div></td>
+        <td class="confluenceTd"><strong>Logs</strong> abre a tela de registros de operação, que
+        inclui os registros de quaisquer operações que tenham sido implantadas e
+        executadas dentro do projeto (veja <a
+        href="https://success.jitterbit.com/display/CS/Operation+Logs">Registros de Operação</a>).</td>
+        </tr>
+        <tr class="odd odd">
+        <td class="confluenceTd"><div class="content-wrapper">
+        <p><span
+        class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
+        src="https://docs-source.jitterbit.com/cs/menu-items/project-variables.png"
+        class="confluence-embedded-image confluence-external-resource"
+        data-image-src="https://docs-source.jitterbit.com/cs/menu-items/project-variables.png"
+        height="33" /></span></p>
+        </div></td>
+        <td class="confluenceTd"><strong>Project Variables</strong> abre a tela de variáveis de
+        projeto, onde você pode ver, editar, e adicionar novas variáveis de
+        projeto (veja <a href="https://success.jitterbit.com/display/CS/Project+Variables">Variáveis de Projeto</a>).</td>
+        </tr>
+        <tr class="header header">
+        <td class="confluenceTd"><div class="content-wrapper">
+        <p><span
+        class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
+        src="https://docs-source.jitterbit.com/cs/menu-items/export.png"
+        class="confluence-embedded-image confluence-external-resource"
+        data-image-src="https://docs-source.jitterbit.com/cs/menu-items/export.png"
+        height="33" /></span></p>
+        </div></td>
+        <td class="confluenceTd"><strong>Export</strong> abre a tela de exportação de projeto, onde
+        você pode exportar o projeto como um arquivo JSON (veja <a href="https://success.jitterbit.com/display/CS/Project+Exports+and+Imports">Exportação e
+        Importação de Projetos</a>).</td>
+        </tr>
+        <tr class="odd odd">
+        <td class="confluenceTd"><div class="content-wrapper">
+        <p><span
+        class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
+        src="https://docs-source.jitterbit.com/cs/menu-items/delete_2.png"
+        class="confluence-embedded-image confluence-external-resource"
+        data-image-src="https://docs-source.jitterbit.com/cs/menu-items/delete_2.png"
+        height="33" /></span></p>
+        </div></td>
+        <td class="confluenceTd"><strong>Delete</strong> exclui permanentemente o projeto do ambiente
+        do Cloud Studio e da nuvem do Harmony, incluindo quaisquer projetos
+        implantados (veja <a
+        href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration#ProjectCreationandConfiguration-deleting-a-project">Deletando um Projeto</a> em <a
+        href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration">Criação e
+        Configuração de Projetos</a>).</td>
+        </tr>
+        </tbody>
+        </table>
 
-</div>
+        </div>
 
 
 ## <span id="ProjectIndex-list-view" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Visualização de Lista
@@ -291,89 +291,89 @@ data-image-src="https://docs-source.jitterbit.com/cs/project-index/list-view.png
         height="11" /></span> para
         abrir um menu com ações adicionais:
 
-<div class="table-wrap">
+        <div class="table-wrap">
 
-<table class="confluenceTable">
-<tbody>
-<tr class="header header">
-<td class="highlight-grey confluenceTd"
-data-highlight-colour="grey"><strong>Item do menu</strong></td>
-<td class="highlight-grey confluenceTd"
-data-highlight-colour="grey"><strong>Descrição</strong></td>
-</tr>
-<tr class="odd odd">
-<td class="confluenceTd"><div class="content-wrapper">
-<p><span
-class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
-src="https://docs-source.jitterbit.com/cs/menu-items/project-settings.png"
-class="confluence-embedded-image confluence-external-resource"
-data-image-src="https://docs-source.jitterbit.com/cs/menu-items/project-settings.png"
-height="33" /></span></p>
-</div></td>
-<td class="confluenceTd"><strong>Project Settings</strong> abre a tela de configuração de
-projeto, onde você pode editar o nome ou a descrição do projeto (veja
-  <a
-  href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration#ProjectCreationandConfiguration-editing-the-configuration">Editando as Configurações de Projeto</a> em <a
-  href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration">Criação e Configuração
-de Projeto</a>).</td>
-</tr>
-<tr class="header header">
-<td class="confluenceTd"><div class="content-wrapper">
-<p><span
-class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
-src="https://docs-source.jitterbit.com/cs/menu-items/logs.png"
-class="confluence-embedded-image confluence-external-resource"
-data-image-src="https://docs-source.jitterbit.com/cs/menu-items/logs.png"
-height="33" /></span></p>
-</div></td>
-<td class="confluenceTd"><strong>Logs</strong> abre a tela de registros de operação, que
-inclui os registros de quaisquer operações que tenham sido implantadas e
-executadas dentro do projeto (veja <a
-href="https://success.jitterbit.com/display/CS/Operation+Logs">Registros de Operação</a>).</td>
-</tr>
-<tr class="odd odd">
-<td class="confluenceTd"><div class="content-wrapper">
-<p><span
-class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
-src="https://docs-source.jitterbit.com/cs/menu-items/project-variables.png"
-class="confluence-embedded-image confluence-external-resource"
-data-image-src="https://docs-source.jitterbit.com/cs/menu-items/project-variables.png"
-height="33" /></span></p>
-</div></td>
-<td class="confluenceTd"><strong>Project Variables</strong> abre a tela de variáveis de
-projeto, onde você pode ver, editar, e adicionar novas variáveis de
-projeto (veja <a href="https://success.jitterbit.com/display/CS/Project+Variables">Variáveis de Projeto</a>).</td>
-</tr>
-<tr class="header header">
-<td class="confluenceTd"><div class="content-wrapper">
-<p><span
-class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
-src="https://docs-source.jitterbit.com/cs/menu-items/export.png"
-class="confluence-embedded-image confluence-external-resource"
-data-image-src="https://docs-source.jitterbit.com/cs/menu-items/export.png"
-height="33" /></span></p>
-</div></td>
-<td class="confluenceTd"><strong>Export</strong> abre a tela de exportação de projeto, onde
-você pode exportar o projeto como um arquivo JSON (veja <a href="https://success.jitterbit.com/display/CS/Project+Exports+and+Imports">Exportação e
-Importação de Projetos</a>).</td>
-</tr>
-<tr class="odd odd">
-<td class="confluenceTd"><div class="content-wrapper">
-<p><span
-class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
-src="https://docs-source.jitterbit.com/cs/menu-items/delete_2.png"
-class="confluence-embedded-image confluence-external-resource"
-data-image-src="https://docs-source.jitterbit.com/cs/menu-items/delete_2.png"
-height="33" /></span></p>
-</div></td>
-<td class="confluenceTd"><strong>Delete</strong> exclui permanentemente o projeto do ambiente
-do Cloud Studio e da nuvem do Harmony, incluindo quaisquer projetos
-implantados (veja <a
-href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration#ProjectCreationandConfiguration-deleting-a-project">Deletando um Projeto</a> em <a
-href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration">Criação e
-Configuração de Projetos</a>).</td>
-</tr>
-</tbody>
-</table>
+        <table class="confluenceTable">
+        <tbody>
+        <tr class="header header">
+        <td class="highlight-grey confluenceTd"
+        data-highlight-colour="grey"><strong>Item do menu</strong></td>
+        <td class="highlight-grey confluenceTd"
+        data-highlight-colour="grey"><strong>Descrição</strong></td>
+        </tr>
+        <tr class="odd odd">
+        <td class="confluenceTd"><div class="content-wrapper">
+        <p><span
+        class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
+        src="https://docs-source.jitterbit.com/cs/menu-items/project-settings.png"
+        class="confluence-embedded-image confluence-external-resource"
+        data-image-src="https://docs-source.jitterbit.com/cs/menu-items/project-settings.png"
+        height="33" /></span></p>
+        </div></td>
+        <td class="confluenceTd"><strong>Project Settings</strong> abre a tela de configuração de
+        projeto, onde você pode editar o nome ou a descrição do projeto (veja
+          <a
+          href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration#ProjectCreationandConfiguration-editing-the-configuration">Editando as Configurações de Projeto</a> em <a
+          href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration">Criação e Configuração
+        de Projeto</a>).</td>
+        </tr>
+        <tr class="header header">
+        <td class="confluenceTd"><div class="content-wrapper">
+        <p><span
+        class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
+        src="https://docs-source.jitterbit.com/cs/menu-items/logs.png"
+        class="confluence-embedded-image confluence-external-resource"
+        data-image-src="https://docs-source.jitterbit.com/cs/menu-items/logs.png"
+        height="33" /></span></p>
+        </div></td>
+        <td class="confluenceTd"><strong>Logs</strong> abre a tela de registros de operação, que
+        inclui os registros de quaisquer operações que tenham sido implantadas e
+        executadas dentro do projeto (veja <a
+        href="https://success.jitterbit.com/display/CS/Operation+Logs">Registros de Operação</a>).</td>
+        </tr>
+        <tr class="odd odd">
+        <td class="confluenceTd"><div class="content-wrapper">
+        <p><span
+        class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
+        src="https://docs-source.jitterbit.com/cs/menu-items/project-variables.png"
+        class="confluence-embedded-image confluence-external-resource"
+        data-image-src="https://docs-source.jitterbit.com/cs/menu-items/project-variables.png"
+        height="33" /></span></p>
+        </div></td>
+        <td class="confluenceTd"><strong>Project Variables</strong> abre a tela de variáveis de
+        projeto, onde você pode ver, editar, e adicionar novas variáveis de
+        projeto (veja <a href="https://success.jitterbit.com/display/CS/Project+Variables">Variáveis de Projeto</a>).</td>
+        </tr>
+        <tr class="header header">
+        <td class="confluenceTd"><div class="content-wrapper">
+        <p><span
+        class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
+        src="https://docs-source.jitterbit.com/cs/menu-items/export.png"
+        class="confluence-embedded-image confluence-external-resource"
+        data-image-src="https://docs-source.jitterbit.com/cs/menu-items/export.png"
+        height="33" /></span></p>
+        </div></td>
+        <td class="confluenceTd"><strong>Export</strong> abre a tela de exportação de projeto, onde
+        você pode exportar o projeto como um arquivo JSON (veja <a href="https://success.jitterbit.com/display/CS/Project+Exports+and+Imports">Exportação e
+        Importação de Projetos</a>).</td>
+        </tr>
+        <tr class="odd odd">
+        <td class="confluenceTd"><div class="content-wrapper">
+        <p><span
+        class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
+        src="https://docs-source.jitterbit.com/cs/menu-items/delete_2.png"
+        class="confluence-embedded-image confluence-external-resource"
+        data-image-src="https://docs-source.jitterbit.com/cs/menu-items/delete_2.png"
+        height="33" /></span></p>
+        </div></td>
+        <td class="confluenceTd"><strong>Delete</strong> exclui permanentemente o projeto do ambiente
+        do Cloud Studio e da nuvem do Harmony, incluindo quaisquer projetos
+        implantados (veja <a
+        href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration#ProjectCreationandConfiguration-deleting-a-project">Deletando um Projeto</a> em <a
+        href="https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration">Criação e
+        Configuração de Projetos</a>).</td>
+        </tr>
+        </tbody>
+        </table>
 
-</div>
+        </div>
