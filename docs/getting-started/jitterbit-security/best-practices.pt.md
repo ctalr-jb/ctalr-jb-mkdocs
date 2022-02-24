@@ -122,7 +122,7 @@ específicos de relato.
 #### Regulações da União Europeia e da Zona de Atividade Econômica Europeia
 
 -   O <a href="https://gdpr.eu/" class="external-link" rel="nofollow">GDPR
-    (General Data Protection Regulation)</a>GDPR (General Data Protection Regulation)</a>, em português,
+    (General Data Protection Regulation)</a>, em português,
     Regulamento Geral sobre a Proteção de Dados, dá controle aos
     indivíduos na União Europeia e na Área Econômica Europeia. Ele
     exige que os negócios se certifiquem que seus processos que lidam
