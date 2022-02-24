@@ -197,8 +197,10 @@ data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/operation_mag
 <table class="wrapped confluenceTable">
 <tbody>
 <tr class="header header">
-<td><strong>Ícone</strong></td>
-<td><strong>Descrição</strong></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><strong>Ícone</strong></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><strong>Descrição</strong></td>
 </tr>
 <tr class="odd odd">
 <td class="confluenceTd"><div class="content-wrapper">
@@ -208,7 +210,7 @@ src="https://docs-source.jitterbit.com/common/icons/schedules.png"
 class="confluence-embedded-image confluence-external-resource image-center"
 data-image-src="https://docs-source.jitterbit.com/common/icons/schedules.png" /></span></p>
 </div></td>
-<td><p>Abre a aba <strong>Schedules</strong> (Agendas) das configurações
+<td class="confluenceTd"><p>Abre a aba <strong>Schedules</strong> (Agendas) das configurações
 de operação (veja <a
 href="https://success.jitterbit.com/display/CS/Operation+Schedules">Agendas de Operação</a>).</p>
 <p>Este ícone é mostrado apenas quando uma operação já tem uma agenda
@@ -222,7 +224,7 @@ src="https://docs-source.jitterbit.com/common/icons/deploy.png"
 class="confluence-embedded-image confluence-external-resource image-center"
 data-image-src="https://docs-source.jitterbit.com/common/icons/deploy.png" /></span></p>
 </div></td>
-<td>Implanta a operação e quaisquer componentes dos quais ela dependa
+<td class="confluenceTd">Implanta a operação e quaisquer componentes dos quais ela dependa
 (veja <a
 href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution#OperationDeploymentandExecution-deploy">Implantando</a> em <a href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution">Implantação e Execução de
 Operações</a>).</td>
@@ -235,7 +237,7 @@ src="https://docs-source.jitterbit.com/common/icons/deploy-and-run.png"
 class="confluence-embedded-image confluence-external-resource image-center"
 data-image-src="https://docs-source.jitterbit.com/common/icons/deploy-and-run.png" /></span></p>
 </div></td>
-<td>Abre a tela de implantação, onde você pode selecionar componentes de
+<td class="confluenceTd">Abre a tela de implantação, onde você pode selecionar componentes de
 projeto para implantar (veja <a
 href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution#OperationDeploymentandExecution-deploy">Implantando</a> em <a href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution">Implantação e
 Execução de Operações</a>).</td>
@@ -248,7 +250,7 @@ src="https://docs-source.jitterbit.com/common/icons/collapse.png"
 class="confluence-embedded-image confluence-external-resource image-center"
 data-image-src="https://docs-source.jitterbit.com/common/icons/collapse.png" /></span></p>
 </div></td>
-<td><p>Esconde a operação em uma visualização menor, mais condensada
+<td class="confluenceTd"><p>Esconde a operação em uma visualização menor, mais condensada
 (veja <a
 href="https://success.jitterbit.com/display/CS/Operation+Creation+and+Configuration#OperationCreationandConfiguration-expanding-or-collapsing">Expandindo ou Escondendo Operações</a> em <a
 href="https://success.jitterbit.com/display/CS/Operation+Creation+and+Configuration">Criação e
@@ -263,7 +265,7 @@ src="https://docs-source.jitterbit.com/common/icons/expand.png"
 class="confluence-embedded-image confluence-external-resource image-center"
 data-image-src="https://docs-source.jitterbit.com/common/icons/expand.png" /></span></p>
 </div></td>
-<td><p>Expande a operação para que ela fique com o tamanho padrão (veja
+<td class="confluenceTd"><p>Expande a operação para que ela fique com o tamanho padrão (veja
   <a
   href="https://success.jitterbit.com/display/CS/Operation+Creation+and+Configuration#OperationCreationandConfiguration-expanding-or-collapsing">Expandindo ou Escondendo Operações</a> em <a
   href="https://success.jitterbit.com/display/CS/Operation+Creation+and+Configuration">Criação e Configuração
@@ -279,7 +281,7 @@ class="confluence-embedded-image confluence-external-resource image-center"
 data-image-src="https://docs-source.jitterbit.com/common/icons/actions-menu_22.png"
 height="6" /></span></p>
 </div></td>
-<td>Abre o <a
+<td class="confluenceTd">Abre o <a
 href="#DesignCanvas-operation-actions-menu">menu de ações de operação</a>, descrito mais à frente
 nesta mesma página.</td>
 </tr>
@@ -475,8 +477,10 @@ ações:
 </colgroup>
 <tbody>
 <tr class="header header">
-<td><strong>Item do Menu</strong></td>
-<td><strong>Descrição</strong></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><strong>Item do Menu</strong></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><strong>Descrição</strong></td>
 </tr>
 <tr class="odd odd">
 <td class="confluenceTd"><div class="content-wrapper">
@@ -487,7 +491,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/undo.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>Undo</strong> reverte a sua última ação.</td>
+<td class="confluenceTd"><strong>Undo</strong> reverte a sua última ação.</td>
 </tr>
 <tr class="header header">
 <td class="confluenceTd"><div class="content-wrapper">
@@ -498,7 +502,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/redo.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>Redo</strong> reverte a sua última ação
+<td class="confluenceTd"><strong>Redo</strong> reverte a sua última ação
 <strong>Undo</strong>.</td>
 </tr>
 <tr class="odd odd">
@@ -518,7 +522,7 @@ height="67" /></span></p>
 <p><br />
 </p>
 </div></td>
-<td><p><strong>Deploy</strong> mostra as seguintes ações de menu:</p>
+<td class="confluenceTd"><p><strong>Deploy</strong> mostra as seguintes ações de menu:</p>
 <ul>
 <li>
 <p><strong>Deploy</strong>: Implanta o projeto inteiro (veja
@@ -542,7 +546,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/migrate.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>Migrate</strong> abre a tela de migração de projeto, onde
+<td class="confluenceTd"><strong>Migrate</strong> abre a tela de migração de projeto, onde
 você pode escolher o ambiente alvo (veja <a
 href="https://success.jitterbit.com/display/CS/Project+Migration">Migração de
 Projetos</a>).</td>
@@ -556,7 +560,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/project-history.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>Project History</strong> abre um painel do lado direito do
+<td class="confluenceTd"><strong>Project History</strong> abre um painel do lado direito do
 <em>designer</em> de projeto onde você pode ver eventos da história do
 projeto, etiquetar eventos e restaurar projetos (veja <a
 href="https://success.jitterbit.com/display/CS/Project+History">Histórico de
@@ -643,8 +647,10 @@ Estes itens estão disponíveis no menu de ações de uma operação:
 <table class="wrapped confluenceTable">
 <tbody>
 <tr class="header header">
-<td><strong>Item do Menu</strong></td>
-<td><strong>Descrição</strong></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><strong>Item do Menu</strong></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><strong>Descrição</strong></td>
 </tr>
 <tr class="odd odd">
 <td class="confluenceTd"><div class="content-wrapper">
@@ -655,7 +661,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/settings.png"
 height="33" /></span></strong></p>
 </div></td>
-<td><p><strong>Settings</strong> abre as configurações de operação, que
+<td class="confluenceTd"><p><strong>Settings</strong> abre as configurações de operação, que
 contém três abas:</p>
 <ul>
 <li>
@@ -689,7 +695,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/cut.png"
 height="33" /></span></strong></p>
 </div></td>
-<td><strong>Cut</strong> coloca uma cópia da operação na sua área de
+<td class="confluenceTd"><strong>Cut</strong> coloca uma cópia da operação na sua área de
 transferência e deleta a operação original do projeto (veja <a href="https://success.jitterbit.com/display/CS/Operation+Reuse">Reuso de
 Operações</a>).</td>
 </tr>
@@ -702,7 +708,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/copy.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>Copy</strong> coloca uma cópia da operação na sua área de
+<td class="confluenceTd"><strong>Copy</strong> coloca uma cópia da operação na sua área de
 transferência (veja <a
 href="https://success.jitterbit.com/display/CS/Operation+Reuse">Reuso de Operações</a>).</td>
 </tr>
@@ -725,7 +731,7 @@ height="67" /></span></p>
 <p><br />
 </p>
 </div></td>
-<td><p><strong>Duplicate</strong> mostra as seguintes ações de menu
+<td class="confluenceTd"><p><strong>Duplicate</strong> mostra as seguintes ações de menu
 (veja <a href="https://success.jitterbit.com/display/CS/Operation+Reuse">Reuso de Operações</a>):</p>
 <ul>
 <li>
@@ -758,7 +764,7 @@ height="101" /></span></p>
 <p><br />
 </p>
 </div></td>
-<td><p><strong>Deploy</strong> mostra as seguintes ações de menu:</p>
+<td class="confluenceTd"><p><strong>Deploy</strong> mostra as seguintes ações de menu:</p>
 <ul>
 <li>
 <p><strong>Deploy</strong>: Implanta a operação, bem como quaisquer
@@ -789,7 +795,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/run.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>Run</strong> abre uma operação já implantada bem como
+<td class="confluenceTd"><strong>Run</strong> abre uma operação já implantada bem como
 quaisquer operações (ligadas) abaixo dela na cadeia (veja <a href="https://success.jitterbit.com/display/CS/Operation+Deployment+and+Execution">Implantação
 e Execução de Operações</a>).</td>
 </tr>
@@ -802,7 +808,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/view-logs.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>View Logs</strong> contém a tela de registros de operação,
+<td class="confluenceTd"><strong>View Logs</strong> contém a tela de registros de operação,
 que inclui registros desta operação e de quaisquer operações-filha que
 tenham sido implantadas e executadas (veja <a
 href="https://success.jitterbit.com/display/CS/Operation+Logs">Registros de
@@ -817,7 +823,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/rename.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>Rename</strong> coloca o cursor em cima do nome da operação
+<td class="confluenceTd"><strong>Rename</strong> coloca o cursor em cima do nome da operação
 para que você faça quantas edições forem necessárias.</td>
 </tr>
 <tr class="odd odd">
@@ -829,7 +835,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/view-dependencies.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>View Dependencies</strong> muda a visualização do painel de
+<td class="confluenceTd"><strong>View Dependencies</strong> muda a visualização do painel de
 projeto para exibir quaisquer outras partes do projeto das quais aquela
 operação específica dependa (veja <a
 href="https://success.jitterbit.com/display/CS/Operation+Dependencies%2C+Deletion%2C+and+Removal">Dependências, Exclusão e Remoção de
@@ -844,7 +850,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/add-to-group.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>Add to group</strong> abre uma caixa de diálogo para criar
+<td class="confluenceTd"><strong>Add to group</strong> abre uma caixa de diálogo para criar
 um novo grupo customizado ou para adicionar o componente a um grupo já
 existente (veja <a href="https://success.jitterbit.com/display/CS/Component+Groups">Grupos de Componentes</a>).</td>
 </tr>
@@ -857,7 +863,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/delete.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>Delete</strong> exclui permanentemente o componente (veja
+<td class="confluenceTd"><strong>Delete</strong> exclui permanentemente o componente (veja
   <a
   href="https://success.jitterbit.com/display/CS/Operation+Dependencies%2C+Deletion%2C+and+Removal">Dependências, Exclusão e Remoção de Operações</a>).</td>
 </tr>
@@ -870,7 +876,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/remove.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>Remove</strong> apaga todas as referências ao componente do
+<td class="confluenceTd"><strong>Remove</strong> apaga todas as referências ao componente do
 design canvas. Esta ação só é funcional quando usada numa operação que
 está em um workflow (veja <a
 href="https://success.jitterbit.com/display/CS/Operation+Dependencies%2C+Deletion%2C+and+Removal">Dependências, Exclusão e Remoção de
@@ -894,8 +900,10 @@ Os menus de ações desses componentes compartilham as mesmas ações:
 </colgroup>
 <tbody>
 <tr class="header header">
-<td><strong>Item do Menu</strong></td>
-<td><strong>Descrição</strong></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><strong>Item do Menu</strong></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><strong>Descrição</strong></td>
 </tr>
 <tr class="odd odd">
 <td class="confluenceTd"><div class="content-wrapper">
@@ -906,7 +914,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/view-edit.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>View/Edit</strong> abre a tela de configuração do
+<td class="confluenceTd"><strong>View/Edit</strong> abre a tela de configuração do
 componente. Para mais detalhes sobre a configuração, consulte o
 componente respectivo em <a
 href="https://success.jitterbit.com/display/CS/Connectors">Conectores</a>, <em><a
@@ -923,7 +931,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/cut.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>Cut</strong> coloca uma cópia do componente na sua área de
+<td class="confluenceTd"><strong>Cut</strong> coloca uma cópia do componente na sua área de
 transferência e deleta o componente original do projeto (veja <a href="https://success.jitterbit.com/display/CS/Component+Reuse">Reuso
 de Componentes</a>).</td>
 </tr>
@@ -936,7 +944,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/copy.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>Copy</strong> coloca uma cópia do componente na sua área de
+<td class="confluenceTd"><strong>Copy</strong> coloca uma cópia do componente na sua área de
 transferência (veja <a
 href="https://success.jitterbit.com/display/CS/Component+Reuse">Reuso de Componentes</a>).</td>
 </tr>
@@ -957,7 +965,7 @@ height="67" /></span></p>
 <p><br />
 </p>
 </div></td>
-<td><p><strong>Deploy</strong> mostra as seguintes ações de menu:</p>
+<td class="confluenceTd"><p><strong>Deploy</strong> mostra as seguintes ações de menu:</p>
 <ul>
 <li>
 <p><strong>Deploy</strong>: Implanta o componente, bem como quaisquer
@@ -982,7 +990,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/remove.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>Remove</strong> apaga as referências ao componente do design
+<td class="confluenceTd"><strong>Remove</strong> apaga as referências ao componente do design
 canvas (veja <a
 href="https://success.jitterbit.com/display/CS/Component+Dependencies%2C+Deletion%2C+and+Removal">Dependências, Exclusão e Remoção de
 Componentes</a>).</td>
@@ -1039,8 +1047,10 @@ data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/drop-zone_com
 </colgroup>
 <tbody>
 <tr class="header header">
-<td><strong>Item do Menu</strong></td>
-<td><strong>Descrição</strong></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><strong>Item do Menu</strong></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><strong>Descrição</strong></td>
 </tr>
 <tr class="odd odd">
 <td class="confluenceTd"><div class="content-wrapper">
@@ -1051,7 +1061,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/new-script.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>New Script</strong> cria um novo script como passo numa
+<td class="confluenceTd"><strong>New Script</strong> cria um novo script como passo numa
 operação nova ou existente (veja <a
 href="https://success.jitterbit.com/display/CS/Script+Types+and+Creation">Tipos e Criação de
 <em>Scripts</em></a>).</td>
@@ -1065,7 +1075,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/new-transformation.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>New Transformation</strong> cria uma nova transformação como
+<td class="confluenceTd"><strong>New Transformation</strong> cria uma nova transformação como
 passo numa operação nova ou existente (veja <a
 href="https://success.jitterbit.com/display/CS/Transformation+Creation+and+Configuration">Criação e Configuração de
 <em>Transformations</em></a>). Quando usado numa área de inserção de
@@ -1080,7 +1090,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/paste.png"
 height="33" /></span></p>
 </div></td>
-<td><p><strong>Paste</strong> cria uma duplicata de uma atividade,
+<td class="confluenceTd"><p><strong>Paste</strong> cria uma duplicata de uma atividade,
 <em>script</em>, operação ou notificação de e-mail que esteja na sua
 área de transferência como um novo componente referenciado por uma
 operação nova ou existente (veja <a href="https://success.jitterbit.com/display/CS/Component+Reuse">Reuso de Componentes</a>). Quando

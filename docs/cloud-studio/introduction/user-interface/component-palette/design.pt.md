@@ -170,8 +170,10 @@ data-image-src="https://docs-source.jitterbit.com/cs/component-palette/connectiv
 </colgroup>
 <tbody>
 <tr class="header header">
-<td><strong>Item do Menu</strong></td>
-<td><strong>Descrição</strong></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><strong>Item do Menu</strong></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><strong>Descrição</strong></td>
 </tr>
 <tr class="odd odd">
 <td class="confluenceTd"><div class="content-wrapper">
@@ -182,7 +184,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/view-edit.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>View/Edit</strong> abre a tela de configuração da conexão
+<td class="confluenceTd"><strong>View/Edit</strong> abre a tela de configuração da conexão
 (veja a documentação da conexão do <em>endpoint</em> específico em
   <a
   href="https://success.jitterbit.com/display/CS/Connectors">Conectores</a>).</td>
@@ -196,7 +198,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/test.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>Test</strong> testa a conexão. Esta ação é o mesmo que
+<td class="confluenceTd"><strong>Test</strong> testa a conexão. Esta ação é o mesmo que
 clicar no botão <strong>Test</strong> disponível numa tela de
 configuração de conexão (veja a documentação da conexão do
 <em>endpoint</em> específico em <a
@@ -211,7 +213,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/duplicate.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>Duplicate</strong> cria uma conexão nova e não-referenciada
+<td class="confluenceTd"><strong>Duplicate</strong> cria uma conexão nova e não-referenciada
 usando as mesmas configurações que a conexão original (veja <a href="https://success.jitterbit.com/display/CS/Component+Reuse">Reuso de
 Componentes</a>).</td>
 </tr>
@@ -224,7 +226,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/delete.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>Delete</strong> exclui permanentemente a conexão (veja
+<td class="confluenceTd"><strong>Delete</strong> exclui permanentemente a conexão (veja
   <a
   href="https://success.jitterbit.com/display/CS/Component+Dependencies%2C+Deletion%2C+and+Removal">Dependências, Exclusão e Remoção de Componentes</a>).</td>
 </tr>
@@ -251,8 +253,10 @@ data-image-src="https://docs-source.jitterbit.com/cs/component-palette/connectiv
 </colgroup>
 <tbody>
 <tr class="header header">
-<td><strong>Item do Menu</strong></td>
-<td><strong>Descrição</strong></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><strong>Item do Menu</strong></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><strong>Descrição</strong></td>
 </tr>
 <tr class="odd odd">
 <td class="confluenceTd"><div class="content-wrapper">
@@ -263,7 +267,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/copy.png"
 height="33" /></span></p>
 </div></td>
-<td><strong>Copy</strong> coloca uma cópia do tipo de atividade na sua
+<td class="confluenceTd"><strong>Copy</strong> coloca uma cópia do tipo de atividade na sua
 área de transferência para ser usada para criar uma instância de
 atividade (veja <a href="https://success.jitterbit.com/display/CS/Component+Reuse">Reuso de Componentes</a>).</td>
 </tr>
