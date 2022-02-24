@@ -501,10 +501,6 @@ Os seguintes itens estão disponíveis no menu de ações de uma operação:
 <div class="table-wrap">
 
 <table class="wrapped confluenceTable">
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
 <tbody>
 <tr class="header header">
 <td class="highlight-grey confluenceTd"
@@ -765,10 +761,10 @@ ações:
 
 <div class="table-wrap">
 
-<table class="relative-table wrapped confluenceTable"
+<table class="relative-table wrapped confluenceTable" style="width: 88.0399%;">
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col style="width: 15%" />
+<col style="width: 84%" />
 </colgroup>
 <tbody>
 <tr class="header header">
@@ -1021,10 +1017,10 @@ Conexões são listadas numa subcategoria do tipo *endpoint* sob
 
 <div class="table-wrap">
 
-<table class="relative-table wrapped confluenceTable"
+<table class="relative-table wrapped confluenceTable" style="width: 87.7076%;">
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col style="width: 15%" />
+<col style="width: 84%" />
 </colgroup>
 <tbody>
 <tr class="header header">
