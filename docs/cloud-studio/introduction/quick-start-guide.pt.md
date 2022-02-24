@@ -181,7 +181,7 @@ Quando você adiciona um *script* ou uma *transformation*, a tela de configuraç
 mais detalhes sobre estas configurações, leia [Scripts](https://success.jitterbit.com/display/CS/Scripts?showLanguage=pt_BR) e
 [Transformations](https://success.jitterbit.com/display/CS/Transformations?showLanguage=pt_BR), respectivamente.
 
-### span id="CloudStudioQuickStartGuide-chain-operations" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Encadeando Operações Usando Ações de Operação
+### <span id="CloudStudioQuickStartGuide-chain-operations" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Encadeando Operações Usando Ações de Operação
 
 Depois que mais de uma operação estiver criada, você pode configurar ações de operação para que elas disparem a
 execução de outras operações, enviem e-mails, ou escrevam mensagens no registro depois do sucesso ou da falha de uma
