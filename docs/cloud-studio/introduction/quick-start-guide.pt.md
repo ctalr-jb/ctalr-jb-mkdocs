@@ -87,8 +87,8 @@ src="https://docs-source.jitterbit.com/cs/project/project-designer_annotated_pp.
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/project/project-designer_annotated_pp.png" /></span>
 
-Geralmente, fazemos o *design* de workflows - ou seja, coleções de operações agrupadas para a conveniência do
-usuário - dentro do design canvas usando as ferramentas oferecidas na paleta de componentes, no painel do projeto e
+Geralmente, fazemos o *design* de workflows &mdash; ou seja, coleções de operações agrupadas para a conveniência do
+usuário &mdash; dentro do design canvas usando as ferramentas oferecidas na paleta de componentes, no painel do projeto e
 no design canvas em si.
 
 As próximas seções percorrem o processo de *design* básico:
@@ -127,7 +127,7 @@ Para ver instruções detalhadas sobre como configurar uma conexão, veja a cone
 nos ícones de pasta de conectores, acessíveis no filtro **Connectors**.
 
 Quando você tiver criado uma conexão, ela aparecerá no filtro **Endpoints**. Clique em uma conexão para revelar os
-tipos de atividades - interações com um *endpoint* - que podem ser configurados para aquela conexão.
+tipos de atividades &mdash; interações com um *endpoint* &mdash; que podem ser configurados para aquela conexão.
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://docs-source.jitterbit.com/cs/component-palette/connectivity/endpoints_http_activities.png"
@@ -146,7 +146,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/project/connectivity-terms_
 ### <span id="CloudStudioQuickStartGuide-create-operation-steps" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Criando Etapas de Operação {#CloudStudioQuickStartGuide-create-operation-steps}
 
 Operações que definem o que a integração deve fazer são criadas mediante a adição e a configuração de etapas de
-operação - compostos de atividades, *transformations* e/ou *scripts* - no quadro de *design*.
+operação &mdash; compostos de atividades, *transformations* e/ou *scripts* &mdash; no quadro de *design*.
 
 A seção [Estabelecendo Conectividade](https://success.jitterbit.com/display/CS/Cloud+Studio+Quick+Start+Guide?showLanguage=pt_BR#CloudStudioQuickStartGuide-establish-connectivity), acima, mostra como criar
 uma conexão e ver os seus tipos de atividade.

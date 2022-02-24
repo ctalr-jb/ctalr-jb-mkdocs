@@ -134,7 +134,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/dialog/error-failed-to-auth
 ## <span id="CloudStudioPermissions,Collaboration,andSaving-collaboration" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Colaboração
 
 Usuários que são membros de um papel com acesso *Write* (Escrever) em um ambiente podem editar projetos de
-integração ao mesmo tempo que outros usuários - chamados colaboradores de projeto - assim como fazer edições em
+integração ao mesmo tempo que outros usuários &mdash; chamados colaboradores de projeto &mdash; assim como fazer edições em
 diferentes partes de um projeto. O Cloud Studio sincroniza automaticamente workflows e componentes para múltiplos
 usuários.
 

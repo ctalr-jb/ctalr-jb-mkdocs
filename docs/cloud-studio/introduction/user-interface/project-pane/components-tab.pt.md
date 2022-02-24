@@ -277,9 +277,9 @@ data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/scr
 -   Um componente que é referenciado por apenas um outro componente ou
     workflow é mostrado sem nenhum indicador visual.
 
--   Um componente que é referenciado por vários componentes - ou uma
+-   Um componente que é referenciado por vários componentes &mdash; ou uma
     operação que é referenciada por componente(s) e um workflow, ou
-    por vários componentes - tem o número de componentes que o
+    por vários componentes &mdash; tem o número de componentes que o
     referenciam mostrado dentro de um círculo
     <span
     class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
