@@ -183,6 +183,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/view-edit.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/view-edit.png"
 height="33" /></span></p>
+<p><em>Ver/Editar</em></p>
 </div></td>
 <td class="confluenceTd"><strong>View/Edit</strong> abre a tela de configuração da conexão
 (veja a documentação da conexão do <em>endpoint</em> específico em
@@ -197,6 +198,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/test.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/test.png"
 height="33" /></span></p>
+<p><em>Testar</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Test</strong> testa a conexão. Esta ação é o mesmo que
 clicar no botão <strong>Test</strong> disponível numa tela de
@@ -212,6 +214,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/duplicate.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/duplicate.png"
 height="33" /></span></p>
+<p><em>Duplicar</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Duplicate</strong> cria uma conexão nova e não-referenciada
 usando as mesmas configurações que a conexão original (veja <a href="https://success.jitterbit.com/display/CS/Component+Reuse">Reuso de
@@ -225,6 +228,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/delete.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/delete.png"
 height="33" /></span></p>
+<p><em>Deletar</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Delete</strong> exclui permanentemente a conexão (veja
   <a
@@ -266,6 +270,7 @@ src="https://docs-source.jitterbit.com/cs/menu-items/copy.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/menu-items/copy.png"
 height="33" /></span></p>
+<p><em>Copiar</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Copy</strong> coloca uma cópia do tipo de atividade na sua
 área de transferência para ser usada para criar uma instância de
