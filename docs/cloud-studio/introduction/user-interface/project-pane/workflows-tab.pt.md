@@ -275,7 +275,7 @@ height="33" /></span></p>
 Algumas ações estão disponíveis apenas em certos tipos de componente,
 conforme detalhado nas subseções abaixo:
 
--   **[Operações](?showLanguage=pt_BR#ProjectPaneWorkflowsTab-operations)**: O menu de ações de operação (mostrado na
+-   **[Operações](https://success.jitterbit.com/display/CS/Project+Pane+Workflows+Tab?showLanguage=pt_BR#ProjectPaneWorkflowsTab-operations)**: O menu de ações de operação (mostrado na
     primeira imagem abaixo) tem itens únicos, como **Settings**
     (Configurações), **Run** (Executar) e **View Logs** (Ver
     Registros), bem como sub-menus diferentes em **Deploy**
@@ -284,7 +284,7 @@ conforme detalhado nas subseções abaixo:
     Dependencies** (Ver Dependências), **Delete** (Deletar) e
     **Remove** (Remover).
 
--   **[Atividades, *Scripts* e *Transformations*](?showLanguage=pt_BR#ProjectPaneWorkflowsTab-share)**: Os menus de
+-   **[Atividades, *Scripts* e *Transformations*](https://success.jitterbit.com/display/CS/Project+Pane+Workflows+Tab?showLanguage=pt_BR#ProjectPaneWorkflowsTab-share)**: Os menus de
     ações destes componentes compartilham as mesmas ações, incluindo
     **View/Edit** (Ver/Editar), **Cut** (Recortar), **Copy** (Copiar),
     **Deploy** (Implantar), **Rename** (Renomear), **View
