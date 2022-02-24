@@ -143,7 +143,7 @@ src="https://docs-source.jitterbit.com/cs/project/connectivity-terms_annotated_p
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/project/connectivity-terms_annotated_pp.png" /></span>
 
-### <span id="CloudStudioQuickStartGuide-create-operation-steps" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Criando Etapas de Operação {#CloudStudioQuickStartGuide-create-operation-steps}
+### <span id="CloudStudioQuickStartGuide-create-operation-steps" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Criando Etapas de Operação
 
 Operações que definem o que a integração deve fazer são criadas mediante a adição e a configuração de etapas de
 operação &mdash; compostos de atividades, *transformations* e/ou *scripts* &mdash; no quadro de *design*.
