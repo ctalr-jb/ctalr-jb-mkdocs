@@ -13,7 +13,7 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 
 <div class="confluence-information-macro-body">
 
-**NOTA**: As informações sobre* whitelists *são aplicáveis aos
+**NOTA:** As informações sobre *whitelists* são aplicáveis aos
 [Agents](https://success.jitterbit.com/display/DOC/Agent?showLanguage=pt_BR) e ao [Design Studio](https://success.jitterbit.com/display/DOC/Design+Studio?showLanguage=pt_BR). Estas informações não são
 aplicáveis às aplicações Harmony baseadas na nuvem que são acessadas por
 meio do [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal?showLanguage=pt_BR).
