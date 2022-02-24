@@ -58,10 +58,10 @@ data-image-src="https://docs-source.jitterbit.com/cs/component-palette/connectiv
 
 -   **Endpoints**: Mostra as conexões. As conexões podem ser clicadas
     para exibir os tipos de atividade de cada conexão. Para mais
-    detalhes, veja [Endpoints](#DesignComponentPalette-endpoints) mais à frente nesta mesma página.
+    detalhes, veja [Endpoints](https://success.jitterbit.com/display/CS/Design+Component+Palette?showLanguage=pt_BR#DesignComponentPalette-endpoints) mais à frente nesta mesma página.
 
 -   **Connectors** (Conectores): Mostra os conectores. Para mais
-    detalhes, veja [Conectores](#DesignComponentPalette-connectors) mais à frente nesta mesma página.
+    detalhes, veja [Conectores](https://success.jitterbit.com/display/CS/Design+Component+Palette?showLanguage=pt_BR#DesignComponentPalette-connectors) mais à frente nesta mesma página.
 
 -   **All** (Tudo): Mostra tanto os conectores quanto os terminais
     conforme descritos acima.
@@ -132,7 +132,7 @@ configuração, veja a documentação da atividade do *endpoint* em
 [Conectores](https://success.jitterbit.com/display/CS/Connectors?showLanguage=pt_BR).
 
 O menu de ações das conexões é descrito na próxima seção, [Menus de
-Ações](#DesignComponentPalette-actions-menus).
+Ações](https://success.jitterbit.com/display/CS/Design+Component+Palette?showLanguage=pt_BR#DesignComponentPalette-actions-menus).
 
 
 ## <span id="DesignComponentPalette-actions-menus" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Menus de Ações

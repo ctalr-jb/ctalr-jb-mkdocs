@@ -10,9 +10,9 @@ Esta página define conceitos e termos técnicos importantes usados no
 ## <span id="CloudStudioTerminology-project" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Projeto
 
 Um [projeto](https://success.jitterbit.com/display/CS/Projects?showLanguage=pt_BR) é uma coleção de um ou mais
-[workflows](#CloudStudioTerminology-workflow) que compõem e executam um caso de uso de integração. Um projeto contém
-[operações](#CloudStudioTerminology-operation) bem como outros [componentes de
-projeto](#CloudStudioTerminology-project-component) que podem ser parte de uma operação ou usados para apoiar
+[workflows](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology?showLanguage=pt_BR#CloudStudioTerminology-workflow) que compõem e executam um caso de uso de integração. Um projeto contém
+[operações](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology?showLanguage=pt_BR#CloudStudioTerminology-operation) bem como outros [componentes de
+projeto](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology?showLanguage=pt_BR#CloudStudioTerminology-project-component) que podem ser parte de uma operação ou usados para apoiar
 operações. Um projeto pode ser compartilhado, arquivado ou redistribuído por meio de sua exportação ou importação
 como um arquivo JSON.
 
@@ -20,9 +20,9 @@ como um arquivo JSON.
 ## <span id="CloudStudioTerminology-project-component" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Componente de Projeto
 
 [Componentes de projeto](https://success.jitterbit.com/display/CS/Project+Components?showLanguage=pt_BR) são as peças individuais de um projeto.
-Alguns componentes, incluindo [atividades](#CloudStudioTerminology-activities),
-*[transformations](#CloudStudioTerminology-transformation)* e *[scripts](#CloudStudioTerminology-scripts)*, podem
-ser adicionados a [operações](#CloudStudioTerminology-operation) e executados como uma sequência de etapas. Outros
+Alguns componentes, incluindo [atividades](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology?showLanguage=pt_BR#CloudStudioTerminology-activities),
+*[transformations](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology?showLanguage=pt_BR#CloudStudioTerminology-transformation)* e *[scripts](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology?showLanguage=pt_BR#CloudStudioTerminology-scripts)*, podem
+ser adicionados a [operações](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology?showLanguage=pt_BR#CloudStudioTerminology-operation) e executados como uma sequência de etapas. Outros
 componentes podem ser usados em apoio a tais operações, como [variáveis](https://success.jitterbit.com/display/CS/Variables?showLanguage=pt_BR),
 [agendas](https://success.jitterbit.com/display/CS/Operation+Schedules?showLanguage=pt_BR), [*schemas* de
 arquivo](https://success.jitterbit.com/display/CS/Schemas?showLanguage=pt_BR), [notificações](https://success.jitterbit.com/display/CS/Notifications?showLanguage=pt_BR) e
@@ -52,7 +52,7 @@ Componente A é ***dependente do*** Componente B. Portanto, o Componente B é **
 
 ## <span id="CloudStudioTerminology-workflow" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Workflow
 
-Um workflow é uma coleção de [operações](#CloudStudioTerminology-operation) usada como ferramenta para ajudar a
+Um workflow é uma coleção de [operações](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology?showLanguage=pt_BR#CloudStudioTerminology-operation) usada como ferramenta para ajudar a
 segregar diferentes partes do projeto para a conveniência do usuário.
 
 Os workflows são criados no topo do [design canvas](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR):
@@ -77,13 +77,13 @@ efetivamente executar todas as operações dentro de um projeto.
 
 ## <span id="CloudStudioTerminology-operation" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Operação
 
-Uma operação é a menor unidade dentro de um [workflow](#CloudStudioTerminology-workflow) que é executada
+Uma operação é a menor unidade dentro de um [workflow](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology?showLanguage=pt_BR#CloudStudioTerminology-workflow) que é executada
 independentemente num agente e registrada pelo Harmony (hora de início e duração, sucesso, falha, erros, etc.). As
 operações são usadas para definir o que uma integração deve fazer e quando aquilo deve ser feito.
 
 Uma operação consiste de, no mínimo, uma etapa de operação, e muitas vezes tem várias etapas de operação compostas
-de [atividades](#CloudStudioTerminology-activities), *[transformations](#CloudStudioTerminology-transformation)* ou
-*[scripts](#CloudStudioTerminology-scripts)*. Etapas de operação são os elementos individuais que compõem uma
+de [atividades](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology?showLanguage=pt_BR#CloudStudioTerminology-activities), *[transformations](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology?showLanguage=pt_BR#CloudStudioTerminology-transformation)* ou
+*[scripts](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology?showLanguage=pt_BR#CloudStudioTerminology-scripts)*. Etapas de operação são os elementos individuais que compõem uma
 operação e são representadas visualmente dentro de uma operação no design canvas:
 
 <span class="confluence-embedded-file-wrapper"><img
@@ -141,7 +141,7 @@ mapeamento de campos.
 
 Os *scripts* podem ser usados em vários lugares, tanto dentro do [design
 canvas](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR) como etapas de uma
-[operação](#CloudStudioTerminology-operation), quanto dentro de *transformations* para aplicar aos dados uma lógica
+[operação](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology?showLanguage=pt_BR#CloudStudioTerminology-operation), quanto dentro de *transformations* para aplicar aos dados uma lógica
 especificada ou certas condições.
 
 
@@ -149,7 +149,7 @@ especificada ou certas condições.
 
 [Variáveis](https://success.jitterbit.com/display/CS/Variables?showLanguage=pt_BR) são usadas ao longo de todo um projeto para tornar as
 integrações mais flexíveis e dinâmicas. Elas permitem a configuração dinâmica de *endpoints*, apoiam a passagem de
-dados entre [operações](#CloudStudioTerminology-operation), e são usadas em *scripts* de *transformations* para
+dados entre [operações](https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology?showLanguage=pt_BR#CloudStudioTerminology-operation), e são usadas em *scripts* de *transformations* para
 guiar lógica de integração detalhada.
 
 O Jitterbit Harmony suporta vários tipos de variáveis com diversos escopos:

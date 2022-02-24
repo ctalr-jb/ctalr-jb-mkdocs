@@ -443,7 +443,7 @@ height="14" /></span></span><span>.</p></td>
 Algumas ações estão disponíveis somente em certos tipos de componentes,
 conforme detalhado nas subseções abaixo:
 
--   **[Operations](#ProjectPaneComponentsTab-operations)** (Operações): O menu de ações de operações
+-   **[Operations](https://success.jitterbit.com/display/CS/Project+Pane+Components+Tab?showLanguage=pt_BR#ProjectPaneComponentsTab-operations)** (Operações): O menu de ações de operações
     (mostrado na primeira imagem) tem itens únicos, tais como
     **Settings** (Configurações), **Run** (Executar) e **View Logs**
     (Ver Registros), assim como submenus diferentes para **Duplicar**
@@ -453,7 +453,7 @@ conforme detalhado nas subseções abaixo:
     Grupo), **Delete** (Deletar) e **Remove** (Remover).
 
 -   **[Files, Activities, Scripts, Transformations, Project Variables,
-    Global Variables, Emails e Schedules](#ProjectPaneComponentsTab-share)** (Arquivos, Atividades,
+    Global Variables, Emails e Schedules](https://success.jitterbit.com/display/CS/Project+Pane+Components+Tab?showLanguage=pt_BR#ProjectPaneComponentsTab-share)** (Arquivos, Atividades,
     *Scripts*, *Transformations*, Variáveis de Projeto, Variáveis
     Globais, E-mails e Agendas): Os menus de ações de todos esses
     componentes compartilham muitas das mesmas ações, como
@@ -466,7 +466,7 @@ conforme detalhado nas subseções abaixo:
     não estão disponíveis em todos os componentes, conforme descrito
     nesta seção.
 
--   **[Connections](#ProjectPaneComponentsTab-connections)** (Conexões): O menu de ações de uma conexão
+-   **[Connections](https://success.jitterbit.com/display/CS/Project+Pane+Components+Tab?showLanguage=pt_BR#ProjectPaneComponentsTab-connections)** (Conexões): O menu de ações de uma conexão
     (mostrado na terceira imagem) tem as ações **View/Edit**
     (Ver/Editar) e **Test** (Testar).
 

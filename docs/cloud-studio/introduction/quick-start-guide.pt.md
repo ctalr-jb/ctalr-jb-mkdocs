@@ -28,7 +28,7 @@ Processo](https://success.jitterbit.com/display/DOC/Starting+a+Recipe+or+Templat
 
 <div class="confluence-information-macro-body">
 
-<strong>NOTA:</strong> Antes de fazer o* design *de um projeto, você precisa já ter se cadastrado no Jitterbit
+<strong>NOTA:</strong> Antes de fazer o *design* de um projeto, você precisa já ter se cadastrado no Jitterbit
 Harmony e preparado um ambiente e um Agent Group, como descrito no <a
 href="https://success.jitterbit.com/display/DOC/Jitterbit+Admin+Quick+Start+Tutorial?showLanguage=pt_BR">Tutorial de Início Rápido do
 Jitterbit Admin</a>.
@@ -93,13 +93,13 @@ no design canvas em si.
 
 As próximas seções percorrem o processo de *design* básico:
 
-1.  [Estabelecendo Conectividade](#CloudStudioQuickStartGuide-establish-connectivity)
+1.  [Estabelecendo Conectividade](https://success.jitterbit.com/display/CS/Cloud+Studio+Quick+Start+Guide?showLanguage=pt_BR#CloudStudioQuickStartGuide-establish-connectivity)
 
-2.  [Criando Etapas de Operação](#CloudStudioQuickStartGuide-create-operation-steps)
+2.  [Criando Etapas de Operação](https://success.jitterbit.com/display/CS/Cloud+Studio+Quick+Start+Guide?showLanguage=pt_BR#CloudStudioQuickStartGuide-create-operation-steps)
 
-3.  [Encadeando Operações Usando Ações de Operação](#CloudStudioQuickStartGuide-chain-operations)
+3.  [Encadeando Operações Usando Ações de Operação](https://success.jitterbit.com/display/CS/Cloud+Studio+Quick+Start+Guide?showLanguage=pt_BR#CloudStudioQuickStartGuide-chain-operations)
 
-4.  [Implementando e Executando Operações](#CloudStudioQuickStartGuide-deploy-and-run)
+4.  [Implementando e Executando Operações](https://success.jitterbit.com/display/CS/Cloud+Studio+Quick+Start+Guide?showLanguage=pt_BR#CloudStudioQuickStartGuide-deploy-and-run)
 
 ### <span id="CloudStudioQuickStartGuide-establish-connectivity" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Estabelecendo Conectividade
 
@@ -148,7 +148,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/project/connectivity-terms_
 Operações que definem o que a integração deve fazer são criadas mediante a adição e a configuração de etapas de
 operação - compostos de atividades, *transformations* e/ou *scripts* - no quadro de *design*.
 
-A seção [Estabelecendo Conectividade](#CloudStudioQuickStartGuide-establish-connectivity), acima, mostra como criar
+A seção [Estabelecendo Conectividade](https://success.jitterbit.com/display/CS/Cloud+Studio+Quick+Start+Guide?showLanguage=pt_BR#CloudStudioQuickStartGuide-establish-connectivity), acima, mostra como criar
 uma conexão e ver os seus tipos de atividade.
 
 Para criar uma instância de uma atividade, coloque um tipo de atividade no design canvas. Você pode fazer isso ao

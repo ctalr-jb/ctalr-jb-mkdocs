@@ -71,8 +71,8 @@ data-image-src="https://docs-source.jitterbit.com/cs/project-index/header.png" /
     [Connector Builder](https://success.jitterbit.com/display/CS/Connector+Builder+Index?showLanguage=pt_BR), também chamada de *Índice do Connector
     Builder*.
 
--   **Visualização**: Clique no ícone de [card view](#ProjectIndex-card-view) (visualização
-    de cartões) ou [list view](#ProjectIndex-list-view) (visualização de lista) para
+-   **Visualização**: Clique no ícone de [card view](https://success.jitterbit.com/display/CS/Project+Index?showLanguage=pt_BR#ProjectIndex-card-view) (visualização
+    de cartões) ou [list view](https://success.jitterbit.com/display/CS/Project+Index?showLanguage=pt_BR#ProjectIndex-list-view) (visualização de lista) para
     alternar entre os formatos usados para exibir os projetos nesta
     página. A exibição de cartões é a visualização padrão inicial. Da
     próxima vez que você carregar a página **My Projects** (Meus

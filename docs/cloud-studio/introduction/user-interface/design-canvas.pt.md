@@ -80,7 +80,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/header.png" /
     data-image-src="https://docs-source.jitterbit.com/common/icons/actions-menu_18.png"
     height="8" /></span> para abrir
     o menu de ações do design canvas (veja [Menu de Ações do Design
-    Canvas](#DesignCanvas-deploy-migrate-actions-menu) mais abaixo nesta página).
+    Canvas](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-deploy-migrate-actions-menu) mais abaixo nesta página).
 
 ## <span id="DesignCanvas-design-canvas-elements" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Elementos do Design Canvas
 
@@ -94,18 +94,18 @@ design canvas. Os elementos do design canvas são os itens que aparecem
 visualmente no design canvas para te ajudar a fazer o *design* de um
 workflow, incluindo os seguintes:
 
--   [Área de inserção](#DesignCanvas-drop-zones) para operações e para outros componentes
+-   [Área de inserção](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-drop-zones) para operações e para outros componentes
     usados como etapas de operação
 
--   [Operações](#DesignCanvas-operations) e os componentes usados como etapas de operação
+-   [Operações](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-operations) e os componentes usados como etapas de operação
     dentro deles
 
--   [Notificações](#DesignCanvas-notifications) que são acionadas a partir de operações
+-   [Notificações](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-notifications) que são acionadas a partir de operações
 
--   [Referências de operações](#DesignCanvas-external-operations) que estão fora do workflow atual mas
+-   [Referências de operações](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-external-operations) que estão fora do workflow atual mas
     que são acionadas a partir de uma operação do workflow atual
 
--   [Linhas](#DesignCanvas-lines) que conectam as operações, *scripts* e notificações
+-   [Linhas](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-lines) que conectam as operações, *scripts* e notificações
     interligados
 
 Cada um destes elementos do design canvas é descrito abaixo. Para
@@ -151,7 +151,7 @@ de componente:
 Um menu de ações está disponível em toda área de inserção. Tanto as
 áreas de inserção de operação quanto as áreas de inserção para outros
 componentes mostram os mesmos itens no menu, conforme descritos em
-[Menu de Ações da Área de Inserção](#DesignCanvas-component-drop-zone-actions-menu), mais abaixo nesta mesma
+[Menu de Ações da Área de Inserção](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-component-drop-zone-actions-menu), mais abaixo nesta mesma
 página.
 
 ### <span id="DesignCanvas-operations" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span><span id="DesignCanvas-operation-toolbar" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Operações
@@ -186,7 +186,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/operation_mag
         de operações devem ser únicos e não podem conter barras (`/`)
         nem dois pontos (`:`) para serem válidos. Para renomear uma
         operação, veja [Renomeando Workflows, Operações e Etapas de
-        Operações](#DesignCanvas-renaming) mais à frente nesta mesma página.
+        Operações](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-renaming) mais à frente nesta mesma página.
 
 -   **Barra de Ferramentas de Operação**: A barra de ferramentas de
     operação aparece no lado superior direito de uma operação e
@@ -282,7 +282,7 @@ data-image-src="https://docs-source.jitterbit.com/common/icons/actions-menu_22.p
 height="6" /></span></p>
 </div></td>
 <td class="confluenceTd">Abre o <a
-href="#DesignCanvas-operation-actions-menu">menu de ações de operação</a>, descrito mais à frente
+href="https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-operation-actions-menu">menu de ações de operação</a>, descrito mais à frente
 nesta mesma página.</td>
 </tr>
 </tbody>
@@ -305,7 +305,7 @@ nesta mesma página.</td>
         data-image-src="https://docs-source.jitterbit.com/common/icons/actions-menu_6.png"
         height="18" /></span>.
         Cada item do menu é descrito em [Menu de Ações de
-        Componente](#DesignCanvas-component-actions-menu) mais à frente nesta mesma página.
+        Componente](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-component-actions-menu) mais à frente nesta mesma página.
 
     -   **Ícone de *Plugin***: Atividades que foram configuradas com um
         *plugin* que é executado junto com a operação exibem um ícone
@@ -352,7 +352,7 @@ Uma representação visual de uma notificação aparece automaticamente no
 design canvas quando você liga uma notificação de e-mail usando a
 [ação de operação](https://success.jitterbit.com/display/CS/Operation+Actions?showLanguage=pt_BR) **Enviar Notificação por E-mail**. Informação
 adicional sobre a exibição visual de links é dada mais à frente, debaixo
-do subtítulo [Linhas](#DesignCanvas-lines).
+do subtítulo [Linhas](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-lines).
 
 A notificação de e-mail é exibida com um fundo cinza. Dentro da área de
 fundo, a notificação de e-mail é representada por um quadrado mostrando
@@ -367,7 +367,7 @@ class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/notification_selected.png" /></span>
 
 Para ver as ações de menu disponíveis numa notificação de e-mail, veja
-[Menu de Ações de Componente](#DesignCanvas-component-actions-menu)  mais à frente nesta mesma página.
+[Menu de Ações de Componente](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-component-actions-menu)  mais à frente nesta mesma página.
 
 ### <span id="DesignCanvas-external-operations" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Referências de Operação
 
@@ -376,7 +376,7 @@ partir de uma operação dentro do workflow atual. Quando uma ligação
 assim é feita, uma representação visual da operação externa aparece
 automaticamente no design canvas no workflow atual. Informações
 adicionais sobre a exibição visual de links são dadas mais à frente,
-abaixo do subtítulo [Linhas](#DesignCanvas-lines).
+abaixo do subtítulo [Linhas](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-lines).
 
 A referência de operação é mostrada com um fundo cinza e contém ícones
 de formas que servem como representação geral das etapas de operação.
@@ -577,7 +577,7 @@ Para abrir o menu de ações de uma operação, faça uma das seguintes
 opções:
 
 -   Clique com o botão direito do mouse sobre a [barra de ferramentas
-    de operação](#DesignCanvas-operation-toolbar).
+    de operação](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-operation-toolbar).
 
 -   Clique sobre o ícone do menu de ações
     <span
@@ -607,7 +607,7 @@ incluindo as etapas de operação (atividades, *transformations* ou
 Algumas ações estão disponíveis apenas em certos tipos de componentes,
 como detalhado nas subseções abaixo:
 
--   **[Operations](#DesignCanvas-operations)** (Operações): O menu de ações das operações
+-   **[Operations](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-operations)** (Operações): O menu de ações das operações
     (mostrado na primeira imagem) tem itens únicos tais como
     **Settings** (Configurações), **Duplicate** (Duplicar), **Run**
     (Executar), **View Logs** (Ver registros), **Rename** (Renomear),
@@ -617,7 +617,7 @@ como detalhado nas subseções abaixo:
     como **Cut** (Recortar), **Copy** (Copiar) e **Remove** (Remover).
 
 -   **[Activities, Scripts, Transformations, and Email
-    Notifications](#DesignCanvas-share)** (Atividades, *Scripts*, *Transformations* e
+    Notifications](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-share)** (Atividades, *Scripts*, *Transformations* e
     Notificações de E-mail): Os menus de ações desses componentes
     compartilham as mesmas ações, incluindo **View/Edit**
     (Ver/Editar), **Cut** (Recortar), **Copy** (Copiar), **Deploy**

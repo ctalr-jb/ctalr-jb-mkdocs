@@ -41,7 +41,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/project-index/card-view_fli
 Criar um novo projeto (**New Project** \[Novo Projeto\]), importar um
 projeto (**Import** \[Importar\]), ou ver/editar um projeto existente
 (**View/Edit** \[Ver/Editar\]) abre o projeto e exibe a interface do
-[*designer* de projetos](#CloudStudioUserInterface-project-designer).
+[*designer* de projetos](https://success.jitterbit.com/display/CS/Cloud+Studio+User+Interface?showLanguage=pt_BR#CloudStudioUserInterface-project-designer).
 
 ## <span id="CloudStudioUserInterface-connector-builder-index" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Índice do Connector Builder
 
@@ -65,8 +65,8 @@ da documentação, no artigo [Connector Builder](https://success.jitterbit.com/d
 
 O *designer* de projetos é a interface onde você faz o *design* de um
 projeto. O *designer* de projetos inclui a [barra de ferramentas de
-projeto](#CloudStudioUserInterface-project-toolbar), o [painel de projeto](#CloudStudioUserInterface-project-menu), o [Design Canvas](#CloudStudioUserInterface-design-canvas) e a
-[paleta de componentes](#CloudStudioUserInterface-component-palette), bem como as [telas de configuração](#CloudStudioUserInterface-configuration-screens)
+projeto](https://success.jitterbit.com/display/CS/Cloud+Studio+User+Interface?showLanguage=pt_BR#CloudStudioUserInterface-project-toolbar), o [painel de projeto](https://success.jitterbit.com/display/CS/Cloud+Studio+User+Interface?showLanguage=pt_BR#CloudStudioUserInterface-project-menu), o [Design Canvas](https://success.jitterbit.com/display/CS/Cloud+Studio+User+Interface?showLanguage=pt_BR#CloudStudioUserInterface-design-canvas) e a
+[paleta de componentes](https://success.jitterbit.com/display/CS/Cloud+Studio+User+Interface?showLanguage=pt_BR#CloudStudioUserInterface-component-palette), bem como as [telas de configuração](https://success.jitterbit.com/display/CS/Cloud+Studio+User+Interface?showLanguage=pt_BR#CloudStudioUserInterface-configuration-screens)
 de cada componente, como as das *transformations*, dos *scripts* e das
 atividades.
 

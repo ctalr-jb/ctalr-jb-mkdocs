@@ -286,7 +286,7 @@ Projetos](https://success.jitterbit.com/display/CS/Project+Migration?showLanguag
 
 (O termo "migração" refere-se a mover um projeto de um ambiente para o outro. Se, em vez disso, você quiser
 *importar* um projeto exportado pelo Cloud Studio para o Cloud Studio, veja [Criando e Importando
-Projetos](#CloudStudioOverviewforDesignStudioUsers-importing) acima nesta mesma página).
+Projetos](https://success.jitterbit.com/display/CS/Cloud+Studio+Overview+for+Design+Studio+Users?showLanguage=pt_BR#CloudStudioOverviewforDesignStudioUsers-importing) acima nesta mesma página).
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://docs-source.jitterbit.com/cs/project/deploy_design-studio_annotated_pp.png"
