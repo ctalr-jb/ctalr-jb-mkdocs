@@ -24,7 +24,7 @@ recebeu certificados por satisfazer às seguintes exigências:
     href="https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/socforserviceorganizations.html"
     class="external-link" rel="nofollow">SOC1 and SOC2 type 2 compliance</a>
 
--   [ISO 27001:2013 with supplemental controls for 27017](https://success.jitterbit.com/display/DOC/ISO+27001+and+ISO+27017+Certification)
+-   [ISO 27001:2013 with supplemental controls for 27017](https://success.jitterbit.com/display/DOC/ISO+27001+and+ISO+27017+Certification?showLanguage=pt_BR)
 
 -   <a href="https://oag.ca.gov/privacy/ccpa" class="external-link"
     rel="nofollow">California Consumer Privacy Act (CCPA)</a>
@@ -40,11 +40,11 @@ rel="nofollow">EU-U.S. Privacy Shield Framework</a>.
 Este documento descreve os seguintes aspectos da segurança oferecida
 pela plataforma Jitterbit Harmony:
 
--   [Segurança Lógica e Arquitetura](#JitterbitSecurityandArchitectureWhitePaper-Logical-Security-and-Architecture)
+-   [Segurança Lógica e Arquitetura](https://success.jitterbit.com/display/DOC/Jitterbit+Security+and+Architecture+White+Paper?showLanguage=pt_BR#JitterbitSecurityandArchitectureWhitePaper-Logical-Security-and-Architecture)
 
--   [Segurança Física](#JitterbitSecurityandArchitectureWhitePaper-Physical-Security)
+-   [Segurança Física](https://success.jitterbit.com/display/DOC/Jitterbit+Security+and+Architecture+White+Paper?showLanguage=pt_BR#JitterbitSecurityandArchitectureWhitePaper-Physical-Security)
 
--   [Segurança Organizacional](#JitterbitSecurityandArchitectureWhitePaper-Organizational-Security)
+-   [Segurança Organizacional](https://success.jitterbit.com/display/DOC/Jitterbit+Security+and+Architecture+White+Paper?showLanguage=pt_BR#JitterbitSecurityandArchitectureWhitePaper-Organizational-Security)
 
 Este documento provê uma visão generalizada da segurança e aborda pontos
 a considerar da perspectiva da disponibilidade e do desempenho, além da
@@ -57,17 +57,17 @@ A segurança lógica é composta de todas as medidas de segurança tomadas
 dentro do *software* do Jitterbit Harmony. Esta seção descreve os
 seguintes pontos:
 
--   [Arquitetura do Sistema](#JitterbitSecurityandArchitectureWhitePaper-SystemArchitecture)
+-   [Arquitetura do Sistema](https://success.jitterbit.com/display/DOC/Jitterbit+Security+and+Architecture+White+Paper?showLanguage=pt_BR#JitterbitSecurityandArchitectureWhitePaper-SystemArchitecture)
 
--   [Componentes Principais](#JitterbitSecurityandArchitectureWhitePaper-MajorComponents)
+-   [Componentes Principais](https://success.jitterbit.com/display/DOC/Jitterbit+Security+and+Architecture+White+Paper?showLanguage=pt_BR#JitterbitSecurityandArchitectureWhitePaper-MajorComponents)
 
--   [Usuários, Organizações e Papéis do Harmony](#JitterbitSecurityandArchitectureWhitePaper-HarmonyUsers,Organizations,andRoles)
+-   [Usuários, Organizações e Papéis do Harmony](https://success.jitterbit.com/display/DOC/Jitterbit+Security+and+Architecture+White+Paper?showLanguage=pt_BR#JitterbitSecurityandArchitectureWhitePaper-HarmonyUsers,Organizations,andRoles)
 
--   [Ambientes e Controle de Acesso no Harmony](#JitterbitSecurityandArchitectureWhitePaper-HarmonyEnvironmentsandAccessControl)
+-   [Ambientes e Controle de Acesso no Harmony](https://success.jitterbit.com/display/DOC/Jitterbit+Security+and+Architecture+White+Paper?showLanguage=pt_BR#JitterbitSecurityandArchitectureWhitePaper-HarmonyEnvironmentsandAccessControl)
 
--   [Armazenamento de Dados do Harmony](#JitterbitSecurityandArchitectureWhitePaper-HarmonyDataStorage)
+-   [Armazenamento de Dados do Harmony](https://success.jitterbit.com/display/DOC/Jitterbit+Security+and+Architecture+White+Paper?showLanguage=pt_BR#JitterbitSecurityandArchitectureWhitePaper-HarmonyDataStorage)
 
--   [Topologias de Segurança do Harmony](#JitterbitSecurityandArchitectureWhitePaper-HarmonySecurityTopologies)
+-   [Topologias de Segurança do Harmony](https://success.jitterbit.com/display/DOC/Jitterbit+Security+and+Architecture+White+Paper?showLanguage=pt_BR#JitterbitSecurityandArchitectureWhitePaper-HarmonySecurityTopologies)
 
 ### <span id="JitterbitSecurityandArchitectureWhitePaper-SystemArchitecture" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Arquitetura do Sistema
 
@@ -335,7 +335,7 @@ O Jitterbit Harmony Studio expõe o maior conjunto de funcionalidades
 para criar, configurar e testar projetos de integração Jitterbit. O
 Jitterbit Harmony Studio está disponível em duas versões:
 
--   **Design Studio**: O <a href="https://success.jitterbit.com/display/DOC/Design+Studio"
+-   **Design Studio**: O <a href="https://success.jitterbit.com/display/DOC/Design+Studio?showLanguage=pt_BR"
     rel="nofollow">Design Studio</a> é um *thick client*
     individual que pode ser instalado num aparelho Windows ou Mac. Ele
     requer acesso à internet no computador ou *laptop* em que estiver
@@ -344,7 +344,7 @@ Jitterbit Harmony Studio está disponível em duas versões:
     *whitelists* de IPs para garantir aderência a VPNs corporativas se
     ou quando isso for requerido.
 
--   **Cloud Studio**: O <a href="https://success.jitterbit.com/display/CS/Cloud+Studio"
+-   **Cloud Studio**: O <a href="https://success.jitterbit.com/display/CS/Cloud+Studio?showLanguage=pt_BR"
     rel="nofollow">Cloud Studio</a> oferece uma experiência de
     *design* baseada no navegador independente de plataforma e de
     localização. Suportando as versões atuais dos navegadores Chrome,
@@ -428,7 +428,7 @@ responsabilidade do(a) cliente (embora a alta disponibilidade ainda seja
 garantida pela plataforma do Harmony sempre que mais de um agente
 estiver sendo usado dentro de um Grupo de Private Agents). A Jitterbit
 oferece conselhos a respeito das melhores práticas para armazenar código
-de Private Agents em [Requisitos de Sistema para Private Agents](https://success.jitterbit.com/display/DOC/System+Requirements+for+Private+Agents).
+de Private Agents em [Requisitos de Sistema para Private Agents](https://success.jitterbit.com/display/DOC/System+Requirements+for+Private+Agents?showLanguage=pt_BR).
 
 ##### Serviços de Mensagem em Tempo de Execução
 
@@ -456,7 +456,7 @@ O Jitterbit Harmony Management Console (Console de Gerenciamento do
 Jitterbit Harmony) se comunica com o Jitterbit Harmony por meio de um
 grupo de APIs de gerenciamento bem definido. As APIs são criadas com o
 mesmo rigor de segurança de código que o próprio Harmony, conforme
-descrito acima na seção [Harmony Studio](#JitterbitSecurityandArchitectureWhitePaper-harmony-design-studio). Todos os usuários destas
+descrito acima na seção [Harmony Studio](https://success.jitterbit.com/display/DOC/Jitterbit+Security+and+Architecture+White+Paper?showLanguage=pt_BR#JitterbitSecurityandArchitectureWhitePaper-harmony-design-studio). Todos os usuários destas
 APIs devem estar autenticados com o Jitterbit Harmony e todas as
 comunicações são transmitidas seguramente via HTTPS.
 
@@ -504,7 +504,7 @@ Jitterbit Harmony a se juntar quando precisam trabalhar em equipe para
 projetar, construir, testar e gerenciar seus projetos de integração.
 
 Para mais informações sobre autenticação, veja a seção [Harmony
-Studio](#JitterbitSecurityandArchitectureWhitePaper-harmony-design-studio).
+Studio](https://success.jitterbit.com/display/DOC/Jitterbit+Security+and+Architecture+White+Paper?showLanguage=pt_BR#JitterbitSecurityandArchitectureWhitePaper-harmony-design-studio).
 
 ### <span id="JitterbitSecurityandArchitectureWhitePaper-HarmonyEnvironmentsandAccessControl" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Ambientes do Harmony e Controle de Acesso
 
@@ -770,7 +770,7 @@ class="aui-icon aui-icon-small aui-iconfont-warning confluence-information-macro
 
 <div class="confluence-information-macro-body">
 
-**NOTA**: Todos os dados mencionados acima vão persistir no ambiente de
+**NOTA:** Todos os dados mencionados acima vão persistir no ambiente de
 operação seguro do Jitterbit Harmony por um breve período de tempo.
 
 </div>
@@ -842,7 +842,7 @@ Groups usando o Jitterbit Harmony, mas o Agent Group e quaisquer dados
 de negócios sensíveis que sejam processados ou persistidos residem
 dentro de suas redes. Nesta topologia, o Private Agent Group pode
 executar em ambientes de servidores físicos ou virtuais Windows ou Linux
-(veja [Requisitos de Sistema para Private Agents](https://success.jitterbit.com/display/DOC/System+Requirements+for+Private+Agents) para ver mais
+(veja [Requisitos de Sistema para Private Agents](https://success.jitterbit.com/display/DOC/System+Requirements+for+Private+Agents?showLanguage=pt_BR) para ver mais
 informações).
 
 
@@ -1156,7 +1156,7 @@ necessário.
 O Jitterbit Harmony ganha os benefícios da rede AWS, que oferece
 proteção significativa contra problemas de segurança de rede
 tradicionais conforme descritos na seção [Arquitetura de Rede
-Segura](#JitterbitSecurityandArchitectureWhitePaper-secure-network-architecture).
+Segura](https://success.jitterbit.com/display/DOC/Jitterbit+Security+and+Architecture+White+Paper?showLanguage=pt_BR#JitterbitSecurityandArchitectureWhitePaper-secure-network-architecture).
 
 ### **Princípios de *Design* Seguro**
 

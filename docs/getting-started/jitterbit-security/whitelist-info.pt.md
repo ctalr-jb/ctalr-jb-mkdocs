@@ -14,9 +14,9 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 <div class="confluence-information-macro-body">
 
 **NOTA**: As informações sobre* whitelists *são aplicáveis aos
-[Agents]( https://success.jitterbit.com/display/DOC/Agent) e ao [Design Studio]( https://success.jitterbit.com/display/DOC/Design+Studio). Estas informações não são
+[Agents](https://success.jitterbit.com/display/DOC/Agent?showLanguage=pt_BR) e ao [Design Studio](https://success.jitterbit.com/display/DOC/Design+Studio?showLanguage=pt_BR). Estas informações não são
 aplicáveis às aplicações Harmony baseadas na nuvem que são acessadas por
-meio do [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal).
+meio do [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal?showLanguage=pt_BR).
 
 </div>
 
@@ -51,7 +51,7 @@ hospeda a sua organização.
 
 A Jitterbit usa servidores em regiões separadas para a NA (América do
 Norte), EMEA (Europa, Oriente Médio e África/Ásia/Austrália) e APAC
-(Ásia-Pacífico). A região é atada a uma [organização](https://success.jitterbit.com/display/DOC/Organizations) Harmony em
+(Ásia-Pacífico). A região é atada a uma [organização](https://success.jitterbit.com/display/DOC/Organizations?showLanguage=pt_BR) Harmony em
 vez de a um usuário específico. Um usuário pode ser parte de várias
 organizações, desde que as organizações estejam todas na mesma região.
 
@@ -88,14 +88,48 @@ específicos:
 
 <div class="table-wrap">
 
-|  **Região NA**  |  **Região EMEA**  |  **Região APAC**  |
-| --------------- | ----------------- | ----------------- |
-| `35.166.153.63` | `18.185.13.223`   | `3.0.141.187`     |
-| `52.36.120.247` | `35.157.28.131`   | `13.54.178.57`    |
-| `52.45.79.49`   | `52.17.134.164`   | `13.55.214.95`    |
-| `54.69.5.5`     | `54.93.40.43`     | `13.237.242.120`  |
-| `54.208.19.13`  | `54.229.49.142`   | `13.251.231.2`    |
-| `54.208.19.24`  | `54.229.49.156`   | `52.220.155.2`    |
+<table class="wrapped confluenceTable">
+<tbody>
+<tr class="odd">
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><p><strong>Região NA</strong></p></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><p><strong>Região EMEA</strong></p></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><p><strong>Região APAC</strong></p></td>
+</tr>
+<tr>
+<td class="confluenceTd"><code>35.166.153.63</code><br />
+<td class="confluenceTd"><code>18.185.13.223</code><br />
+<td class="confluenceTd"><code>3.0.141.187</code><br />
+</tr>
+<tr>
+<td class="confluenceTd"><code>52.36.120.247</code><br />
+<td class="confluenceTd"><code>35.157.28.131</code><br />
+<td class="confluenceTd"><code>13.54.178.57</code><br />
+</tr>
+<tr>
+<td class="confluenceTd"><code>52.45.79.49</code><br />
+<td class="confluenceTd"><code>52.17.134.164</code><br />
+<td class="confluenceTd"><code>13.55.214.95</code><br />
+</tr>
+<tr>
+<td class="confluenceTd"><code>54.69.5.5</code><br />
+<td class="confluenceTd"><code>54.93.40.43</code><br />
+<td class="confluenceTd"><code>13.237.242.120</code><br />
+</tr>
+<tr>
+<td class="confluenceTd"><code>54.208.19.13</code><br />
+<td class="confluenceTd"><code>54.229.49.142</code><br />
+<td class="confluenceTd"><code>13.251.231.2</code><br />
+</tr>
+<tr>
+<td class="confluenceTd"><code>54.208.19.24</code><br />
+<td class="confluenceTd"><code>54.229.49.156</code><br />
+<td class="confluenceTd"><code>52.220.155.2</code><br />
+</tr>
+</tbody>
+</table>
 
 </div>
 
