@@ -41,7 +41,7 @@ Para começar a usar o Cloud Studio, use este material introdutório como refer�
     para usá-la como referência.
 
 -   **[Permissões, Colaboração e Salvamentos no Cloud
-    Studio](/cloud-studio/cloud-studio-permissions%2c-collaboration%2c-and-saving?showLanguage=pt_BR)**<br>
+    Studio](https://success.jitterbit.com/display/CS/Cloud+Studio+Permissions%2C+Collaboration%2C+and+Saving?showLanguage=pt_BR)**<br>
     Esta página provê informações básicas sobre como trabalhar com o Cloud Studio, incluindo qual nível de acesso é
     dado por várias permissões, como funciona o processo de colaboração ao editar projetos simultaneamente com
     outros usuários, e como acontece o salvamento.
