@@ -20,19 +20,19 @@ seguintes termos para organizações e ambientes:
     -   **Organização**: Uma organização Jitterbit Harmony única na qual
         os administradores têm total controle sobre a lista de membros
         e a segurança. As configurações feitas a nível de organização
-        (na página [Organizações](https://success.jitterbit.com/display/DOC/Organizations)) estão sujeitas e podem ser
+        (na página [Organizações](https://success.jitterbit.com/display/DOC/Organizations?showLanguage=pt_BR)) estão sujeitas e podem ser
         melhor definidas no nível de ambiente (na página
-        [Ambientes](https://success.jitterbit.com/display/DOC/Environments)). Uma organização também pode ser chamada
+        [Ambientes](https://success.jitterbit.com/display/DOC/Environments?showLanguage=pt_BR)). Uma organização também pode ser chamada
         pela abreviação org.
 
     -   **Membro**: Um(a) usuário(a) do Jitterbit Harmony que foi
         adicionado(a) a uma organização por um(a) administrador(a)
-        (descrito em [Membros](https://success.jitterbit.com/display/DOC/Organizations#Organizations-members) na página [Organizações](https://success.jitterbit.com/display/DOC/Organizations)).
+        (descrito em [Membros](https://success.jitterbit.com/display/DOC/Organizations#Organizations-members?showLanguage=pt_BR) na página [Organizações](https://success.jitterbit.com/display/DOC/Organizations?showLanguage=pt_BR)).
 
     -   **Administrador**: Um membro que recebeu uma função com
         permissão de tipo *Admin* a nível de organização, o que lhe dá
         acesso a todos os recursos e funções disponíveis no
-        [Management Console](https://success.jitterbit.com/display/DOC/Management+Console).
+        [Management Console](https://success.jitterbit.com/display/DOC/Management+Console?showLanguage=pt_BR).
 
     -   **Funções**: Um grupo de membros que recebe uma ou mais
         permissões a nível de organização. Inicialmente, quando uma
@@ -41,8 +41,8 @@ seguintes termos para organizações e ambientes:
         *Admin*) e uma função *User* (Usuário, alguém com permissão de
         tipo *Read*, isto é, *Ler*) são criados por padrão. Os
         administradores podem criar funções adicionais e adicionar
-        membros a várias funções (descritos em [Funções](https://success.jitterbit.com/display/DOC/Organizations#Organizations-roles) na
-        página [Organizações](https://success.jitterbit.com/display/DOC/Organizations)).
+        membros a várias funções (descritos em [Funções](https://success.jitterbit.com/display/DOC/Organizations#Organizations-roles?showLanguage=pt_BR) na
+        página [Organizações](https://success.jitterbit.com/display/DOC/Organizations?showLanguage=pt_BR)).
 
     -   **Permissões**: As permissões são atribuídas a uma função no
         nível de organização e limitam o acesso de um membro da
@@ -50,7 +50,7 @@ seguintes termos para organizações e ambientes:
         permissões incluem *Read* (Ler), *Admin* (Administrador),
         *Agent Install* (Instalação de Agent) e *ApiConsumer*
         (Consumidor API), todas as quais estão definidas em
-        [Permissões](https://success.jitterbit.com/display/DOC/Organizations#Organizations-permissions) na página [Organizações](https://success.jitterbit.com/display/DOC/Organizations).
+        [Permissões](https://success.jitterbit.com/display/DOC/Organizations#Organizations-permissions?showLanguage=pt_BR) na página [Organizações](https://success.jitterbit.com/display/DOC/Organizations?showLanguage=pt_BR).
 
 -   **Ambientes**:
 
@@ -67,8 +67,8 @@ seguintes termos para organizações e ambientes:
         de uma função específica podem fazer num ambiente específico.
         Os níveis de acesso incluem *View Logs* (Visualizar
         Registros), *Read* (Ler), *Execute* (Executar) e *Write*
-        (Escrever), e todos estão descritos em [Níveis de Acesso](https://success.jitterbit.com/display/DOC/Environments#Environments-access-levels)
-        na página [Ambientes](https://success.jitterbit.com/display/DOC/Environments).
+        (Escrever), e todos estão descritos em [Níveis de Acesso](https://success.jitterbit.com/display/DOC/Environments?showLanguage=pt_BR#Environments-access-levels)
+        na página [Ambientes](https://success.jitterbit.com/display/DOC/Environments?showLanguage=pt_BR).
 
 As áreas que um membro do Jitterbit Harmony pode acessar dependem da
 combinação das permissões da sua função organizacional e níveis de
@@ -97,4 +97,4 @@ de maneira independente e são diferentes um do outro. Por exemplo:
 Para acessar um ambiente, as funções (até as funções com permissão
 *Admin*) precisam receber acesso a ele. Isto inclui poder acessar áreas
 das aplicações do Jitterbit Harmony que requerem que um ambiente seja
-selecionado e poder instalar [Private Agents](https://success.jitterbit.com/display/DOC/Private+Agents) em um ambiente.
+selecionado e poder instalar [Private Agents](https://success.jitterbit.com/display/DOC/Private+Agents?showLanguage=pt_BR) em um ambiente.

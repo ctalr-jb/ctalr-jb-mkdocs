@@ -19,7 +19,7 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 
 <div class="confluence-information-macro-body">
 
-**NOTA:** O artigo [Metodologia de Projetos de Integração](https://success.jitterbit.com/display/DOC/Integration+Project+Methodology) contém
+**NOTA:** O artigo [Metodologia de Projetos de Integração](https://success.jitterbit.com/display/DOC/Integration+Project+Methodology?showLanguage=pt_BR) contém
 informações úteis para gerentes de projeto de integração.
 
 </div>
@@ -121,7 +121,7 @@ específicos de relato.
 
 #### Regulações da União Europeia e da Zona de Atividade Econômica Europeia
 
--   O a href="https://gdpr.eu/" class="external-link" rel="nofollow">GDPR
+-   O <a href="https://gdpr.eu/" class="external-link" rel="nofollow">GDPR
     (General Data Protection Regulation)</a>GDPR (General Data Protection Regulation)</a>, em português,
     Regulamento Geral sobre a Proteção de Dados, dá controle aos
     indivíduos na União Europeia e na Área Econômica Europeia. Ele
@@ -135,7 +135,7 @@ específicos de relato.
 
 Quando você executa uma integração, a Jitterbit conecta os seus dados
 por meio dos agentes que você configurou. Os agentes podem ser [Cloud
-Agents](https://success.jitterbit.com/display/DOC/Cloud+Agent+Groups) (Agentes da Nuvem) ou [Private Agents](https://success.jitterbit.com/display/DOC/Private+Agents) (Agentes
+Agents](https://success.jitterbit.com/display/DOC/Cloud+Agent+Groups?showLanguage=pt_BR) (Agentes da Nuvem) ou [Private Agents](https://success.jitterbit.com/display/DOC/Private+Agents?showLanguage=pt_BR) (Agentes
 Privados), e os Agents (agentes) existem em Groups (Grupos). Estes
 Groups são conjuntos de Agents dentro do mesmo Ambiente, o que provê
 alta disponibilidade. Isto significa que se um grupo cair ou estiver
@@ -212,7 +212,7 @@ responsabilidade sua quando você usa Private Agents.
 
 A Jitterbit oferece conselhos e recomendações de melhores práticas para
 armazenar código de Private Agents na página [Requisitos de Sistema
-para Private Agents](https://success.jitterbit.com/display/DOC/System+Requirements+for+Private+Agents).
+para Private Agents](https://success.jitterbit.com/display/DOC/System+Requirements+for+Private+Agents?showLanguage=pt_BR).
 
 <div
 class="confluence-information-macro confluence-information-macro-information conf-macro output-block"
@@ -226,7 +226,7 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 
 **NOTA:** Se você está usando Private Agent Groups, reveja as
 informações no artigo [Regulações de Segurança e Proteção de
-Dados](#SecurityBestPracticesforAdministrators,ProjectBuilders,andIntegrationSpecialists-SecurityDataProtectionRegs).
+Dados](https://success.jitterbit.com/display/DOC/Security+Best+Practices+for+Administrators%2C+Project+Builders%2C+and+Integration+Specialists?showLanguage=pt_BR#SecurityBestPracticesforAdministrators,ProjectBuilders,andIntegrationSpecialists-SecurityDataProtectionRegs).
 
 </div>
 
@@ -243,7 +243,7 @@ seguros, incluindo:
 -   Usar *whitelists* (listas de permissões) de redes para controlar
     quem pode acessar a sua rede. Para usar *whitelists* com os
     Private Agents, consulte o artigo [Informação sobre
-    *Whitelists*](https://success.jitterbit.com/display/DOC/Whitelist+Information).
+    *Whitelists*](https://success.jitterbit.com/display/DOC/Whitelist+Information?showLanguage=pt_BR).
 
 -   Tenha certeza de que todos os *drivers* e *plugins* que você usa
     estão atualizados e testados.
@@ -252,11 +252,11 @@ seguros, incluindo:
 ## Organizações e Ambientes
 
 Usuários e grupos diferentes vão precisar de níveis de acesso diferentes
-para acessar as suas [Organizações](https://success.jitterbit.com/display/DOC/Organizations) e [Ambientes](https://success.jitterbit.com/display/DOC/Environments). Um(a)
+para acessar as suas [Organizações](https://success.jitterbit.com/display/DOC/Organizations?showLanguage=pt_BR) e [Ambientes](https://success.jitterbit.com/display/DOC/Environments?showLanguage=pt_BR). Um(a)
 usuário(a) não precisa do mesmo nível de acesso que um(a)
 desenvolvedor(a) ou um(a) administrador(a). Por exemplo, um(a)
 desenvolvedor(a) na sua organização pode precisar de permissões Execute
-(Executar) e Write (Escrever) no [API Manager](https://success.jitterbit.com/display/DOC/API+Manager) (Gerente de APIs)
+(Executar) e Write (Escrever) no [API Manager](https://success.jitterbit.com/display/DOC/API+Manager?showLanguage=pt_BR) (Gerente de APIs)
 para criar e editar perfis de segurança, criar e editar APIs e acessar
 certas funcionalidades no Management Console (Console de Gerenciamento).
 Um(a) usuário(a) comum não precisa dessas permissões elevadas. Pense nos
@@ -277,7 +277,7 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 **NOTA:** Para mais informações sobre as diferentes funções de acesso,
 tais como User (Usuário), Administrator (Administrador) e Developer
 (Desenvolvedor), e como defini-los, veja [Como Gerenciar o Acesso das
-Funções aos Ambientes](https://success.jitterbit.com/display/DOC/Organizations) em [Ambientes](https://success.jitterbit.com/display/DOC/Environments).
+Funções aos Ambientes](https://success.jitterbit.com/display/DOC/Organizations?showLanguage=pt_BR) em [Ambientes](https://success.jitterbit.com/display/DOC/Environments?showLanguage=pt_BR).
 
 </div>
 
@@ -292,13 +292,13 @@ do seu sistema operacional e *softwares* de aplicação, *drivers* e
 Prover autenticação segura usando <a href="https://oauth.net/" class="external-link"
 rel="nofollow">OAuth</a> e autenticação de
 múltiplos fatores, tais como 2FA (autenticação de dois fatores) é
-essencial. A OAuth é discutida em [Perfis de Segurança](https://success.jitterbit.com/display/DOC/Security+Profiles) no [API
-Manager](https://success.jitterbit.com/display/DOC/API+Manager). A 2FA é discutida em [Controles de Senha Jitterbit](https://success.jitterbit.com/display/DOC/Jitterbit+Password+Controls).
+essencial. A OAuth é discutida em [Perfis de Segurança](https://success.jitterbit.com/display/DOC/Security+Profiles?showLanguage=pt_BR) no [API
+Manager](https://success.jitterbit.com/display/DOC/API+Manager?showLanguage=pt_BR). A 2FA é discutida em [Controles de Senha Jitterbit](https://success.jitterbit.com/display/DOC/Jitterbit+Password+Controls?showLanguage=pt_BR).
 
 Mantenha contas de desenvolvimento e testagem separadas da produção.
 Isto inclui IDs e senhas separados. Remova estes IDs e senhas de
 desenvolvimento e testagem antes de migrar o código para a produção. Em
-vez disso, use [variáveis de projeto](https://success.jitterbit.com/display/CS/Project+Variables) para armazenar informações
+vez disso, use [variáveis de projeto](https://success.jitterbit.com/display/CS/Project+Variables?showLanguage=pt_BR) para armazenar informações
 como IDs e senhas. Como melhor prática, mantenha ambientes separados de
 desenvolvimento, testagem e produção. Você também deve se certificar de
 que informações pessoais identificáveis (PII, sigla em inglês) não sejam
@@ -337,7 +337,7 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 <div class="confluence-information-macro-body">
 
 **NOTA:** Para uma discussão aprofundada sobre este tópico, veja a
-página [Segurança de APIs no Harmony](https://success.jitterbit.com/display/DOC/Harmony+API+Security).
+página [Segurança de APIs no Harmony](https://success.jitterbit.com/display/DOC/Harmony+API+Security?showLanguage=pt_BR).
 
 </div>
 
@@ -351,12 +351,12 @@ data-linked-resource-type="attachment"
 data-linked-resource-default-alias="offsite-link-icon-4.png"
 data-nice-type="Image" data-linked-resource-content-type="image/png"
 data-linked-resource-container-id="108167629"
-data-linked-resource-container-version="10">OAuth 2.0</a> com [Google](https://success.jitterbit.com/display/DOC/Google+OAuth+2.0+API+Security+Profile), [Okta](https://success.jitterbit.com/display/DOC/Okta+3-Legged+OAuth+2.0+API+Security+Profile) e [Salesforce](https://success.jitterbit.com/display/DOC/Salesforce+OAuth+2.0+API+Security+Profile) como
+data-linked-resource-container-version="10">OAuth 2.0</a> com [Google](https://success.jitterbit.com/display/DOC/Google+OAuth+2.0+API+Security+Profile?showLanguage=pt_BR), [Okta](https://success.jitterbit.com/display/DOC/Okta+3-Legged+OAuth+2.0+API+Security+Profile?showLanguage=pt_BR) e [Salesforce](https://success.jitterbit.com/display/DOC/Salesforce+OAuth+2.0+API+Security+Profile?showLanguage=pt_BR) como
 Identity Providers (Provedores de Identidade). A NetSuite agora impõe
 autenticação baseada em *tokens* (TBA, sigla em inglês) para
 Administrator (Administrador), Full Access (Acesso Total) e outros
 papéis de alto privilégio desde seu lançamento 2018.2. Veja
-[Autenticação Baseada em *Tokens* da NetStuite 2018.2](https://success.jitterbit.com/display/DOC/NetSuite+2018.2+Token-Based+Authentication) para mais
+[Autenticação Baseada em *Tokens* da NetStuite 2018.2](https://success.jitterbit.com/display/DOC/NetSuite+2018.2+Token-Based+Authentication?showLanguage=pt_BR) para mais
 informações e instruções. As API Keys (Chaves de API) e API Secrets
 (Segredos de API) podem ser usados para autenticar usuários com a API do
 Harmony.
@@ -364,11 +364,11 @@ Harmony.
 
 ## Certificados
 
-A Jitterbit pode autenticar com recursos externos com [certificados](https://success.jitterbit.com/display/DOC/Customizations+%3E+Client+Certificates) de
-[cliente SSL](https://success.jitterbit.com/display/DOC/SSL+Client+Certificates) ao se conectar com *endpoints* [HTTP](https://success.jitterbit.com/display/CS/HTTP) ou [SOAP](https://success.jitterbit.com/display/CS/SOAP) no Cloud
-Studio, e com *endpoints* HTTP ou [Web Services](https://success.jitterbit.com/display/DOC/Creating+a+Web+Service+Method) (Serviços da Web)
+A Jitterbit pode autenticar com recursos externos com [certificados](https://success.jitterbit.com/display/DOC/Customizations+%3E+Client+Certificates?showLanguage=pt_BR) de
+[cliente SSL](https://success.jitterbit.com/display/DOC/SSL+Client+Certificates?showLanguage=pt_BR) ao se conectar com *endpoints* [HTTP](https://success.jitterbit.com/display/CS/HTTP?showLanguage=pt_BR) ou [SOAP](https://success.jitterbit.com/display/CS/SOAP?showLanguage=pt_BR) no Cloud
+Studio, e com *endpoints* HTTP ou [Web Services](https://success.jitterbit.com/display/DOC/Creating+a+Web+Service+Method?showLanguage=pt_BR) (Serviços da Web)
 no Design Studio. As configurações dos Certificados de Cliente podem ser
-acessadas no [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal) na página **Management
+acessadas no [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal?showLanguage=pt_BR) na página **Management
 Console** (Console de Gerenciamento) \> **Customizations**
 (Customizações) \> **Client Certificates** (Certificados de Cliente).
 
@@ -385,11 +385,11 @@ precisar substituir ou renovar certificados se eles forem mudados. Mais
 informações e instruções sobre a adição de certificados ao *keystore*
 podem ser achadas nas seguintes páginas:
 
--   [Adicionando Certificados ao *Keystore* para o Data Loader](https://success.jitterbit.com/display/DOC/Adding+Certificates+to+Keystore+for+Data+Loader)
+-   [Adicionando Certificados ao *Keystore* para o Data Loader](https://success.jitterbit.com/display/DOC/Adding+Certificates+to+Keystore+for+Data+Loader?showLanguage=pt_BR)
 
--   [Adicionando Certificados ao *Keystore* para o Design Studio](https://success.jitterbit.com/display/DOC/Adding+Certificates+to+Keystore+for+Design+Studio)
+-   [Adicionando Certificados ao *Keystore* para o Design Studio](https://success.jitterbit.com/display/DOC/Adding+Certificates+to+Keystore+for+Design+Studio?showLanguage=pt_BR)
 
--   [Adicionando Certificados ao *Keystore* para Private Agents](https://success.jitterbit.com/display/DOC/Adding+Certificates+to+Keystore+for+Private+Agents)
+-   [Adicionando Certificados ao *Keystore* para Private Agents](https://success.jitterbit.com/display/DOC/Adding+Certificates+to+Keystore+for+Private+Agents?showLanguage=pt_BR)
 
 
 ## Segurança de Conectores
@@ -399,12 +399,12 @@ compartilhar informações privadas. Comece com os seguintes recursos de
 segurança de conector:
 
 -   **Variáveis de Projeto**: Ao trabalhar com Conectores, as
-    [variáveis de projeto](https://success.jitterbit.com/display/CS/Project+Variables) podem proporcionar maior segurança. Se
+    [variáveis de projeto](https://success.jitterbit.com/display/CS/Project+Variables?showLanguage=pt_BR) podem proporcionar maior segurança. Se
     você estiver criando *scripts* ou *transformations*, use variáveis
     de projeto para as informações privadas, como *logins* ou IDs de
     usuários, senhas, chaves de acesso e outras informações que
     precisam ser mantidas seguras. Veja <a
-    href="https://success.jitterbit.com/display/CS/Project+Variables#ProjectVariables-use-project-variablesUsingProjectVariablesinScriptsorTransformations"
+    href="https://success.jitterbit.com/display/CS/Project+Variables?showLanguage=pt_BR#ProjectVariables-use-project-variablesUsingProjectVariablesinScriptsorTransformations"
     rel="nofollow">Usando Variáveis de Projeto
     em *Scripts* ou *Transformations*</a> para mais informações e
     procedimentos.
@@ -429,7 +429,7 @@ segurança de conector:
     Harmony e use uma *whitelist* (lista de permissões) para permitir
     esta comunicação. A Jitterbit oferece endereços de IP integrantes
     de *whitelists* para cada região. Veja <a
-    href="https://success.jitterbit.com/display/DOC/Whitelist+Information"
+    href="https://success.jitterbit.com/display/DOC/Whitelist+Information?showLanguage=pt_BR"
     style="letter-spacing: 0.0px;" rel="nofollow">Informações sobre
     *Whitelists*</a> para mais informações.
 
@@ -440,8 +440,8 @@ Quando estiver pensando em registros e em segurança, examine os
 requisitos do seu negócio. Decida que nível de mantenimento de registros
 é necessário e quais riscos são aceitáveis para você baseado nos seus
 requisitos de segurança. A Jitterbit gera registros para diferentes
-funções, tais como [registros de operações](https://success.jitterbit.com/display/CS/Operation+Logs), [registros de
-eventos Windows ou Linux](https://success.jitterbit.com/display/DOC/Log+File+Locations) e [registros de API](https://success.jitterbit.com/display/DOC/API+Logs). A maioria dos
+funções, tais como [registros de operações](https://success.jitterbit.com/display/CS/Operation+Logs?showLanguage=pt_BR), [registros de
+eventos Windows ou Linux](https://success.jitterbit.com/display/DOC/Log+File+Locations?showLanguage=pt_BR) e [registros de API](https://success.jitterbit.com/display/DOC/API+Logs?showLanguage=pt_BR). A maioria dos
 clientes usa registros em nuvem na nuvem da Jitterbit. Os dados nos
 registros são criptografados por questão de segurança. Você pode
 desativar os registros em nuvem se quiser.
@@ -467,10 +467,10 @@ aplicação não são escritos.
 
 Quando um Cloud Agent Group executa uma operação de integração, ele cria
 um registro de atividades que é armazenado na nuvem. Você pode
-visualizar registros na página [Activities](https://success.jitterbit.com/display/DOC/Activities) (Atividades) do
-[Management Console](https://success.jitterbit.com/display/DOC/Management+Console) (Console de Gerenciamento). Estes registros e
+visualizar registros na página [Activities](https://success.jitterbit.com/display/DOC/Activities?showLanguage=pt_BR) (Atividades) do
+[Management Console](https://success.jitterbit.com/display/DOC/Management+Console?showLanguage=pt_BR) (Console de Gerenciamento). Estes registros e
 os detalhes deles são guardados por 30 dias. A Jitterbit provê
-[funções de registro e de erro](https://success.jitterbit.com/display/CS/Logging+and+Error+Functions) para ajudar você a criar e a fazer
+[funções de registro e de erro](https://success.jitterbit.com/display/CS/Logging+and+Error+Functions?showLanguage=pt_BR) para ajudar você a criar e a fazer
 o *debug* de *scripts*. `WriteToOperationLog()` pode ser usada para
 escrever dados sensíveis em registros, mas nós desaconselhamos
 fortemente que você faça isso, visto que isso pode criar um problema de
@@ -482,7 +482,7 @@ Suporte Jitterbit se você <a
 href="https://community.jitterbit.com/s/login/?startURL=%2Fs%2Fsupport&amp;src=sidebar"
 class="external-link" rel="nofollow">enviar uma solicitação de suporte</a> e
 pedir o Jitterpak com a Download Logs API. Veja a página [Como Receber
-Ajuda](https://success.jitterbit.com/display/DOC/Getting+Support) para mais detalhes sobre como entrar em contato com o Suporte
+Ajuda](https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR) para mais detalhes sobre como entrar em contato com o Suporte
 Jitterbit. Fale com o Suporte Jitterbit para mais informações sobre a
 agenda de retenção dos dados de registros.
 
@@ -516,5 +516,5 @@ operação, você pode usar um *script* para enviar dados de registros
 localmente. Registros de *debugs*, de *transformations*, de erros, de
 erros de chamada de *endpoint* e outros estão disponíveis, e podem ser
 definidos no arquivo `jitterbit.conf`. Veja [Editando o Arquivo de
-Configuração - `jitterbit.conf`](https://success.jitterbit.com/display/DOC/Editing+the+Configuration+File+-+jitterbit.conf) para consultar as configurações e os
+Configuração - `jitterbit.conf`](https://success.jitterbit.com/display/DOC/Editing+the+Configuration+File+-+jitterbit.conf?showLanguage=pt_BR) para consultar as configurações e os
 valores.

@@ -60,9 +60,9 @@ A auditoria e avaliação ISO oferecem a você garantias concernentes a:
 -   implementação de um programa de gerenciamento de risco à segurança
     da informação profundo e que abrange a empresa inteira.
 
-A auditoria e avaliação ISO - junto com o *Jitterbit Harmony ISO 27001
+A auditoria e avaliação ISO – junto com o *Jitterbit Harmony ISO 27001
 Statement of Applicability* (Declaração de Aplicabilidade da ISO 27001
-do Jitterbit Harmony, ou SOA, sigla em inglês) - oferecem informações
+do Jitterbit Harmony, ou SOA, sigla em inglês) – oferecem informações
 sobre os controles que a Jitterbit implementou em suporte aos nossos
 compromissos em relação a segurança e privacidade.
 

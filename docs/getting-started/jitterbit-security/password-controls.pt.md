@@ -4,7 +4,7 @@
 ## Introdução
 
 As senhas para o Jitterbit Harmony são controladas dentro da página
-[Organizações](https://success.jitterbit.com/display/DOC/Organizations) do [Management Console](https://success.jitterbit.com/display/DOC/Management+Console) (Console de
+[Organizações](https://success.jitterbit.com/display/DOC/Organizations?showLanguage=pt_BR) do [Management Console](https://success.jitterbit.com/display/DOC/Management+Console?showLanguage=pt_BR) (Console de
 Gerenciamento). Os recursos de controle de senha são preparados para
 cada organização separadamente. Apenas um(a) administrador(a) de
 organização (usuário(a) com permissão do tipo *Admin*) tem acesso para
@@ -21,7 +21,7 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 <div class="confluence-information-macro-body">
 
 **NOTA**: Os controles de senha para organizações que usam [*single
-sign-on*](https://success.jitterbit.com/display/DOC/Single+Sign-On) (SSO) são administrados por meio do Identity Provider (Provedor
+sign-on*](https://success.jitterbit.com/display/DOC/Single+Sign-On?showLanguage=pt_BR) (SSO) são administrados por meio do Identity Provider (Provedor
 de Identidades).
 
 </div>
@@ -55,5 +55,5 @@ data-linked-resource-container-version="17" /></span>
 Escolha **Edit Organization Policies** (Editar Políticas de Organização)
 para habilitar ou desabilitar configurações específicas da organização,
 incluindo controles de senha. Para mais detalhes sobre cada
-configuração, veja [Editando uma Organização](https://success.jitterbit.com/display/DOC/Organizations#Organizations-edit-organizations) na página
-[Organizações](https://success.jitterbit.com/display/DOC/Organizations).
+configuração, veja [Editando uma Organização](https://success.jitterbit.com/display/DOC/Organizations#Organizations-edit-organizations?showLanguage=pt_BR) na página
+[Organizações](https://success.jitterbit.com/display/DOC/Organizations?showLanguage=pt_BR).

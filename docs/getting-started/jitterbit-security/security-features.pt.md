@@ -13,7 +13,7 @@ da Jitterbit recebeu um certificado de conformidade com a ISO 27001
 versão 2013 com controles suplementares na ISO 27017. A Jitterbit
 recebeu a certificação ISO 27001 da A-lign, uma auditora terceirizada
 independente credenciada pelo ANSI ASQ National Accreditation Board
-(ANAB). Veja [Certificação ISO 27001 e ISO 27017](https://success.jitterbit.com/display/DOC/ISO+27001+and+ISO+27017+Certification) para mais
+(ANAB). Veja [Certificação ISO 27001 e ISO 27017](https://success.jitterbit.com/display/DOC/ISO+27001+and+ISO+27017+Certification?showLanguage=pt_BR) para mais
 detalhes. Os recursos de segurança da Jitterbit estão resumidos abaixo.
 
 
