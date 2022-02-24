@@ -292,6 +292,17 @@ conforme detalhado nas subseções abaixo:
     **Remove** (Remover) mostradas no menu de ações de atividade na
     segunda imagem abaixo.
 
+<div class="sectionColumnWrapper conf-macro output-block" hasbody="true"
+macro-name="section">
+
+<div class="sectionMacro">
+
+<div class="sectionMacroRow">
+
+<div class="columnMacro conf-macro output-block"
+style="width:45%;min-width:45%;max-width:45%;" hasbody="true"
+macro-name="column">
+
 **Menu de ações de operação**
 
 <span class="confluence-embedded-file-wrapper"><img
@@ -299,12 +310,32 @@ src="https://docs-source.jitterbit.com/cs/project-pane/workflows/operation_actio
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/project-pane/workflows/operation_actions-menu.png" /></span>
 
+</div>
+
+<div class="columnMacro conf-macro output-block"
+style="width:45%;min-width:45%;max-width:45%;" hasbody="true"
+macro-name="column">
+
 **Menu de ações de atividade**
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://docs-source.jitterbit.com/cs/project-pane/workflows/activity_actions-menu.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/project-pane/workflows/activity_actions-menu.png" /></span>
+
+</div>
+
+<div class="columnMacro conf-macro output-block"
+style="width:5%;min-width:5%;max-width:5%;" hasbody="true"
+macro-name="column">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 #### <span id="ProjectPaneWorkflowsTab-operations" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Operações
 

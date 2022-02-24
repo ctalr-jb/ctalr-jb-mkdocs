@@ -337,6 +337,17 @@ detalhado abaixo. As imagens abaixo mostram os menus de ações para a
 categoria **Scripts** (primeira imagem) e para a categoria **Endpoints**
 (segunda imagem).
 
+<div class="sectionColumnWrapper conf-macro output-block" hasbody="true"
+macro-name="section">
+
+<div class="sectionMacro">
+
+<div class="sectionMacroRow">
+
+<div class="columnMacro conf-macro output-block"
+style="width:45%;min-width:45%;max-width:45%;" hasbody="true"
+macro-name="column">
+
 **Menu de Ações da Categoria Scripts**
 
 <span class="confluence-embedded-file-wrapper"><img
@@ -344,12 +355,32 @@ src="https://docs-source.jitterbit.com/cs/project-pane/components/scripts_catego
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/scripts_category-actions-menu.png" /></span>
 
+</div>
+
+<div class="columnMacro conf-macro output-block"
+style="width:45%;min-width:45%;max-width:45%;" hasbody="true"
+macro-name="column">
+
 **Menu de Ações da Categoria Endpoints**
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://docs-source.jitterbit.com/cs/project-pane/components/endpoints_category-actions-menu.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/endpoints_category-actions-menu.png" /></span>
+
+</div>
+
+<div class="columnMacro conf-macro output-block"
+style="width:5%;min-width:5%;max-width:5%;" hasbody="true"
+macro-name="column">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 <div class="table-wrap">
 
@@ -473,12 +504,29 @@ conforme detalhado nas subseções abaixo:
     (mostrado na terceira imagem) tem as ações **View/Edit**
     (Ver/Editar) e **Test** (Testar).
 
+<div class="sectionColumnWrapper conf-macro output-block" hasbody="true"
+macro-name="section">
+
+<div class="sectionMacro">
+
+<div class="sectionMacroRow">
+
+<div class="columnMacro conf-macro output-block"
+style="width:30%;min-width:30%;max-width:30%;" hasbody="true"
+macro-name="column">
+
 **Menu de ações de operação**
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://docs-source.jitterbit.com/cs/project-pane/components/operations_actions-menu.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/operations_actions-menu.png" /></span>
+
+</div>
+
+<div class="columnMacro conf-macro output-block"
+style="width:30%;min-width:30%;max-width:30%;" hasbody="true"
+macro-name="column">
 
 **Menu de ações de *script***
 
@@ -487,12 +535,32 @@ src="https://docs-source.jitterbit.com/cs/project-pane/components/scripts_action
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/scripts_actions-menu.png" /></span>
 
+</div>
+
+<div class="columnMacro conf-macro output-block"
+style="width:30%;min-width:30%;max-width:30%;" hasbody="true"
+macro-name="column">
+
 **Menu de ações de conexão**
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://docs-source.jitterbit.com/cs/project-pane/components/connection_actions-menu.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/connection_actions-menu.png" /></span>
+
+</div>
+
+<div class="columnMacro conf-macro output-block"
+style="width:5%;min-width:5%;max-width:5%;" hasbody="true"
+macro-name="column">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 #### <span id="ProjectPaneComponentsTab-operations" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Operations
 

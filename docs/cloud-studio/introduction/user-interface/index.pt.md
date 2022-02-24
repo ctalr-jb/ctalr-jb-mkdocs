@@ -106,6 +106,17 @@ distribuídas no topo:
     aponta se eles são usados em apoio a uma operação (veja [Aba
     Components do Painel de Projeto](https://success.jitterbit.com/display/CS/Project+Pane+Components+Tab?showLanguage=pt_BR)).
 
+<div class="sectionColumnWrapper conf-macro output-block" hasbody="true"
+macro-name="section">
+
+<div class="sectionMacro">
+
+<div class="sectionMacroRow">
+
+<div class="columnMacro conf-macro output-block"
+style="width:33%;min-width:33%;max-width:33%;" hasbody="true"
+macro-name="column">
+
 #### Workflows
 
 <span class="confluence-embedded-file-wrapper"><img
@@ -113,12 +124,30 @@ src="https://docs-source.jitterbit.com/cs/project-pane/workflows/overview.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/project-pane/workflows/overview.png" /></span>
 
+</div>
+
+<div class="columnMacro conf-macro output-block"
+style="width:33%;min-width:33%;max-width:33%;" hasbody="true"
+macro-name="column">
+
 #### Componentes
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://docs-source.jitterbit.com/cs/project-pane/components/overview.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/overview.png" /></span>
+
+</div>
+
+<div class="columnMacro conf-macro output-block"
+style="width:33%;min-width:33%;max-width:33%;" hasbody="true"
+macro-name="column">
+
+</div>
+
+</div>
+
+</div>
 
 ### <span id="CloudStudioUserInterface-design-canvas" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Design Canvas
 
@@ -159,12 +188,29 @@ componentes que podem ser usados dentro do projeto:
     Variáveis, Plugins, Operações, Notificações, Scripts** e
     **Endpoints** pode ser usado num *script*.
 
+<div class="sectionColumnWrapper conf-macro output-block" hasbody="true"
+macro-name="section">
+
+<div class="sectionMacro">
+
+<div class="sectionMacroRow">
+
+<div class="columnMacro conf-macro output-block"
+style="width:50%;min-width:50%;max-width:50%;" hasbody="true"
+macro-name="column">
+
 #### Paleta de Componentes de *Design*
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://docs-source.jitterbit.com/cs/component-palette/connectivity/all_http_activities.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/component-palette/connectivity/all_http_activities.png" /></span>
+
+</div>
+
+<div class="columnMacro conf-macro output-block"
+style="width:50%;min-width:50%;max-width:50%;" hasbody="true"
+macro-name="column">
 
 #### Paleta de Componentes de *Script*
 
@@ -173,7 +219,15 @@ src="https://docs-source.jitterbit.com/cs/component-palette/source-objects_items
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/component-palette/source-objects_items.png" /></span>
 
-### Telas de Configuração
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+### <span id="CloudStudioUserInterface-configuration-screens" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>### Telas de Configuração
 
 Vários tipos de componentes de projeto, bem como outras áreas da
 interface de usuário exigem configuração com entradas dadas pelo

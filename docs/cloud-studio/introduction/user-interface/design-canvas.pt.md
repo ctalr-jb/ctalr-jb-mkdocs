@@ -1076,6 +1076,17 @@ uma das seguintes opções:
 Tanto as áreas de inserção de operações quanto as áreas de inserção de
 outros componentes mostram os mesmos itens de menu:
 
+<div class="sectionColumnWrapper conf-macro output-block" hasbody="true"
+macro-name="section">
+
+<div class="sectionMacro">
+
+<div class="sectionMacroRow">
+
+<div class="columnMacro conf-macro output-block"
+style="width:45%;min-width:45%;max-width:45%;" hasbody="true"
+macro-name="column">
+
 **Menu de Ações da Área de Inserção de Operações**
 
 <span class="confluence-embedded-file-wrapper"><img
@@ -1083,12 +1094,32 @@ src="https://docs-source.jitterbit.com/cs/design-canvas/drop-zone_operation_acti
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/drop-zone_operation_actions-menu.png" /></span>
 
+</div>
+
+<div class="columnMacro conf-macro output-block"
+style="width:45%;min-width:45%;max-width:45%;" hasbody="true"
+macro-name="column">
+
 **Menu de Ações da Área de Inserção de Componentes**
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://docs-source.jitterbit.com/cs/design-canvas/drop-zone_component_actions-menu.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/drop-zone_component_actions-menu.png" /></span>
+
+</div>
+
+<div class="columnMacro conf-macro output-block"
+style="width:5%;min-width:5%;max-width:5%;" hasbody="true"
+macro-name="column">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 <div class="table-wrap">
 
