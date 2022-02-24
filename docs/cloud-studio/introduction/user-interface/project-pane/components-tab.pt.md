@@ -151,8 +151,8 @@ data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/fil
     </span>
     <div class="confluence-information-macro-body">
 
-    **NOTA**: A classificação órfão é baseada no projeto conforme ele
-    existe atualmente no* designer *de projeto do Cloud Studio e não leva
+    **NOTA:** A classificação órfão é baseada no projeto conforme ele
+    existe atualmente no *designer* de projeto do Cloud Studio e não leva
     em consideração caso algum componente tenha sido implantado no
     Harmony.
 
@@ -477,7 +477,7 @@ src="https://docs-source.jitterbit.com/cs/project-pane/components/operations_act
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/operations_actions-menu.png" /></span>
 
-**Menu de ações de* script**
+**Menu de ações de *script***
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://docs-source.jitterbit.com/cs/project-pane/components/scripts_actions-menu.png"
