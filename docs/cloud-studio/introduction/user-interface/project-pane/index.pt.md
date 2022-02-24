@@ -1,4 +1,5 @@
-[//]: # (Painel de Projeto)
+# Painel de Projeto
+
 [//]: # (This is a translation of Version 47, published on July 29, 2021.)
 
 ## Visão Geral
@@ -19,11 +20,11 @@ O painel de projeto contém duas abas: **Components** (Componentes) e
 **Workflows**. Estas abas são descritas nas páginas incluídas neste
 tópico:
 
--   **[Aba Workflows do Painel de Projeto](https://success.jitterbit.com/display/CS/Project+Pane+Workflows+Tab?showLanguage=pt_BR)**
+-   **[Aba Workflows do Painel de Projeto](https://success.jitterbit.com/display/CS/Project+Pane+Workflows+Tab?showLanguage=pt_BR)**<br>
     A aba **Workflows** exibe uma visão hierarquicamente organizada dos
     workflows de um projeto aberto, suas operações, e componentes usados
     dentro de cada operação.
 
--   **[Aba Components do Painel de Projeto](https://success.jitterbit.com/display/CS/Project+Pane+Components+Tab?showLanguage=pt_BR)**
+-   **[Aba Components do Painel de Projeto](https://success.jitterbit.com/display/CS/Project+Pane+Components+Tab?showLanguage=pt_BR)**<br>
     A aba **Components** exibe todos os componentes de um projeto aberto
     agrupados por categoria.
