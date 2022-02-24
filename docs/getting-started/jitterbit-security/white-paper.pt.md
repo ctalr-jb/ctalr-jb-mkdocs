@@ -367,7 +367,7 @@ projetados para processar e servir as necessidades dos clientes em base
 *ad hoc* (pontual para cada situação). Eles fazem todo o seu trabalho de
 forma dirigida por eventos, eliminando portanto a necessidade de
 qualquer configuração ou administração comum a sistemas de servidores do
-tipo “sempre ligados” que ficam atrás de aplicações.
+tipo "sempre ligados" que ficam atrás de aplicações.
 
 A Jitterbit oferece aos seus clientes a opção de executar todas as suas
 integrações na nuvem através da oferta de um Agent Group escalável,
@@ -612,8 +612,8 @@ Durante o trânsito, os dados persistidos são assegurados com:
 
 -   Autenticação
 
--   Criptografia TLS (Transport Layer Security, ou “Segurança de Camadas
-    de Transporte”)
+-   Criptografia TLS (Transport Layer Security, ou "Segurança de Camadas
+    de Transporte")
 
 #### Registro de Atividades de Integração
 
@@ -1016,7 +1016,7 @@ para o Harmony:
 
 -   ***Firewalls***<br>
     Todos os *hosts* (anfitriões) da pilha executam *firewalls* *inbound*
-    obrigatórios configurados em modo “negar tudo”. Portas HTTP, HTTPS e
+    obrigatórios configurados em modo "negar tudo". Portas HTTP, HTTPS e
     SSH somente são abertas conforme a necessidade.
 
 -   **Proteção e Mitigação de Ataques DDoS**
@@ -1090,7 +1090,7 @@ para o Harmony:
 Para todos os sistemas operacionais:
 
 -   Ferramentas de gerenciamento de configuração automatizadas instalam
-    sistemas operacionais puros a partir de imagens “douradas”.
+    sistemas operacionais puros a partir de imagens "douradas".
 
 -   *Logins* com senha estão desabilitados para *hosts*. *Root keys* SSH
     não são permitidas.

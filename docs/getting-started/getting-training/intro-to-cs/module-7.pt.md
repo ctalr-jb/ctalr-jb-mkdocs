@@ -4,13 +4,13 @@
 ## Introdução
 
 O Módulo 7 no curso de treinamento [Introdução ao Jitterbit Harmony
-Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio) demonstra como criar uma notificação de e-mail que é
+Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio?showLanguage=pt_BR) demonstra como criar uma notificação de e-mail que é
 acionada pela falha de uma operação.
 
 
 ## Pré-requisitos
 
-A operação criada no [Módulo 1 - Banco de Dados para Texto](https://success.jitterbit.com/display/DOC/Module+1+-+Database+to+Text) é usada
+A operação criada no [Módulo 1 - Banco de Dados para Texto](https://success.jitterbit.com/display/DOC/Module+1+-+Database+to+Text?showLanguage=pt_BR) é usada
 como exemplo. No entanto, uma notificação de e-mail pode ser configurada
 em qualquer operação.
 
@@ -18,7 +18,7 @@ em qualquer operação.
 ## Resumo
 
 Neste módulo, você vai adicionar uma notificação de e-mail à operação
-criada no [Módulo 1 - Banco de Dados para Texto](https://success.jitterbit.com/display/DOC/Module+1+-+Database+to+Text).
+criada no [Módulo 1 - Banco de Dados para Texto](https://success.jitterbit.com/display/DOC/Module+1+-+Database+to+Text?showLanguage=pt_BR).
 
 A operação completa ficará parecida com a imagem abaixo:
 
@@ -43,14 +43,14 @@ e vai adicionar uma notificação de e-mail à operação:
     menu que aparecer, selecione **Settings** (Configurações).
 
 2.  Dentro da aba **Actions** (Ações), use o menu *dropdown* **Action**
-    (Ação) para selecionar “Send Email Notification” (Enviar
+    (Ação) para selecionar "Send Email Notification" (Enviar
     Notificação de E-mail), daí clique em **Create New Email
     Notification** (Criar Nova Notificação de E-mail).
 
-3.  Configure a [notificação de e-mail](https://success.jitterbit.com/display/CS/Email+Notifications):
+3.  Configure a [notificação de e-mail](https://success.jitterbit.com/display/CS/Email+Notifications?showLanguage=pt_BR):
 
-    -   **Email Notification Name** (Nome da Notificação de E-mail): “Falha
-        na Operação”
+    -   **Email Notification Name** (Nome da Notificação de E-mail): "Falha
+        na Operação"
 
     -   **SMTP Email Server(s)** (Servidor\[es\] de E-mail SMTP): Coloque o
         seu próprio servidor de e-mail SMTP.
@@ -79,8 +79,8 @@ e vai adicionar uma notificação de e-mail à operação:
     -   **From Email Address** (Do Endereço de E-mail): Coloque o endereço
         de e-mail que deverá fazer o envio do e-mail.
 
-    -   **Subject** (Assunto): Escreva “`Falha de
-        [jitterbit.operation.name]`” para usar uma variável Jitterbit que
+    -   **Subject** (Assunto): Escreva "`Falha de
+        [jitterbit.operation.name]`" para usar uma variável Jitterbit que
         relata dinamicamente o nome de uma operação que fracassou.
 
     -   **Message** (Mensagem): Digite a mensagem abaixo, de novo usando
@@ -99,17 +99,17 @@ e vai adicionar uma notificação de e-mail à operação:
         > Console para mais detalhes.
 
 4.  Clique em **Save** (Salvar) para voltar para a aba **Actions**
-    (Ações) e configure a [ação de operação](https://success.jitterbit.com/display/CS/Operation+Actions):
+    (Ações) e configure a [ação de operação](https://success.jitterbit.com/display/CS/Operation+Actions?showLanguage=pt_BR):
 
 -   Faça as seguintes seleções no menu *dropdown*:
 
-    -   **Condition** (Condição): “On Fail” (Em Caso de Falha)
+    -   **Condition** (Condição): "On Fail" (Em Caso de Falha)
 
-    -   **Action** (Ação): “Send Email Notification” (Enviar Notificação
+    -   **Action** (Ação): "Send Email Notification" (Enviar Notificação
         de E-mail)
 
-    -   **Email Notification** (Notificação de E-mail): “Operation
-        Failure” (Falha de Operação)
+    -   **Email Notification** (Notificação de E-mail): "Operation
+        Failure" (Falha de Operação)
 
 -   Clique em **Add Action** (Adicionar Ação). A notificação de e-mail
     será mostrada numa tabela na parte de baixo da configuração. Daí

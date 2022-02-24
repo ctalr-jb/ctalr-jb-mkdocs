@@ -136,7 +136,7 @@ operacional de 64 bits. Ela é suportada para as seguintes distribuições
 derivadas do Debian Linux e Red Hat Enterprise Linux para equipamentos
 Intel:
 
--   Debian 8.10 (“jessie”), 9.4 (“stretch”) e 10.6 (“buster”)
+-   Debian 8.10 ("jessie"), 9.4 ("stretch") e 10.6 ("buster")
 -   Ubuntu 14.04 LTS, 16.04 LTS, 18.04 LTS e 20.04 LTS
 -   Red Hat Enterprise Linux (CentOS) 6, 7 e 8
 -   <a href="https://aws.amazon.com/amazon-linux-ami/" class="external-link"

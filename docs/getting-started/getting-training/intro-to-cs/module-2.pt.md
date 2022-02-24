@@ -4,7 +4,7 @@
 ## Introdução
 
 O Módulo 2 do curso de treinamento [Introdução ao Jitterbit Harmony
-Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio) demonstra como fazer uma *query* de dados de várias
+Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio?showLanguage=pt_BR) demonstra como fazer uma *query* de dados de várias
 tabelas num banco de dados PostgreSQL e escrevê-los em um servidor SFTP
 em formato XML hierárquico.
 
@@ -12,14 +12,14 @@ em formato XML hierárquico.
 ## Pré-requisitos
 
 Esta página parte do pressuposto de que você completou o [Módulo 1 -
-Banco de Dados para Texto](https://success.jitterbit.com/display/DOC/Module+1+-+Database+to+Text), onde você configurou conexões com o banco
+Banco de Dados para Texto](https://success.jitterbit.com/display/DOC/Module+1+-+Database+to+Text?showLanguage=pt_BR), onde você configurou conexões com o banco
 de dados PostgreSQL de treinamento e o servidor SFTP da Jitterbit.
 
 
 ## Resumo
 
 Neste módulo, você vai usar o banco de dados PostgreSQL para se conectar
-com as tabelas “`OrderDetail`” e “`OrderHeader`”. Uma vez conectado(a), você
+com as tabelas `OrderDetail` e `OrderHeader`. Uma vez conectado(a), você
 vai fundir os dados e escrevê-los em formato hierárquico no servidor
 SFTP de treinamento.
 
@@ -41,16 +41,16 @@ data-image-src="https://docs-source.jitterbit.com/cs/transformation/mapping-mode
 ## 1. Configurar uma Atividade de Banco de Dados
 
 Para este módulo, você vai continuar trabalhando dentro do mesmo projeto
-e vai reusar a mesma conexão “Banco de Dados Postgres” que usou no
+e vai reusar a mesma conexão "Banco de Dados Postgres" que usou no
 Módulo 1, porém vai configurar uma nova atividade Query para extrair
 dados diferentes do banco de dados:
 
 1.  Dentro do mesmo projeto do Módulo 1, crie um novo workflow e dê a
-    ele o nome “Módulo 2”.
+    ele o nome "Módulo 2".
 
 2.  Na aba **Connectivity** (Conectividade) da paleta de componentes e
-    sob o filtro **Endpoints**, clique na conexão “Banco de Dados
-    Postgres” que você criou no Módulo 1 para mostrar os tipos de
+    sob o filtro **Endpoints**, clique na conexão "Banco de Dados
+    Postgres" que você criou no Módulo 1 para mostrar os tipos de
     atividade da conexão:
 
     <span class="confluence-embedded-file-wrapper"><img
@@ -62,26 +62,26 @@ dados diferentes do banco de dados:
     componentes no design canvas para criar uma instância de uma
     atividade Database Query numa nova operação.
 
-4.  Mude o nome da operação para “BD para XML”.
+4.  Mude o nome da operação para "BD para XML".
 
 5.  Clique duas vezes sobre a atividade Query dentro da operação para
     abrir a configuração dela.
 
-6.  Configure a [atividade Database Query](https://success.jitterbit.com/display/CS/Database+Query+Activity):
+6.  Configure a [atividade Database Query](https://success.jitterbit.com/display/CS/Database+Query+Activity?showLanguage=pt_BR):
 
-    -   **Name** (Nome): “Executar Query nas Tabelas OrderHeader e
-        OrderDetail”
+    -   **Name** (Nome): "Executar Query nas Tabelas OrderHeader e
+        OrderDetail"
 
     -   **Select Table(s)** (Selecionar Tabela\[s\]): Atualize as tabelas e
-        selecione as tabelas “`OrderHeader`” e “`OrderDetail`”. Daí, dentro da
-        fileira “`OrderDetail`”:
+        selecione as tabelas `OrderHeader` e `OrderDetail`. Daí, dentro da
+        fileira `OrderDetail`:
 
         -   **Parent** (Mãe): Use o menu *dropdown* para selecionar
-            “`OrderHeader`”.
+            `OrderHeader`.
 
         -   **Link Keys** (Chaves de Ligação): Clique em **Assign**
-            (Atribuir). Quando surgir o *popup*, arraste “`OrderID`” na
-            tabela mãe para “`OrderID`” na tabela filha. Clique em
+            (Atribuir). Quando surgir o *popup*, arraste `OrderID` na
+            tabela mãe para `OrderID` na tabela filha. Clique em
             **Finished** (Concluído).
 
         -   **Join Type** (Tipo de Junção): Este campo fica disponível após
@@ -90,7 +90,7 @@ dados diferentes do banco de dados:
             Clique em **Next** (Próximo).
 
     -   **Source** (Fonte): **PostgreSQL**: Marque a caixa ao lado de
-        “`OrderHeader`” para incluir todos os campos na sua *query*.
+        `OrderHeader` para incluir todos os campos na sua *query*.
 
     -   **Data Schema** (*Schema* de Dados): Revise o *schema* de dados e
         clique em **Finished** (Concluído) para voltar ao design canvas.
@@ -111,7 +111,7 @@ FTP do Módulo 1. Nesta etapa, você usa a mesma conexão com o servidor de
 treinamento SFTP, mas configura uma atividade Write separada:
 
 1.  Na aba **Connectivity** da paleta de componentes e sob o filtro
-    **Endpoints**, clique na conexão “SFTP” que você criou no Módulo 1
+    **Endpoints**, clique na conexão "SFTP" que você criou no Módulo 1
     para mostrar os tipos de atividade da conexão:
 
     <span class="confluence-embedded-file-wrapper"><img
@@ -126,14 +126,14 @@ treinamento SFTP, mas configura uma atividade Write separada:
 3.  Clique duas vezes sobre a atividade FTP Write dentro da operação
     para abrir a configuração dela.
 
-4.  Configure a [atividade FTP Write](https://success.jitterbit.com/display/CS/FTP+Write+Activity):
+4.  Configure a [atividade FTP Write](https://success.jitterbit.com/display/CS/FTP+Write+Activity?showLanguage=pt_BR):
 
-    -   **Name** (Nome): “XML SFTP”
+    -   **Name** (Nome): "XML SFTP"
 
-    -   **Path** (Caminho): “/”
+    -   **Path** (Caminho): "/"
 
     -   **Filename (s)** (Nome do Arquivo\[s\]):
-        “resultado\_\[date\]\_\[time\].xml”. Clique em **Next** (Próximo).
+        "resultado\_\[date\]\_\[time\].xml". Clique em **Next** (Próximo).
 
     -   **Data Schema** (*Schema* de Dados): Já que você não forneceu um
         *schema*, não há nada para revisar na segunda tela. Clique em
@@ -153,7 +153,7 @@ dados fonte para o alvo FTP:
     (Novo *Transformation*). Um novo *transformation* abrirá para que
     você a configure:
 
-    -   **Transformation Name** (Nome do *Transformation*): “BD para XML”
+    -   **Transformation Name** (Nome do *Transformation*): "BD para XML"
 
     -   **Source** (Fonte): O *schema* fonte já é fornecido (à esquerda).
 
@@ -161,7 +161,7 @@ dados fonte para o alvo FTP:
         Clique em **Mirror Source Schema** (Espelhar *Schema* Fonte) para
         replicar a estrutura do banco de dados no XML.
 
-3.  Arraste o nó fonte “`OrderHeader`” para o nó alvo “`row`” e selecione
+3.  Arraste o nó fonte `OrderHeader` para o nó alvo `row` e selecione
     **Automap** (Mapear Automaticamente).
 
     <div
@@ -174,7 +174,7 @@ dados fonte para o alvo FTP:
     <div class="confluence-information-macro-body">
 
     **DICA:** As linhas pretas sólidas que são exibidas entre os nós
-    fonte e alvo são chamadas de* linhas iteradoras*. Estas linhas indicam
+    fonte e alvo são chamadas de *linhas iteradoras*. Estas linhas indicam
     que o mapeamento suporta vários registros (instâncias).
 
     </div>

@@ -8,32 +8,32 @@ Cloud Studio para criar mapeamentos de dados complexos. As seguintes
 funções (listadas na ordem em que são apresentadas no curso) são
 cobertas:
 
--   [`ResolveOneOf`](https://success.jitterbit.com/display/CS/Instance+Functions#InstanceFunctions-ResolveOneOf)
+-   [`ResolveOneOf`](https://success.jitterbit.com/display/CS/Instance+Functions?showLanguage=pt_BR#InstanceFunctions-ResolveOneOf)
 
--   [`FindValue`](https://success.jitterbit.com/display/CS/Instance+Functions#InstanceFunctions-FindValue)
+-   [`FindValue`](https://success.jitterbit.com/display/CS/Instance+Functions?showLanguage=pt_BR#InstanceFunctions-FindValue)
 
--   [`FindByPos`](https://success.jitterbit.com/display/CS/Instance+Functions#InstanceFunctions-FindByPos)
+-   [`FindByPos`](https://success.jitterbit.com/display/CS/Instance+Functions?showLanguage=pt_BR#InstanceFunctions-FindByPos)
 
--   [`SumString`](https://success.jitterbit.com/display/CS/Instance+Functions#InstanceFunctions-SumString)
+-   [`SumString`](https://success.jitterbit.com/display/CS/Instance+Functions?showLanguage=pt_BR#InstanceFunctions-SumString)
 
--   [`SumCSV`](https://success.jitterbit.com/display/CS/Instance+Functions#InstanceFunctions-SumCSV)
+-   [`SumCSV`](https://success.jitterbit.com/display/CS/Instance+Functions?showLanguage=pt_BR#InstanceFunctions-SumCSV)
 
--   [`Exist`](https://success.jitterbit.com/display/CS/Instance+Functions#InstanceFunctions-Exist)
+-   [`Exist`](https://success.jitterbit.com/display/CS/Instance+Functions?showLanguage=pt_BR#InstanceFunctions-Exist)
 
--   [`Count`](https://success.jitterbit.com/display/CS/Instance+Functions#InstanceFunctions-Count)
+-   [`Count`](https://success.jitterbit.com/display/CS/Instance+Functions?showLanguage=pt_BR#InstanceFunctions-Count)
 
--   [`Sum`](https://success.jitterbit.com/display/CS/Instance+Functions#InstanceFunctions-Sum)
+-   [`Sum`](https://success.jitterbit.com/display/CS/Instance+Functions?showLanguage=pt_BR#InstanceFunctions-Sum)
 
--   [`Min`](https://success.jitterbit.com/display/CS/Instance+Functions#InstanceFunctions-Min)
+-   [`Min`](https://success.jitterbit.com/display/CS/Instance+Functions?showLanguage=pt_BR#InstanceFunctions-Min)
 
--   [`Max`](https://success.jitterbit.com/display/CS/Instance+Functions#InstanceFunctions-Max)
+-   [`Max`](https://success.jitterbit.com/display/CS/Instance+Functions?showLanguage=pt_BR#InstanceFunctions-Max)
 
--   [`SetInstances`](https://success.jitterbit.com/display/CS/Instance+Functions#InstanceFunctions-SetInstances)
+-   [`SetInstances`](https://success.jitterbit.com/display/CS/Instance+Functions?showLanguage=pt_BR#InstanceFunctions-SetInstances)
 
--   [`GetInstance`](https://success.jitterbit.com/display/CS/Instance+Functions#InstanceFunctions-GetInstance)
+-   [`GetInstance`](https://success.jitterbit.com/display/CS/Instance+Functions?showLanguage=pt_BR#InstanceFunctions-GetInstance)
 
 Você também pode se interessar pela nossa série em estilo *webinar* Tech
-Talk. Sessões gravadas ficam disponíveis em [Jitterbit Tech Talks](https://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks).
+Talk. Sessões gravadas ficam disponíveis em [Jitterbit Tech Talks](https://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks?showLanguage=pt_BR).
 
 Este vídeo oferece uma visão geral deste curso:
 
@@ -75,5 +75,5 @@ Se você tiver perguntas relacionadas ao material de curso da Jitterbit
 University, a um Tech Talk, ou a um vídeo de treinamento, envie um
 e-mail para
 [training@jitterbit.com](mailto:training@jitterbit.com). Para
-suporte adicional, visite a página <a href="https://success.jitterbit.com/display/DOC/Getting+Support"
+suporte adicional, visite a página <a href="https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR"
 rel="nofollow">Como Receber Ajuda</a>.

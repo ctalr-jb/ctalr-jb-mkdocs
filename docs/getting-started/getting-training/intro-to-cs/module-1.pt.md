@@ -4,7 +4,7 @@
 ## Introdução
 
 O Módulo 1 do curso de treinamento [Introdução ao Jitterbit Harmony
-Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio) demonstra como fazer uma *query* dos dados de uma única
+Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio?showLanguage=pt_BR) demonstra como fazer uma *query* dos dados de uma única
 tabela num banco de dados PostgreSQL e escrevê-los num servidor SFTP
 como arquivo de texto *flat*.
 
@@ -13,22 +13,22 @@ como arquivo de texto *flat*.
 
 Estes módulos partem do pressuposto de que você se registrou no
 Jitterbit Learning Sandbox conforme previsto como parte do curso de
-treinamento [Introdução ao Jitterbit Harmony Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio). O
+treinamento [Introdução ao Jitterbit Harmony Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio?showLanguage=pt_BR). O
 registro no Jitterbit Learning Sandbox provê acesso à organização de
 treinamento do Jitterbit Harmony, o que inclui dois ambientes, assim
 como contas no servidor SFTP de treinamento da Jitterbit e no banco de
 dados PostgreSQL.
 
 Se você não tiver esses acessos, consulte a página [Como Receber
-Treinamento](https://success.jitterbit.com/display/DOC/Getting+Training) para se cadastrar na Jitterbit University (Universidade
+Treinamento](https://success.jitterbit.com/display/DOC/Getting+Training?showLanguage=pt_BR) para se cadastrar na Jitterbit University (Universidade
 Jitterbit), daí matricule-se no curso [Introdução ao Jitterbit Harmony
-Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio). O registro no Learning Sandbox é ensinado no Capítulo
-4 - Registro no Learning Sandbox.
+Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio?showLanguage=pt_BR). O registro no Learning Sandbox é ensinado no Capítulo
+4 – Registro no Learning Sandbox.
 
 
 ## Resumo
 
-Neste módulo, você vai se conectar com a tabela “customer” (cliente) do
+Neste módulo, você vai se conectar com a tabela "customer" (cliente) do
 banco de dados PostgreSQL de treinamento, criar um arquivo CSV com
 campos similares e escrever esses dados no servidor SFTP de treinamento.
 
@@ -52,7 +52,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/transformation/mapping-mode
 Todos os módulos cobertos neste curso são criados em um único projeto.
 Antes de começar o primeiro módulo, crie um projeto:
 
-1.  Faça *login* no [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal) em
+1.  Faça *login* no [Jitterbit Harmony Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal?showLanguage=pt_BR) em
     [https://login.jitterbit.com](https://login.jitterbit.com)
     e opte pela organização Jitterbit Learning Sandbox na parte
     superior direita do cabeçalho.
@@ -60,11 +60,11 @@ Antes de começar o primeiro módulo, crie um projeto:
 2.  Clique no cartão da aplicação Cloud Studio.
 
 3.  No índice de projetos, clique em **New Project** (Novo Projeto). Dê
-    um nome ao projeto, tal como “Exemplos da Jitterbit University”, e
+    um nome ao projeto, tal como "Exemplos da Jitterbit University", e
     selecione o ambiente.
 
 4.  Quando estiver dentro do projeto, mude o nome do workflow para
-    “Módulo 1”.
+    "Módulo 1".
 
     <div
     class="confluence-information-macro confluence-information-macro-tip conf-macro output-block"
@@ -90,7 +90,7 @@ Para este módulo, a primeira coisa a fazer é estabelecer uma conexão com
 o banco de dados PostgreSQL de treinamento:
 
 1.  Na aba **Connectivity** (Conectividade) da [paleta de componentes
-    de *design*](https://success.jitterbit.com/display/CS/Design+Component+Palette) sob o filtro **Connectors** (Conectores), clique
+    de *design*](https://success.jitterbit.com/display/CS/Design+Component+Palette?showLanguage=pt_BR) sob o filtro **Connectors** (Conectores), clique
     no conector Database (Banco de Dados):
 
     <span class="confluence-embedded-file-wrapper"><img
@@ -98,13 +98,13 @@ o banco de dados PostgreSQL de treinamento:
     class="confluence-embedded-image confluence-external-resource"
     data-image-src="https://docs-source.jitterbit.com/cs/component-palette/connectivity/connectors_database.png" /></span>
 
-2.  Configure a [conexão com o Banco de Dados](https://success.jitterbit.com/display/CS/Database+Connection):
+2.  Configure a [conexão com o Banco de Dados](https://success.jitterbit.com/display/CS/Database+Connection?showLanguage=pt_BR):
 
-    -   **Endpoint Name** (Nome do *Endpoint*): “Banco de Dados Postgres”
+    -   **Endpoint Name** (Nome do *Endpoint*): "Banco de Dados Postgres"
 
-    -   **Driver**: “PostgreSQL”
+    -   **Driver**: "PostgreSQL"
 
-    -   **Server Name** (Nome do Servidor): “learningsandbox.jitterbit.com”
+    -   **Server Name** (Nome do Servidor): "learningsandbox.jitterbit.com"
 
     -   **Database Name** (Nome do Banco de Dados), **Login**, **Password**
         (Senha): Estas credenciais são das informações que você forneceu
@@ -123,8 +123,8 @@ o banco de dados PostgreSQL de treinamento:
     </span>
     <div class="confluence-information-macro-body">
 
-    **DICA:** Os Cloud Agents podem usar apenas* drivers *JDBC, enquanto
-    os Private Agents podem usar* drivers *JDBC ou ODBC.
+    **DICA:** Os Cloud Agents podem usar apenas *drivers* JDBC, enquanto
+    os Private Agents podem usar *drivers* JDBC ou ODBC.
 
     </div>
 
@@ -136,7 +136,7 @@ o banco de dados PostgreSQL de treinamento:
 4.  Uma vez conectado(a), clique em **Save Changes** (Salvar Mudanças).
     Esta ação levará você de volta ao design canvas.
 
-A conexão “Banco de Dados Postgres” tem uma configuração similar à
+A conexão "Banco de Dados Postgres" tem uma configuração similar à
 imagem abaixo:
 
 <span class="confluence-embedded-file-wrapper"><img
@@ -151,7 +151,7 @@ Agora, você deve configurar uma atividade para fazer uma *query* de
 dados do banco PostgreSQL:
 
 1.  Na aba **Connectivity** da paleta de componentes sob o filtro
-    **Endpoints**, clique na conexão “Banco de Dados Postgres” que
+    **Endpoints**, clique na conexão "Banco de Dados Postgres" que
     você acabou de criar para mostrar os tipos de atividade da
     conexão:
 
@@ -164,23 +164,23 @@ dados do banco PostgreSQL:
     componentes no design canvas para criar uma instância de uma
     atividade Database Query numa nova operação.
 
-3.  Mude o nome da operação para “BD para Texto”.
+3.  Mude o nome da operação para "BD para Texto".
 
 4.  Clique duas vezes sobre a atividade Query dentro da operação para
     abrir as configurações dela.
 
-5.  Configure a [atividade Database Query](https://success.jitterbit.com/display/CS/Database+Query+Activity):
+5.  Configure a [atividade Database Query](https://success.jitterbit.com/display/CS/Database+Query+Activity?showLanguage=pt_BR):
 
-    -   **Name** (Nome): “Fazer uma Query na Tabela Customer”
+    -   **Name** (Nome): "Fazer uma Query na Tabela Customer"
 
     -   **Select Table(s)** (Selecionar Tabela\[s\]): Atualize as tabelas e
-        selecione a tabela “`customer`” (cliente). Clique em **Next**
+        selecione a tabela `customer` (cliente). Clique em **Next**
         (Próximo).
 
-    -   **Select Fields** (Selecionar Campos): Selecione os campos “`id`”, que
-        deverá ser o campo-chave, “`company`” (empresa), “`address`”
-        (endereço), “`city`” (cidade), “`state`” (estado), “`zip`” (CEP),
-        “`country`” (país), “`phone`” (telefone) e “`fax`”. Clique em **Next**
+    -   **Select Fields** (Selecionar Campos): Selecione os campos `id`, que
+        deverá ser o campo-chave, `company` (empresa), `address`
+        (endereço), `city` (cidade), `state` (estado), `zip` (CEP),
+        `country` (país), `phone` (telefone) e `fax`. Clique em **Next**
         (Próximo).
 
     -   **Data Schema** (*Schema* de Dados): Revise o *schema* de dados e
@@ -208,9 +208,9 @@ treinamento:
     class="confluence-embedded-image confluence-external-resource"
     data-image-src="https://docs-source.jitterbit.com/cs/component-palette/connectivity/connectors_ftp.png" /></span>
 
-2.  Configure a [conexão FTP](https://success.jitterbit.com/display/CS/FTP+Connection):
+2.  Configure a [conexão FTP](https://success.jitterbit.com/display/CS/FTP+Connection?showLanguage=pt_BR):
 
-    -   **Endpoint Name** (Nome do *Endpoint*): “SFTP”
+    -   **Endpoint Name** (Nome do *Endpoint*): "SFTP"
 
     -   **Host** (Anfitrião): "<a href="http://learningsandbox.jitterbit.com" class="external-link"
         rel="nofollow">learningsandbox.jitterbit.com</a>"
@@ -238,7 +238,7 @@ Quando a configuração FTP estiver configurada, você pode configurar uma
 atividade FTP Write associada com essa conexão:
 
 1.  Na aba **Connectivity** da paleta de componentes sob o filtro
-    **Endpoints**, clique na conexão “SFTP” que você acabou de criar
+    **Endpoints**, clique na conexão "SFTP" que você acabou de criar
     para mostrar os tipos de atividade da conexão:
 
     <span class="confluence-embedded-file-wrapper"><img
@@ -253,14 +253,14 @@ atividade FTP Write associada com essa conexão:
 3.  Clique duas vezes na atividade FTP Write dentro da operação para
     abrir as configurações dela.
 
-4.  Configure a [atividade FTP Write](https://success.jitterbit.com/display/CS/FTP+Write+Activity):
+4.  Configure a [atividade FTP Write](https://success.jitterbit.com/display/CS/FTP+Write+Activity?showLanguage=pt_BR):
 
-    -   **Name** (Nome): “Escrever Registros de Clientes”
+    -   **Name** (Nome): "Escrever Registros de Clientes"
 
-    -   **Path** (Caminho): “/”
+    -   **Path** (Caminho): "/"
 
     -   **Filename(s)** (Nome do\[s\] Arquivo\[s\]):
-        “resultado\_\[date\]\_\[time\].csv”. Clique em **Next** (Próximo).
+        "resultado\_\[date\]\_\[time\].csv". Clique em **Next** (Próximo).
 
     -   **Data Schema** (*Schema* de Dados): Já que você não forneceu um
         *schema*, não há nada para revisar na segunda tela. Clique em
@@ -280,21 +280,21 @@ para o alvo FTP:
     *Transformation*). Um novo *transformation* vai aparecer para que
     você a configure:
 
-    -   **Transformation Name** (Nome do *Transformation*): “DB para Texto”
+    -   **Transformation Name** (Nome do *Transformation*): "DB para Texto"
 
     -   **Source** (Fonte): O *schema* fonte já é fornecido (à esquerda).
 
     -   **Target** (Alvo): Você precisa definir o *schema* alvo (à direita).
         Clique em **Define Schema** (Definir *Schema*), daí selecione
         **Create Flat** (Criar *Flat*). Configure o [*flat schema*
-        customizado](https://success.jitterbit.com/display/CS/Custom+Flat+Schema):
+        customizado](https://success.jitterbit.com/display/CS/Custom+Flat+Schema?showLanguage=pt_BR):
 
-        -   **Schema Name** (Nome do *Schema*): “CSV de Clientes”
+        -   **Schema Name** (Nome do *Schema*): "CSV de Clientes"
 
         -   **Add Field** (Adicionar Campo): Use este botão para adicionar
-            os seguintes campos: “`id`”, “`Customer`” (cliente), “`Address`”
-            (endereço), “`City`” (cidade), “`State`” (estado), “`ZipCode`”
-            (CEP), “`Country`” (país), “`Phone`” (telefone) e “`Fax`”. Quando os
+            os seguintes campos: `id`, `Customer` (cliente), `Address`
+            (endereço), `City` (cidade), `State` (estado), `ZipCode`
+            (CEP), `Country` (país), `Phone` (telefone) e `Fax`. Quando os
             campos estiverem adicionados, clique em **Save Changes**
             (Salvar Mudanças).
 
@@ -303,8 +303,8 @@ para o alvo FTP:
 
 4.  Mapeie manualmente (arrastando e soltando) os campos que não têm
     nomes exatamente iguais e não foram detectados pelo mapeamento
-    automático; associe “`company`” com “`Customer`” e “`zip`” com
-    “`ZipCode`”.
+    automático; associe `company` com `Customer` e `zip` com
+    `ZipCode`.
 
 5.  No topo do cabeçalho do *transformation*, clique no botão cinza que
     diz **Preview** (Pré-Visualização) para começar o processo de

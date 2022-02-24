@@ -138,19 +138,19 @@ O Manual de Apoio do Treinamento Prático é um conjunto de páginas
 complementares no Success Central (Central de Sucesso) com o objetivo de
 ajudar você a completar os módulos cobertos neste curso de treinamento:
 
--   [Módulo 1 - Base de Dados para Texto](https://success.jitterbit.com/display/DOC/Module+1+-+Database+to+Text)
+-   [Módulo 1 - Base de Dados para Texto](https://success.jitterbit.com/display/DOC/Module+1+-+Database+to+Text?showLanguage=pt_BR)
 
--   [Módulo 2 - Base de Dados para XML Complexo](https://success.jitterbit.com/display/DOC/Module+2+-+Database+to+Complex+XML)
+-   [Módulo 2 - Base de Dados para XML Complexo](https://success.jitterbit.com/display/DOC/Module+2+-+Database+to+Complex+XML?showLanguage=pt_BR)
 
--   [Módulo 3 - XML para Base de Dados](https://success.jitterbit.com/display/DOC/Module+3+-+XML+to+Database)
+-   [Módulo 3 - XML para Base de Dados](https://success.jitterbit.com/display/DOC/Module+3+-+XML+to+Database?showLanguage=pt_BR)
 
--   [Módulo 4 - SOAP Web Service](https://success.jitterbit.com/display/DOC/Module+4+-+SOAP+Web+Service)
+-   [Módulo 4 - SOAP Web Service](https://success.jitterbit.com/display/DOC/Module+4+-+SOAP+Web+Service?showLanguage=pt_BR)
 
--   [Módulo 5 - RESTful Web Service](https://success.jitterbit.com/display/DOC/Module+5+-+RESTful+Web+Service)
+-   [Módulo 5 - RESTful Web Service](https://success.jitterbit.com/display/DOC/Module+5+-+RESTful+Web+Service?showLanguage=pt_BR)
 
--   [Módulo 6 - Criando uma Agenda](https://success.jitterbit.com/display/DOC/Module+6+-+Creating+a+Schedule)
+-   [Módulo 6 - Criando uma Agenda](https://success.jitterbit.com/display/DOC/Module+6+-+Creating+a+Schedule?showLanguage=pt_BR)
 
--   [Módulo 7 - Criando uma Notificação de E-mail](https://success.jitterbit.com/display/DOC/Module+7+-+Creating+an+Email+Notification)
+-   [Módulo 7 - Criando uma Notificação de E-mail](https://success.jitterbit.com/display/DOC/Module+7+-+Creating+an+Email+Notification?showLanguage=pt_BR)
 
 Estas páginas podem ser usadas como referência após cada vídeo para
 ajudar você a completar o módulo antes de prosseguir para a próxima
@@ -167,5 +167,5 @@ tiver dúvidas relacionadas ao seu material de aula, por favor envie um
 e-mail para
 [training@jitterbit.com](mailto:training@jitterbit.com) e um
 membro da equipe responderá assim que possível. Se você tiver outras
-perguntas técnicas, por favor escolha uma opção na página <a href="https://success.jitterbit.com/display/DOC/Getting+Support"
+perguntas técnicas, por favor escolha uma opção na página <a href="https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR"
 rel="nofollow">Como Receber Ajuda</a>.

@@ -20,7 +20,7 @@ Certificação de Administração Organizacional Jitterbit está disponível
 ao final do curso. Receba seu certificado ao atingir pontuação de pelo
 menos 75% no exame. Você também pode se interessar pela nossa série
 estilo *webinar* Tech Talk. Sessões gravadas ficam disponíveis em
-[Jitterbit Tech Talks](https://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks).
+[Jitterbit Tech Talks](https://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks?showLanguage=pt_BR).
 
 <iframe src="https://player.vimeo.com/video/366515870" width="640" height="361" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
@@ -120,5 +120,5 @@ Se você tiver perguntas sobre o material de curso da Jitterbit
 University, sobre o Tech Talk ou sobre um vídeo de treinamento, envie um
 e-mail para
 [training@jitterbit.com](mailto:training@jitterbit.com). Para
-informações adicionais, visite a página <a href="https://success.jitterbit.com/display/DOC/Getting+Support"
+informações adicionais, visite a página <a href="https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR"
 rel="nofollow">Como Receber Ajuda</a>.

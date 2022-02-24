@@ -9,7 +9,7 @@ Studio por meio da Jitterbit University. Este curso completo inclui
 módulos em formato de palestra para que você aprenda a usar *scripts* na
 Plataforma de Integração de APIs Jitterbit Harmony, bem como
 questionários para testar o seu conhecimento. Sessões gravadas ficam
-disponíveis no [Jitterbit Tech Talks](https://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks).
+disponíveis no [Jitterbit Tech Talks](https://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks?showLanguage=pt_BR).
 
 <iframe src="https://player.vimeo.com/video/405431891" width="640" height="361" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
@@ -97,5 +97,5 @@ template-name="companionEditIcon" source-location="embedded-attachment">
 Caso você tenha perguntas relacionadas ao material de curso da Jitterbit
 University, ao Tech Talk, ou a um vídeo de treinamento, envie um e-mail
 para [training@jitterbit.com](mailto:training@jitterbit.com).
-Para suporte adicional, visite a página <a href="https://success.jitterbit.com/display/DOC/Getting+Support"
+Para suporte adicional, visite a página <a href="https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR"
 rel="nofollow">Como Receber Ajuda</a>.

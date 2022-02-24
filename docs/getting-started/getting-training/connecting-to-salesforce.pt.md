@@ -125,5 +125,5 @@ template-name="companionEditIcon" source-location="embedded-attachment">
 Se você tiver perguntas relacionadas ao material de curso da Jitterbit
 University, ao Tech Talk ou a um vídeo de treinamento, envie um e-mail
 para [training@jitterbit.com](mailto:training@jitterbit.com).
-Para suporte adicional, visite a página <a href="https://success.jitterbit.com/display/DOC/Getting+Support"
+Para suporte adicional, visite a página <a href="https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR"
 rel="nofollow">Como Receber Ajuda</a>.

@@ -1,6 +1,5 @@
-# Introdução ao Uso de *Scripts* no Design Studio
-
-*This is a translation of Version 3, published on August 19, 2021.*
+[//]: # (Introdução ao Uso de *Scripts* no Design Studio)
+[//]: # (This is a translation of Version 3, published on August 19, 2021.)
 
 ## Introdução
 
@@ -12,7 +11,7 @@ O curso *Introdução ao Uso de* Scripts *no Design Studio* é auto-guiado,
 então você pode completá-lo no seu ritmo.
 
 Você também pode se interessar pela nossa série em estilo *webinar* Tech
-Talk. Sessões gravadas ficam disponíveis em [Jitterbit Tech Talks](https://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks).
+Talk. Sessões gravadas ficam disponíveis em [Jitterbit Tech Talks](https://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks?showLanguage=pt_BR).
 
 Este vídeo dá uma visão geral deste curso:
 
@@ -55,6 +54,8 @@ linked-resource-container-id="127449464" linked-resource-id="127449538"
 template-name="companionEditIcon" source-location="embedded-attachment">
 </span></span>
 
+
+## Capítulos
 
 -   **Capítulo 1**: Boas-Vindas e Introdução
 
@@ -99,5 +100,5 @@ template-name="companionEditIcon" source-location="embedded-attachment">
 Se você tiver perguntas relacionadas ao material de curso da Jitterbit
 University, a um Tech Talk ou a um vídeo de treinamento, envie um e-mail
 para [training@jitterbit.com](mailto:training@jitterbit.com).
-Para suporte adicional, visite a página <a href="https://success.jitterbit.com/display/DOC/Getting+Support"
+Para suporte adicional, visite a página <a href="https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR"
 rel="nofollow">Como Receber Ajuda</a>.

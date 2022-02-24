@@ -104,7 +104,7 @@ usuários pode ser feita via autorização de domínios para acessar
 *endpoints* de bancos de dados. A autorização de domínios não pode ser
 usada para acessar Jitterbit Private Agents. É possível fazer uma
 transformação LDAP para desabilitar usuários, mas a senha não pode ser
-determinada a partir da operação se ela for “create” (nós usamos nossa
+determinada a partir da operação se ela for "create" (nós usamos nossa
 senha privada).
 <br>
 <br>

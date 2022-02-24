@@ -4,20 +4,20 @@
 ## Introdução
 
 O Módulo 6 do curso de treinamento [Introdução ao Jitterbit Harmony
-Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio) demonstra como criar uma agenda customizada para
+Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio?showLanguage=pt_BR) demonstra como criar uma agenda customizada para
 executar a operação automaticamente nos horários definidos nela.
 
 
 ## Pré-requisitos
 
-A operação criada no [Módulo 5 - Serviço Web RESTful](https://success.jitterbit.com/display/DOC/Module+5+-+RESTful+Web+Service) é usada como
+A operação criada no [Módulo 5 - Serviço Web RESTful](https://success.jitterbit.com/display/DOC/Module+5+-+RESTful+Web+Service?showLanguage=pt_BR) é usada como
 exemplo. No entanto, uma agenda pode ser aplicada a qualquer operação.
 
 
 ## Resumo
 
 Neste módulo, você vai adicionar uma agenda à operação criada no
-[Módulo 5 - Serviço Web RESTful](https://success.jitterbit.com/display/DOC/Module+5+-+RESTful+Web+Service).
+[Módulo 5 - Serviço Web RESTful](https://success.jitterbit.com/display/DOC/Module+5+-+RESTful+Web+Service?showLanguage=pt_BR).
 
 A operação completa ficará parecida com a imagem abaixo:
 
@@ -33,15 +33,20 @@ Neste módulo, você continua trabalhando dentro do mesmo workflow do
 Módulo 5 e adiciona uma agenda à operação:
 
 1.  Na parte superior direita da operação, clique no ícone do menu de
-    ações <img src="media/image2.png" style="width:0.25in" /> e, no
+    ações <span
+    class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
+    src="https://docs-source.jitterbit.com/common/icons/actions-menu_5.png"
+    class="confluence-embedded-image confluence-external-resource"
+    data-image-src="https://docs-source.jitterbit.com/common/icons/actions-menu_5.png"
+    height="11" /></span> e, no
     menu que aparecer, selecione **Settings** (Configurações).
 
 2.  Dentro da aba **Schedules** (Agendas), clique em **Create New
     Schedules** (Criar Nova Agenda).
 
-3.  Configure a [agenda de operação](https://success.jitterbit.com/display/CS/Operation+Schedules):
+3.  Configure a [agenda de operação](https://success.jitterbit.com/display/CS/Operation+Schedules?showLanguage=pt_BR):
 
-    -   **Name** (Nome): “Mensal”
+    -   **Name** (Nome): "Mensal"
 
     -   **Occurrence** (Ocorrência): Selecione **Monthly** (Mensal), daí
         selecione o segundo botão de opção e configure a agenda para o
@@ -52,7 +57,7 @@ Módulo 5 e adiciona uma agenda à operação:
 
 4.  Na aba **Schedules** (Agendas), use o primeiro menu *dropdown* para
     selecionar **On Schedule** (Na Hora). Sob **Available Schedule**
-    (Agenda Disponível), selecione a agenda “Mensal” que você acabou
+    (Agenda Disponível), selecione a agenda "Mensal" que você acabou
     de criar. Clique em **Assign** (Atribuir). Daí feche as
     configurações de operação.
 

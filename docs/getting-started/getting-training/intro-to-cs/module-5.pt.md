@@ -4,16 +4,16 @@
 ## Introdução
 
 O Módulo 5 no curso de treinamento [Introdução ao Jitterbit Harmony
-Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio) demonstra como fazer uma *query* a um serviço web REST
+Cloud Studio](https://success.jitterbit.com/display/DOC/Introduction+to+the+Jitterbit+Harmony+Cloud+Studio?showLanguage=pt_BR) demonstra como fazer uma *query* a um serviço web REST
 e escrever a resposta num servidor SFTP como arquivo de texto.
 
 
 ## Pré-requisitos
 
 Esta página parte do pressuposto de que você completou o [Módulo 1 -
-Banco de Dados para Texto](https://success.jitterbit.com/display/DOC/Module+1+-+Database+to+Text), onde você configurou uma conexão com o
+Banco de Dados para Texto](https://success.jitterbit.com/display/DOC/Module+1+-+Database+to+Text?showLanguage=pt_BR), onde você configurou uma conexão com o
 servidor SFTP de treinamento da Jitterbit. Ela também requer que você
-tenha completado o [Módulo 4 - Serviço Web SOAP](https://success.jitterbit.com/display/DOC/Module+4+-+SOAP+Web+Service), já que ela
+tenha completado o [Módulo 4 - Serviço Web SOAP](https://success.jitterbit.com/display/DOC/Module+4+-+SOAP+Web+Service?showLanguage=pt_BR), já que ela
 reutiliza vários componentes de projeto deste módulo.
 
 
@@ -44,7 +44,7 @@ Para este módulo, você vai continuar trabalhando dentro do mesmo projeto
 do Módulo 1, e vai criar uma nova conexão SOAP:
 
 1.  Dentro do mesmo projeto do Módulo 1, crie um novo workflow e dê a
-    ele o nome “Módulo 5”.
+    ele o nome "Módulo 5".
 
 2.  Na aba **Connectivity** (Conectividade) da paleta de componentes e
     sob o filtro **Connectors** (Conectores), clique no conector HTTP:
@@ -54,12 +54,12 @@ do Módulo 1, e vai criar uma nova conexão SOAP:
     class="confluence-embedded-image confluence-external-resource"
     data-image-src="https://docs-source.jitterbit.com/cs/component-palette/connectivity/connectors_http_single.png" /></span>
 
-3.  Configure a [conexão HTTP](https://success.jitterbit.com/display/CS/HTTP+Connection):
+3.  Configure a [conexão HTTP](https://success.jitterbit.com/display/CS/HTTP+Connection?showLanguage=pt_BR):
 
-    -   **Endpoint Name** (Nome do *Endpoint*): “CEP - REST”
+    -   **Endpoint Name** (Nome do *Endpoint*): "CEP – REST"
 
     -   **Base URL** (URL Base): Cole a URL base deste serviço:
-        “https://trainingoptrial112860.jitterbit.net/TrainingOpsCloud/v1/REST_Service/”.
+        "https://trainingoptrial112860.jitterbit.net/TrainingOpsCloud/v1/REST_Service/".
 
 4.  Clique em **Save Changes** (Salvar Mudanças).
 
@@ -77,7 +77,7 @@ Agora, configure uma atividade associada com a conexão HTTP para obter
 os dados do serviço web:
 
 1.  Na aba **Connectivity** (Conectividade) da paleta de componentes e
-    sob o filtro **Endpoints**, clique na conexão “CEP - REST” que
+    sob o filtro **Endpoints**, clique na conexão "CEP – REST" que
     você acabou de criar:
 
     <span class="confluence-embedded-file-wrapper"><img
@@ -89,23 +89,23 @@ os dados do serviço web:
     componentes no design canvas para criar uma instância de uma
     atividade HTTP GET numa nova operação.
 
-3.  Mude o nome da operação para “CEP - REST”.
+3.  Mude o nome da operação para "CEP – REST".
 
 4.  Clique duas vezes sobre a atividade HTTP GET dentro da operação para
     abrir as configurações dela.
 
-5.  Configure a [atividade HTTP](https://success.jitterbit.com/display/CS/HTTP+Activities):
+5.  Configure a [atividade HTTP](https://success.jitterbit.com/display/CS/HTTP+Activities?showLanguage=pt_BR):
 
-    -   **Name** (Nome): “Detalhes do CEP”
+    -   **Name** (Nome): "Detalhes do CEP"
 
-    -   **HTTP Verb** (Verbo HTTP): “GET”
+    -   **HTTP Verb** (Verbo HTTP): "GET"
 
-    -   **Path** (Caminho): “zip”
+    -   **Path** (Caminho): "zip"
 
     -   **Request Parameters** (Parâmetros da Solicitação): Clique em
         **Add** (Adicionar) para determinar um parâmetro de *query*
-        chamado “code” (isto é, “código”) cujo valor deverá ser um CEP dos
-        Estados Unidos (por exemplo, “94501”). Clique em **Next**
+        chamado "code" (isto é, "código") cujo valor deverá ser um CEP dos
+        Estados Unidos (por exemplo, "94501"). Clique em **Next**
         (Próximo).
 
     -   **Provide Request Schema** (Fornecer *Schema* da Solicitação): Já
@@ -115,7 +115,7 @@ os dados do serviço web:
 
     -   **Provide Response Schema** (Fornecer *Schema* da Resposta):
         Selecione **Yes, Provide New Schema** (Sim, Fornecer Novo
-        *Schema*) e forneça o nome “Detalhes do CEP” para o *schema*, daí
+        *Schema*) e forneça o nome "Detalhes do CEP" para o *schema*, daí
         cole a seguinte estrutura de resposta JSON esperada na caixa de
         texto mais abaixo:
 
@@ -156,10 +156,10 @@ Nesta etapa, você reutilizará a atividade FTP Write que você criou no
 Módulo 4:
 
 1.  Na aba **Components** (Componentes), navegue até **Endpoints** \>
-    **FTP Endpoints** para encontrar a conexão “SFTP” e a atividade de
-    escrita “Dados do CEP” que você criou como parte do Módulo 4.
+    **FTP Endpoints** para encontrar a conexão "SFTP" e a atividade de
+    escrita "Dados do CEP" que você criou como parte do Módulo 4.
 
-2.  Arraste a atividade de escrita “Dados do CEP” até uma zona de
+2.  Arraste a atividade de escrita "Dados do CEP" até uma zona de
     inserção à direita da atividade HTTP dentro da operação no design
     canvas para reutilizá-la na operação.
 
@@ -177,8 +177,8 @@ fonte HTTP para o alvo FTP:
     *Transformation*). Uma nova *transformation* vai abrir para que
     você a configure:
 
-    -   **Transformation Name** (Nome do *Transformation*): “CEP - Resposta
-        REST”
+    -   **Transformation Name** (Nome do *Transformation*): "CEP – Resposta
+        REST"
 
     -   **Source** (Fonte): O *schema* fonte já é fornecido (à esquerda)
         porque você o definiu na atividade GET.
@@ -186,13 +186,13 @@ fonte HTTP para o alvo FTP:
     -   **Target** (Alvo): Você precisa definir o *schema* alvo (à direita).
         Clique em **Define Schema** (Defnir *Schema*), daí selecione **Use
         Sample File** (Usar Arquivo Modelo). Configure o [*schema*
-        arquivo modelo](https://success.jitterbit.com/display/CS/Sample+File+Schema):
+        arquivo modelo](https://success.jitterbit.com/display/CS/Sample+File+Schema?showLanguage=pt_BR):
 
         -   **Provide Schema File** (Fornecer Arquivo *Schema*): Selecione
             **Use Saved Schema** (Usar *Schema* Salvo).
 
         -   **Saved Schemas** (*Schemas* Salvos): Use o menu *dropdown* para
-            selecionar o *schema* “Dados do CEP”, que usa recuos de
+            selecionar o *schema* "Dados do CEP", que usa recuos de
             parágrafo como delimitadores, que você definiu como parte do
             Módulo 4. Clique em **Finished** (Concluído).
 

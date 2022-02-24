@@ -10,7 +10,7 @@ implementações Jitterbit usando o Design Studio.
 O curso *Introdução ao Design Studio* é auto-guiado, então você pode
 completar os módulos no seu ritmo. Você também pode se interessar pela
 nossa série em estilo *webinar* Tech Talk. Sessões gravadas ficam
-disponíveis em [Jitterbit Tech Talks](https://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks).
+disponíveis em [Jitterbit Tech Talks](https://success.jitterbit.com/display/DOC/Jitterbit+Tech+Talks?showLanguage=pt_BR).
 
 Este vídeo vai dar a você uma visão geral do curso:
 
@@ -95,5 +95,5 @@ template-name="companionEditIcon" source-location="embedded-attachment">
 Se você tiver perguntas a respeito do material de curso da Jitterbit
 University, de um Tech Talk ou vídeo de treinamento, envie um e-mail
 para [training@jitterbit.com](mailto:training@jitterbit.com).
-Para suporte adicional, visite a página <a href="https://success.jitterbit.com/display/DOC/Getting+Support"
+Para suporte adicional, visite a página <a href="https://success.jitterbit.com/display/DOC/Getting+Support?showLanguage=pt_BR"
 rel="nofollow">Como Receber Ajuda</a>.

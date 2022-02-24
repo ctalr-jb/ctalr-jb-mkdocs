@@ -59,16 +59,16 @@ Para encontrar a região atada a uma organização específica, faça *login*
 no <a href="https://login.jitterbit.com/" class="external-link"
 rel="nofollow">Harmony Portal</a>. Depois de fazer isso, você verá que a URL
 mudou para incluir a região associada à organização que você está
-acessando, e que ela começa com “`apps.na`”, “`apps.emea`” ou “`apps.apac`”.
+acessando, e que ela começa com "`apps.na`", "`apps.emea`" ou "`apps.apac`".
 
--   **NA**: Se a URL começar com “`apps.`**`na`**”, então a sua organização
+-   **NA**: Se a URL começar com "`apps.`**`na`**", então a sua organização
     está localizada na América do Norte (NA).
 
--   **EMEA**: Se a URL começar com “`apps.`**`emea`**”, então a sua
+-   **EMEA**: Se a URL começar com "`apps.`**`emea`**", então a sua
     organização está localizada na região EMEA (Europa, Oriente Médio
     ou África/Ásia/Austrália).
 
--   **APAC**: Se a URL começar com “`apps.`**`apac`**”, então a sua
+-   **APAC**: Se a URL começar com "`apps.`**`apac`**", então a sua
     organização está localizada na região APAC (Ásia-Pacífico).
 
 Se você tem acesso a várias organizações, você pode alternar entre elas

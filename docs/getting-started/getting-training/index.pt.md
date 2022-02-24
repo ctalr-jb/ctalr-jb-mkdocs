@@ -139,8 +139,8 @@ Cursos focados no Jitterbit Harmony:
 
 A série Jitterbit Tech Talk traz as melhores práticas a serem seguidas
 na hora de fazer o *design* dos seus projetos de integração dentro da
-Jitterbit. Com tópicos que vão desde “Melhores Práticas para Lidar com
-Erros” até “API Proxy” e muito mais, os Jitterbit Tech Talks são uma
+Jitterbit. Com tópicos que vão desde "Melhores Práticas para Lidar com
+Erros" até "API Proxy" e muito mais, os Jitterbit Tech Talks são uma
 ótima ferramenta para analisar mais profundamente a plataforma
 Jitterbit. Como estão organizados por tópico, eles são uma forma
 eficiente de encontrar respostas para uma pergunta específica. As
