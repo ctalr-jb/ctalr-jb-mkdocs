@@ -271,11 +271,10 @@ Private Agent:
     </span>
     <div class="confluence-information-macro-body">
 
-    **WARNING:** Disabling cloud logging will not prevent operation
-    input and output data from being logged to the Harmony cloud if
-    operation debug logging is enabled at the operation level. For more
-    information see [Operation Debug
-    Logging](https://success.jitterbit.com/display/DOC/Operation+Debug+Logging?showLanguage=pt_BR). (TBT)
+    **ALERTA:** Desabilitar os registros na nuvem não vai impedir que os dados de entrada e saída sejam
+    registrados na nuvem do Harmony se os registros de *debug* de operações estiverem habilitados a nível de
+    operação. Para mais informações, veja [Registros de *Debug* de
+    Operações](https://success.jitterbit.com/display/DOC/Operation+Debug+Logging?showLanguage=pt_BR).
 
     </div>
 
@@ -348,8 +347,8 @@ qualquer momento seguindo os seguintes passos:
 
     Dentro da função desejada, clique no menu *dropdown* **Action** (Ação)
     na ponta direita e selecione **Add Member** (Adicionar Membro).
-    Coloque o endereço de e-mail do usuário que você gostaria de adicionar
-    a função selecionada e clique em **Save** (Salvar). Você também pode
+    Coloque o endereço de e-mail do usuário que você gostaria de adicionar à função selecionada e clique em **Save**
+    (Salvar). Você também pode
     adicionar novos membros a partir da aba **Members** (Membros) com o
     botão **Add Member** (Adicionar Membro) usando o menu *dropdown* para
     selecionar uma função.
@@ -373,7 +372,7 @@ qualquer momento seguindo os seguintes passos:
     Dentro da função desejada, os atuais níveis de acesso ao ambiente são
     mostrados embaixo da coluna **Access** (Acesso) na ponta direita.
 
-    1.  **Grant Role Access** (Dar Acesso as Funções): Para dar acesso a uma
+    1.  **Grant Role Access** (Dar Acesso às Funções): Para dar acesso a uma
         função existente que já foi definida para a sua organização,
         clique em **Grant Role Access**, selecione os níveis de acesso
         apropriados, e clique em **Save** (Salvar).

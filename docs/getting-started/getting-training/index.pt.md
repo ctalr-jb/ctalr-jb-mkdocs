@@ -116,7 +116,7 @@ Cursos focados no Jitterbit Harmony Cloud Studio:
 
 -   [Mapeamento Avançado de *Transformations* no Cloud Studio](https://success.jitterbit.com/display/DOC/Advanced+Transformation+Mappings+in+Cloud+Studio?showLanguage=pt_BR)
 
-Cursos focados no Jitterbit Harmony Cloud Studio:
+Cursos focados no Jitterbit Harmony Design Studio:
 
 -   [Introdução ao Design Studio](https://success.jitterbit.com/display/DOC/Introduction+to+Design+Studio?showLanguage=pt_BR)
 

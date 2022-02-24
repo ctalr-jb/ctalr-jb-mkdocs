@@ -36,7 +36,7 @@ componentes:
         sistema são auto-administradas e o restante é administrado
         inteiramente pela Jitterbit.
 
--   **Harmony API Gateway**: Oferece segurança, limitação e validação de
+-   **Harmony API Gateway**: Oferece segurança, *throttling* e validação de
     toda e qualquer API nova que os usuários publicarem via Jitterbit.
 
 -   **Harmony Backend Services**: Inclui um motor de notificação,

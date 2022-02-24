@@ -198,7 +198,7 @@ data-linked-resource-content-type="image/png"
 data-linked-resource-container-id="81073027"
 data-linked-resource-container-version="30" /></span>
 
-Forneça a sua senha atual e uma nova senha que atenda os requerimentos
+Forneça a sua senha atual e uma nova senha que atenda os requisitos
 de segurança citados. Daí, clique em **Save** (Salvar):
 
 <span class="confluence-embedded-file-wrapper"><img
