@@ -227,7 +227,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/component-palette/source-ob
 
 </div>
 
-### <span id="CloudStudioUserInterface-configuration-screens" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>### Telas de Configuração
+### <span id="CloudStudioUserInterface-configuration-screens" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Telas de Configuração
 
 Vários tipos de componentes de projeto, bem como outras áreas da
 interface de usuário exigem configuração com entradas dadas pelo
