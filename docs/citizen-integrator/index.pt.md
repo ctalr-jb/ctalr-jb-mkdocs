@@ -36,7 +36,7 @@ protótipos e os *templates* do Design Studio e do Cloud Studio:
 -   Os protótipos de integração e *templates* de processo do Cloud
     Studio, que estão disponíveis por meio do [Jitterbit
     Marketplace](https://success.jitterbit.com/display/DOC/Marketplace?showLanguage=pt_BR), podem ser usados apenas com o [Cloud
-    Studio](https://success.jitterbit.com/display/CS/Cloud+Studio?showLanguage=pt_BR), a aplicação de* design *de projetos baseada na web da
+    Studio](https://success.jitterbit.com/display/CS/Cloud+Studio?showLanguage=pt_BR), a aplicação de *design* de projetos baseada na web da
     Jitterbit que é acessada por meio do [Jitterbit Harmony
     Portal](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Portal?showLanguage=pt_BR).
 
