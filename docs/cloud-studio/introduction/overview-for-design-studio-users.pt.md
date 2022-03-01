@@ -122,7 +122,7 @@ ajudar a segregar diferentes partes do projeto. Você pode navegar pelo seu proj
 duas visões diferentes:
 
 -   **Workflows:** Esta aba mostra as operações dentro de cada workflow, e os passos individuais que compõem cada
-    uma delas, ou seja, as atividades, as transformações e os scripts.
+-   uma delas, ou seja, as atividades, os *transformations* e os *scripts*.
 
 -   **Componentes:** Esta aba mostra todos os componentes que existem dentro do projeto. Como ao usar pastas, você
     também pode organizar componentes dentro de [grupos

@@ -163,7 +163,7 @@ para o banco de dados alvo:
 
 2.  Clique sobre a zona de inserção e selecione **New Transformation**
     (Novo *Transformation*). Uma novo *transformation* vai abrir para
-    que você a configure:
+    que você o configure:
 
     -   **Transformation Name** (Nome do *Transformation*): "XML para DB"
 

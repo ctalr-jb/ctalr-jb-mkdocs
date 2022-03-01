@@ -151,7 +151,7 @@ dados fonte para o alvo FTP:
 
 2.  Clique sobre a zona de inserção e selecione **New Transformation**
     (Novo *Transformation*). Um novo *transformation* abrirá para que
-    você a configure:
+    você o configure:
 
     -   **Transformation Name** (Nome do *Transformation*): "BD para XML"
 

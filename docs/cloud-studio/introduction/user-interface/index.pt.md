@@ -157,8 +157,7 @@ integrações visualmente. Dentro do design canvas, você pode criar
 múltiplos workflows, acessados por meio de abas ao longo do topo do
 design canvas. Você projeta os workflows dentro do quadro mediante a
 criação e ligação de operações usando as ferramentas oferecidas na
-paleta de componentes, no painel de projeto, e no próprio quadro de
-*design*.
+paleta de componentes, no painel de projeto, e no próprio design canvas.
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://docs-source.jitterbit.com/cs/design-canvas/operation_chain_script.png"

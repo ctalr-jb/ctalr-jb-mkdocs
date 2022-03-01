@@ -278,7 +278,7 @@ para o alvo FTP:
 
 2.  Clique na área de inserção e selecione **New Transformation** (Novo
     *Transformation*). Um novo *transformation* vai aparecer para que
-    você a configure:
+    você o configure:
 
     -   **Transformation Name** (Nome do *Transformation*): "DB para Texto"
 

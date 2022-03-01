@@ -583,7 +583,7 @@ respectivo em <a
 href="https://success.jitterbit.com/display/CS/Connectors">Conectores</a>, <a
 href="https://success.jitterbit.com/display/CS/Scripts">Scripts</a> ou
 <a
-href="https://success.jitterbit.com/display/CS/Transformations">Transformações</a>.</td>
+href="https://success.jitterbit.com/display/CS/Transformations">Transformations</a>.</td>
 </tr>
 <tr class="header header">
 <td class="confluenceTd"><div class="content-wrapper">

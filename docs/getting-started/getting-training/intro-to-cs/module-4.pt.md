@@ -167,9 +167,9 @@ SOAP:
 
 2.  Clique na zona de inserção e selecione **New Transformation** (Novo
     *Transformation*). Uma novo *transformation* vai aparecer para que
-    você a configure:
+    você o configure:
 
-    -   **Transformation Name** (Nome da *Transformation*): "CEP –
+    -   **Transformation Name** (Nome do *Transformation*): "CEP –
         Solicitação SOAP"
 
     -   **Source** (Fonte): Deixe o *schema* fonte indefinido (à esquerda).

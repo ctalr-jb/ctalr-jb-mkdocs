@@ -137,7 +137,7 @@ de componente:
     indicam onde outros componentes que podem ser usados como passos
     de operação podem ser colocados numa operação existente. Para
     mostrar uma área de inserção de componentes, paire o mouse à
-    esquerda ou à direita de um passo de operação em uma operação
+    esquerda ou à direita de uma etapa de operação em uma operação
     existente no design canvas. Quando você clica para selecionar uma
     área de inserção de componentes, ela é mostrada com uma borda roxa
     contornando a área de inserção e permanece selecionada até você
@@ -934,7 +934,7 @@ Operações</a>).</td>
 
 </div>
 
-#### <span id="DesignCanvas-share" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Activities, *Scripts*, *Transformations*, and Email Notifications
+#### <span id="DesignCanvas-share" class="confluence-anchor-link conf-macro output-inline" hasbody="false" macro-name="anchor"> </span>Activities, Scripts, Transformations, and Email Notifications
 
 Os menus de ações desses componentes compartilham as mesmas ações:
 
@@ -1057,7 +1057,7 @@ Componentes</a>).</td>
 As áreas de inserção de operações estão sempre visíveis no design
 canvas. Para mostrar a área de inserção de um componente que pode ser
 usado como etapa de operação, paire o mouse à esquerda ou à direita de
-um passo de operação em uma operação existente no design canvas.
+uma etapa de operação em uma operação existente no design canvas.
 
 Para abrir o menu de ações de qualquer tipo de área de inserção, faça
 uma das seguintes opções:

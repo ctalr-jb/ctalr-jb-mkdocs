@@ -175,7 +175,7 @@ fonte HTTP para o alvo FTP:
 
 2.  Clique na zona de inserção e selecione **New Transformation** (Novo
     *Transformation*). Uma nova *transformation* vai abrir para que
-    você a configure:
+    você o configure:
 
     -   **Transformation Name** (Nome do *Transformation*): "CEP – Resposta
         REST"
