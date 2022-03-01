@@ -58,7 +58,7 @@ As seguintes páginas estão incluídas neste tópico:
     ocorreram com as aplicações do Jitterbit Harmony. Os registros podem
     ser recuperados em formato JSON ou CSV comprimido.
 
--   ***[Single Sign-On](https://success.jitterbit.com/display/DOC/Single+Sign-On?showLanguage=pt_BR)***<br>
+-   **[*Single Sign-On*](https://success.jitterbit.com/display/DOC/Single+Sign-On?showLanguage=pt_BR)**<br>
     A Jitterbit oferece autenticação com o Harmony mediante os padrões de
     *single sign-on* (SSO) SAML 2.0 e OAuth 2.0. Esta página documenta
     como configurar o SSO para a sua organização.
