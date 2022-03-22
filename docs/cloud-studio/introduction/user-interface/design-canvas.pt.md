@@ -1,5 +1,5 @@
 [//]: # (Design Canvas)
-[//]: # (This is a translation of Version 21, published on November 9, 2021.)
+[//]: # (This is a translation of Version 27, published on March 10, 2022.)
 
 ## Introdução
 
@@ -492,7 +492,7 @@ data-image-src="https://docs-source.jitterbit.com/cs/menu-items/undo.png"
 height="33" /></span></p>
 <p><em>Desfazer</em></p>
 </div></td>
-<td class="confluenceTd"><strong>Undo</strong> reverte a sua última ação.</td>
+<td class="confluenceTd"><strong>Undo</strong> reverte a sua última ação (consulte <a href="https://success.jitterbit.com/display/CS/Cloud+Studio+Permissions%2C+Collaboration%2C+and+Saving?showLanguage=pt_BR#CloudStudioPermissions,Collaboration,andSaving-undo-and-redo">Desfazer e Refazer</a> em <a href="https://success.jitterbit.com/display/CS/Cloud+Studio+Permissions%2C+Collaboration%2C+and+Saving?showLanguage=pt_BR">Permissões, Colaboração e Salvamento no Cloud Studio</a>).</td>
 </tr>
 <tr class="header header">
 <td class="confluenceTd"><div class="content-wrapper">
@@ -505,7 +505,7 @@ height="33" /></span></p>
 <p><em>Refazer</em></p>
 </div></td>
 <td class="confluenceTd"><strong>Redo</strong> reverte a sua última ação
-<strong>Undo</strong>.</td>
+<strong>Undo</strong> (consulte <a href="https://success.jitterbit.com/display/CS/Cloud+Studio+Permissions%2C+Collaboration%2C+and+Saving?showLanguage=pt_BR#CloudStudioPermissions,Collaboration,andSaving-undo-and-redo">Desfazer e Refazer</a> em <a href="https://success.jitterbit.com/display/CS/Cloud+Studio+Permissions%2C+Collaboration%2C+and+Saving?showLanguage=pt_BR">Permissões, Colaboração e Salvamento no Cloud Studio</a>).</td>
 </tr>
 <tr class="odd odd">
 <td class="confluenceTd"><div class="content-wrapper">

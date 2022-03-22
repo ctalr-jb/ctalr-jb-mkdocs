@@ -1,11 +1,11 @@
 [//]: # (Permissões, Colaboração e Salvamento no Cloud Studio)
-[//]: # (This is a translation of Version 17, published on October 5, 2021.)
+[//]: # (This is a translation of Version 22, published on March 10, 2022.)
 
 ## Introdução
 
 Esta página contém informações básicas sobre o trabalho com o Cloud Studio, incluindo qual nível de acesso é
-concedido por diferentes permissões, como funcionam o processo de colaboração quando você está editando projetos ao
-mesmo tempo que outros usuários e também o processo de salvamento.
+concedido por diferentes permissões, além de como funciona o processo de colaboração quando você está editando projetos ao
+mesmo tempo que outros usuários, como ocorrem os salvamentos e as ações de refazer e desfazer.
 
 
 ## Permissões de Projeto
@@ -160,6 +160,8 @@ edição do usuário A será rejeitada até que a sincronização esteja complet
 que uma ação de edição do projeto conflitou com a de outro usuário. Atualize o componente para receber as mudanças
 mais recentes.
 
+Se um conflito for detectado enquanto se edita um componente que salva automaticamente (veja o subtítulo <a href="https://success.jitterbit.com/display/CS/Cloud+Studio+Permissions%2C+Collaboration%2C+and+Saving#heading-SalvamentoAutom%C3%A1tico">Salvamento Automático</a> na seção <a href="https://success.jitterbit.com/display/CS/Cloud+Studio+Permissions%2C+Collaboration%2C+and+Saving#heading-Salvando">Salvando</a>, mais abaixo), o salvamento automático é temporariamente suspenso até que você atualize manualmente aquele componente. Isto dá uma oportunidade para você copiar o seu trabalho, caso queira colá-lo depois de atualizar.
+
 ### Implantação
 
 Caso as edições de vários colaboradores do projeto ainda não tenham sido implantadas, todas as atualizações dos
@@ -187,7 +189,7 @@ a pessoa navegou para outra página.
 
 Além disso, algumas telas, como as telas de configuração de *[scripts](https://success.jitterbit.com/display/CS/Scripts?showLanguage=pt_BR)* e
 *[transformations](https://success.jitterbit.com/display/CS/Transformations?showLanguage=pt_BR)*, têm um componente de salvamento automático que
-só se aplica enquanto aquela tela está aberta.
+só se aplica enquanto aquela tela está aberta. O salvamento automático é temporariamente suspenso se um conflito for detectado com outro(a) usuário(a) (veja o subtítulo <a href="https://success.jitterbit.com/display/CS/Cloud+Studio+Permissions%2C+Collaboration%2C+and+Saving#heading-Edi%C3%A7%C3%B5esSimult%C3%A2neas">Edições Simultâneas</a> na subseção <a href="https://success.jitterbit.com/display/CS/Cloud+Studio+Permissions%2C+Collaboration%2C+and+Saving#heading-Colabora%C3%A7%C3%A3o">Colaboração</a>, mais acima).
 
 ### Salvamento Manual
 
@@ -237,3 +239,23 @@ A presença de um asterisco vermelho ao lado da hora indica que o *transformatio
 src="https://docs-source.jitterbit.com/cs/transformation/save-status_name_unsaved_annotated.png"
 class="confluence-embedded-image confluence-external-resource"
 data-image-src="https://docs-source.jitterbit.com/cs/transformation/save-status_name_unsaved_annotated.png" /></span>
+
+## Desfazer e Refazer
+
+Ao fazer o *design* de um projeto, você pode desfazer ou refazer as suas próprias ações enquanto estiver com o projeto aberto. Fechar o projeto ou fazer logout do Harmony Portal vai reiniciar as pilhas de desfazer/refazer.
+
+As ações de desfazer e refazer estão disponíveis somente para o design de projeto; ações que interagem com o Harmony, como implantar um projeto, não podem ser desfeitas nem refeitas.
+
+### Ações Básicas de Desfazer e Refazer
+
+As ações básicas de desfazer e refazer que são fornecidas pelo seu navegador e seu sistema operacional são suportadas dentro das telas de configuração de componentes para as conexões, atividades, notificações de e-mail, *schemas* e *scripts*.
+
+Os componentes que oferecem vários passos de configuração suportam as ações de desfazer e refazer somente dentro de cada etapa de configuração; quando se sai da tela atual, a pilha de desfazer/refazer é reiniciada. Para as ações básicas de desfazer e refazer, cada pilha de desfazer/refazer é separada, funcionando etapa por etapa.
+
+Para as ações básicas de desfazer e refazer, use os atalhos de teclado comuns suportados pelo seu navegador e sistema operacional.
+
+### Ações Avançadas de Desfazer e Refazer
+
+O design canvas e os *transformations* suportam ações avançadas de desfazer e refazer. Com elas, as pilhas de desfazer/refazer persistem enquanto você navega e faz mudanças em outros componentes. O design canvas tem uma única pilha de desfazer/refazer que persiste enquanto o projeto está aberto. Cada *transformation* tem a sua própria pilha de desfazer/refazer que persiste enquanto o projeto está aberto. Ou seja, você pode editar outros componentes e então voltar para o design canvas ou um *transformation* editados desde que o projeto esteve aberto para desfazer ou refazer mudanças feitas neles.
+
+As opções de desfazer e refazer estão acessíveis por meio da interface de usuário usando o <a href="https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR#DesignCanvas-deploy-migrate-actions-menu">menu de ações do design canvas</a> ou a <a href="https://success.jitterbit.com/display/CS/Common+Mode+Elements?showLanguage=pt_BR#CommonModeElements-transformation-toolbar">barra de ferramentas de transformation</a> e também são suportadas usando os atalhos de teclado `Control+Z` e `Control+Y` (Windows ou Linux) ou `Command+Z` e `Command+Y` (macOS).
