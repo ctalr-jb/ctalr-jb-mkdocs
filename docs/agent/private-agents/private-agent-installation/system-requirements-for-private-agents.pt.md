@@ -84,7 +84,7 @@ A versão do Windows do Jitterbit Harmony Private Agent requer um sistema operac
 
 <div class="confluence-information-macro-body">
 
-**NOTA**: A Jitterbit não testa nem suporta versões de* software *que não são mais suportadas pela Microsoft.
+**NOTA**: A Jitterbit não testa nem suporta versões de *software* que não são mais suportadas pela Microsoft.
 
 </div>
 
@@ -96,7 +96,7 @@ A versão do Windows do Jitterbit Harmony Private Agent requer um sistema operac
 
 <div class="confluence-information-macro-body">
 
-**NOTA**: A partir do lançamento do Jitterbit Harmony 10.34, os Private Agents de 32 bits não estarão mais disponíveis para* download*. Se você estiver usando um agente de 32 bits atualmente e quiser seguir as nossas recomendações para continuar no lançamento atual, por favor baixe um agente de 64 bits e faça um* upgrade*. As instruções sobre como fazer o* upgrade *para um agente de 64 bits estão disponíveis tanto para Private Agents do [Linux](https://success.jitterbit.com/display/DOC/Installing+a+Jitterbit+Harmony+Linux+Agent#InstallingaJitterbitHarmonyLinuxAgent-upgrade-agent) quanto do [Windows](https://success.jitterbit.com/display/DOC/Installing+a+Jitterbit+Harmony+Windows+Agent#InstallingaJitterbitHarmonyWindowsAgent-upgrade-agent). Esta mudança não afeta os Cloud Agents.
+**NOTA**: A partir do lançamento do Jitterbit Harmony 10.34, os Private Agents de 32 bits não estarão mais disponíveis para *download*. Se você estiver usando um agente de 32 bits atualmente e quiser seguir as nossas recomendações para continuar no lançamento atual, por favor baixe um agente de 64 bits e faça um *upgrade*. As instruções sobre como fazer o *upgrade* para um agente de 64 bits estão disponíveis tanto para Private Agents do [Linux](https://success.jitterbit.com/display/DOC/Installing+a+Jitterbit+Harmony+Linux+Agent#InstallingaJitterbitHarmonyLinuxAgent-upgrade-agent) quanto do [Windows](https://success.jitterbit.com/display/DOC/Installing+a+Jitterbit+Harmony+Windows+Agent#InstallingaJitterbitHarmonyWindowsAgent-upgrade-agent). Esta mudança não afeta os Cloud Agents.
 
 </div>
 

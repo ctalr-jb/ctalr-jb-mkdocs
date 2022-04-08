@@ -12,7 +12,7 @@ Esta página abrange os requisitos de sistema e as instruções para baixar, ins
 
 <div class="confluence-information-macro-body">
 
-**NOTA**: A partir do lançamento do Jitterbit Harmony 10.34, Private Agents de 32 bits não estarão mais disponíveis para* download*. Se você estiver usando atualmente um agente de 32 bits e quiser seguir a nossa recomendação de permanecer sincronizado com o lançamento atual, baixe um agente de 64 bits e faça o* upgrade*. As instruções para [fazer o *upgrade* para um agente de 64 bits estão disponíveis](https://success.jitterbit.com/display/DOC/Installing+a+Jitterbit+Harmony+Windows+Agent#InstallingaJitterbitHarmonyWindowsAgent-upgrade-agent)*. Esta mudança não afeta os Cloud Agents.
+**NOTA**: A partir do lançamento do Jitterbit Harmony 10.34, Private Agents de 32 bits não estarão mais disponíveis para *download*. Se você estiver usando atualmente um agente de 32 bits e quiser seguir a nossa recomendação de permanecer sincronizado com o lançamento atual, baixe um agente de 64 bits e faça o *upgrade*. As instruções para [fazer o *upgrade* para um agente de 64 bits estão disponíveis](https://success.jitterbit.com/display/DOC/Installing+a+Jitterbit+Harmony+Windows+Agent#InstallingaJitterbitHarmonyWindowsAgent-upgrade-agent). Esta mudança não afeta os Cloud Agents.
 
 </div>
 
@@ -197,7 +197,7 @@ Em cada agente dentro do Agent Group:
 
     <div class="confluence-information-macro-body">
 
-    **CUIDADO**: Se a sua organização e a sua conta usarem *single sign-on* (SSO), as suas credenciais SSO normais não vão funcionar. Você deve usar credenciais do Harmony para instalar Private Agent(s). Consulte as informações em [Instalando um Private Agent](https://success.jitterbit.com/display/DOC/Registering+and+Logging+In+Using+Jitterbit+Harmony+SSO#RegisteringandLoggingInUsingJitterbitHarmonySSO-local-agent-sso) no artigo [Como se Registrar e Fazer *Login* Usando o Jitterbit Harmony SSO](https://success.jitterbit.com/display/DOC/Registering+and+Logging+In+Using+Jitterbit+Harmony+SSO) *para saber mais.
+    **CUIDADO**: Se a sua organização e a sua conta usarem *single sign-on* (SSO), as suas credenciais SSO normais não vão funcionar. Você deve usar credenciais do Harmony para instalar Private Agent(s). Consulte as informações em [Instalando um Private Agent](https://success.jitterbit.com/display/DOC/Registering+and+Logging+In+Using+Jitterbit+Harmony+SSO#RegisteringandLoggingInUsingJitterbitHarmonySSO-local-agent-sso) no artigo [Como se Registrar e Fazer *Login* Usando o Jitterbit Harmony SSO](https://success.jitterbit.com/display/DOC/Registering+and+Logging+In+Using+Jitterbit+Harmony+SSO) para saber mais.
 
     </div>
 
@@ -303,7 +303,7 @@ Se — após reiniciar o agente — você notar que nem todos os serviços Jitte
 
 <div class="confluence-information-macro confluence-information-macro-warning conf-macro output-block" data-hasbody="true" data-macro-name="info">
 
-<span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
+<span class="aui-icon aui-icon-small aui-iconfont-error confluence-information-macro-icon"> </span>
 
 <div class="confluence-information-macro-body">
 
@@ -464,7 +464,7 @@ Os Private Agents requerem que o [Microsoft Visual C++ Redistributable for Visua
 
 <div class="confluence-information-macro-body">
 
-**NOTA**: Se você estiver instalando um Private Agent anterior à versão 10.3 e bibliotecas do Visual Studio tais como as versões anteriores do *Visual Studio C++ Redistributable for Visual Studio 2017* ou mais altas já estiverem instaladas, a instalação irá falhar. Uma solução possível é baixar e instalar os arquivos apropriados disponíveis em *[Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, 2019](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)* e daí instalar o Private Agent.
+**NOTA**: Se você estiver instalando um Private Agent anterior à versão 10.3 e bibliotecas do Visual Studio tais como as versões anteriores do Visual Studio C++ Redistributable for Visual Studio 2017 ou mais altas já estiverem instaladas, a instalação irá falhar. Uma solução possível é baixar e instalar os arquivos apropriados disponíveis em [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, 2019](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) e daí instalar o Private Agent.
 
 A partir da versão 10.3 do Jitterbit Harmony, isto foi consertado. A instalação numa máquina que já tem uma versão do Visual C++ Redistributable for Visual Studio acima da 2015 já ocorre com sucesso. Se você ainda estiver encontrando problemas, por favor [entre em contato com o suporte](https://success.jitterbit.com/display/DOC/Getting+Support).
 
