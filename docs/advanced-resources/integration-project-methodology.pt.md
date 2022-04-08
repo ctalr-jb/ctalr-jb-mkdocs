@@ -119,7 +119,7 @@ Esta é a melhor chance de esclarecer o perfil de risco do projeto, então ouça
 
         <div class="confluence-information-macro confluence-information-macro-note conf-macro output-block" data-hasbody="true" data-macro-name="info">
 
-        <span class="aui-icon aui-icon-small aui-iconfont-warninf confluence-information-macro-icon"> </span>
+        <span class="aui-icon aui-icon-small aui-iconfont-warning confluence-information-macro-icon"> </span>
 
         <div class="confluence-information-macro-body">
 
