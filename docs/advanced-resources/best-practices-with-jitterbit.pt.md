@@ -230,7 +230,7 @@ Sem importar qual convenção você escolha usar, nós recomendamos que você a 
 
 <div class="confluence-information-macro confluence-information-macro-warning conf-macro output-block" data-hasbody="true" data-macro-name="info">
 
-<span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
+<span class="aui-icon aui-icon-small aui-iconfont-error confluence-information-macro-icon"> </span>
 
 <div class="confluence-information-macro-body">
 

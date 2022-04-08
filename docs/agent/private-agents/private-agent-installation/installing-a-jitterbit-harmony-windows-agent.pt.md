@@ -101,7 +101,7 @@ A versão para Windows do Jitterbit Harmony Private Agent requer:
 
 <div class="confluence-information-macro confluence-information-macro-warning conf-macro output-block" data-hasbody="true" data-macro-name="info">
 
-<span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
+<span class="aui-icon aui-icon-small aui-iconfont-error confluence-information-macro-icon"> </span>
 
 <div class="confluence-information-macro-body">
 
@@ -251,7 +251,7 @@ Em cada agente dentro do Agent Group:
 
     <div class="confluence-information-macro confluence-information-macro-warning conf-macro output-block" data-hasbody="true" data-macro-name="info">
 
-    <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
+    <span class="aui-icon aui-icon-small aui-iconfont-error confluence-information-macro-icon"> </span>
 
     <div class="confluence-information-macro-body">
 
@@ -343,7 +343,7 @@ Um Private Agent demora pouco tempo para atualizar — algo como três minutos �
 
 <div class="confluence-information-macro confluence-information-macro-warning conf-macro output-block" data-hasbody="true" data-macro-name="info">
 
-<span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
+<span class="aui-icon aui-icon-small aui-iconfont-error confluence-information-macro-icon"> </span>
 
 <div class="confluence-information-macro-body">
 
