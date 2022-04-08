@@ -32,11 +32,11 @@ O foco deste documento não é mostrar como usar a Jitterbit tecnicamente (consu
 
 *Scoping* (ou seja, determinar o escopo do projeto) é um processo de duas partes que envolve reunir informações, definir as fronteiras do projeto e obter as informações básicas necessárias para implementar o projeto:
 
-1.  [Ordem de Grandeza](https://success.jitterbit.com/display/DOC/Integration+Project+Methodology#IntegrationProjectMethodology-rough-order-of-magnitude): Faça uma estimativa da Ordem de Grandeza (ROM, sigla em inglês) de alto nível do trabalho (esta etapa pode ser saltada para certos *endpoints*).
+1.  **[Ordem de Grandeza](https://success.jitterbit.com/display/DOC/Integration+Project+Methodology#IntegrationProjectMethodology-rough-order-of-magnitude)**: Faça uma estimativa da Ordem de Grandeza (ROM, sigla em inglês) de alto nível do trabalho (esta etapa pode ser saltada para certos *endpoints*).
 
-2.  [Escopo do Trabalho](https://success.jitterbit.com/display/DOC/Integration+Project+Methodology#IntegrationProjectMethodology-scope-of-work): Refine a estimativa detalhando um Escopo do Trabalho (SOW, sigla em inglês) para a entrega do projeto.
+2.  **[Escopo do Trabalho](https://success.jitterbit.com/display/DOC/Integration+Project+Methodology#IntegrationProjectMethodology-scope-of-work)**: Refine a estimativa detalhando um Escopo do Trabalho (SOW, sigla em inglês) para a entrega do projeto.
 
-Este processo é sensível ao conceito de GIGO - *Garbage In, Garbage Out* (em tradução livre, Lixo Entra, Lixo Sai - então não o negligencie. A planilha abaixo é usada como ponto de partida para o processo de determinação do escopo. A terminologia específica usada nesta planilha será definida mais abaixo nas subseções [Ordem de Grandeza](https://success.jitterbit.com/display/DOC/Integration+Project+Methodology#IntegrationProjectMethodology-rough-order-of-magnitude) e [Escopo do Trabalho](https://success.jitterbit.com/display/DOC/Integration+Project+Methodology#IntegrationProjectMethodology-scope-of-work).
+Este processo é sensível ao conceito de GIGO — *Garbage In, Garbage Out* (em tradução livre, Lixo Entra, Lixo Sai — então não o negligencie. A planilha abaixo é usada como ponto de partida para o processo de determinação do escopo. A terminologia específica usada nesta planilha será definida mais abaixo nas subseções [Ordem de Grandeza](https://success.jitterbit.com/display/DOC/Integration+Project+Methodology#IntegrationProjectMethodology-rough-order-of-magnitude) e [Escopo do Trabalho](https://success.jitterbit.com/display/DOC/Integration+Project+Methodology#IntegrationProjectMethodology-scope-of-work).
 
 <span class="confluence-embedded-file-wrapper"><img
 src="https://success.jitterbit.com/download/attachments/87528965/image%2001.png?version=1&modificationDate=1546542931135&api=v2"
@@ -117,9 +117,9 @@ Esta é a melhor chance de esclarecer o perfil de risco do projeto, então ouça
 
     -   **Disponibilidade de SMEs**: Há restrições à disponibilidade dos SMEs?
 
-        <div class="confluence-information-macro confluence-information-macro-warning conf-macro output-block" data-hasbody="true" data-macro-name="info">
+        <div class="confluence-information-macro confluence-information-macro-note conf-macro output-block" data-hasbody="true" data-macro-name="info">
 
-        <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
+        <span class="aui-icon aui-icon-small aui-iconfont-warninf confluence-information-macro-icon"> </span>
 
         <div class="confluence-information-macro-body">
 
@@ -227,7 +227,7 @@ O propósito da reunião de *kickoff* é reunir os participantes principais do p
 
         -   Provê profundo conhecimento sobre as interfaces expostas.
 
-        -   Entende os requisitos de integração, e se houver problemas em potencial - tais como precisar de uma mudança em um *endpoint* ou se um requisito for inviável - alerta o resto da equipe de forma proativa.
+        -   Entende os requisitos de integração, e se houver problemas em potencial — tais como precisar de uma mudança em um *endpoint* ou se um requisito for inviável — alerta o resto da equipe de forma proativa.
 
         -   Está altamente disponível para ajudar com o teste de unidades. Isto pode incluir o fornecimento de dados de teste, dar *feedback* rápido sobre os resultados dos testes de integração e interpretar as respostas de erros.
 
