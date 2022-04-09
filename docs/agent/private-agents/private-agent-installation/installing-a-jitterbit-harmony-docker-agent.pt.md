@@ -1,4 +1,4 @@
-# Instalando um Jitterbit Harmony Docker Agent
+[//]: # (Instalando um Jitterbit Harmony Docker Agent)
 
 [//]: # (This is a translation of Version 5, published on January 5, 2022.)
 

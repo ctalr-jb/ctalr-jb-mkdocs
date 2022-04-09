@@ -1,4 +1,4 @@
-# Instalando um Jitterbit Harmony Linux Agent
+[//]: # (Instalando um Jitterbit Harmony Linux Agent)
 
 [//]: # (This is a translation of Version 104, published on January 26, 2022.)
 

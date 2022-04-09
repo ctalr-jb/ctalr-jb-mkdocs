@@ -1,4 +1,4 @@
-# Metodologia de Projetos de Integração
+[//]: # (Metodologia de Projetos de Integração)
 
 [//]: # (This is a translation of Version 6, published on June 29, 2021.)
 

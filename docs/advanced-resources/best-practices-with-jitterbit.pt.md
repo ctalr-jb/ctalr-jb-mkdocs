@@ -1,4 +1,4 @@
-# Melhores Práticas com a Jitterbit
+[//]: # (Melhores Práticas com a Jitterbit)
 
 [//]: # (This is a translation of Version 46, published on February 16, 2022.)
 

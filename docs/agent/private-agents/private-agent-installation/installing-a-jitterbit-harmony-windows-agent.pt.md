@@ -1,4 +1,4 @@
-# Instalando um Jitterbit Harmony Windows Agent
+[//]: # (Instalando um Jitterbit Harmony Windows Agent)
 
 [//]: # (This is a translation of Version 81, published on February 1, 2022.)
 
