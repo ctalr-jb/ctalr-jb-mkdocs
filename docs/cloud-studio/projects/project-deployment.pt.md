@@ -78,7 +78,7 @@ Por padrão, nenhum componente de projeto é selecionado. Você deve selecionar 
 
 Quando você seleciona um componente de projeto, todos os outros componentes de projeto dos quais ele depende também são selecionados. Componentes que são dependências de outros componentes selecionados não podem ser desmarcados, já que a não implantação destes itens faria com que o componente que tem a dependência se tornasse inválido.
 
-Para esconder ou expandir workflows, operações, e passos de operação, use os triângulos de revelação <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/common/icons/down-arrow_4.png" class="confluence-embedded-image confluence-external-resource" /></span> <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/common/icons/right-arrow_4.png" class="confluence-embedded-image confluence-external-resource" /></span> exibidos à esquerda do nome do componente.
+Para esconder ou expandir workflows, operações, e passos de operação, use os triângulos de revelação <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/down-arrow_4.png" class="confluence-embedded-image confluence-external-resource" /></span> <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/right-arrow_4.png" class="confluence-embedded-image confluence-external-resource" /></span> exibidos à esquerda do nome do componente.
 
 Os nomes de componentes inválidos aparecem na cor vermelha e em itálico. Além disso, os nomes de componentes que não são usados diretamente em um workflow são precedidos por um til \~, como demonstrado na agenda abaixo:
 
@@ -109,7 +109,7 @@ Esta tabela inclui quaisquer [variáveis de projeto](https://success.jitterbit.c
 
     -   **All Deployed Values** (Todos os Valores Implantados): Quando tanto a caixa de seleção quanto esta opção estão selecionadas, todas as seleções na coluna **Version** são alteradas para **Deployed** (Implantada).
 
--   **Popout** (Aumentar): Clique no ícone de aumentar <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/common/icons/popout.png" class="confluence-embedded-image confluence-external-resource" /></span> para mostrar apenas a tabela de variáveis, escondendo todas as agendas de operação e agendas. Depois de abrir esta visualização, clique no ícone de retorno <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/common/icons/return.png" class="confluence-embedded-image confluence-external-resource" /></span> para voltar à tela cheia.
+-   **Popout** (Aumentar): Clique no ícone de aumentar <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/popout.png" class="confluence-embedded-image confluence-external-resource" /></span> para mostrar apenas a tabela de variáveis, escondendo todas as agendas de operação e agendas. Depois de abrir esta visualização, clique no ícone de retorno <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/return.png" class="confluence-embedded-image confluence-external-resource" /></span> para voltar à tela cheia.
 
 -   **Name** (Nome): Os nomes de quaisquer variáveis de projeto que tenham um valor ou descrição diferentes daquelas já implantadas na nuvem do Harmony são listados.
 
@@ -167,7 +167,7 @@ Esta tabela inclui quaisquer [operações](https://success.jitterbit.com/display
 
     -   **All Deployed Values** (Todos os Valores Implantados): Quando tanto a caixa de seleção quanto esta opção estão selecionadas, todas as seleções na coluna **Version** são trocadas para **Deployed** (Implantada).
 
--   **Popout** (Aumentar): Clique no ícone de aumentar <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/common/icons/popout.png" class="confluence-embedded-image confluence-external-resource" /></span> para mostrar apenas a tabela de agendas de operação, escondendo as variáveis e as agendas. Depois de abrir esta visualização, clique no ícone de retorno <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/common/icons/return.png" class="confluence-embedded-image confluence-external-resource" /></span> para voltar para a tela cheia.
+-   **Popout** (Aumentar): Clique no ícone de aumentar <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/popout.png" class="confluence-embedded-image confluence-external-resource" /></span> para mostrar apenas a tabela de agendas de operação, escondendo as variáveis e as agendas. Depois de abrir esta visualização, clique no ícone de retorno <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/return.png" class="confluence-embedded-image confluence-external-resource" /></span> para voltar para a tela cheia.
 
 -   **Name** (Nome): Os nomes de quaisquer operações que tenham uma diferença nas agendas aplicadas quando comparadas com aquelas já implantadas na nuvem do Harmony são listadas.
 
@@ -175,13 +175,13 @@ Esta tabela inclui quaisquer [operações](https://success.jitterbit.com/display
 
     Isto *não leva em consideração* se a agenda foi habilitada ou não no Management Console, já que essa configuração não pode ser alterada no Cloud Studio.
 
-    <div class="confluence-information-macro confluence-information-macro-information conf-macro output-block" data-hasbody="true" data-macro-name="info">
+    <div class="confluence-information-macro confluence-information-macro-tip conf-macro output-block" hasbody="true" macro-name="tip">
 
-    <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
+    <span class="aui-icon aui-icon-small aui-iconfont-approve confluence-information-macro-icon"> </span>
 
     <div class="confluence-information-macro-body">
 
-    **NOTA**: Uma agenda aplicada numa operação pode já ter sido implantada na nuvem do Harmony se você tiver implantado o projeto antes ou se você aplicou ou removeu uma agenda de uma operação na página [Projetos](https://success.jitterbit.com/display/DOC/Projects?showLanguage=pt_BR) do Management Console.
+    **DICA**: Uma agenda aplicada numa operação pode já ter sido implantada na nuvem do Harmony se você tiver implantado o projeto antes ou se você aplicou ou removeu uma agenda de uma operação na página [Projetos](https://success.jitterbit.com/display/DOC/Projects?showLanguage=pt_BR) do Management Console.
 
     </div>
 
@@ -233,7 +233,7 @@ Esta tabela inclui quaisquer [agendas de operação](https://success.jitterbit.c
 
     -   **All Deployed Values** (Todos os Valores Implantados): Quando tanto a caixa quanto esta opção estão selecionadas, todas as seleções na coluna **Version** são trocadas para **Deployed** (Implantada).
 
--   **Popout** (Aumentar): Clique no ícone de aumentar <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/common/icons/popout.png" class="confluence-embedded-image confluence-external-resource" /></span> para mostrar apenas a tabela de agendas, escondendo quaisquer variáveis e agendas de operação. Depois de abrir esta visualização, clique no ícone de retorno <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/common/icons/return.png" class="confluence-embedded-image confluence-external-resource" /></span> para voltar para a tela cheia.
+-   **Popout** (Aumentar): Clique no ícone de aumentar <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/popout.png" class="confluence-embedded-image confluence-external-resource" /></span> para mostrar apenas a tabela de agendas, escondendo quaisquer variáveis e agendas de operação. Depois de abrir esta visualização, clique no ícone de retorno <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/return.png" class="confluence-embedded-image confluence-external-resource" /></span> para voltar para a tela cheia.
 
 -   **Name** (Nome): Os nomes de quaisquer agendas que tenham uma configuração diferente daquelas já implantadas na nuvem do Harmony são listadas. As agendas nesta categoria são listadas independentemente de estarem ou não aplicadas a uma operação.
 
