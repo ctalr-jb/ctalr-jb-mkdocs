@@ -220,7 +220,7 @@ A maioria dos componentes que não podem ser usados como etapas de uma operaçã
 
 Referências a componentes são contadas e exibidas dentro da [aba **Components** do painel de projeto](https://success.jitterbit.com/display/CS/Project+Pane+Components+Tab?showLanguage=pt_BR).
 
-Caso um componente não seja referenciado por nenhum outro componente no projeto atual, ele é conhecido como um componente órfão. Componentes órfãos são exibidos com um ícone de não-referenciado (corrente quebrada) <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/common/icons/unreferenced.png" class="confluence-embedded-image confluence-external-resource" /></span> ao lado do nome do componente.
+Caso um componente não seja referenciado por nenhum outro componente no projeto atual, ele é conhecido como um componente órfão. Componentes órfãos são exibidos com um ícone de não-referenciado (corrente quebrada) <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/unreferenced.png" class="confluence-embedded-image confluence-external-resource" /></span> ao lado do nome do componente.
 
 Por exemplo, estes dois novos *scripts* não são usados dentro de nenhuma operação ou referenciados em outro lugar dentro do projeto:
 

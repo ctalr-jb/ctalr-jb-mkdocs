@@ -52,7 +52,7 @@ No grupo existente na categoria **Custom Groups**, faça uma das seguintes açõ
 
 -   Clique sobre o componente com o botão direito do mouse.
 
--   Paire o mouse sobre o componente, daí clique no ícone do menu de ações <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/common/icons/actions-menu_2.png" class="confluence-embedded-image confluence-external-resource" /></span>.
+-   Paire o mouse sobre o componente, daí clique no ícone do menu de ações <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/actions-menu_2.png" class="confluence-embedded-image confluence-external-resource" /></span>.
 
 No menu, selecione **Remove from Group** (Remover do Grupo):
 
@@ -71,7 +71,7 @@ Na categoria **Custom Groups** (Grupos Customizados), faça uma das seguintes co
 
 -   Clique no grupo com o botão direito do mouse.
 
--   Paire o mouse sobre o grupo, daí clique no ícone do menu de ações <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/common/icons/actions-menu_2.png" class="confluence-embedded-image confluence-external-resource" /></span>.
+-   Paire o mouse sobre o grupo, daí clique no ícone do menu de ações <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/actions-menu_2.png" class="confluence-embedded-image confluence-external-resource" /></span>.
 
 No menu, selecione **Rename Group** (Renomear Grupo) ou **Ungroup** (Desagrupar):
 

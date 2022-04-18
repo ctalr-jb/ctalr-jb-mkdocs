@@ -75,13 +75,13 @@ Ao selecionar **Migrate**, uma tela de configuração de migração abre onde vo
 
     Quando **Select Variable Values to Migrate** estiver selecionado, nenhuma variável de projeto é selecionada para migração por padrão. (Todas as variáveis de projeto aparecem listadas sob **Exclude** \[Excluir\].)
 
--   **Search** (Buscar): Insira qualquer parte de um nome de variável de projeto para filtrar a lista de variáveis de projeto no ambiente atual.
+    -   **Search** (Buscar): Insira qualquer parte de um nome de variável de projeto para filtrar a lista de variáveis de projeto no ambiente atual.
 
--   **Current Environment** (Ambiente Atual): Selecione variáveis de projeto cujos valores você queira migrar para o ambiente alvo. À medida que você seleciona variáveis de projeto, elas vão sendo listadas sob **Include** (Incluir). Os links **Select All** (Selecionar Todos) e **Deselect All** (Desselecionar Todos) podem ser usados para adicionar ou desmarcar todas as seleções de variáveis de projeto de uma vez.
+    -   **Current Environment** (Ambiente Atual): Selecione variáveis de projeto cujos valores você queira migrar para o ambiente alvo. À medida que você seleciona variáveis de projeto, elas vão sendo listadas sob **Include** (Incluir). Os links **Select All** (Selecionar Todos) e **Deselect All** (Desselecionar Todos) podem ser usados para adicionar ou desmarcar todas as seleções de variáveis de projeto de uma vez.
 
--   **Exclude** (Excluir): Variáveis de projeto cujos valores serão excluídos da migração. Caso o projeto já exista no ambiente alvo e já contenha a variável de projeto, o valor existente dela no ambiente alvo será retido. Caso a variável de projeto não exista ainda, então o componente da variável de projeto é migrado mas não recebe nenhum valor.
+    -   **Exclude** (Excluir): Variáveis de projeto cujos valores serão excluídos da migração. Caso o projeto já exista no ambiente alvo e já contenha a variável de projeto, o valor existente dela no ambiente alvo será retido. Caso a variável de projeto não exista ainda, então o componente da variável de projeto é migrado mas não recebe nenhum valor.
 
--   **Include** (Incluir): Variáveis de projeto cujos valores serão incluídos na migração. Caso o projeto já exista no ambiente alvo e já contenha a variável de projeto, o valor existente dela no ambiente alvo será sobrescrito.
+    -   **Include** (Incluir): Variáveis de projeto cujos valores serão incluídos na migração. Caso o projeto já exista no ambiente alvo e já contenha a variável de projeto, o valor existente dela no ambiente alvo será sobrescrito.
 
 -   **Migrate** (Migrar): Clique para migrar o projeto para o ambiente selecionado. Caso o projeto já tenha sido migrado para o ambiente alvo, uma mensagem pede que você confirme que você quer migrar, já que isto vai sobrescrever o projeto existente no ambiente alvo usando as seleções de valores de variáveis de projeto descritas acima:
 

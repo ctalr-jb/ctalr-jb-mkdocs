@@ -16,7 +16,7 @@ Em um novo projeto, o primeiro workflow já é criado e aberto no [design canvas
 
 <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/cs/design-canvas/workflow_new.png" class="confluence-embedded-image confluence-external-resource" data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/workflow_new.png" /></span>
 
-Para criar workflows adicionais, clique no ícone de novo workflow <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/common/icons/add_4.png" class="confluence-embedded-image confluence-external-resource" /></span> na parte superior do design canvas para criar novas abas de workflows. Quando você cria um novo workflow, o nome padrão dele é *New Workflow*. Futuros novos workflows com nomes padrão recebem também um número cada vez maior entre parênteses:
+Para criar workflows adicionais, clique no ícone de novo workflow <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/add_4.png" class="confluence-embedded-image confluence-external-resource" /></span> na parte superior do design canvas para criar novas abas de workflows. Quando você cria um novo workflow, o nome padrão dele é *New Workflow*. Futuros novos workflows com nomes padrão recebem também um número cada vez maior entre parênteses:
 
 <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/cs/design-canvas/workflow_new_tab.png" class="confluence-embedded-image confluence-external-resource" data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/workflow_new_tab.png" /></span>
 

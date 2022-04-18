@@ -81,7 +81,7 @@ Eventos de migração devem receber uma *tag* na [tela de migração de projeto]
 
 Requisitos de implantação para exigir uma *tag* e/ou um comentário na hora da implantação podem ser configurados para cada projeto durante a [criação e configuração do projeto](https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration?showLanguage=pt_BR). Quando os requisitos de implantação são configurados, uma caixa de diálogo é mostrada para inserir a *tag* e/ou o comentário exigido quando o [projeto é implantado](https://success.jitterbit.com/display/CS/Project+Deployment?showLanguage=pt_BR).
 
-Para adicionar uma *tag* ou um comentário a partir do painel do histórico do projeto, paire o mouse sobre qualquer evento de migração, implantação ou restauração e clique no ícone de detalhes de implantação <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/common/icons/deploy-details.png" class="confluence-embedded-image confluence-external-resource" /></span> para mostrar uma caixa de diálogo para inserir as informações da *tag* e do comentário:
+Para adicionar uma *tag* ou um comentário a partir do painel do histórico do projeto, paire o mouse sobre qualquer evento de migração, implantação ou restauração e clique no ícone de detalhes de implantação <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/deploy-details.png" class="confluence-embedded-image confluence-external-resource" /></span> para mostrar uma caixa de diálogo para inserir as informações da *tag* e do comentário:
 
 <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/cs/design-canvas/project-history_tag_dialog.png" class="confluence-embedded-image confluence-external-resource" data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/project-history_tag_dialog.png" /></span>
 
@@ -97,7 +97,7 @@ Eventos com *tags* são exibidos no painel do histórico do projeto com a *tag* 
 
 <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/cs/design-canvas/project-history_tags.png" class="confluence-embedded-image confluence-external-resource" data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/project-history_tags.png" /></span>
 
-Você pode clicar na *tag* ou no ícone de detalhes de implantação <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/common/icons/deploy-details.png" class="confluence-embedded-image confluence-external-resource" /></span> para reabrir a caixa de diálogo com os detalhes de implantação e fazer as edições que achar necessárias nas *tags* ou nos comentários que você adicionou. Se outro usuário tiver adicionado uma *tag* ou um comentário, os detalhes são mostrados mas não podem ser editados.
+Você pode clicar na *tag* ou no ícone de detalhes de implantação <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/deploy-details.png" class="confluence-embedded-image confluence-external-resource" /></span> para reabrir a caixa de diálogo com os detalhes de implantação e fazer as edições que achar necessárias nas *tags* ou nos comentários que você adicionou. Se outro usuário tiver adicionado uma *tag* ou um comentário, os detalhes são mostrados mas não podem ser editados.
 
 Pairar o mouse sobre a *tag* mostra uma pequena dica com o *MD5 digest* do projeto armazenado e o **Comment** (Comentário), caso exista:
 
@@ -108,7 +108,7 @@ Pairar o mouse sobre a *tag* mostra uma pequena dica com o *MD5 digest* do proje
 
 *Back-ups* do projeto são criados automaticamente quando você migra, implanta ou restaura um projeto. Estes *back-ups* do projeto ficam disponíveis para restauração, quando acessados pelo histórico do projeto.
 
-Depois de migrar, implantar ou restaurar um projeto, paire o mouse sobre um evento de migração, implantação ou restauração e clique no ícone de restauração <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/common/icons/restore.png" class="confluence-embedded-image confluence-external-resource" /></span>:
+Depois de migrar, implantar ou restaurar um projeto, paire o mouse sobre um evento de migração, implantação ou restauração e clique no ícone de restauração <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/restore.png" class="confluence-embedded-image confluence-external-resource" /></span>:
 
 <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/cs/design-canvas/project-history_restore-this-version.png" class="confluence-embedded-image confluence-external-resource" data-image-src="https://docs-source.jitterbit.com/cs/design-canvas/project-history_restore-this-version.png" /></span>
 
