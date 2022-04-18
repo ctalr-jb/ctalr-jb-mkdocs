@@ -20,11 +20,9 @@ Quando esta opção estiver selecionada, os nomes dos componentes inválidos apa
 
 No [painel de projeto](https://success.jitterbit.com/display/CS/Project+Pane?showLanguage=pt_BR), os nomes dos componentes inválidos também aparecem em itálico e na cor vermelha. Além disso, os componentes inválidos que têm um erro implícito são mostrados com um ícone de erro <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/error.png" class="confluence-embedded-image confluence-external-resource" /></span>. O ícone de erro <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/error.png" class="confluence-embedded-image confluence-external-resource" /></span> não aparece se o motivo pelo qual o componente está inválido for porque ele contém outros componentes com erros implícitos. For exemplo, um workflow pode estar inválido porque contém operações ou outros componentes que estão inválidos, ou uma operação pode estar inválida porque contém outros componentes que são inválidos, como mostrado abaixo:
 
-<span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/cs/project-pane/workflows/invalid_components.png" class="confluence-embedded-image confluence-external-resource" data-image-src="https://docs-source.jitterbit.com/cs/project-pane/workflows/invalid_components.png" /></span>
+<div class="sectionColumnWrapper conf-macro output-block" data-hasbody="true" data-macro-name="section"><div class="sectionMacro"><div class="sectionMacroRow"><div class="columnMacro conf-macro output-block" style="width:50%;min-width:50%;max-width:50%;" data-hasbody="true" data-macro-name="column"><p><span class="confluence-embedded-file-wrapper"><img class="confluence-embedded-image confluence-external-resource" src="https://docs-source.jitterbit.com/cs/project-pane/workflows/invalid_components.png" data-image-src="https://docs-source.jitterbit.com/cs/project-pane/workflows/invalid_components.png"></span></p></div><div class="columnMacro conf-macro output-block" style="width:50%;min-width:50%;max-width:50%;" data-hasbody="true" data-macro-name="column"><p><span class="confluence-embedded-file-wrapper"><img class="confluence-embedded-image confluence-external-resource" src="https://docs-source.jitterbit.com/cs/project-pane/components/invalid.png" data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/invalid.png"></span></p></div></div></div></div>
 
-<span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/cs/project-pane/components/invalid.png" class="confluence-embedded-image confluence-external-resource" data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/invalid.png" /></span>
-
-Para exibir os erros de validação dos componentes identificados como implicitamente inválidos, clique no ícone de erro <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/error.png" class="confluence-embedded-image confluence-external-resource" /></span> ao lado do nome do componente. Uma caixa de diálogo exibirá os erros de validação do componente. Para informações detalhadas sobre o que faz com que componentes se tornem inválidos e como resolver erros de validação, veja Regras [de Validação](https://success.jitterbit.com/display/CS/Component+Validity?showLanguage=pt_BR#ComponentValidity-validity-rules), abaixo.
+Para exibir os erros de validação dos componentes identificados como implicitamente inválidos, clique no ícone de erro <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/error.png" class="confluence-embedded-image confluence-external-resource" /></span> ao lado do nome do componente. Uma caixa de diálogo exibirá os erros de validação do componente. Para informações detalhadas sobre o que faz com que componentes se tornem inválidos e como resolver erros de validação, veja [Regras de Validação](https://success.jitterbit.com/display/CS/Component+Validity?showLanguage=pt_BR#ComponentValidity-validity-rules), abaixo.
 
 
 ## Regras de Validação
@@ -43,7 +41,7 @@ Os nomes de alguns tipos de componentes de projeto devem ser únicos para cada t
 
 Dependendo de qual componente está inválido, a variação apropriada da seguinte mensagem de erro é retornada se esta regra não for seguida:
 
-\[Operation / Connection / Activity / Transformation / Script / Email / Variable\] names must be unique.
+> \[Operation / Connection / Activity / Transformation / Script / Email / Variable\] names must be unique.
 
 Ao criar um novo componente de projeto do zero, a validação de campos incluída na tela de configuração de componente não deixará que você entre o mesmo nome para vários componentes de projeto. No entanto, você pode receber esta mensagem de erro se, por exemplo, você tiver [importado um projeto](https://success.jitterbit.com/display/CS/Project+Exports+and+Imports?showLanguage=pt_BR) que contém componentes com nomes duplicados.
 
@@ -57,7 +55,7 @@ As regras de validação dependem do tipo de componente.
 
 Para que uma atividade seja válida, ela deve ser configurada corretamente. Se uma atividade não tiver sido configurada ou se estiver com a configuração errada, a seguinte mensagem de erro de validação é retornada:
 
-Activity is not configured properly.
+> Activity is not configured properly.
 
 Esta mensagem aparece em alguns cenários comuns:
 
@@ -67,7 +65,7 @@ Esta mensagem aparece em alguns cenários comuns:
 
 Se uma atividade estiver inválida por causa de alguma outra razão que não pôde ser determinada imediatamente, esta mensagem de erro é retornada:
 
-Activity is invalid.
+> Activity is invalid.
 
 Para resolver isso, consulte a documentação de cada atividade disponível em [Conectores](https://success.jitterbit.com/display/CS/Connectors?showLanguage=pt_BR).
 
@@ -75,13 +73,13 @@ Para resolver isso, consulte a documentação de cada atividade disponível em [
 
 Para que um *script* seja válido, ele deve ser configurado corretamente. Caso um script não tenha sido configurado ou esteja configurado incorretamente, a seguinte mensagem de erro é retornada:
 
-Script is not configured properly.
+> Script is not configured properly.
 
 É mais comum esta mensagem aparecer depois que você adiciona um novo *script* a uma operação e ele está vazio. Para resolver isso, abra a tela de configuração do *script* e construa um *script* no editor.
 
 Além disso, para que um [Jitterbit Script](https://success.jitterbit.com/display/CS/Jitterbit+Script?showLanguage=pt_BR) seja válido, ele não deve ter nenhum erro de validação dentro do *script* em si. (A validação não está disponível para scripts escritos em [JavaScript](https://success.jitterbit.com/display/CS/JavaScript?showLanguage=pt_BR).) Se um [Jitterbit Script](https://success.jitterbit.com/display/CS/Jitterbit+Script?showLanguage=pt_BR) contiver erros de validação, esta mensagem de erro de validação é retornada:
 
-Script is invalid.
+> Script is invalid.
 
 Para resolver isso, abra a tela de configuração de *script*. O texto mostrado na parte de baixo do editor de *script* indicará as validações específicas de cada linha do *script*. Nós também recomendamos [testar o *script*](https://success.jitterbit.com/display/CS/Script+Testing?showLanguage=pt_BR) para garantir que ele seja válido. Documentação adicional está disponível em [*Scripts*](https://success.jitterbit.com/display/CS/Scripts?showLanguage=pt_BR).
 
@@ -89,7 +87,7 @@ Para resolver isso, abra a tela de configuração de *script*. O texto mostrado 
 
 Para que um *transformation* seja válido, ele deve ser configurado corretamente. Caso um *transformation* não tenha sido configurado ou esteja configurado incorretamente, a seguinte mensagem de erro de validação é retornada:
 
-Transformation is not configured properly.
+> Transformation is not configured properly.
 
 É mais comum esta mensagem aparecer depois que você adiciona um novo *transformation* a uma operação e ele ainda não foi configurado. Para resolver isso, abra a tela de configuração de *transformation*, daí configure-o conforme necessário.
 
@@ -105,19 +103,19 @@ Além disso, para que um *transformation* seja válido, não deve haver nenhum e
 
 Além disso, certos campos alvo podem exigir mapeamento, ou podem não permitir mapeamento. Mapeamentos inválidos são visualmente indicados dentro da tela de configuração de transformação (veja [Validação de Mapeamento de *Transformations*](https://success.jitterbit.com/display/CS/Transformation+Mapping+Validity?showLanguage=pt_BR)).
 
-Dependendo do erro, a variação apropriada das mensagens de erro possíveis abaixo é retornada caso esta regra não seja seguida:
-
-Mapping refers to a non-existent \[source / target / variable\] field $\[path\].
-
-Potential data type conflict in mapping.
-
-Target field $\[node.name\] \[must be mapped / cannot be mapped\].
-
-Mappings of a target loop node depend on more than one source loop node.
-
-\[Source / Target\] schema must be provided.
-
-Para resolver isso, tente as seguintes dicas de resolução de problemas:
+> Dependendo do erro, a variação apropriada das mensagens de erro possíveis abaixo é retornada caso esta regra não seja seguida:
+>
+> Mapping refers to a non-existent \[source / target / variable\] field $\[path\].
+>
+> Potential data type conflict in mapping.
+>
+> Target field $\[node.name\] \[must be mapped / cannot be mapped\].
+>
+> Mappings of a target loop node depend on more than one source loop node.
+>
+> \[Source / Target\] schema must be provided.
+>
+> Para resolver isso, tente as seguintes dicas de resolução de problemas:
 
 -   Caso você tenha referências a campos não-existentes, conflitos de tipo de dados, ou outros mapeamentos inválidos, você pode encontrar o mapeamento inválido e desfazê-lo ou verificar o [*schema*](https://success.jitterbit.com/display/CS/Schemas?showLanguage=pt_BR) para garantir que todos os campos estão incluídos e têm tipos de dados compatíveis. Caso você tenha referências a variáveis não-existentes, certifique que a [variável](https://success.jitterbit.com/display/CS/Variables?showLanguage=pt_BR) existe.
 
@@ -127,6 +125,6 @@ Para resolver isso, tente as seguintes dicas de resolução de problemas:
 
 Além disso, se um *transformation* for inválido por algum outro motivo que não pôde ser determinado imediatamente, a seguinte mensagem de erro é retornada:
 
-Transformation is invalid.
+> Transformation is invalid.
 
 Para informações mais detalhadas, veja [Validade do Mapeamento de *Transformations*](https://success.jitterbit.com/display/CS/Transformation+Mapping+Validity?showLanguage=pt_BR), assim como páginas adicionais em [*Transformations*](https://success.jitterbit.com/display/CS/Transformations?showLanguage=pt_BR).
