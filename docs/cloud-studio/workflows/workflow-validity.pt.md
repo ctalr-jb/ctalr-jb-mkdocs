@@ -33,14 +33,14 @@ Certas regras de validação devem ser seguidas para que os workflows possam ser
 
 Para que um workflow seja válido, ele deve conter pelo menos uma operação, e todas as operações que ele contém devem ser válidas. Se essas regras não forem atendidas, a seguinte mensagem de erro de validação é retornada:
 
-Workflow is empty.
-
-Workflow contains invalid operations.
+> Workflow is empty.
+>
+> Workflow contains invalid operations.
 
 As operações podem estar inválidas por vários motivos. Para resolver este erro, resolva os erros de validação de todas as operações contidas dentro do workflow, conforme explicado no artigo [Validade de Operações](https://success.jitterbit.com/display/CS/Operation+Validity?showLanguage=pt_BR).
 
 Além disso, se um workflow estiver inválido por algum outro motivo que não pode ser facilmente determinado, a seguinte mensagem de erro é retornada:
 
-Workflow is invalid.
+> Workflow is invalid.
 
 Para resolver isso, tente consultar a documentação em [Criação e *Design* de Workflows](https://success.jitterbit.com/display/CS/Workflow+Creation+and+Design?showLanguage=pt_BR).

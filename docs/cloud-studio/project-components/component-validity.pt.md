@@ -114,8 +114,8 @@ Além disso, certos campos alvo podem exigir mapeamento, ou podem não permitir 
 > Mappings of a target loop node depend on more than one source loop node.
 >
 > \[Source / Target\] schema must be provided.
->
-> Para resolver isso, tente as seguintes dicas de resolução de problemas:
+
+Para resolver isso, tente as seguintes dicas de resolução de problemas:
 
 -   Caso você tenha referências a campos não-existentes, conflitos de tipo de dados, ou outros mapeamentos inválidos, você pode encontrar o mapeamento inválido e desfazê-lo ou verificar o [*schema*](https://success.jitterbit.com/display/CS/Schemas?showLanguage=pt_BR) para garantir que todos os campos estão incluídos e têm tipos de dados compatíveis. Caso você tenha referências a variáveis não-existentes, certifique que a [variável](https://success.jitterbit.com/display/CS/Variables?showLanguage=pt_BR) existe.
 
