@@ -24,9 +24,9 @@ Ao selecionar **Export** (Exportar) ou **Export Project** (Exportar Projeto), a 
 
     Os campos de configuração específicos que são tratados como campos de credenciais variam de acordo com o componente do projeto. Muitas vezes, estão incluidos nesse grupo campos como senhas ou *tokens* de segurança. Quem desenvolve conectores customizados usando o [Connector SDK](https://developer.jitterbit.com/connector-sdk/) podem designar tais campos com qualquer um dos atributos a seguir:
 
--   **`"secret": "true"`:** Especifica apenas que o campo é tratado como um campo de credenciais. O valor do campo é criptografado na exportação do projeto.
+    -   **`"secret": "true"`:** Especifica apenas que o campo é tratado como um campo de credenciais. O valor do campo é criptografado na exportação do projeto.
 
--   **`"widgetHint": "password"`:** Especifica que o campo é tratado como um campo de credenciais mas também esconde o valor na interface de usuário do Cloud Studio substituindo cada caractere com um ponto preto. O valor do campo é criptografado na exportação do projeto.
+    -   **`"widgetHint": "password"`:** Especifica que o campo é tratado como um campo de credenciais mas também esconde o valor na interface de usuário do Cloud Studio substituindo cada caractere com um ponto preto. O valor do campo é criptografado na exportação do projeto.
 
     Os valores das próprias variáveis de projeto não são tratados como credenciais, mesmo que a opção **Hide Value** (Esconder Valor) esteja selecionada na interface de usuário (veja [Variáveis de Projeto](https://success.jitterbit.com/display/CS/Project+Variables?showLanguage=pt_BR)). Em vez disso, o que controla se os valores das variáveis de projeto são incluídos ou não é a caixa de seleção **Include Project Variable Values** (Incluir Valores das Variáveis de Projeto).
 
@@ -83,43 +83,43 @@ Na próxima tela, você importa o projeto:
 
     Ao selecionar um arquivo, os campos a seguir ficam disponíveis:
 
--   **Project Name** (Nome do Projeto): O nome do projeto é copiado do arquivo JSON. Para usar um nome diferente, você pode editá-lo aqui. O nome do projeto deve atender aos seguintes critérios:
+    -   **Project Name** (Nome do Projeto): O nome do projeto é copiado do arquivo JSON. Para usar um nome diferente, você pode editá-lo aqui. O nome do projeto deve atender aos seguintes critérios:
 
-    -   Ser único para cada ambiente.
+        -   Ser único para cada ambiente.
 
-    -   Não pode já estar em uso como um nome de projeto do [Design Studio](https://success.jitterbit.com/display/DOC/Design+Studio?showLanguage=pt_BR) no mesmo ambiente.
+        -   Não pode já estar em uso como um nome de projeto do [Design Studio](https://success.jitterbit.com/display/DOC/Design+Studio?showLanguage=pt_BR) no mesmo ambiente.
 
-    <div class="confluence-information-macro confluence-information-macro-information conf-macro output-block" data-hasbody="true" data-macro-name="info">
+        <div class="confluence-information-macro confluence-information-macro-information conf-macro output-block" data-hasbody="true" data-macro-name="info">
 
-    <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
+        <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
 
-    <div class="confluence-information-macro-body">
+        <div class="confluence-information-macro-body">
 
-    **NOTA**: Caso um projeto com o mesmo nome já exista na nuvem do Jitterbit Harmony, vá para a página [Management Console](https://success.jitterbit.com/display/DOC/Management+Console?showLanguage=pt_BR) \> [Projetos](https://success.jitterbit.com/display/DOC/Projects?showLanguage=pt_BR) para gerenciar o projeto implantado.
+        **NOTA**: Caso um projeto com o mesmo nome já exista na nuvem do Jitterbit Harmony, vá para a página [Management Console](https://success.jitterbit.com/display/DOC/Management+Console?showLanguage=pt_BR) \> [Projetos](https://success.jitterbit.com/display/DOC/Projects?showLanguage=pt_BR) para gerenciar o projeto implantado.
 
-    </div>
+        </div>
 
-    </div>
+        </div>
 
--   **Organization** (Organização): Use o menu *dropdown* para selecionar a [organização](https://success.jitterbit.com/display/DOC/Organizations?showLanguage=pt_BR) para a qual você deseja importar o projeto. Se você tiver apenas uma organização, ela é selecionada por padrão.
+    -   **Organization** (Organização): Use o menu *dropdown* para selecionar a [organização](https://success.jitterbit.com/display/DOC/Organizations?showLanguage=pt_BR) para a qual você deseja importar o projeto. Se você tiver apenas uma organização, ela é selecionada por padrão.
 
--   **Environment** (Ambiente): Use o menu *dropdown* para selecionar o [ambiente](https://success.jitterbit.com/display/DOC/Environments?showLanguage=pt_BR) para o qual você deseja importar o projeto.
+    -   **Environment** (Ambiente): Use o menu *dropdown* para selecionar o [ambiente](https://success.jitterbit.com/display/DOC/Environments?showLanguage=pt_BR) para o qual você deseja importar o projeto.
 
--   **Include Email Notifications** (Incluir Notificações de E-mail): Por padrão, caso [notificações de e-mail](https://success.jitterbit.com/display/CS/Email+Notifications?showLanguage=pt_BR) tenham sido incluídas como parte do projeto quando ele foi exportado, elas serão incluídas quando ele é importado. Esta opção se aplica a todas as notificações de e-mail em um projeto, independentemente de elas terem sido configuradas com [ações de operação](https://success.jitterbit.com/display/CS/Operation+Actions?showLanguage=pt_BR) para executar em caso de sucesso, falha, ou erro SOAP ou se elas são [referenciadas em um *script*](https://success.jitterbit.com/display/CS/Jitterbit+Script?showLanguage=pt_BR#JitterbitScript-notifications). Para não incluir as notificações de e-mail na importação, desmarque a caixa de seleção.
+    -   **Include Email Notifications** (Incluir Notificações de E-mail): Por padrão, caso [notificações de e-mail](https://success.jitterbit.com/display/CS/Email+Notifications?showLanguage=pt_BR) tenham sido incluídas como parte do projeto quando ele foi exportado, elas serão incluídas quando ele é importado. Esta opção se aplica a todas as notificações de e-mail em um projeto, independentemente de elas terem sido configuradas com [ações de operação](https://success.jitterbit.com/display/CS/Operation+Actions?showLanguage=pt_BR) para executar em caso de sucesso, falha, ou erro SOAP ou se elas são [referenciadas em um *script*](https://success.jitterbit.com/display/CS/Jitterbit+Script?showLanguage=pt_BR#JitterbitScript-notifications). Para não incluir as notificações de e-mail na importação, desmarque a caixa de seleção.
 
-    <div class="confluence-information-macro confluence-information-macro-note conf-macro output-block" data-hasbody="true" data-macro-name="info">
+        <div class="confluence-information-macro confluence-information-macro-note conf-macro output-block" data-hasbody="true" data-macro-name="info">
 
-    <span class="aui-icon aui-icon-small aui-iconfont-warning confluence-information-macro-icon"> </span>
+        <span class="aui-icon aui-icon-small aui-iconfont-warning confluence-information-macro-icon"> </span>
 
-    <div class="confluence-information-macro-body">
+        <div class="confluence-information-macro-body">
 
-    **CUIDADO**: Referências a um componente de notificação de e-mail em um* script *não são removidas mesmo que as notificações de e-mail sejam excluídas, então você pode precisar corrigir referências quebradas após excluir os e-mails.
+        **CUIDADO**: Referências a um componente de notificação de e-mail em um* script *não são removidas mesmo que as notificações de e-mail sejam excluídas, então você pode precisar corrigir referências quebradas após excluir os e-mails.
 
-    </div>
+        </div>
 
-    </div>
+        </div>
 
--   **Include Schedules** (Incluir Agendas): Por padrão, caso [agendas de operação](https://success.jitterbit.com/display/CS/Operation+Schedules?showLanguage=pt_BR) tenham sido incluídas como parte do projeto quando ele foi exportado, elas são incluídas quando ele é importado. Para excluir as agendas da importação, desmarque a caixa de seleção.
+    -   **Include Schedules** (Incluir Agendas): Por padrão, caso [agendas de operação](https://success.jitterbit.com/display/CS/Operation+Schedules?showLanguage=pt_BR) tenham sido incluídas como parte do projeto quando ele foi exportado, elas são incluídas quando ele é importado. Para excluir as agendas da importação, desmarque a caixa de seleção.
 
 -   **Import** (Importar): Clique para importar o projeto. Se a importação do projeto ocorrer com sucesso, o projeto importado abrirá no [design canvas](https://success.jitterbit.com/display/CS/Design+Canvas?showLanguage=pt_BR). Além disso, o novo projeto estará disponível no [índice de projetos](https://success.jitterbit.com/display/CS/Project+Index?showLanguage=pt_BR).
 
