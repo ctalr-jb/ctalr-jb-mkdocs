@@ -22,23 +22,23 @@ Ao clicar em **New Project**, a tela de configuração de projeto se abre. Duas 
 
     <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/cs/project/project_new_general.png" class="confluence-embedded-image confluence-external-resource" data-image-src="https://docs-source.jitterbit.com/cs/project/project_new_general.png" /></span>
 
--   **Project Name** (Nome do Projeto): Insira um nome a ser usado para identificar o projeto. O nome do projeto deve ser único para cada ambiente, e não pode já estar em uso como projeto do [Design Studio](https://success.jitterbit.com/display/DOC/Design+Studio?showLanguage=pt_BR) no mesmo ambiente. Se um projeto com o mesmo nome já existir na nuvem do Jitterbit Harmony, vá até a página [Management Console](https://success.jitterbit.com/display/DOC/Management+Console?showLanguage=pt_BR) \> [Projetos](https://success.jitterbit.com/display/DOC/Projects?showLanguage=pt_BR) para gerenciar o projeto implantado.
+    -   **Project Name** (Nome do Projeto): Insira um nome a ser usado para identificar o projeto. O nome do projeto deve ser único para cada ambiente, e não pode já estar em uso como projeto do [Design Studio](https://success.jitterbit.com/display/DOC/Design+Studio?showLanguage=pt_BR) no mesmo ambiente. Se um projeto com o mesmo nome já existir na nuvem do Jitterbit Harmony, vá até a página [Management Console](https://success.jitterbit.com/display/DOC/Management+Console?showLanguage=pt_BR) \> [Projetos](https://success.jitterbit.com/display/DOC/Projects?showLanguage=pt_BR) para gerenciar o projeto implantado.
 
--   **Environment** (Ambiente): Use o menu *dropdown* para selecionar um ambiente existente onde você quer criar o projeto. Os administradores da organização podem preparar novos ambientes por meio da página [Management Console](https://success.jitterbit.com/display/DOC/Management+Console?showLanguage=pt_BR) \> [Ambientes](https://success.jitterbit.com/display/DOC/Environments?showLanguage=pt_BR).
+    -   **Environment** (Ambiente): Use o menu *dropdown* para selecionar um ambiente existente onde você quer criar o projeto. Os administradores da organização podem preparar novos ambientes por meio da página [Management Console](https://success.jitterbit.com/display/DOC/Management+Console?showLanguage=pt_BR) \> [Ambientes](https://success.jitterbit.com/display/DOC/Environments?showLanguage=pt_BR).
 
-    <div class="confluence-information-macro confluence-information-macro-information conf-macro output-block" data-hasbody="true" data-macro-name="info">
+        <div class="confluence-information-macro confluence-information-macro-information conf-macro output-block" data-hasbody="true" data-macro-name="info">
 
-    <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
+        <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
 
-    <div class="confluence-information-macro-body">
+        <div class="confluence-information-macro-body">
 
-    **NOTA**: Caso você não veja um ambiente recém-criado disponível para seleção, atualize a página do [índice de projetos](https://success.jitterbit.com/display/CS/Project+Index?showLanguage=pt_BR) para forçar um recarregamento dos ambientes.
+        **NOTA**: Caso você não veja um ambiente recém-criado disponível para seleção, atualize a página do [índice de projetos](https://success.jitterbit.com/display/CS/Project+Index?showLanguage=pt_BR) para forçar um recarregamento dos ambientes.
 
-    </div>
+        </div>
 
-    </div>
+        </div>
 
--   **Description** (Descrição): Insira uma descrição opcional para o projeto. Esta descrição vai aparecer no índice de projetos e pode ser útil para ajudar os colaboradores do projeto a entendê-lo.
+    -   **Description** (Descrição): Insira uma descrição opcional para o projeto. Esta descrição vai aparecer no índice de projetos e pode ser útil para ajudar os colaboradores do projeto a entendê-lo.
 
 -   **Deploy** (Implantação): Defina as configurações de implantação a nível de projeto, o que só pode ser feito por usuários que possuam tanto permissão de tipo *Admin* em seu papel organizacional e acesso ambiental de tipo *Write* (veja o artigo [Permissões e Acesso ao Jitterbit Harmony](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Permissions+and+Access?showLanguage=pt_BR)). Para usuários que não têm a permissão apropriada, a seguinte mensagem é exibida: “There is no requirement provided by your organization” (em português, *Não há nenhum requisito fornecido pela sua organização*).
 
@@ -54,7 +54,7 @@ Ao clicar em **New Project**, a tela de configuração de projeto se abre. Duas 
 
     </div>
 
-    <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/cs/project/project_new_deploy.png class="confluence-embedded-image confluence-external-resource" data-image-src="https://docs-source.jitterbit.com/cs/project/project_new_deploy.png" /></span>
+    <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/cs/project/project_new_deploy.png" class="confluence-embedded-image confluence-external-resource" data-image-src="https://docs-source.jitterbit.com/cs/project/project_new_deploy.png" /></span>
 
 -   **Require Comments When Deploying** (Exigir Comentários ao Implantar): Selecione esta opção para exigir que sempre que um projeto for implantado, uma caixa de diálogo seja exibida pedindo que um comentário seja adicionado.
 
@@ -124,27 +124,27 @@ Isto abre a tela de configuração de projeto. Duas abas estão disponíveis, **
 
     <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/cs/project/project_existing_general.png" class="confluence-embedded-image confluence-external-resource" data-image-src="https://docs-source.jitterbit.com/cs/project/project_existing_general.png" /></span>
 
--   **Project Name** (Nome do Projeto): Edite o nome usado para identificar o projeto. O nome do projeto deve ser único para cada ambiente, e não pode já estar em uso como nome de um projeto do [Design Studio](https://success.jitterbit.com/display/DOC/Design+Studio?showLanguage=pt_BR) no mesmo ambiente.
+    -   **Project Name** (Nome do Projeto): Edite o nome usado para identificar o projeto. O nome do projeto deve ser único para cada ambiente, e não pode já estar em uso como nome de um projeto do [Design Studio](https://success.jitterbit.com/display/DOC/Design+Studio?showLanguage=pt_BR) no mesmo ambiente.
 
-    <div class="confluence-information-macro confluence-information-macro-information conf-macro output-block" data-hasbody="true" data-macro-name="info">
+        <div class="confluence-information-macro confluence-information-macro-information conf-macro output-block" data-hasbody="true" data-macro-name="info">
 
-    <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
+        <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
 
-    <div class="confluence-information-macro-body">
+        <div class="confluence-information-macro-body">
 
-    **NOTA**: Ao renomear um projeto que já foi implantado antes, o novo nome do projeto é automaticamente implantado e atualizado no Jitterbit Harmony. Nenhuma outra parte do projeto além do nome é implantada automaticamente desta forma.
+        **NOTA**: Ao renomear um projeto que já foi implantado antes, o novo nome do projeto é automaticamente implantado e atualizado no Jitterbit Harmony. Nenhuma outra parte do projeto além do nome é implantada automaticamente desta forma.
 
-    </div>
+        </div>
 
-    </div>
+        </div>
 
--   **Description** (Descrição): Edite a descrição do projeto. Esta descrição vai aparecer no índice de projetos e pode ser útil para ajudar colaboradores do projeto a entendê-lo.
+    -   **Description** (Descrição): Edite a descrição do projeto. Esta descrição vai aparecer no índice de projetos e pode ser útil para ajudar colaboradores do projeto a entendê-lo.
 
--   **Environment** (Ambiente): O [ambiente](https://success.jitterbit.com/display/DOC/Environments?showLanguage=pt_BR) no qual o projeto reside (especificado durante a [criação](https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration?showLanguage=pt_BR#ProjectCreationandConfiguration-new-project) ou a [migração do projeto](https://success.jitterbit.com/display/CS/Project+Migration?showLanguage=pt_BR)).
+    -   **Environment** (Ambiente): O [ambiente](https://success.jitterbit.com/display/DOC/Environments?showLanguage=pt_BR) no qual o projeto reside (especificado durante a [criação](https://success.jitterbit.com/display/CS/Project+Creation+and+Configuration?showLanguage=pt_BR#ProjectCreationandConfiguration-new-project) ou a [migração do projeto](https://success.jitterbit.com/display/CS/Project+Migration?showLanguage=pt_BR)).
 
--   **Agent Group**: O [Agent Group](https://success.jitterbit.com/display/DOC/Agents+%3E+Agent+Groups?showLanguage=pt_BR) associado com o ambiente no qual o projeto reside (especificado no [Management Console](https://success.jitterbit.com/display/DOC/Management+Console?showLanguage=pt_BR)).
+    -   **Agent Group**: O [Agent Group](https://success.jitterbit.com/display/DOC/Agents+%3E+Agent+Groups?showLanguage=pt_BR) associado com o ambiente no qual o projeto reside (especificado no [Management Console](https://success.jitterbit.com/display/DOC/Management+Console?showLanguage=pt_BR)).
 
--   **Created On** (Criado Em): A data e a hora em que o projeto foi criado.
+    -   **Created On** (Criado Em): A data e a hora em que o projeto foi criado.
 
 -   **Deploy** (Implantação): Defina as configurações de implantação a nível de projeto, o que só pode ser feito por usuários que possuam tanto permissão de tipo *Admin* em seu papel organizacional e acesso ambiental de tipo *Write* (veja o artigo [Permissões e Acesso ao Jitterbit Harmony](https://success.jitterbit.com/display/DOC/Jitterbit+Harmony+Permissions+and+Access?showLanguage=pt_BR)). Para usuários que não possuem a permissão de papel apropriada, uma mensagem aponta quais configurações estão habilitadas. (Quando nenhuma configuração de implantação está habilitada, a seguinte mensagem é exibida: “There is no requirement provided by your organization”, em português, *Não há nenhum requisito fornecido pela sua organização*).
 
