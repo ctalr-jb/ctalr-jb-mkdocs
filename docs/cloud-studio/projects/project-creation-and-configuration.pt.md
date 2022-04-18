@@ -56,9 +56,9 @@ Ao clicar em **New Project**, a tela de configuração de projeto se abre. Duas 
 
     <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/cs/project/project_new_deploy.png" class="confluence-embedded-image confluence-external-resource" data-image-src="https://docs-source.jitterbit.com/cs/project/project_new_deploy.png" /></span>
 
--   **Require Comments When Deploying** (Exigir Comentários ao Implantar): Selecione esta opção para exigir que sempre que um projeto for implantado, uma caixa de diálogo seja exibida pedindo que um comentário seja adicionado.
+    -   **Require Comments When Deploying** (Exigir Comentários ao Implantar): Selecione esta opção para exigir que sempre que um projeto for implantado, uma caixa de diálogo seja exibida pedindo que um comentário seja adicionado.
 
--   **Require Tags When Deploying** (Exigir *Tags* ao Implantar): Selecione esta opção para exigir que sempre que um projeto for implantado, uma caixa de diálogo seja exibida pedindo que uma *tag* seja adicionada.
+    -   **Require Tags When Deploying** (Exigir *Tags* ao Implantar): Selecione esta opção para exigir que sempre que um projeto for implantado, uma caixa de diálogo seja exibida pedindo que uma *tag* seja adicionada.
 
 Clique em **Start Designing** (Começar o *Design*) para enviar as informações do novo projeto e prosseguir para o *designer* de projeto:
 
@@ -162,9 +162,9 @@ Isto abre a tela de configuração de projeto. Duas abas estão disponíveis, **
 
     <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/cs/project/project_existing_deploy.png" class="confluence-embedded-image confluence-external-resource" data-image-src="https://docs-source.jitterbit.com/cs/project/project_existing_deploy.png" /></span>
 
--   **Require Comments When Deploying** (Exigir Comentários ao Implantar): Selecione esta opção para que, sempre que um projeto for implantado, uma caixa de diálogo seja exibida exigindo que um comentário seja adicionado.
+    -   **Require Comments When Deploying** (Exigir Comentários ao Implantar): Selecione esta opção para que, sempre que um projeto for implantado, uma caixa de diálogo seja exibida exigindo que um comentário seja adicionado.
 
--   **Require Tags When Deploying** (Exigir *Tags* ao Implantar): Selecione esta opção para que, sempre que um projeto for implantado, uma caixa de diálogo seja exibida exigindo que uma *tag* seja adicionada.
+    -   **Require Tags When Deploying** (Exigir *Tags* ao Implantar): Selecione esta opção para que, sempre que um projeto for implantado, uma caixa de diálogo seja exibida exigindo que uma *tag* seja adicionada.
 
 Os seguintes botões ou *links* estão disponíveis na parte inferior da tela de configuração de projeto:
 
