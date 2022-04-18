@@ -75,7 +75,7 @@ Na próxima tela, você importa o projeto:
 
     <div class="confluence-information-macro-body">
 
-    **DICA**: Caso o projeto use conectores customizados, eles devem existir na organização antes da importação do projeto. Para exportar um conector do Connector Builder e importá-lo em outra organização, veja* [*Exportações e Importações do* *Connector* *Builder*](https://success.jitterbit.com/display/CS/Connector+Builder+Exports+and+Imports?showLanguage=pt_BR)*. Para instalar um conector do Connector SDK em outra organização, veja [Implementando um Conector do Harmony](https://developer.jitterbit.com/connector-sdk/implementing-a-harmony-connector/).
+    **DICA**: Caso o projeto use conectores customizados, eles devem existir na organização antes da importação do projeto. Para exportar um conector do Connector Builder e importá-lo em outra organização, veja [Exportações e Importações do Connector Builder](https://success.jitterbit.com/display/CS/Connector+Builder+Exports+and+Imports?showLanguage=pt_BR). Para instalar um conector do Connector SDK em outra organização, veja [Implementando um Conector do Harmony](https://developer.jitterbit.com/connector-sdk/implementing-a-harmony-connector/).
 
     </div>
 
@@ -113,7 +113,7 @@ Na próxima tela, você importa o projeto:
 
         <div class="confluence-information-macro-body">
 
-        **CUIDADO**: Referências a um componente de notificação de e-mail em um* script *não são removidas mesmo que as notificações de e-mail sejam excluídas, então você pode precisar corrigir referências quebradas após excluir os e-mails.
+        **CUIDADO**: Referências a um componente de notificação de e-mail em um *script* não são removidas mesmo que as notificações de e-mail sejam excluídas, então você pode precisar corrigir referências quebradas após excluir os e-mails.
 
         </div>
 

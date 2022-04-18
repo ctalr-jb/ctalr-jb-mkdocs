@@ -36,6 +36,8 @@ Você pode continuar trabalhando durante uma implantação. Mensagens informativ
 
 <span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/cs/dialog/component-deploy-in-progress.png" class="confluence-embedded-image confluence-external-resource" data-image-src="https://docs-source.jitterbit.com/cs/dialog/component-deploy-in-progress.png" /></span>
 
+<span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img class="confluence-embedded-image confluence-external-resource" height="84" src="https://docs-source.jitterbit.com/cs/dialog/component-successful-deploy.png" data-image-src="https://docs-source.jitterbit.com/cs/dialog/component-successful-deploy.png"></span>
+
 As opções de implantação para a maioria dos componentes de projeto são acessíveis a partir da aba **Workflows** do painel de projeto (veja [Menu de Ações de Componente](https://success.jitterbit.com/display/CS/Project+Pane+Workflows+Tab?showLanguage=pt_BR#ProjectPaneWorkflowsTab-component-actions-menu) em [Aba Workflows do Painel de Projeto](https://success.jitterbit.com/display/CS/Project+Pane+Workflows+Tab?showLanguage=pt_BR)).
 
 Além disso, componentes usados como passos de operação podem ser implantados a partir dos seguintes locais:
