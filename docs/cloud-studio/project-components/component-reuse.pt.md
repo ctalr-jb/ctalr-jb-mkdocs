@@ -236,7 +236,7 @@ Caso um componente seja referenciado por vários componentes, o número de compo
 
 Neste exemplo, o primeiro *script* é referenciado tanto dentro de uma operação quanto por outro *script*, e o segundo *script* é referenciado por um *script* adicional:
 
-<span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/cs/project-pane/components/scripts_multiple-references.png class="confluence-embedded-image confluence-external-resource" data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/scripts_multiple-references.png" /></span>
+<span class="confluence-embedded-file-wrapper"><img src="https://docs-source.jitterbit.com/cs/project-pane/components/scripts_multiple-references.png" class="confluence-embedded-image confluence-external-resource" data-image-src="https://docs-source.jitterbit.com/cs/project-pane/components/scripts_multiple-references.png" /></span>
 
 Esta contagem não é necessariamente a quantidade de vezes que o componente é referenciado; caso um componente seja referenciado várias vezes por outro componente, isto conta como uma única referência. Por exemplo:
 
