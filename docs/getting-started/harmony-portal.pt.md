@@ -57,7 +57,7 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 
 <div class="confluence-information-macro-body">
 
-**NOTA:** O App Builder está atualmente disponível para algumas organizações selecionadas antes de estar disponível geralmente. Se você não estiver vendo o cartão do [App Builder](https://success.jitterbit.com/display/APP/App+Builder?showLanguage=pt_BR), entre em contato com o seu ou a sua [CSM](mailto:success@jitterbit.com) para mais informações.
+**NOTA:** O [App Builder](https://success.jitterbit.com/display/APP/App+Builder?showLanguage=pt_BR) está atualmente disponível para algumas organizações selecionadas antes de estar disponível geralmente. Se você não estiver vendo o cartão do App Builder, entre em contato com o seu ou a sua [CSM](mailto:success@jitterbit.com) para mais informações.
 
 </div>
 
