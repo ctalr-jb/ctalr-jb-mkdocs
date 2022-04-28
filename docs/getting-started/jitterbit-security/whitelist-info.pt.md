@@ -61,14 +61,14 @@ rel="nofollow">Harmony Portal</a>. Depois de fazer isso, você verá que a URL
 mudou para incluir a região associada à organização que você está
 acessando, e que ela começa com "`apps.na`", "`apps.emea`" ou "`apps.apac`".
 
--   **NA**: Se a URL começar com "`apps.`**`na`**", então a sua organização
+-   **NA**: Se a URL começar com "<code>apps.**na**</code>", então a sua organização
     está localizada na América do Norte (NA).
 
--   **EMEA**: Se a URL começar com "`apps.`**`emea`**", então a sua
+-   **EMEA**: Se a URL começar com "<code>apps.**emea**</code>", então a sua
     organização está localizada na região EMEA (Europa, Oriente Médio
     ou África/Ásia/Austrália).
 
--   **APAC**: Se a URL começar com "`apps.`**`apac`**", então a sua
+-   **APAC**: Se a URL começar com "<code>apps.**apac**</code>", então a sua
     organização está localizada na região APAC (Ásia-Pacífico).
 
 Se você tem acesso a várias organizações, você pode alternar entre elas
@@ -174,7 +174,8 @@ class="nolink">https://na-east.jitterbit.com<br />
 <td class="confluenceTd"><p><span
 class="nolink">https://as-p-e.jitterbit.com</span></p></td>
 <td
-class="confluenceTd"><p><code>75.2.90.2</code><code>99.83.173.76</code></p></td>
+class="confluenceTd"><p><code>75.2.90.2</code><br />
+<code>99.83.173.76</code></p></td>
 </tr>
 <tr class="odd">
 <td class="confluenceTd"><p><span
@@ -186,7 +187,8 @@ class="nolink">https://citizen.jitterbit.net</span></p></td>
 <td class="confluenceTd"><p><span
 class="nolink">https://services.jitterbit.net</span></p></td>
 <td
-class="confluenceTd"><p><code>13.248.156.5976.223.17.99</code></p></td>
+class="confluenceTd"><p><code>13.248.156.59</code><br />
+<code>76.223.17.99</code></p></td>
 </tr>
 <tr class="odd">
 <td class="confluenceTd"><p><span
@@ -234,7 +236,8 @@ class="nolink">https://emea-west.jitterbit.com<br />
 <tr class="even">
 <td class="confluenceTd"><p><span
 class="nolink">https://as-p-emea.jitterbit.com</span></p></td>
-<td class="confluenceTd"><p><code>75.2.73.5299.83.137.93</code></p></td>
+<td class="confluenceTd"><p><code>75.2.73.52</code><br />
+<code>99.83.137.93</code></p></td>
 </tr>
 <tr class="odd">
 <td class="confluenceTd"><p><span class="nolink"><span
@@ -280,7 +283,8 @@ data-highlight-colour="grey"><p><strong>Endereços IP Estáticos</strong></p></t
 <tr class="even">
 <td class="confluenceTd"><span class="nolink"><span
 class="nolink">https://apps.apac-southeast.jitterbit.com</span></span></td>
-<td class="confluenceTd"><code>13.248.152.476.223.21.122</code></td>
+<td class="confluenceTd"><code>13.248.152.4</code><br />
+<code>76.223.21.122</code></td>
 </tr>
 <tr class="odd">
 <td class="confluenceTd"><p><span class="nolink"><span
@@ -294,30 +298,81 @@ class="nolink">https://apac-southeast.jitterbit.com<br />
 <td class="confluenceTd"><p><span class="nolink"><span
 class="nolink">https://as-p-apac.jitterbit.com</span></span></p></td>
 <td
-class="confluenceTd"><p><code>75.2.111.5499.83.176.87</code></p></td>
+class="confluenceTd"><p><code>75.2.111.54</code><br />
+<code>99.83.176.87</code></p></td>
 </tr>
 <tr class="odd">
 <td class="confluenceTd"><p><span class="nolink"><span
 class="nolink">https://citizen.jitterbit.cc</span></span></p></td>
 <td
-class="confluenceTd"><p><code>13.248.149.3376.223.29.111</code></p></td>
+class="confluenceTd"><p><code>13.248.149.33</code><br />
+<code>76.223.29.111</code></p></td>
 </tr>
 <tr class="even">
 <td class="confluenceTd"><p><span class="nolink"><span
 class="nolink">https://services.jitterbit.cc</span></span></p></td>
 <td
-class="confluenceTd"><p><code>13.248.139.1876.223.11.118</code></p></td>
+class="confluenceTd"><p><code>13.248.139.18</code><br />
+<code>76.223.11.118</code></p></td>
 </tr>
 <tr class="odd">
 <td class="confluenceTd"><p><span class="nolink"><span
 class="nolink">https://jitterbitsysservice.jitterbit.cc</span></span></p></td>
 <td
-class="confluenceTd"><p><code>13.248.139.1876.223.11.118</code></p></td>
+class="confluenceTd"><p><code>13.248.139.18</code><br />
+<code>76.223.11.118</code></p></td>
 </tr>
 <tr class="even">
 <td class="confluenceTd">*.jitterbit.cc <em>(or your specific API
 URL)</em></td>
-<td class="confluenceTd"><code>13.248.139.1876.223.11.118</code></td>
+<td class="confluenceTd"><code>13.248.139.18</code><br />
+<code>76.223.11.118</code></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+## eiCloud
+
+Por favor inclua os IPs abaixo na sua whitelist (lista de permissões) para a sua região caso você utilize a Jitterbit eBridge Connections eiCloud. Nós enviaremos um aviso se mudarmos os endereços de IP específicos listados abaixo.
+
+<div class="table-wrap">
+
+<table class="wrapped confluenceTable">
+<tbody>
+<tr class="odd">
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><p><strong>Região NA</strong></p></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><p><strong>Região EMEA</strong></p></td>
+<td class="highlight-grey confluenceTd"
+data-highlight-colour="grey"><p><strong>Região APAC</strong></p></td>
+</tr>
+<tr>
+<td class="confluenceTd">
+<code>40.76.210.146</code><br />
+<code>40.76.212.195</code><br />
+<code>40.76.214.130</code><br />
+<code>40.76.218.33</code><br />
+<code>40.71.22.62</code><br />
+<code>40.84.49.11</code><br />
+<code>52.224.127.37</code><br />
+<code>72.38.193.226</code><br />
+<code>72.38.193.234</code><br />
+<code>13.82.224.23</code><br />
+<code>52.191.197.101</code><br />
+<code>13.82.5.152</code>
+<td class="confluenceTd">
+<code>20.37.196.195</code><br />
+<code>20.70.114.112</code><br />
+<code>20.92.123.11</code><br />
+<code>20.58.170.66</code>
+<td class="confluenceTd">
+<code>104.41.223.203</code><br />
+<code>20.50.64.12</code><br />
+<code>13.69.132.177</code><br />
+<code>168.63.70.160</code>
 </tr>
 </tbody>
 </table>
