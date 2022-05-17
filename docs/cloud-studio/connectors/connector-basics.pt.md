@@ -263,12 +263,8 @@ height="67" /></span></p>
 </div></td>
 <td class="confluenceTd"><p>O botão <strong>Deploy</strong> (Implantar) mostra as seguintes ações de menu:</p>
 <ul>
-<li><blockquote>
-<p><strong>Deploy</strong> (Implantação): Implanta a atividade e todos os componentes dos quais ela depende (veja o artigo <a href="https://success.jitterbit.com/display/CS/Component+Deployment?showLanguage=pt_BR">Implantação de Componentes</a>).</p>
-</blockquote></li>
-<li><blockquote>
-<p><strong>Configurable Deploy</strong> (Implantação Configurável): Abre a tela de implantação, onde você pode selecionar componentes para implantar (veja o artigo <a href="https://success.jitterbit.com/display/CS/Component+Deployment?showLanguage=pt_BR">Implantação de Componentes</a>).</p>
-</blockquote></li>
+<li><strong>Deploy</strong> (Implantação): Implanta a atividade e todos os componentes dos quais ela depende (veja o artigo <a href="https://success.jitterbit.com/display/CS/Component+Deployment?showLanguage=pt_BR">Implantação de Componentes</a>).</li>
+<li><strong>Configurable Deploy</strong> (Implantação Configurável): Abre a tela de implantação, onde você pode selecionar componentes para implantar (veja o artigo <a href="https://success.jitterbit.com/display/CS/Component+Deployment?showLanguage=pt_BR">Implantação de Componentes</a>).</li>
 </ul></td>
 </tr>
 <tr class="odd odd">
@@ -357,7 +353,7 @@ data-highlight-colour="grey"><strong>Descrição</strong></td>
 <td class="confluenceTd"><div class="content-wrapper">
 <p><span
 class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img
-src="https://docs-source.jitterbit.com/cs/menu-items/duplicate.png">https://docs-source.jitterbit.com/cs/menu-items/duplicate.png"
+src="https://docs-source.jitterbit.com/cs/menu-items/duplicate.png"
 class="confluence-embedded-image confluence-external-resource"
 height="33" /></span></p>
 <p><em>Duplicar</em></p>

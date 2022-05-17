@@ -57,17 +57,17 @@ Neste passo, forneça um nome para a atividade e selecione um objeto. Cada eleme
 
         -   **Description** (Descrição): A descrição do objeto do *endpoint*.
 
-        <div class="confluence-information-macro confluence-information-macro-tip conf-macro output-block" hasbody="true" macro-name="tip">
+    <div class="confluence-information-macro confluence-information-macro-tip conf-macro output-block" hasbody="true" macro-name="tip">
 
-        <span class="aui-icon aui-icon-small aui-iconfont-approve confluence-information-macro-icon"> </span>
+    <span class="aui-icon aui-icon-small aui-iconfont-approve confluence-information-macro-icon"> </span>
 
-        <div class="confluence-information-macro-body">
+    <div class="confluence-information-macro-body">
 
-        **DICA**: Caso a tabela não seja preenchida com objetos disponíveis, a [conexão](https://success.jitterbit.com/display/CS/common+connections) pode não ser bem-sucedida. Tenha certeza de que você está conectado(a) reabrindo a conexão e testando novamente as credenciais.
+    **DICA**: Caso a tabela não seja preenchida com objetos disponíveis, a [conexão](https://success.jitterbit.com/display/CS/common+connections) pode não ser bem-sucedida. Tenha certeza de que você está conectado(a) reabrindo a conexão e testando novamente as credenciais.
 
-        </div>
+    </div>
 
-        </div>
+    </div>
 
 -   **Save & Exit** (Salvar e Sair): Quando esta opção estiver habilitada, clique para salvar a configuração deste passo e fechar a configuração da atividade.
 
@@ -186,7 +186,7 @@ Neste passo, defina as condições de uma *query* usando os campos do objeto e a
 
         <div class="confluence-information-macro-body">
 
-        **DICA**: Ao usar variáveis globais nas condições de uma cláusula WHERE, é recomendado que se especifique um valor padrão para que a testagem do* script *seja possível. Caso contrário, já que as variáveis globais recebem seus valores no tempo de execução, a sintaxe pode ser invalidada durante a testagem ou pode ser que nenhum dado seja retornado caso nenhum valor padrão seja especificado.
+        **DICA**: Ao usar variáveis globais nas condições de uma cláusula WHERE, é recomendado que se especifique um valor padrão para que a testagem do *script* seja possível. Caso contrário, já que as variáveis globais recebem seus valores no tempo de execução, a sintaxe pode ser invalidada durante a testagem ou pode ser que nenhum dado seja retornado caso nenhum valor padrão seja especificado.
 
         </div>
 
