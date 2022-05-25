@@ -349,7 +349,7 @@ height="33" /></span></p>
 
 ## Renomeando Operações e Etapas de Operação
 
-Quando você cria uma nova operação, o nome padrão dela é *New Operation* (em inglês, “nova operação”). Futuras novas operações com nomes padrão receberão também um número incrementado entre parênteses. Os nomes das operações devem ser únicos e não devem conter barras (/) nem dois pontos (:) para serem válidos.
+Quando você cria uma nova operação, o nome padrão dela é *New Operation* (em inglês, “nova operação”). Futuras novas operações com nomes padrão receberão também um número incrementado entre parênteses. Os nomes das operações devem ser únicos e não devem conter barras (`/`) nem dois pontos (`:`) para serem válidos.
 
 As operações e as etapas de operação podem ser renomeados nos seguintes lugares:
 
