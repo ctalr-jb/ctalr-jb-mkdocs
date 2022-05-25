@@ -348,10 +348,10 @@ Como exemplo, um caso de uso comum pode ser criar uma agenda para executar a ope
 
     ```
     <trans>
-    if(DayOfMonth(LastDayOfMonth(Now()))==DayOfMonth(Now()),
-    RunOperation("<TAG>operation:Scheduled Operation</TAG>");
-    );
-    </trans>
+if(DayOfMonth(LastDayOfMonth(Now()))==DayOfMonth(Now()),
+RunOperation("<TAG>operation:Scheduled Operation</TAG>");
+);
+</trans>
     ```
 
 3. Crie uma agenda que executa todos os dias na hora desejada e aplique-a à operação contendo o *script* que você acabou de criar.
