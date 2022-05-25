@@ -346,13 +346,9 @@ Como exemplo, um caso de uso comum pode ser criar uma agenda para executar a ope
 
 2. Configure o *script* como um Jitterbit Script contendo lógica de *script* que verifique se é o último dia do mês e execute a operação se a condição for verdadeira. Tenha o cuidado de substituir a referência da operação com aquela da operação que você quer executar na agenda.
 
-    ```
-    <trans>
-if(DayOfMonth(LastDayOfMonth(Now()))==DayOfMonth(Now()),
-RunOperation("<TAG>operation:Scheduled Operation</TAG>");
-);
-</trans>
-    ```
+    <div class="code panel pdl conf-macro output-block" style="border-width: 1px;" data-hasbody="true" data-macro-name="code"><div class="codeContent panelContent pdl">
+    <div><div id="highlighter_877923" class="syntaxhighlighter sh-confluence nogutter  java"><div class="toolbar"><span><a href="#" class="toolbar_item command_help help">?</a></span></div><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="code"><div class="container" title="Hint: double-click to select code"><div class="line number1 index0 alt2"><code class="java plain">&lt;trans&gt;</code></div><div class="line number2 index1 alt1"><code class="java keyword">if</code><code class="java plain">(DayOfMonth(LastDayOfMonth(Now()))==DayOfMonth(Now()),</code></div><div class="line number3 index2 alt2"><code class="java plain">RunOperation(</code><code class="java string">"&lt;TAG&gt;operation:Scheduled Operation&lt;/TAG&gt;"</code><code class="java plain">);</code></div><div class="line number4 index3 alt1"><code class="java plain">);</code></div><div class="line number5 index4 alt2"><code class="java plain">&lt;/trans&gt;</code></div></div></td></tr></tbody></table></div></div>
+    </div></div>
 
 3. Crie uma agenda que executa todos os dias na hora desejada e aplique-a à operação contendo o *script* que você acabou de criar.
 
