@@ -319,7 +319,7 @@ class="confluence-embedded-image confluence-external-resource"
 height="33" /></span></p>
 <p><span
 class="confluence-embedded-file-wrapper image-right-wrapper confluence-embedded-manual-size"><img
-src="https://docs-source.jitterbit.com/cs/menu-items/duplicate_menu_with-step-references_with-step-copies.png
+src="https://docs-source.jitterbit.com/cs/menu-items/duplicate_menu_with-step-references_with-step-copies.png"
 class="confluence-embedded-image confluence-external-resource image-right"
 height="67" /></span></p>
 <p><em>Duplicar</em></p>
