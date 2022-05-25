@@ -157,7 +157,7 @@ Depois que uma operação é criada, as ações de menu dela são disponíveis a
 
 As seguintes ações estão disponíveis em todos os menus de ações de operação:
 
-<table>
+<table class="relative-table confluenceTable">
 <colgroup>
 <col style="width: 15%" />
 <col style="width: 84%" />
@@ -300,7 +300,7 @@ height="33" /></span></p>
 
 As seguintes ações estão disponíveis apenas a partir dos menus de ações de atividade acessíveis na aba **Components** do painel de projeto e no design canvas:
 
-<table>
+<table class="relative-table confluenceTable">
 <colgroup>
 <col style="width: 15%" />
 <col style="width: 84%" />

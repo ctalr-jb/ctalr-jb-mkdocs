@@ -188,7 +188,7 @@ Depois que uma agenda é criada, as ações de menu dessa agenda são acessívei
 
 As seguintes ações de menu estão disponíveis:
 
-<table>
+<table class="relative-table confluenceTable">
 <colgroup>
 <col style="width: 50%" />
 <col style="width: 50%" />
