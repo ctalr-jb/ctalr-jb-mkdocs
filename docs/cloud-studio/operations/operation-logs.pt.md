@@ -276,39 +276,39 @@ A tabela de registros de operação inclui as colunas descritas abaixo. A tabela
 
   - **Operation Step** (Etapa de Operação): Etapas de operação com dados de entrada e saída exibem um ícone de expansão ou recolhimento (<https://docs-source.jitterbit.com/common/icons/expand_5.png>, <https://docs-source.jitterbit.com/common/icons/collapse_8.png>), que podem ser clicados para mostrar ou esconder os dados de entrada e saída daquela etapa de operação individual. Os dados de entrada e saída estão disponíveis apenas para as atividades e *transformations* usados como etapas de operação. Cada entrada nos registros de entrada e saída é limitada a 100MB. Se os dados de um registro de entrada ou saída individual excederem o limite de 100MB, nenhum dado será exibido.
 
-  <div class="confluence-information-macro confluence-information-macro-information conf-macro output-block" hasbody="true" macro-name="info">
+    <div class="confluence-information-macro confluence-information-macro-information conf-macro output-block" hasbody="true" macro-name="info">
 
-  <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
+    <span class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"> </span>
 
-  <div class="confluence-information-macro-body">
+    <div class="confluence-information-macro-body">
 
-  **NOTA:** As linhas de etapas de operação só aparecem quando aquela operação tem a opção dos [registros de depuração de operação](https://success.jitterbit.com/display/DOC/Operation+Debug+Logging?showLanguage=pt_BR) habilitada a nível de operação e quando a operação foi executada num Private Agent versão 10.48 ou posterior.
+    **NOTA:** As linhas de etapas de operação só aparecem quando aquela operação tem a opção dos [registros de depuração de operação](https://success.jitterbit.com/display/DOC/Operation+Debug+Logging?showLanguage=pt_BR) habilitada a nível de operação e quando a operação foi executada num Private Agent versão 10.48 ou posterior.
 
-  A geração de dados de entrada e saída de operação não é afetada pela configuração do Grupo de Agentes chamada **Enable Cloud Logging** (Habilitar Registros em Nuvem) (veja [Agentes \> Grupo de Agentes](https://success.jitterbit.com/display/DOC/Agents+%3E+Agent+Groups)). Dados de entrada e saída de operação serão registrados na nuvem do Harmony mesmo que os registros em nuvem estejam desabilitados.
+    A geração de dados de entrada e saída de operação não é afetada pela configuração do Grupo de Agentes chamada **Enable Cloud Logging** (Habilitar Registros em Nuvem) (veja [Agentes \> Grupo de Agentes](https://success.jitterbit.com/display/DOC/Agents+%3E+Agent+Groups)). Dados de entrada e saída de operação serão registrados na nuvem do Harmony mesmo que os registros em nuvem estejam desabilitados.
 
-  Para desabilitar a geração de dados de entrada e saída de operação em um Grupo de Agentes, no [arquivo de configuração de Private Agent](https://success.jitterbit.com/display/DOC/Editing+the+Configuration+File+-+jitterbit.conf) sob a seção `[VerboseLogging]`, configure `verbose.logging.enable=false`.
+    Para desabilitar a geração de dados de entrada e saída de operação em um Grupo de Agentes, no [arquivo de configuração de Private Agent](https://success.jitterbit.com/display/DOC/Editing+the+Configuration+File+-+jitterbit.conf) sob a seção `[VerboseLogging]`, configure `verbose.logging.enable=false`.
 
-  </div>
+    </div>
 
-  </div>
+    </div>
 
-  <div class="confluence-information-macro confluence-information-macro-warning conf-macro output-block" data-hasbody="true" data-macro-name="info">
+    <div class="confluence-information-macro confluence-information-macro-warning conf-macro output-block" data-hasbody="true" data-macro-name="info">
 
-  <span class="aui-icon aui-icon-small aui-iconfont-error confluence-information-macro-icon"> </span>
+    <span class="aui-icon aui-icon-small aui-iconfont-error confluence-information-macro-icon"> </span>
 
-  <div class="confluence-information-macro-body">
+    <div class="confluence-information-macro-body">
 
-  **AVISO:** Quando dados de entrada e saída de operação são gerados, todos os dados de solicitação e resposta daquela operação são registrados na nuvem do Harmony e permanecem lá por 7 dias. Esteja ciente de que informações pessoalmente identificáveis (PII) e dados sensíveis como credenciais fornecidas numa *payload* de resposta estarão visíveis em texto simples nos dados de entrada e saída dentro dos registros em nuvem do Harmony.
+    **AVISO:** Quando dados de entrada e saída de operação são gerados, todos os dados de solicitação e resposta daquela operação são registrados na nuvem do Harmony e permanecem lá por 7 dias. Esteja ciente de que informações pessoalmente identificáveis (PII) e dados sensíveis como credenciais fornecidas numa *payload* de resposta estarão visíveis em texto simples nos dados de entrada e saída dentro dos registros em nuvem do Harmony.
 
-  </div>
+    </div>
 
-  </div>
+    </div>
 
-  <span class="confluence-embedded-file-wrapper"><img src="https://success.jitterbit.com/download/attachments/91625184/image2022-1-25_15-1-18.png?version=1&modificationDate=1643387394255&api=v2" class="confluence-embedded-image confluence-external-resource" /></span>
+    <span class="confluence-embedded-file-wrapper"><img src="https://success.jitterbit.com/download/attachments/91625184/image2022-1-25_15-1-18.png?version=1&modificationDate=1643387394255&api=v2" class="confluence-embedded-image confluence-external-resource" /></span>
 
-    - **Copy** (Copiar): Clique no ícone de cópia <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/copy_2.png" class="confluence-embedded-image confluence-external-resource" /></span> para copiar os dados do registro para a sua área de transferência. Quando é clicado, um ícone de prancheta <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/clipboard.png" class="confluence-embedded-image confluence-external-resource" /></span> é temporariamente exibido.
+      - **Copy** (Copiar): Clique no ícone de cópia <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/copy_2.png" class="confluence-embedded-image confluence-external-resource" /></span> para copiar os dados do registro para a sua área de transferência. Quando é clicado, um ícone de prancheta <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/clipboard.png" class="confluence-embedded-image confluence-external-resource" /></span> é temporariamente exibido.
 
-    - **Download** (Baixar): Clique no ícone de download <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/download.png" class="confluence-embedded-image confluence-external-resource" /></span> para baixar os dados de entrada ou saída como um arquivo no formato de dados apropriado. O arquivo tem o mesmo nome da etapa de operação seguido de `_input` (entrada) ou `_output` (saída) conforme apropriado.
+      - **Download** (Baixar): Clique no ícone de download <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img src="https://docs-source.jitterbit.com/common/icons/download.png" class="confluence-embedded-image confluence-external-resource" /></span> para baixar os dados de entrada ou saída como um arquivo no formato de dados apropriado. O arquivo tem o mesmo nome da etapa de operação seguido de `_input` (entrada) ou `_output` (saída) conforme apropriado.
 
 - **Time Started** (Hora de Início): A data e a hora em que a operação ou etapa de operação começou a executar, exibidas na hora do navegador local.
 

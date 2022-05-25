@@ -211,14 +211,14 @@ A cor do ícone à esquerda do *status* reportado indica a categoria do *status*
 <div class="content-wrapper"><p><span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img class="confluence-embedded-image confluence-external-resource" height="17" src="https://docs-source.jitterbit.com/common/icons/success.png" data-image-src="https://docs-source.jitterbit.com/common/icons/success.png"></span></p></div>
 </td>
 <td class="confluenceTd">Verde</td>
-<td class="confluenceTd">A operação está sendo executada atualmente ou foi completada com *status* bem-sucedido.</td>
+<td class="confluenceTd">A operação está sendo executada atualmente ou foi completada com <em>status</em> bem-sucedido.</td>
 </tr>
 <tr role="row">
 <td colspan="1" class="confluenceTd">
 <div class="content-wrapper"><p><span class="confluence-embedded-file-wrapper confluence-embedded-manual-size"><img class="confluence-embedded-image confluence-external-resource" height="17" src="https://docs-source.jitterbit.com/common/icons/error_2.png" data-image-src="https://docs-source.jitterbit.com/common/icons/error_2.png"></span></p></div>
 </td>
 <td class="confluenceTd">Vermelho</td>
-<td class="confluenceTd">A operação foi completada com *status* de erro.</td>
+<td class="confluenceTd">A operação foi completada com <em>status</em> de erro.</td>
 </tr>
 <tr role="row">
 <td colspan="1" class="confluenceTd">

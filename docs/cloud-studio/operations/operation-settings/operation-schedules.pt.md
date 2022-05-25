@@ -190,8 +190,8 @@ As seguintes ações de menu estão disponíveis:
 
 <table class="relative-table confluenceTable">
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col style="width: 15%" />
+<col style="width: 84%" />
 </colgroup>
 <tbody>
 <tr class="header header">
