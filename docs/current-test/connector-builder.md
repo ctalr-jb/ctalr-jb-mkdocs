@@ -10,7 +10,7 @@ O Connector Builder é construído a partir da fundação do [conector HTTP](htt
 
 Conectores customizados permitem maior reusabilidade e são mais fáceis de gerenciar e manter do que usar um *endpoint* HTTP genérico. Além disso, os criadores podem marcar o conector e ter mais controle sobre o que os usuários finais veem durante a configuração.
 
-<iframe src="https://player.vimeo.com/video/323528970" width="640" height="361" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<iframe src="https://player.vimeo.com/video/323528970" width="480" height="270" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
 As seguintes páginas estão inclusas neste tópico:
 
