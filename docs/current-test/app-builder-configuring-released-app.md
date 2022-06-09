@@ -63,10 +63,10 @@ Ao preparar o arquivo Excel para a importação, algumas informações que espec
 </colgroup>
 <tbody>
 <tr class="header header">
-<td class="highlight-grey confluenceTd" data-highlight-colour="grey">Nome do Campo</td>
-<td class="highlight-grey confluenceTd" data-highlight-colour="grey">Tipo do Campo</td>
-<td class="highlight-grey confluenceTd" data-highlight-colour="grey">Validação</td>
-<td class="highlight-grey confluenceTd" data-highlight-colour="grey">Descrição</td>
+<td class="highlight-grey confluenceTd" data-highlight-colour="grey"><strong>Nome do Campo</strong></td>
+<td class="highlight-grey confluenceTd" data-highlight-colour="grey"><strong>Tipo do Campo</strong></td>
+<td class="highlight-grey confluenceTd" data-highlight-colour="grey"><strong>Validação</strong></td>
+<td class="highlight-grey confluenceTd" data-highlight-colour="grey"><strong>Descrição</strong></td>
 </tr>
 <tr class="odd odd">
 <td class="confluenceTd"><p><strong>Employee ID</strong></p>
