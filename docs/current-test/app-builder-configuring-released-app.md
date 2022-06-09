@@ -36,7 +36,7 @@ No processo de criação de usuários, a lista de usuários é transferida prime
 
 <div class="confluence-information-macro-body">
 
-**NOTA**: Depois deste passo, usuários que queiram fazer *login* no sistema devem ser selecionados como **Active User** (Usuário Ativo) no módulo **Employees** (Funcionários) e a atribuição de perfil deve ser realizada. Depois deste processo, os usuários podem fazer* login *no sistema com o e-mail de acesso enviado aos usuários.
+**NOTA**: Depois deste passo, usuários que queiram fazer *login* no sistema devem ser selecionados como **Active User** (Usuário Ativo) no módulo **Employees** (Funcionários) e a atribuição de perfil deve ser realizada. Depois deste processo, os usuários podem fazer *login* no sistema com o e-mail de acesso enviado aos usuários.
 
 </div>
 
@@ -54,7 +54,7 @@ Funcionários podem ser transferidos para a aplicação criada por meio de uma i
 
 Ao preparar o arquivo Excel para a importação, algumas informações que especificam a árvore organizacional de funcionários precisam ser definidas. Explicações sobre tais informações são dadas na tabela abaixo. Depois que o arquivo Excel está preparado, ele é importado para o módulo **Organizational Changes** (Mudanças Organizacionais). Depois da importação, as transferências necessárias são feitas para o módulo **Employees** (Funcionários) por meio das informações importadas ao se clicar no botão **Start Organizational Changes** (Começar Mudanças Organizacionais) na tela da lista.
 
-<table style="width:98%;">
+<table class="relative-table confluenceTable">
 <colgroup>
 <col style="width: 25%" />
 <col style="width: 20%" />
