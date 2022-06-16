@@ -2,10 +2,10 @@
 
 This page provides data schemas for these [Jitterbit App Builder connector](https://success.jitterbit.com/display/CS/Jitterbit+App+Builder) activities:
 
-- **[Update Activity](https://success.jitterbit.com/display/CS/Jitterbit+App+Builder+Data+Schemas#update-activity)**
-- **[Delete Activity](https://success.jitterbit.com/display/CS/Jitterbit+App+Builder+Data+Schemas#delete-activity)**
-- **[Create Activity](https://success.jitterbit.com/display/CS/Jitterbit+App+Builder+Data+Schemas#create-activity)**
-- **[Query Activity](https://success.jitterbit.com/display/CS/Jitterbit+App+Builder+Data+Schemas#query-activity)**
+- **[Update Activity](https://success.jitterbit.com/display/CS/Jitterbit+App+Builder+Data+Schemas#heading-UpdateActivity)**
+- **[Delete Activity](https://success.jitterbit.com/display/CS/Jitterbit+App+Builder+Data+Schemas#heading-DeleteActivity)**
+- **[Create Activity](https://success.jitterbit.com/display/CS/Jitterbit+App+Builder+Data+Schemas#heading-CreateActivity)**
+- **[Query Activity](https://success.jitterbit.com/display/CS/Jitterbit+App+Builder+Data+Schemas#heading-QueryActivity)**
 
 
 <h2 id="update-activity">Update Activity</h2>
