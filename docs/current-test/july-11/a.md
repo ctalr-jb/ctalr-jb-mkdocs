@@ -11,7 +11,7 @@ cursos de treinamento no seu próprio ritmo.
 
 O vídeo abaixo dá uma visão geral da Jitterbit University:
 
-<iframe src="https://vimeo.com/366515738?embedded=true&source=video_title&owner=28069388" width="640" height="361" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<iframe src="https://player.vimeo.com/video/366515738" width="640" height="361" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""> </iframe>
 
 
 ## Como se Registrar no Treinamento da Jitterbit University
