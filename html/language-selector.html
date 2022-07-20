@@ -1,6 +1,13 @@
 <script language="javascript">
   function set_language(language) {
-    window.location.href = window.location.origin + window.location.pathname + "?showLanguage=" + language;
+    let searchParams = new URLSearchParams(window.location.search);
+    searchParams.delete("showLanguage");
+    if(searchParams.toString().length > 0) {
+      window.location.href = window.location.origin + window.location.pathname + searchParams.toString() + "&showLanguage=" + language;
+    }
+    else {
+      window.location.href = window.location.origin + window.location.pathname + "?showLanguage=" + language;
+    }
   }
   function detect_language() {
     let searchParams = new URLSearchParams(window.location.search);
