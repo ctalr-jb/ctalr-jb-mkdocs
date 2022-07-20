@@ -3,7 +3,7 @@
     let searchParams = new URLSearchParams(window.location.search);
     searchParams.delete("showLanguage");
     if(searchParams.toString().length > 0) {
-      window.location.href = window.location.origin + window.location.pathname + searchParams.toString() + "&showLanguage=" + language;
+      window.location.href = window.location.origin + window.location.pathname + "?" + searchParams.toString() + "&showLanguage=" + language;
     }
     else {
       window.location.href = window.location.origin + window.location.pathname + "?showLanguage=" + language;
